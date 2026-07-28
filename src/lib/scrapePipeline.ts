@@ -75,6 +75,29 @@ function looksFreelance(text: string): boolean {
   return FREELANCE_RX.test(text || "");
 }
 
+// --- Region eligibility (India-based remote) ---------------------------------
+// The user is in India: eligible for worldwide/unrestricted-remote roles, roles
+// open to India/Asia/APAC, and India-based gigs. Roles locked to a region that
+// excludes India are FLAGGED (not dropped).
+const GLOBAL_OK_RX = /\b(worldwide|anywhere|global|remote worldwide|any location|fully remote|international)\b/i;
+const INDIA_ASIA_RX = /\b(india|indian|bangalore|bengaluru|mumbai|new delhi|delhi|hyderabad|pune|chennai|kolkata|gurgaon|noida|asia|apac|asia[-\s]?pacific|emea)\b/i;
+// Restriction signals: a region/timezone/citizenship that excludes India.
+const RESTRICT_RX =
+  /\b(us[-\s]?only|u\.?s\.?\s?citizen|green\s?card|must be (?:based |located )?(?:in |a )?(?:us|u\.s\.|usa|eu|uk|canada|australia)|eu only|europe only|uk only|us[-\s]?based|latam|latin america|brazil|americas|\bcst\b|\best\b|\bpst\b|\bpdt\b|\bedt\b|us timezones?|on[-\s]?site|onsite)\b/i;
+// client_country values that mean "open remote", not a restriction.
+const GENERIC_REMOTE_RX = /^\s*(remote|remote job|remote worldwide|worldwide|anywhere|global|remote \(global\)|web|yc network|remote worldwide|)\s*$/i;
+
+function classifyRegion(job: Job): { locked: boolean; note: string } {
+  const cc = (job.client_country || "").trim();
+  const text = `${cc} ${job.description || ""}`;
+  if (GLOBAL_OK_RX.test(text) || INDIA_ASIA_RX.test(text)) return { locked: false, note: "" };
+  // Explicit restriction, or a concrete non-remote place in client_country.
+  if (RESTRICT_RX.test(text)) return { locked: true, note: cc || "restricted region" };
+  const isGenericRemote = GENERIC_REMOTE_RX.test(cc) || /remote/i.test(cc);
+  if (cc && !isGenericRemote) return { locked: true, note: cc }; // e.g. "Munich", "USA", "London"
+  return { locked: false, note: "" };
+}
+
 export interface SourceResult {
   name: string;
   ok: boolean;
@@ -408,8 +431,18 @@ export async function runScrapePipeline(userSkills: string[] = DEFAULT_SKILLS): 
   });
   const capped = sorted.slice(0, maxResults);
 
+  // Flag region-locked jobs (India-based eligibility) — kept, not dropped.
+  let locked = 0;
+  for (const j of capped) {
+    const r = classifyRegion(j);
+    j.region_locked = r.locked;
+    j.region_note = r.note;
+    if (r.locked) locked++;
+  }
+
   const okCount = perSource.filter((s) => s.ok).length;
   logs.push(`[${ts()}] Filtered out ${dropSenior} senior, ${dropCad} CAD/PCB, ${dropOld} stale.`);
+  logs.push(`[${ts()}] Flagged ${locked}/${capped.length} as region-locked (kept for review).`);
   logs.push(`[${ts()}] Pipeline complete — ${capped.length} jobs (newest first) from ${okCount}/${perSource.length} healthy sources.`);
 
   return { jobs: capped, perSource, logs };

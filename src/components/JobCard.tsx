@@ -130,6 +130,14 @@ export const JobCard: React.FC<JobCardProps> = ({
               Freelance
             </span>
           )}
+          {job.region_locked && (
+            <span
+              className="flex items-center gap-1 text-rose-400 font-bold uppercase tracking-wide text-[9px] bg-rose-500/10 border border-rose-500/20 px-1.5 py-0.5 rounded"
+              title={`May be restricted to: ${job.region_note || "a specific region"} — verify eligibility before applying.`}
+            >
+              Region-locked
+            </span>
+          )}
         </div>
 
         {/* Description Snippet */}

@@ -31,6 +31,8 @@ export interface Job {
   link_status?: string;
   posted_ts?: number; // epoch ms for recency sorting (0/undefined = unknown)
   is_freelance?: boolean; // contract / freelance / part-time signal
+  region_locked?: boolean; // restricted to a region that excludes India-based remote
+  region_note?: string; // the location/restriction text that triggered the flag
 }
 
 export interface UserProfile {

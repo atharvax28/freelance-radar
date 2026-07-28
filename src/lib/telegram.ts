@@ -27,6 +27,7 @@ export async function sendGig(job: Job): Promise<boolean> {
     `📡 ${escapeHtml(job.source)}${job.client_country ? ` · ${escapeHtml(job.client_country)}` : ""}`,
     job.budget ? `💰 ${escapeHtml(job.budget)}` : "",
     skills ? `🧩 ${escapeHtml(skills)}` : "",
+    job.region_locked ? `⚠️ May be region-locked${job.region_note ? ` (${escapeHtml(job.region_note)})` : ""} — verify eligibility` : "",
     job.link ? `🔗 ${escapeHtml(job.link)}` : "",
   ].filter(Boolean);
 
