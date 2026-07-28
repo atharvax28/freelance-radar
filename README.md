@@ -1,5 +1,5 @@
 <div align="center">
-<img width="auto" height="auto" alt="GHBanner" src="https://i.pinimg.com/vwebp/1200x/07/b8/e9/07b8e917d7a0dc89b63df6b3fb064d0c.webp" />
+<img width="1200" height="auto" alt="GHBanner" src="https://i.pinimg.com/vwebp/1200x/07/b8/e9/07b8e917d7a0dc89b63df6b3fb064d0c.webp" />
 </div>
 
 # Run and deploy your AI Studio app
