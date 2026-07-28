@@ -1,0 +1,6 @@
+{
+  "name": "Freelance Radar - Gig Scraper & Proposal Studio",
+  "description": "Real-time freelance job scraper, skill matching engine, and AI proposal generator for developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
