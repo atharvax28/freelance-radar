@@ -27,6 +27,9 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GOOGLE_CSE_KEY: ${{ secrets.GOOGLE_CSE_KEY }}
           GOOGLE_CSE_CX: ${{ secrets.GOOGLE_CSE_CX }}
+          TELEGRAM_MAX_SEND: ${{ vars.TELEGRAM_MAX_SEND || '15' }}
+          RECENCY_DAYS: ${{ vars.RECENCY_DAYS || '60' }}
+          MAX_RESULTS: ${{ vars.MAX_RESULTS || '80' }}
         run: npx tsx scripts/scrape.ts
 
       - name: Commit and push changes
