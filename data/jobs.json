@@ -1,5 +1,87 @@
 [
   {
+    "id": "arbeitnow-full-stack-software-engineer-dresden-498979",
+    "title": "Full Stack Software Engineer (m/w/d)",
+    "description": "Du bist Softwareentwickler:in, möchtest aber mehr als vorgegebene Tickets umsetzen? Bei uns verbindest du Full-Stack-Entwicklung mit fachlichem Verständnis und gestaltest digitale Lösungen vom Problem bis zum produktiven Einsatz. Bei esveo arbeitest du an der Schnittstelle von Fachbereich, Software und AI. Gemeinsam mi",
+    "link": "https://www.arbeitnow.com/jobs/companies/esveo-gmbh/full-stack-software-engineer-dresden-498979",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "c",
+      "node.js"
+    ],
+    "posted_at": "7/28/2026",
+    "posted_ts": 1785241829000,
+    "budget": "Not specified",
+    "client_country": "Dresden",
+    "status": "Discovered",
+    "is_freelance": false,
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
+    "title": "Software Developer (Junior) - Java, Groovy, ScriptRunner, JavaScript/TypeScript, Forge (m/w/d)",
+    "description": "Die MESKRU GmbH ist eine Atlassian Beratung mit Fokus auf Jira, Confluence und Jira Service Management. Wir bauen skalierbare Plattformen, automatisieren Prozesse und entwickeln Erweiterungen dort, wo Standardfunktionen nicht ausreichen. Wenn du Java, Git, REST, ScriptRunner wirklich beherrschst und Groovy sauber und w",
+    "link": "https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-java-groovy-scriptrunner-javascript-typescript-forge-munich-482027",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "rest apis",
+      "git"
+    ],
+    "posted_at": "7/28/2026",
+    "posted_ts": 1785241826000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-uki-public-sector-london-315440",
+    "title": "Enterprise Account Executive (UKI) - Public Sector",
+    "description": "&lt;p&gt;Our Enterprise Sales Executives target and close new business with Datadog’s largest, most strategic customers and prospects. In this role you’ll be focused on uncovering the pain points organizations face as they operate in or migrate to a cloud environment at scale as well as delivering the appropriate Datad",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/datadog/enterprise-account-executive-uki-public-sector-london-315440",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "7/28/2026",
+    "posted_ts": 1785240927000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-developer-python-brunnthal-68420",
+    "title": "Full-Stack Developer (m/w/d) Python",
+    "description": "Seit über 25 Jahren entwickeln wir bei SEPPmail wegweisende Secure-E-Mail-Lösungen, die Inhalte und Absenderidentität zuverlässig schützen und Spam oder Malware zuverlässig in ihre Schranken weisen – ohne technische Hürden für Absender oder Empfänger, flexibel integrierbar und immer mit höchstem Anspruch an Sicherheit ",
+    "link": "https://www.arbeitnow.com/jobs/companies/seppmail-deutschland-gmbh/full-stack-developer-python-brunnthal-68420",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "fastapi",
+      "postgresql",
+      "ci/cd"
+    ],
+    "posted_at": "7/28/2026",
+    "posted_ts": 1785240038000,
+    "budget": "Not specified",
+    "client_country": "Brunnthal",
+    "status": "Discovered",
+    "is_freelance": false,
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-engineer-blockchain-london-452383",
     "title": "Full Stack Engineer, Blockchain",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks’ platform and network provide the simplest and most secure way for companies to work with digital assets and it trus",
