@@ -121,7 +121,10 @@ export const JobCard: React.FC<JobCardProps> = ({
               {job.client_country}
             </span>
           )}
-          <span className="flex items-center gap-1">
+          <span
+            className="flex items-center gap-1"
+            title={job.posted_ts ? `Posted: ${new Date(job.posted_ts).toLocaleString()}` : "Posting time unknown"}
+          >
             <Clock className="w-3 h-3 text-slate-500" />
             {job.posted_at}
           </span>

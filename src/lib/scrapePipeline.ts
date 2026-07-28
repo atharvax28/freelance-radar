@@ -70,7 +70,7 @@ function isPcbCadDesign(title: string, desc: string): boolean {
 }
 
 // Contract / freelance / part-time signal.
-const FREELANCE_RX = /\b(freelance|contract|part[-\s]?time|hourly|gig|1099|b2b)\b/i;
+const FREELANCE_RX = /\b(freelance|freelancer|contract(?:or)?|part[-\s]?time|hourly rate|per hour|1099|independent contractor)\b/i;
 function looksFreelance(text: string): boolean {
   return FREELANCE_RX.test(text || "");
 }
@@ -126,7 +126,16 @@ function toTs(v: any): number {
   return isNaN(t) ? 0 : t;
 }
 function fmtDate(tsMs: number): string {
-  return tsMs ? new Date(tsMs).toLocaleDateString() : "Recent";
+  if (!tsMs) return "Recent";
+  const diff = Date.now() - tsMs;
+  const min = Math.floor(diff / 60000);
+  if (min < 1) return "just now";
+  if (min < 60) return `${min}m ago`;
+  const hr = Math.floor(min / 60);
+  if (hr < 24) return `${hr}h ago`;
+  const day = Math.floor(hr / 24);
+  if (day < 30) return `${day}d ago`;
+  return new Date(tsMs).toLocaleDateString();
 }
 
 async function fetchText(url: string, timeoutMs = 15000): Promise<{ ok: boolean; status: number; text: string }> {
@@ -408,12 +417,18 @@ export async function runScrapePipeline(userSkills: string[] = DEFAULT_SKILLS): 
     }
   }
 
-  // Apply user filters: drop senior/lead roles and CAD/PCB-design electrical roles.
-  let dropSenior = 0, dropCad = 0, dropOld = 0;
+  // Apply user filters. Region-locked jobs are dropped UNLESS they are freelance
+  // gigs (freelance/contract work is location-flexible, so keep + flag those).
+  let dropSenior = 0, dropCad = 0, dropOld = 0, dropRegion = 0, keptFreelanceLocked = 0;
   const filtered = raw.filter((j) => {
     if (isSenior(j.title, j.description)) { dropSenior++; return false; }
     if (isPcbCadDesign(j.title, j.description)) { dropCad++; return false; }
     if (j.posted_ts && j.posted_ts < cutoff) { dropOld++; return false; }
+    const r = classifyRegion(j);
+    j.region_locked = r.locked;
+    j.region_note = r.note;
+    if (r.locked && !j.is_freelance) { dropRegion++; return false; }
+    if (r.locked) keptFreelanceLocked++;
     return true;
   });
 
@@ -431,18 +446,8 @@ export async function runScrapePipeline(userSkills: string[] = DEFAULT_SKILLS): 
   });
   const capped = sorted.slice(0, maxResults);
 
-  // Flag region-locked jobs (India-based eligibility) — kept, not dropped.
-  let locked = 0;
-  for (const j of capped) {
-    const r = classifyRegion(j);
-    j.region_locked = r.locked;
-    j.region_note = r.note;
-    if (r.locked) locked++;
-  }
-
   const okCount = perSource.filter((s) => s.ok).length;
-  logs.push(`[${ts()}] Filtered out ${dropSenior} senior, ${dropCad} CAD/PCB, ${dropOld} stale.`);
-  logs.push(`[${ts()}] Flagged ${locked}/${capped.length} as region-locked (kept for review).`);
+  logs.push(`[${ts()}] Filtered out ${dropSenior} senior, ${dropCad} CAD/PCB, ${dropOld} stale, ${dropRegion} region-locked (kept ${keptFreelanceLocked} region-locked freelance gigs).`);
   logs.push(`[${ts()}] Pipeline complete — ${capped.length} jobs (newest first) from ${okCount}/${perSource.length} healthy sources.`);
 
   return { jobs: capped, perSource, logs };

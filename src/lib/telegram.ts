@@ -22,12 +22,18 @@ export async function sendGig(job: Job): Promise<boolean> {
   if (!token || !chatId) return false;
 
   const skills = (job.matched_skills || []).slice(0, 8).join(", ");
+  const posted = job.posted_ts
+    ? `🕒 Posted ${escapeHtml(job.posted_at)} (${escapeHtml(new Date(job.posted_ts).toLocaleString())})`
+    : job.posted_at
+    ? `🕒 Posted ${escapeHtml(job.posted_at)}`
+    : "";
   const lines = [
     `🛰️ <b>${escapeHtml(job.title)}</b>`,
     `📡 ${escapeHtml(job.source)}${job.client_country ? ` · ${escapeHtml(job.client_country)}` : ""}`,
     job.budget ? `💰 ${escapeHtml(job.budget)}` : "",
     skills ? `🧩 ${escapeHtml(skills)}` : "",
-    job.region_locked ? `⚠️ May be region-locked${job.region_note ? ` (${escapeHtml(job.region_note)})` : ""} — verify eligibility` : "",
+    posted,
+    job.region_locked ? `⚠️ Region-locked${job.region_note ? ` (${escapeHtml(job.region_note)})` : ""} freelance gig — verify eligibility` : "",
     job.link ? `🔗 ${escapeHtml(job.link)}` : "",
   ].filter(Boolean);
 
