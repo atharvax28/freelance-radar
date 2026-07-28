@@ -5,6 +5,9 @@ on:
     - cron: '*/20 * * * *'  # Runs every 20 minutes
   workflow_dispatch:        # Allows manual trigger button
 
+permissions:
+  contents: write           # allow the Actions bot to commit data/jobs.json
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
