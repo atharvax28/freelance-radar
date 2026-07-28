@@ -7,6 +7,7 @@ export type JobSource =
   | "Arbeitnow"
   | "WeWorkRemotely"
   | "Jobicy"
+  | "Working Nomads"
   | "Web Search"
   | "Freelance.com"
   | "Custom";

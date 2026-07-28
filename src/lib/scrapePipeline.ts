@@ -183,12 +183,44 @@ async function scrapeRemoteOK(skills: string[]): Promise<{ jobs: Job[]; result: 
   }
 }
 
+const REDDIT_UA = "web:freelance-radar:2.0 (by /u/freelance-radar)";
+
+// App-only OAuth (client_credentials) — works from cloud IPs, unlike anonymous
+// requests which Reddit 403s. Returns null when creds are not configured.
+async function getRedditToken(): Promise<string | null> {
+  const id = process.env.REDDIT_CLIENT_ID;
+  const secret = process.env.REDDIT_CLIENT_SECRET;
+  if (!id || !secret) return null;
+  try {
+    const basic = Buffer.from(`${id}:${secret}`).toString("base64");
+    const res = await fetch("https://www.reddit.com/api/v1/access_token", {
+      method: "POST",
+      headers: { Authorization: `Basic ${basic}`, "Content-Type": "application/x-www-form-urlencoded", "User-Agent": REDDIT_UA },
+      body: "grant_type=client_credentials",
+    });
+    if (!res.ok) return null;
+    const j: any = await res.json();
+    return j.access_token || null;
+  } catch {
+    return null;
+  }
+}
+
 async function scrapeReddit(skills: string[]): Promise<{ jobs: Job[]; result: SourceResult }> {
   try {
-    const { ok, status, text } = await fetchText("https://www.reddit.com/r/forhire/new.json?limit=75");
-    if (!ok) return { jobs: [], result: { name: "Reddit", ok: false, count: 0, error: `HTTP ${status} (likely rate-limited/blocked)` } };
+    const token = await getRedditToken();
+    const url = token
+      ? "https://oauth.reddit.com/r/forhire/new?limit=75&raw_json=1"
+      : "https://www.reddit.com/r/forhire/new.json?limit=75";
+    const res = await fetch(url, {
+      headers: token ? { Authorization: `Bearer ${token}`, "User-Agent": REDDIT_UA } : { "User-Agent": UA },
+    });
+    const status = res.status;
+    const text = await res.text();
+    const authNote = token ? "" : " (anonymous — add REDDIT_CLIENT_ID/SECRET for reliable cloud access)";
+    if (!res.ok) return { jobs: [], result: { name: "Reddit", ok: false, count: 0, error: `HTTP ${status}${authNote}` } };
     let data: any;
-    try { data = JSON.parse(text); } catch { return { jobs: [], result: { name: "Reddit", ok: false, count: 0, error: "Non-JSON response (anti-bot page)" } }; }
+    try { data = JSON.parse(text); } catch { return { jobs: [], result: { name: "Reddit", ok: false, count: 0, error: `Non-JSON response (anti-bot page)${authNote}` } }; }
     const children = data?.data?.children || [];
     const jobs: Job[] = [];
     for (const child of children) {
@@ -354,6 +386,34 @@ async function scrapeJobicy(skills: string[]): Promise<{ jobs: Job[]; result: So
   }
 }
 
+// Working Nomads — free remote jobs API (no auth).
+async function scrapeWorkingNomads(skills: string[]): Promise<{ jobs: Job[]; result: SourceResult }> {
+  try {
+    const { ok, status, text } = await fetchText("https://www.workingnomads.com/api/exposed_jobs/");
+    if (!ok) return { jobs: [], result: { name: "Working Nomads", ok: false, count: 0, error: `HTTP ${status}` } };
+    const data = JSON.parse(text);
+    const list = Array.isArray(data) ? data : data?.jobs || [];
+    const jobs: Job[] = [];
+    for (const j of list) {
+      if (!j || !j.title || !j.url) continue;
+      const desc = stripHtml(j.description || "");
+      const matched = matchSkills(`${j.title} ${desc} ${j.tags || ""} ${j.category_name || ""}`, skills);
+      if (matched.length < 1) continue;
+      const posted_ts = toTs(j.pub_date);
+      jobs.push({
+        id: `wnomads-${(j.url || "").split("/").filter(Boolean).pop() || j.title}`,
+        title: j.title, description: desc.slice(0, 320), link: j.url, source: "Working Nomads",
+        matched_skills: matched, posted_at: fmtDate(posted_ts), posted_ts,
+        budget: "Not specified", client_country: j.location || "Remote", status: "Discovered",
+        is_freelance: looksFreelance(`${j.title} ${desc} ${j.category_name || ""}`),
+      });
+    }
+    return { jobs, result: { name: "Working Nomads", ok: true, count: jobs.length } };
+  } catch (err: any) {
+    return { jobs: [], result: { name: "Working Nomads", ok: false, count: 0, error: err?.message || String(err) } };
+  }
+}
+
 // Optional, opt-in, FREE (100 queries/day) real search engine. Only runs when
 // GOOGLE_CSE_KEY + GOOGLE_CSE_CX are configured. Returns REAL result links.
 async function scrapeGoogleCSE(skills: string[]): Promise<{ jobs: Job[]; result: SourceResult }> {
@@ -399,7 +459,8 @@ export async function runScrapePipeline(userSkills: string[] = DEFAULT_SKILLS): 
 
   const settled = await Promise.allSettled([
     scrapeRemoteOK(skills), scrapeRemotive(skills), scrapeArbeitnow(skills),
-    scrapeWeWorkRemotely(skills), scrapeJobicy(skills), scrapeHackerNews(skills),
+    scrapeWeWorkRemotely(skills), scrapeJobicy(skills),
+    scrapeWorkingNomads(skills), scrapeHackerNews(skills),
     scrapeReddit(skills), scrapeGoogleCSE(skills),
   ]);
 

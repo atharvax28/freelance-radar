@@ -372,6 +372,17 @@ export default function App() {
                   <span className="font-mono opacity-60 text-[11px]">{jobs.filter((j) => j.source === "Jobicy").length}</span>
                 </button>
                 <button
+                  onClick={() => setSourceFilter("Working Nomads")}
+                  className={`w-full flex items-center justify-between text-xs p-2 rounded transition-colors ${
+                    sourceFilter === "Working Nomads"
+                      ? "bg-cyan-500/10 text-cyan-300 font-bold border border-cyan-500/20"
+                      : "text-slate-400 hover:bg-slate-800/60"
+                  }`}
+                >
+                  <span>Working Nomads</span>
+                  <span className="font-mono opacity-60 text-[11px]">{jobs.filter((j) => j.source === "Working Nomads").length}</span>
+                </button>
+                <button
                   onClick={() => setSourceFilter("Web Search")}
                   className={`w-full flex items-center justify-between text-xs p-2 rounded transition-colors ${
                     sourceFilter === "Web Search"
