@@ -1,5 +1,69 @@
 [
   {
+    "id": "arbeitnow-werkstudentin-ki-automatisierung-webentwicklung-leipzig-1091",
+    "title": "Werkstudent:in KI-Automatisierung & Webentwicklung (m/w/d)",
+    "description": "Wir suchen eine Werkstudienkraft (m/w/d) für unser Team in Leipzig, die mit KI-Tools Webseiten baut und wiederkehrende Abläufe automatisiert. Wenn du dich gerne eigenständig in neue Tools einarbeitest, sauber strukturiert arbeitest und Spaß daran hast, Prozesse zu vereinfachen, bist du bei uns genau richtig!Bisher kein",
+    "link": "https://www.arbeitnow.com/jobs/companies/leadfluss-marketing/werkstudentin-ki-automatisierung-webentwicklung-leipzig-1091",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785338422000,
+    "budget": "Not specified",
+    "client_country": "Leipzig",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Leipzig",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-system-engineer-token-factory-370942",
+    "title": "System Engineer (Token Factory)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/nebius/remote-system-engineer-token-factory-370942",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "c++",
+      "linux"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785338220000,
+    "budget": "Not specified",
+    "client_country": "Remote; Remote - Europe",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-co-geschaftsfuhrer-gn-festivals-for-tomorrow-full-remote-35h-woche-heidelberg-462374",
+    "title": "Co-Geschäftsführer (gn): Festivals for Tomorrow, Full Remote, 35h Woche",
+    "description": "Menschen im Erleben zusammenbringen ist unsere Leidenschaft. Mit der Festivals for Tomorrow GmbH glauben wir daran, dass die Zukunft von Festivals Community basiert ist. Von Communitys für Communitys. Wir veranstallten aktuell 4 Festivals im Jahr mit jeweils unter 1000 Teilnehmenden. Für den nächsten Schritt suchen wir",
+    "link": "https://www.arbeitnow.com/jobs/companies/wildschytz-ug/co-geschaftsfuhrer-gn-festivals-for-tomorrow-full-remote-35h-woche-heidelberg-462374",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785337251000,
+    "budget": "Not specified",
+    "client_country": "Heidelberg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Heidelberg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-business-development-pre-sales-support-hamburg-133874",
     "title": "Working Student Business Development / Pre-Sales Support (m/f/d)",
     "description": "About NetlightNetlight delivers premium IT consulting services across industries, standing out for our product- and technology-independent expertise. Our network of over 2000 role-models empowers aspiring digital leaders to excel in business-critical IT projects. Recognized as a top employer and for our commitment to d",
