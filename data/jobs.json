@@ -1,5 +1,48 @@
 [
   {
+    "id": "arbeitnow-data-scientist-cybersecurity-analyst-position-located-in-cheltenham-united-kingdom-228967",
+    "title": "Data Scientist - Cybersecurity Analyst (Position located in Cheltenham, United Kingdom)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/data-scientist-cybersecurity-analyst-position-located-in-cheltenham-united-kingdom-228967",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "ai agents",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785315318000,
+    "budget": "Not specified",
+    "client_country": "Cheltenham",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-werkstudent-executive-search-active-sourcing-berlin-221596",
+    "title": "Werkstudent (m/w/d) Executive Search & Active Sourcing",
+    "description": "Werkstudent (m/w/d) Executive Search &amp; Active Sourcing10–15 Stunden/Woche | Hybrid/RemoteFinde mit uns die besten Köpfe für den deutschen Mittelstand.&nbsp;Du hast Spaß daran, Menschen zu recherchieren, Zusammenhänge zu erkennen und die richtigen Persönlichkeiten für anspruchsvolle Führungspositionen zu identifizie",
+    "link": "https://www.arbeitnow.com/jobs/companies/enomyc-gmbh/remote-werkstudent-executive-search-active-sourcing-berlin-221596",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785315020000,
+    "budget": "Not specified",
+    "client_country": "Homeoffice",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Homeoffice",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-tasking-berlin-13672",
     "title": "Working Student, Tasking",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Welcome to Planet. We believe in using space to help life on Earth.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of",
@@ -229,6 +272,30 @@
     "client_country": "Remote job",
     "status": "Discovered",
     "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135555",
+    "title": "AI Intern",
+    "description": "About CertifyOSCertifyOS is building the data infrastructure that powers modern healthcare.Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across the system. Weâre solving that problem.Our API-first platform",
+    "link": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785225603000,
+    "budget": "Not specified",
+    "client_country": "Pune",
+    "status": "Discovered",
+    "is_freelance": true,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
