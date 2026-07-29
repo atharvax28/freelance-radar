@@ -1,5 +1,28 @@
 [
   {
+    "id": "arbeitnow-backend-engineer-platform-stacks-uk-remote-88951",
+    "title": "Backend Engineer - Platform - Stacks | UK | Remote",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud&",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/grafanalabs/backend-engineer-platform-stacks-uk-remote-88951",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "node.js",
+      "microservices",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785358508000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-migration-all-genders-fixed-term-2-months-hamburg-33293",
     "title": "Working Student - Migration (all genders) - Fixed-term 2 months",
     "description": "Fashion Cloud is a Hamburg-based B2B software company connecting brands and retailers across the fashion industry. We build the digital infrastructure that helps our partners share data, content, and processes more efficiently - with offices in Hamburg and Amsterdam and a close-knit, international team of around 50 peo",
@@ -343,6 +366,30 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Milton Keynes, United Kingdom",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135638",
+    "title": "LLM Engineer Freelancer",
+    "description": "We're building a network of LLM Engineers who can design, build, and integrate practical AI features into existing products. We're looking for people to collaborate with on a freelance basis - part-time or full-time, depending on project needs.This role is focused on delivery, not ML research. What matters most is your",
+    "link": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "node.js",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785244760000,
+    "budget": "Not specified",
+    "client_country": "KrakÃ³w, KrakÃ³w, Woj. MaÅopolskie, Polska",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "KrakÃ³w, KrakÃ³w, Woj. MaÅopolskie, Polska",
     "link_validated": true,
     "link_status": "DIRECT"
   },
