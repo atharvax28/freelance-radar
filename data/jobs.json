@@ -1,5 +1,45 @@
 [
   {
+    "id": "arbeitnow-uav-and-flight-test-engineer-munich-286910",
+    "title": "UAV and Flight Test Engineer (f/m/d)",
+    "description": "TYTAN TechnologiesAt TYTAN, we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect European sovereignty.We are looking for a UAV and Flight Test Engineer to join our",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/uav-and-flight-test-engineer-munich-286910",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785421818000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-dach-germany-498012",
+    "title": "Enterprise Account Executive (DACH)",
+    "description": "Who We Are; What We Do; Where We’re Going &nbsp; Magnet Forensics is a global leader in the development of digital investigative software that acquires, analyzes, and shares evidence from computers, smartphones, tablets, and IoT-related devices. We are continually innovating so our customers can deploy advanced and eff",
+    "link": "https://www.arbeitnow.com/jobs/companies/magnet-forensics/enterprise-account-executive-dach-germany-498012",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785421448000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-software-development-engineers-in-test-python-297658",
     "title": "Software Development Engineers in Test (Python)",
     "description": "The Role: Our team is expanding and we are hiring several high caliber SDET (Software Development Engineer in Test) - Python to join our fast-growing team. You will work with world class specialists in a friendly, supportive and open-minded environment on challenging goals that will help you to grow professionally and ",
@@ -277,6 +317,28 @@
     "is_freelance": true,
     "region_locked": false,
     "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135669",
+    "title": "Program &amp; Events Coordinator",
+    "description": "About the LSPA: The LSP Association (LSPA) is a non-profit association for Massachusetts Licensed Site Professionals (LSPs) and other related environmental practitioners who work on behalf of property owners, operators, and other involved parties to assess and cleanup oil and hazardous materials (OHM) released to the e",
+    "link": "https://remoteOK.com/remote-jobs/remote-program-amp-events-coordinator-lsp-association-1135669",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "canva",
+      "sharepoint",
+      "outlook"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785339099000,
+    "budget": "Not specified",
+    "client_country": "Massachusetts, Massachusetts, United States",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Massachusetts, Massachusetts, United States",
     "link_validated": true,
     "link_status": "DIRECT"
   },
