@@ -1,5 +1,49 @@
 [
   {
+    "id": "arbeitnow-strategic-account-executive-enterprise-dach-munich-462700",
+    "title": "Strategic Account Executive Enterprise - DACH",
+    "description": "🪐&nbsp;Discover our galaxy &nbsp; Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different: A divers",
+    "link": "https://www.arbeitnow.com/jobs/companies/malt/strategic-account-executive-enterprise-dach-munich-462700",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785377113000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-fullstack-engineer-subscriptions-london-229822",
+    "title": "Fullstack Engineer - Subscriptions",
+    "description": "The Subscriptions Mission is shaping the future of how millions of people discover, purchase, and experience Spotify Premium. We build the platforms and tools that power Spotify's global subscription business, enabling new offers, pricing strategies, and commerce experiences that help our business move quickly while de",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/spotify/fullstack-engineer-subscriptions-london-229822",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "next.js",
+      "tailwind css",
+      "postgresql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1785367465000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-backend-engineer-platform-stacks-uk-remote-88951",
     "title": "Backend Engineer - Platform - Stacks | UK | Remote",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud&",
@@ -295,6 +339,27 @@
     "is_freelance": false,
     "region_locked": false,
     "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135610",
+    "title": "Graphic Designer",
+    "description": "We are looking for a talented and detail-oriented Graphic Designer to join our creative team part-time (25 hours per week), with the potential to grow into a full-time opportunity.Since 1988, Miranda Creative has partnered with more than 6,000 clients across finance, hospitality, healthcare, manufacturing, tourism, and",
+    "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-miranda-creative-inc-1135610",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "figma",
+      "design systems"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785288968000,
+    "budget": "Not specified",
+    "client_country": "Norwich, Norwich, Connecticut, United States",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Norwich, Norwich, Connecticut, United States",
     "link_validated": true,
     "link_status": "DIRECT"
   },
