@@ -1,5 +1,26 @@
 [
   {
+    "id": "arbeitnow-werkstudentin-ki-automatisierung-webentwicklung-leipzig-455708",
+    "title": "Werkstudent:in KI-Automatisierung & Webentwicklung (m/w/d)",
+    "description": "Wir suchen eine Werkstudienkraft (m/w/d) für unser Team in Leipzig, die mit KI-Tools Webseiten baut und wiederkehrende Abläufe automatisiert. Wenn du dich gerne eigenständig in neue Tools einarbeitest, sauber strukturiert arbeitest und Spaß daran hast, Prozesse zu vereinfachen, bist du bei uns genau richtig!Bisher kein",
+    "link": "https://www.arbeitnow.com/jobs/companies/leadfluss-marketing/werkstudentin-ki-automatisierung-webentwicklung-leipzig-455708",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785400313000,
+    "budget": "Not specified",
+    "client_country": "Leipzig, Sachsen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Leipzig, Sachsen, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-smb-account-executive-germany-113713",
     "title": "SMB Account Executive, Germany",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Who Are We?&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Postman is the world’s leading API platform, used by more than 45 million+ developers and 500,000 organizations, including 98% of the Fortune 500. Postman is helping developers and professionals across the ",
@@ -453,6 +474,30 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Cologne, Nordrhein-Westfalen, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135673",
+    "title": "Junior Data Analyst",
+    "description": "About HiredBuddyAt HiredBuddy, we connect domain specialists and subject-matter experts with leading AI research labs to shape and train the next generation of artificial intelligence. We focus on high-quality data annotation, RLHF (Reinforcement Learning from Human Feedback), and model evaluation across various domain",
+    "link": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "pandas",
+      "numpy"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785270879000,
+    "budget": "Not specified",
+    "client_country": "California, California, United States",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "California, California, United States",
     "link_validated": true,
     "link_status": "DIRECT"
   },
