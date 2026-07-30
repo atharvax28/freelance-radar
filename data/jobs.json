@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow-account-executive-enterprise-london-england-418863",
+    "title": "Account Executive, Enterprise",
+    "description": "Creatio&nbsp;is a global vendor of an agentic CRM &amp; workflow platform with no-code and AI at its core. We help organisations automate customer and operational workflows, achieving the fastest time-to-value and the highest ROI on the market. Millions of workflows run on Creatio daily, supporting thousands of clients",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/creatio/account-executive-enterprise-london-england-418863",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785410766000,
+    "budget": "Not specified",
+    "client_country": "London, England",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudentin-ki-automatisierung-webentwicklung-leipzig-455708",
     "title": "Werkstudent:in KI-Automatisierung & Webentwicklung (m/w/d)",
     "description": "Wir suchen eine Werkstudienkraft (m/w/d) für unser Team in Leipzig, die mit KI-Tools Webseiten baut und wiederkehrende Abläufe automatisiert. Wenn du dich gerne eigenständig in neue Tools einarbeitest, sauber strukturiert arbeitest und Spaß daran hast, Prozesse zu vereinfachen, bist du bei uns genau richtig!Bisher kein",
@@ -293,6 +313,28 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135639",
+    "title": "TÃ©lÃ©travail Professeur Particulier",
+    "description": "Vous Ãªtes Ã la recherche d'un job Ã©tudiant? Devenez professeur avec Voscours.Partagez vos connaissances avec nos Ã©lÃ¨ves: Soutien scolaire, musique, sports, langues, technologieâ¦Acceptez le dÃ©fi et commencez dÃ¨s maintenant!DÃTAILS DE L'OFFRE Horaires de travail flexibles Lieu de travail : toute la France / Ã di",
+    "link": "https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "node.js"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785327279000,
+    "budget": "Not specified",
+    "client_country": "Nice, Nice, Provence-Alpes-CÃ´te dâAzur, France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Nice, Nice, Provence-Alpes-CÃ´te dâAzur, France",
     "link_validated": true,
     "link_status": "DIRECT"
   },
