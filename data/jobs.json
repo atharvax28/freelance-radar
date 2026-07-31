@@ -1,5 +1,89 @@
 [
   {
+    "id": "arbeitnow-software-engineer-plc-ot-richen-baden-wurttemberg-322550",
+    "title": "Software Engineer - PLC/OT",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite cons",
+    "link": "https://www.arbeitnow.com/jobs/companies/gropyus/software-engineer-plc-ot-richen-baden-wurttemberg-322550",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785466619000,
+    "budget": "Not specified",
+    "client_country": "Richen, Baden-Württemberg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Richen, Baden-Württemberg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-product-management-energy-products-tariffs-berlin-82457",
+    "title": "Working Student Product Management Energy Products & Tariffs (m/f/d)",
+    "description": "1KOMMA5°At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, a",
+    "link": "https://www.arbeitnow.com/jobs/companies/1komma5grad/working-student-product-management-energy-products-tariffs-berlin-82457",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785463783000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-cfo-office-berlin-45426",
+    "title": "Werkstudent:in (m/w/d) - CFO Office",
+    "description": "1KOMMA5°Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free. Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, Wärmepumpe und E-Mobilität denken wir nicht einzeln, sondern st",
+    "link": "https://www.arbeitnow.com/jobs/companies/1komma5grad/werkstudentin-cfo-office-berlin-45426",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785463783000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-kommunikationsdesign-berlin-423093",
+    "title": "Werkstudent:in Kommunikationsdesign (m/w/d)",
+    "description": "Hi!We are Coffee Circle, Germany’s leading sustainable specialty coffee roastery based in Berlin. We offer the world’s finest coffee and equipment to over 150,000 customers online and in our Cafés, driven by our goal to make high-end coffee experiences enjoyable and accessible to all. We foster direct trade relationshi",
+    "link": "https://www.arbeitnow.com/jobs/companies/coffee-circle/werkstudentin-kommunikationsdesign-berlin-423093",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785463761000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudentin-projektmanagement-tooling-und-datenanalyse-munchen-190492",
     "title": "Werkstudent:in Projektmanagement Tooling und Datenanalyse (m/w/d)",
     "description": "Lust auf neueste Technologien, spannende Projekte und ein tolles Team, das dich gerne in seiner Mitte willkommen heißt? Perfekt. Dann komm zu uns!Du bewirbst dich auf eine Stelle bei der Technica Engineering GmbH am Standort München.Technica Engineering GmbH ist Teil der Technica Firmengruppe mit aktuell ca. 1000 Mitar",
