@@ -1439,6 +1439,28 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-gusto-inc-business-money-engineering",
+    "title": "Gusto, Inc.: Business Money Engineering",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; San Francisco, CA;New York, NY;Ontario, CAN - Remote;Toronto, Ontario, CAN - Remote;United States - Remote &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;About Gusto&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Gus",
+    "link": "https://weworkremotely.com/remote-jobs/gusto-inc-business-money-engineering",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "aws"
+    ],
+    "posted_at": "9d ago",
+    "posted_ts": 1784692970000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "wwr-maptiler-location-services-engineer-maps-platform-remote-in-europe",
     "title": "MapTiler: ️ Location Services Engineer | Maps Platform (Remote in Europe)",
     "description": "&lt;img src=\"https://we-work-remotely.imgix.net/logos/0144/3523/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress\" /&gt; &lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Zug, Switzerland &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"https://www.maptiler.com/\"&gt;https",
