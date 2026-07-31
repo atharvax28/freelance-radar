@@ -1,5 +1,50 @@
 [
   {
+    "id": "arbeitnow-werkstudentin-projektmanagement-tooling-und-datenanalyse-munchen-190492",
+    "title": "Werkstudent:in Projektmanagement Tooling und Datenanalyse (m/w/d)",
+    "description": "Lust auf neueste Technologien, spannende Projekte und ein tolles Team, das dich gerne in seiner Mitte willkommen heißt? Perfekt. Dann komm zu uns!Du bewirbst dich auf eine Stelle bei der Technica Engineering GmbH am Standort München.Technica Engineering GmbH ist Teil der Technica Firmengruppe mit aktuell ca. 1000 Mitar",
+    "link": "https://www.arbeitnow.com/jobs/companies/technica-engineering-gmbh/werkstudentin-projektmanagement-tooling-und-datenanalyse-munchen-190492",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "postgresql",
+      "pandas",
+      "etl",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785454276000,
+    "budget": "Not specified",
+    "client_country": "München, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founders-associate-to-the-cpo-working-student-all-genders-munchen-205574",
+    "title": "Founders Associate to the CPO (Working Student, all genders)",
+    "description": "Deine AufgabenYou work directly with our CPO on whatever moves the company most — right now that means fundraising operations and US market entry; next semester it might be a strategic partnership, competitive research, or building an internal process from zero.What that means: This is not a typical working-student job",
+    "link": "https://www.arbeitnow.com/jobs/companies/eorbit-gmbh/founders-associate-to-the-cpo-working-student-all-genders-munchen-205574",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785452953000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-ai-native-software-developer-germany-152149",
     "title": "AI-Native Software Developer",
     "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an AI-Native Software Developer based in Germany. Join a fully remote, international engineering environment where innovation, ownership, and AI-driven development are at the heart of building",
@@ -313,6 +358,27 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135675",
+    "title": "Human Resources Specialist",
+    "description": "Harvey Nash USA has been engaged to find a talented HR Operations Specialist for a leading healthcare organization committed to delivering exceptional employee experiences through operational excellence.Job Title: HR Operations SpecialistLocation: Remote (California Residents Only)Duration: 6-Month ContractAbout the Ro",
+    "link": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785372050000,
+    "budget": "Not specified",
+    "client_country": "California, California, United States",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "California, California, United States",
     "link_validated": true,
     "link_status": "DIRECT"
   },
