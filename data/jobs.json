@@ -1,5 +1,52 @@
 [
   {
+    "id": "arbeitnow-teacher-assistant-introduction-to-algorithms-and-data-structures-berlin-295716",
+    "title": "Teacher Assistant - Introduction to Algorithms and Data Structures (f/m/x)",
+    "description": "About the RoleCODE is looking for a Teacher Assistant for the module (SE_02) and the associated course, Introduction to Algorithms and Data Structures.In this position, you will support our students in their learning experience by:Helping to create a fun, rigorous environment for students to learn.Answering student que",
+    "link": "https://www.arbeitnow.com/jobs/companies/code/teacher-assistant-introduction-to-algorithms-and-data-structures-berlin-295716",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "llm",
+      "slack",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785614952000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-student-teacher-intro-to-software-engineering-and-web-berlin-295592",
+    "title": "Student Teacher - Intro to Software Engineering and Web (f/m/x)",
+    "description": "About the RoleCODE is looking for a Student Teacher - Intro to Software Engineering and Web to support the teaching in two modules: OS_01 Introduction to Software Engineering and SE_19 Web Technologies Basics.In this position, you will support our students in their learning experience by: Helping to create a fun, rigor",
+    "link": "https://www.arbeitnow.com/jobs/companies/code/student-teacher-intro-to-software-engineering-and-web-berlin-295592",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "llm",
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785614952000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-engineer-blockchain-london-242596",
     "title": "Full Stack Engineer, Blockchain",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks’ platform and network provide the simplest and most secure way for companies to work with digital assets and it trus",
