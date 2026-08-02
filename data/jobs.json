@@ -1,5 +1,87 @@
 [
   {
+    "id": "arbeitnow-forward-deployed-engineer-emea-london-141610",
+    "title": "Forward Deployed Engineer - EMEA",
+    "description": "**This role is located 50% of the time at a client location within the assigned country** Tulip brings modern technology and AI into manufacturing. Manufacturing accounts for almost 20% of the global economy and one in every seven workers on Earth, yet remains among the least digitized. More than a decade ago, we creat",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tulip-interfaces/forward-deployed-engineer-emea-london-141610",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785681928000,
+    "budget": "Not specified",
+    "client_country": "London, England, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-people-berlin-221522",
+    "title": "Working Student - People (f/m/d)",
+    "description": "About lemon.markets🍋We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-being for their customers.lemon.markets is a Brokerage-as-a-Se",
+    "link": "https://www.arbeitnow.com/jobs/companies/lemon-markets/working-student-people-berlin-221522",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785681662000,
+    "budget": "Not specified",
+    "client_country": "Berlin (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-deployment-strategist-eastern-europe-emea-370632",
+    "title": "Deployment Strategist, Eastern Europe",
+    "description": "Build a Safer World.TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide ",
+    "link": "https://www.arbeitnow.com/jobs/companies/trm-labs/deployment-strategist-eastern-europe-emea-370632",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "slack",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785681606000,
+    "budget": "Not specified",
+    "client_country": "EMEA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-recruiter-international-sales-contractor-emea-277386",
+    "title": "Recruiter, International Sales (Contractor)",
+    "description": "Build a Safer World.TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide ",
+    "link": "https://www.arbeitnow.com/jobs/companies/trm-labs/recruiter-international-sales-contractor-emea-277386",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785681606000,
+    "budget": "Not specified",
+    "client_country": "EMEA",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-forward-deployed-engineer-emea-munich-443927",
     "title": "Forward Deployed Engineer - EMEA",
     "description": "**This role is located 50% of the time at a client location within the assigned country** Tulip brings modern technology and AI into manufacturing. Manufacturing accounts for almost 20% of the global economy and one in every seven workers on Earth, yet remains among the least digitized. More than a decade ago, we creat",
@@ -737,6 +819,27 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135788",
+    "title": "Licensed Customer Service Representative",
+    "description": "Description Join Our Team as a Remote Experienced and Licensed Customer Service Representative! Within our Customer Response Center, the Remote Customer Service Representative provides timely, accurate and responsive information and service to policyholders and agents for a division of Personal Lines products, plans an",
+    "link": "https://remoteOK.com/remote-jobs/remote-licensed-customer-service-representative-liberty-mutual-insurance-1135788",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c",
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785600006000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
