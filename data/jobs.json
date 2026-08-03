@@ -1,5 +1,136 @@
 [
   {
+    "id": "arbeitnow-research-data-engineer-london-93483",
+    "title": "Research Data Engineer",
+    "description": "About RelationRelation is a sector defining TechBio company developing transformational medicines, with technology at our core. Our ambition is to understand human biology in unprecedented ways, discovering therapies to treat some of life’s most devastating diseases. We leverage single-cell multi-omics from patient tis",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/relationrx/research-data-engineer-london-93483",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "aws",
+      "s3",
+      "mlops"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785782516000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-strategist-london-145402",
+    "title": "AI Strategist (London)",
+    "description": "About EdraEdra is solving one of the hardest problems in enterprise AI: AI models are generic but company processes are specific. We build AI agents that learn how processes actually run, and then run their operations.We're a Series A startup, backed by Sequoia and other leading VC firms, led by Co-Founders who created",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/edra/ai-strategist-london-145402",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "ai agents",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785782509000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-payment-operations-specialist-part-time-flexible-hours-brighton-384333",
+    "title": "Payment Operations Specialist (Part-Time/Flexible Hours)",
+    "description": "About MotorwayMotorway is the UK’s fastest-growing used car marketplace - our online-only platform connects private car sellers with thousands of verified dealers nationwide, ensuring everyone gets the best deal. Founded in 2017, our award-winning, technology-led approach has redefined the experience of selling a car. ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/motorway/payment-operations-specialist-part-time-flexible-hours-brighton-384333",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785782440000,
+    "budget": "Not specified",
+    "client_country": "Brighton",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Brighton",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-test-cloud-sales-specialist-commercial-mid-market-42921",
+    "title": "Test Cloud Sales Specialist – Commercial Mid-Market",
+    "description": "Life at UiPathThe people at UiPath believe in the transformative power of automation to change how the world works. We’re committed to creating category-leading enterprise software that unleashes that power.To make that happen, we need people who are curious, self-propelled, generous, and genuine. People who love being",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/uipath/remote-test-cloud-sales-specialist-commercial-mid-market-42921",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785782432000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-consultant-munich-98449",
+    "title": "Software Consultant",
+    "description": "Software Consultant Cross-Platform Apps with .NET MAUI (m/f/d) Consulting Munich / Bavaria / Germany Location: On-site in Unterhaching near Munich, Germany Full Time €60.000 - €75.000 German C1 Job Description We are seeking a Software Consultant for Cross-Platform Apps with .NET MAUI to join our consulting team. You w",
+    "link": "https://www.arbeitnow.com/jobs/companies/godheir-services-and-technologies/software-consultant-munich-98449",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "sql server"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785781826000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-frontend-berlin-42694",
+    "title": "Software Engineer (Frontend) (m/w/d)",
+    "description": "About RecareAs one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, reli",
+    "link": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-software-engineer-frontend-berlin-42694",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785778249000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-recruiting-coordinator-contractor-boston-massachusetts-united-states-427773",
     "title": "Recruiting Coordinator (Contractor)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense indu",
