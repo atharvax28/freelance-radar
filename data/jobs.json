@@ -1,5 +1,131 @@
 [
   {
+    "id": "arbeitnow-optical-interconnect-process-engineer-london-343054",
+    "title": "Optical Interconnect Process Engineer",
+    "description": "About OLIXAI is growing faster than any technology in history and the explosion in demand has created a massive infrastructure gap; we can no longer build chips or power stations fast enough to keep up. The industry is still leaning on a ten-year-old hardware blueprint that has reached its limit. A new paradigm that is",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/olix/optical-interconnect-process-engineer-london-343054",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "system design",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785739297000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London, UK",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-gtm-associate-london-62997",
+    "title": "GTM Associate",
+    "description": "Why RogoOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.This is a unique opportunity",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/rogo/gtm-associate-london-62997",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785739233000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-battery-testing-all-genders-gauting-148288",
+    "title": "Working Student Battery Testing (all genders)",
+    "description": "Your Mission:Be part of aviation history at VÆRIDION, where we’re building the world’s first electric 9-seater aircraft. As a Working Student in Battery Testing (all genders) within the Test Department, you will support the validation of our battery system across all levels, from cell to module to pack and system integ",
+    "link": "https://www.arbeitnow.com/jobs/companies/vaeridion/working-student-battery-testing-all-genders-gauting-148288",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785736819000,
+    "budget": "Not specified",
+    "client_country": "Manufacturing & Testing Facility",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Manufacturing & Testing Facility",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-pr-communication-all-genders-munich-122739",
+    "title": "Working Student PR & Communication (all genders)",
+    "description": "Your missionWerde Teil unseres dynamischen Marketing- und Kommunikationsteams und unterstütze uns bei der Entwicklung und Umsetzung von Marketingkampagnen sowie PR-Aktivitäten, um unsere Vertriebsaktivitäten zu stärken und die Markenbekanntheit auszubauen. Als Werkstudent:in (all genders) hast du die einmalige Gelegenh",
+    "link": "https://www.arbeitnow.com/jobs/companies/vaeridion/working-student-pr-communication-all-genders-munich-122739",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785736819000,
+    "budget": "Not specified",
+    "client_country": "Munich HQ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich HQ",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-marketing-and-communications-all-genders-munich-164166",
+    "title": "Working Student Marketing and Communications (all genders)",
+    "description": "Your Mission:Werde Teil unseres dynamischen Marketing- und Kommunikationsteams und unterstütze uns bei der Entwicklung und Umsetzung von Marketingkampagnen sowie PR-Aktivitäten, um unsere Vertriebsaktivitäten zu stärken und die Markenbekanntheit auszubauen. Als Werkstudent:in (all genders) hast du die einmalige Gelegen",
+    "link": "https://www.arbeitnow.com/jobs/companies/vaeridion/working-student-marketing-and-communications-all-genders-munich-164166",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785736819000,
+    "budget": "Not specified",
+    "client_country": "Munich HQ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich HQ",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-scientific-support-specialist-281892",
+    "title": "Scientific Support Specialist",
+    "description": "Thank you for your interest in Uncountable Implementations!Scientific Support SpecialistAbout UncountableScience moves slowly — not because researchers aren't brilliant, but because their tools haven't kept up. Uncountable is changing that. We build a unified R&amp;D platform used by the world's leading chemists, mater",
+    "link": "https://www.arbeitnow.com/jobs/companies/uncountable-inc/remote-scientific-support-specialist-281892",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "llm",
+      "slack",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785735704000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-account-executive-france-london-429527",
     "title": "Account Executive - France",
     "description": "Join Choco, where we build and own solutions that reshape a broken food system.The global food supply chain is inefficient by design. Waste is high, margins are thin, and most distributor order processes are done over the phone, tracked across broad spreadsheets, and based on intuition rather than strong data.At Choco,",
@@ -2851,6 +2977,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135969",
+    "title": "Trades Generalist",
+    "description": "Description Duties Description To be discussed during interview.Trades Generalists perform a variety of skilled and semiskilled maintenance, repair, installation, and construction tasks in the mechanical, building, motor equipment, and electrical trades.Qualifications Minimum Qualifications TRADES GENERALIST/SG-12Minim",
+    "link": "https://remoteOK.com/remote-jobs/remote-trades-generalist-new-york-state-center-for-recruitment-amp-public-service-1135969",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "3d ago",
+    "posted_ts": 1785450302000,
+    "budget": "Not specified",
+    "client_country": "Rome, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Rome,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
