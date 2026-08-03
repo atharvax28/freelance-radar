@@ -1,5 +1,457 @@
 [
   {
+    "id": "arbeitnow-campus-software-engineer-intern-london-328008",
+    "title": "Campus Software Engineer (Intern)",
+    "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&amp;nbsp;cutting edge&amp;nbsp;research to global financial markets. Our c",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-software-engineer-intern-london-328008",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "c++",
+      "fastapi",
+      "pandas",
+      "linux",
+      "git",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750904000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-campus-ui-software-engineer-intern-london-417728",
+    "title": "Campus UI Software Engineer (Intern)",
+    "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&amp;nbsp;cutting edge&amp;nbsp;research to global financial markets. Our c",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-ui-software-engineer-intern-london-417728",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "linux",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750904000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-devops-high-performance-trading-system-engineer-london-167937",
+    "title": "DevOps/High Performance Trading System Engineer",
+    "description": "&lt;p&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/devops-high-performance-trading-system-engineer-london-167937",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "c++",
+      "linux"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750904000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-research-scientist-research-engineer-deep-learning-chicago-new-york-london-224399",
+    "title": "Research Scientist/Research Engineer | Deep Learning",
+    "description": "&lt;p&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/research-scientist-research-engineer-deep-learning-chicago-new-york-london-224399",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750904000,
+    "budget": "Not specified",
+    "client_country": "Chicago, New York, London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-research-engineer-pre-training-new-york-london-chicago-434725",
+    "title": "Research Engineer, Pre-Training",
+    "description": "&lt;p&gt;Jump Trading Group is committed to world-class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting-edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/research-engineer-pre-training-new-york-london-chicago-434725",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch",
+      "fine-tuning"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750904000,
+    "budget": "Not specified",
+    "client_country": "New York, London, Chicago",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-campus-data-engineer-intern-london-14681",
+    "title": "Campus Data Engineer (Intern)",
+    "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply&amp;nbsp;cutting edge&amp;nbsp;research to global financial markets. Our c",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-data-engineer-intern-london-14681",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pandas",
+      "linux",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750903000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-campus-ml-research-engineer-intern-london-286055",
+    "title": "Campus ML Research Engineer (Intern)",
+    "description": "&lt;p&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-ml-research-engineer-intern-london-286055",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "pytorch"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750903000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-campus-ml-research-engineer-full-time-london-247682",
+    "title": "Campus ML Research Engineer (Full-Time)",
+    "description": "&lt;p&gt;Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jumptrading/campus-ml-research-engineer-full-time-london-247682",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "pytorch"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785750903000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-operations-strategy-associate-london-69131",
+    "title": "Operations Strategy Associate",
+    "description": "About ClipboardOur mission is to uplift as many communities as possible. We do this through our app-based marketplace that connects healthcare professionals with the workplaces that need amazing workers. This enables hundreds of thousands of people to achieve financial stability for themselves and their families while ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clipboard/operations-strategy-associate-london-69131",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785750103000,
+    "budget": "Not specified",
+    "client_country": "Remote (Canada, UK, EU)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-production-strategist-production-219142",
+    "title": "Production Strategist, Production",
+    "description": "RESPONSIBILITIES:Drive the use of AI across the Production team, responsible for finding agent-driven solutions to optimise all aspects of the production workload.Consult and work closely with a range of Enterprise customers to understand their business needs and align LILT’s SLAs and KPIs to measure, achieve and excee",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/remote-production-strategist-production-219142",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747622000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-professional-scientific-technical-services-english-german-remote-berlin-398695",
+    "title": "Subject Matter Expert – Professional, Scientific & Technical Services (English/German) – Remote",
+    "description": "About The OpportunityWe are looking for experienced Professional, Scientific, and Technical Services professionals to support a cutting-edge AI benchmarking project focused on German corporate, legal, financial, and technology environments. As a Subject Matter Expert, you will create and review realistic, high-quality ",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-professional-scientific-technical-services-english-german-remote-berlin-398695",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747622000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-robotics-german-remote-berlin-190203",
+    "title": "Subject Matter Expert – Robotics (German) – Remote",
+    "description": "About The OpportunityWe are seeking experienced professionals in Robotics to contribute to a cutting-edge AI benchmarking project in the target language. As a Subject Matter Expert, you will create and review high-quality, real-world natural sciences scenarios that evaluate AI systems in the target locale-specific cont",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-robotics-german-remote-berlin-190203",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747622000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-quantative-scientific-corporate-english-german-remote-berlin-38615",
+    "title": "Subject Matter Expert – Quantative/Scientific/Corporate (English/German) – Remote",
+    "description": "About The OpportunityWe are looking for experienced professionals to support a cutting-edge AI benchmarking project focused on highly specific professional silos. Candidates will need demonstrable background or academic exposure in at least one of these verticals:Highly Technical / Quantitative: Software Eng., Mathemat",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-quantative-scientific-corporate-english-german-remote-berlin-38615",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747622000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-manufacturing-industrial-operations-english-german-remote-berlin-247498",
+    "title": "Subject Matter Expert – Manufacturing & Industrial Operations (English/German) – Remote",
+    "description": "About The OpportunityWe are looking for experienced Manufacturing and Industrial Operations professionals to support a cutting-edge AI benchmarking project focused on industrial, production, and supply chain environments. As a Subject Matter Expert, you will create and review realistic, high-quality scenarios that refl",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-manufacturing-industrial-operations-english-german-remote-berlin-247498",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747622000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-healthcare-social-assistance-german-remote-berlin-455803",
+    "title": "Subject Matter Expert – Healthcare & Social Assistance (German) – Remote",
+    "description": "About The OpportunityWe are seeking experienced healthcare and social assistance professionals to contribute to a cutting-edge AI benchmarking project in the target language. As a Subject Matter Expert, you will help create and review realistic healthcare administrative and clinical scenarios that reflect real-world pa",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-healthcare-social-assistance-german-remote-berlin-455803",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747622000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-finance-german-remote-berlin-190490",
+    "title": "Subject Matter Expert – Finance (German) – Remote",
+    "description": "About The OpportunityWe are seeking experienced professionals in Finance and Financial Services to contribute to a cutting-edge AI benchmarking project in the target language. As a Subject Matter Expert, you will create and review high-quality, real-world financial scenarios that evaluate AI systems in language-specifi",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-finance-german-remote-berlin-190490",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747621000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-natural-sciences-german-remote-berlin-322440",
+    "title": "Subject Matter Expert – Natural Sciences (German) – Remote",
+    "description": "About The OpportunityWe are seeking experienced professionals in Natural Sciences to contribute to a cutting-edge AI benchmarking project in the target language. As a Subject Matter Expert, you will create and review high-quality, real-world natural sciences scenarios that evaluate AI systems in the target locale-speci",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-natural-sciences-german-remote-berlin-322440",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747621000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-voice-talent-german-remote-berlin-172535",
+    "title": "Voice Talent - German - Remote",
+    "description": "About The OpportunityWe are looking for professional or semi-professional voice talents with a passion for language and technology for an exciting project. The recordings will be used for model training.What You’ll Deliver Voice SamplesVoice qualities of interest:Age-appropriate vocal quality. The voice should sound in",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/voice-talent-german-remote-berlin-172535",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747621000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-subject-matter-expert-mathematics-german-remote-berlin-293155",
+    "title": "Subject Matter Expert – Mathematics (German) – Remote",
+    "description": "About The OpportunityWe are seeking experienced professionals in Mathematics to contribute to a cutting-edge AI benchmarking project in the target language. As a Subject Matter Expert, you will create and review high-quality, real-world mathematical scenarios that evaluate AI systems in the target locale-specific conte",
+    "link": "https://www.arbeitnow.com/jobs/companies/lilt-production/subject-matter-expert-mathematics-german-remote-berlin-293155",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785747621000,
+    "budget": "Not specified",
+    "client_country": "Germany (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-berlin-299777",
+    "title": "Enterprise Account Executive (f/m/d)",
+    "description": "Most enterprise buyers in industrial verticals have lived with the same frontline training problem for years because nothing they tried actually stuck. Sub-2% churn across nearly 500 customers in DACH is the evidence that changes that story. You walk into board conversations not as a vendor pitching a new idea, but wit",
+    "link": "https://www.arbeitnow.com/jobs/companies/doinstruct/enterprise-account-executive-berlin-299777",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785746436000,
+    "budget": "Not specified",
+    "client_country": "Remote within Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-customer-operations-associate-berlin-39142",
+    "title": "Customer Operations Associate (f/m/x)",
+    "description": "doinstruct builds training software for the frontline workforce: shift supervisors, machine operators, and field teams at manufacturers, logistics companies, and industrial enterprises. For these companies, getting people trained, keeping them compliant, and making sure they can do their job is how daily operations run",
+    "link": "https://www.arbeitnow.com/jobs/companies/doinstruct/customer-operations-associate-berlin-39142",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785746436000,
+    "budget": "Not specified",
+    "client_country": "Remote within Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-optical-interconnect-process-engineer-london-343054",
     "title": "Optical Interconnect Process Engineer",
     "description": "About OLIXAI is growing faster than any technology in history and the explosion in demand has created a massive infrastructure gap; we can no longer build chips or power stations fast enough to keep up. The industry is still leaning on a ten-year-old hardware blueprint that has reached its limit. A new paradigm that is",
@@ -2091,6 +2543,26 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1135979",
+    "title": "Apply Support Engineer",
+    "description": "Salary: $2,300- $3,000 monthlyVacancy: 07 PersonExperiences: 2-3 Years.Education: Bachelor Completed.Salary: $2,300- $3,000 monthlyVacancy: 07 PersonExperiences: 2-3 Years.Education: Bachelor Completed.Salary: $2,300- $3,000 monthlyVacancy: 07 PersonExperiences: 2-3 Years.Education: Bachelor Completed.Please mention th",
+    "link": "https://remoteOK.com/remote-jobs/remote-apply-support-engineer-markelic-llc-1135979",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785670258000,
+    "budget": "Not specified",
+    "client_country": "Bachelor, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bachelor,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-commercial-data-scientist-london-113599",
     "title": "Commercial Data Scientist",
     "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
@@ -2436,6 +2908,26 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1135961",
+    "title": "Estimator",
+    "description": "Want to learn more about this role and Jobot? Click our Jobot logo and followour LinkedIn page!Job details:Top General Contractor with High Tech ProjectsThis Jobot Job is hosted by: Logan RidgeAre you a fit? Easy Apply now by clicking the \"Easy Apply\" buttonand sending us your resume.Salary: $85,000 - $185,000 per year",
+    "link": "https://remoteOK.com/remote-jobs/remote-estimator-jobot-1135961",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785661951000,
+    "budget": "Not specified",
+    "client_country": "Lansdale, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Lansdale,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-software-engineering-frankfurt-am-main-304380",
     "title": "Working Student Software Engineering (m/f/d)",
     "description": "Are you a Bachelor’s or Master’s student in the Rhein-Main area who is passionate about shaping the financial world of tomorrow and eager to level up your skills by working on real projects in a modern FinTech environment?Then Ginmon is the right place for you!We are an innovative FinTech company focused on digital wea",
@@ -2673,6 +3165,28 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1136017",
+    "title": "Cleansing Crew Operators",
+    "description": "DescriptionInner-City, Sydney locationFull Time/Permanent opportunity - Multiple positions available across day, afternoon and night shifts$75,609 per annum plus superannuationAbout The RoleStep into a dynamic role where every shift makes a visible difference to the city you help keep clean and vibrant. Sydney is a vib",
+    "link": "https://remoteOK.com/remote-jobs/remote-cleansing-crew-operators-indigenousx-1136017",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "2d ago",
+    "posted_ts": 1785516171000,
+    "budget": "Not specified",
+    "client_country": "Sydney, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Sydney,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-synthetic-monitoring-sweden-remote-31516",
     "title": "Software Engineer - Synthetic Monitoring | Sweden | Remote",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud&",
@@ -2808,6 +3322,28 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1135997",
+    "title": "BMS Service Technician",
+    "description": "Job DescriptionJohnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data ce",
+    "link": "https://remoteOK.com/remote-jobs/remote-bms-service-technician-johnson-controls-1135997",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "3d ago",
+    "posted_ts": 1785488555000,
+    "budget": "Not specified",
+    "client_country": "Warana, ",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "rok-1135735",
     "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
     "description": "Employment Type: Full-time Contractor, RemoteWorking Hours: 9:00 AM â 6:00 PM Â Local Time About the RoleWe are looking for a proactiveÂ GenAI Engineer / AI Builder/ AI Agent Associate / AI Application Specialist to design and build AI-powered workflows and AI Agents that enhance business productivity across multiple",
@@ -2828,6 +3364,30 @@
     "is_freelance": true,
     "region_locked": false,
     "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136027",
+    "title": "Plant Fitter",
+    "description": "Youâll connect Queensland. Weâll connect you to an amazing career.Queensland Rail is built on true connection. We are a large and fully integrated infrastructure business chartered with a responsibility that is pivotal to the success of Queensland and its people. Our culture is one based on safety and performance.O",
+    "link": "https://remoteOK.com/remote-jobs/remote-plant-fitter-queensland-rail-1136027",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "c",
+      "react",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "3d ago",
+    "posted_ts": 1785474174000,
+    "budget": "Not specified",
+    "client_country": "Townsville, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Townsville,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -2932,6 +3492,30 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136030",
+    "title": "Hardship &amp; Insolvency Specialist",
+    "description": "Not your average lender. Not your average workplace. &nbsp; At Jacaranda Finance, we do lending differently. We're an award-winning, Australian-owned digital consumer lender on a mission to help everyday Australians build a better financial future. Our mission is simple but powerful: To be the backup lender of choice f",
+    "link": "https://remoteOK.com/remote-jobs/remote-hardship-amp-insolvency-specialist-jacaranda-finance-1136030",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "c",
+      "react",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "3d ago",
+    "posted_ts": 1785454780000,
+    "budget": "Not specified",
+    "client_country": "Milton, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Milton,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -3250,6 +3834,28 @@
     "is_freelance": false,
     "region_locked": false,
     "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136003",
+    "title": "Technician Field Service",
+    "description": "Being part of Cummins means working alongside todayâs most innovative thinkers to solve the worldâs toughest problems. We are proud to offer learning and development opportunities designed to promote individual performance and spark purpose and trust within our teams. We look to hire the best and then help you to b",
+    "link": "https://remoteOK.com/remote-jobs/remote-technician-field-service-cummins-asia-pacific-1136003",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "4d ago",
+    "posted_ts": 1785404956000,
+    "budget": "Not specified",
+    "client_country": "Muswellbrook, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Muswellbrook,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
