@@ -1,5 +1,76 @@
 [
   {
+    "id": "arbeitnow-python-developer-data-analytics-team-options-market-making-london-360202",
+    "title": "Python Developer - Data & Analytics Team - Options Market Making",
+    "description": "&lt;p&gt;Maven is a market-leading proprietary trading firm deploying its own capital across discretionary, systematic, and market-making strategies. Backed by deep expertise in trading, technology, and research, we are relentlessly focused on improving liquidity across global listed derivatives. Through advanced execu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/mavensecuritiesholdingltd/python-developer-data-analytics-team-options-market-making-london-360202",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "sql",
+      "c",
+      "c++",
+      "react",
+      "docker",
+      "algorithms"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785870996000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-platform-engineer-kubernetes-on-premises-london-113487",
+    "title": "Platform Engineer (Kubernetes on-premises)",
+    "description": "&lt;p&gt;Maven is a market-leading proprietary trading firm deploying its own capital across discretionary, systematic, and market-making strategies. Backed by deep expertise in trading, technology, and research, we are relentlessly focused on improving liquidity across global listed derivatives. Through advanced execu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/mavensecuritiesholdingltd/platform-engineer-kubernetes-on-premises-london-113487",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "docker",
+      "linux",
+      "git"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785870996000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-mid-market-account-executive-uki-new-business-104890",
+    "title": "Mid-Market Account Executive - UKI (New Business)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;color: #072b55;&quot;&gt;About Boomi and What Makes Us Special&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &lt;div&gt; &lt;p&gt;&lt;span style=&quot;color: #072b55;&quot;&gt;Are",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/boomilp/mid-market-account-executive-uki-new-business-104890",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785870917000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-performance-marketing-all-genders-berlin-404663",
     "title": "Working Student Performance Marketing (all genders)",
     "description": "Your roleWe are looking for a scrappy, execution-focused Working Student to act as the \"prolonged workbench\" for our Performance Marketing team. You won't just be watching the data, you’ll be the one building the briefs and basic creative assets that fuel our growth in DACH and across our International markets (FR, NL,",
@@ -2182,6 +2253,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136098",
+    "title": "BHASKAR BHARAT SAWANT",
+    "description": "BAM Global Chair @ Microsoft | Virtualization Specialist, Health and Life Sciences | Public Motivational SpeakerPlease mention the word **SMARTEST** and tag RMTMyLjE5Ni44MC4xMzQ= when applying to show you read the job post completely (#RMTMyLjE5Ni44MC4xMzQ=). This is a beta feature to avoid spam applicants. Companies c",
+    "link": "https://remoteOK.com/remote-jobs/remote-bhaskar-bharat-sawant-beer-city-code-1136098",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785760893000,
+    "budget": "Not specified",
+    "client_country": "Lead, ",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -7331,6 +7422,27 @@
     "client_country": "YC Network",
     "status": "Discovered",
     "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-stripe-backend-engineer-ai-security",
+    "title": "Stripe: Backend Engineer, AI Security",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; New York, San Francisco, Seattle, or Remote (US/Canada) &lt;/p&gt; &lt;h2&gt;Who we are&lt;/h2&gt; &lt;h3&gt;About Stripe&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to t",
+    "link": "https://weworkremotely.com/remote-jobs/stripe-backend-engineer-ai-security",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "llm",
+      "ai agents"
+    ],
+    "posted_at": "13d ago",
+    "posted_ts": 1784703666000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
