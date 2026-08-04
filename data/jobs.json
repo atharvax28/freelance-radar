@@ -1,5 +1,176 @@
 [
   {
+    "id": "arbeitnow-remote-account-executive-329924",
+    "title": "Account Executive",
+    "description": "About SingularSingular is the leading marketing measurement platform trusted by 1,000+ global brands, including Apple, Microsoft, Uber, DoorDash, Nike, EA, DraftKings, and Robinhood. Ranked as the #1 MMP by G2 for 3 years in a row, Singular enables marketers to make smarter user acquisition decisions and analyze the im",
+    "link": "https://www.arbeitnow.com/jobs/companies/singular/remote-account-executive-329924",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785855687000,
+    "budget": "Not specified",
+    "client_country": "EMEA Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-engineer-berlin-10909",
+    "title": "Full-Stack Engineer (f/m/d)",
+    "description": "Please note: For this position, we are unable to offer visa sponsorship or relocation support. Applicants must already hold the legal right to work in Germany (e.g., EU/EEA citizenship or a valid residence/work permit). About usZenjob is an AI-powered flexible staffing platform that has efficiently connected companies ",
+    "link": "https://www.arbeitnow.com/jobs/companies/zenjob/full-stack-engineer-berlin-10909",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785855629000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-engineer-working-student-berlin-51151",
+    "title": "Product Engineer — Working Student",
+    "description": "&lt;p&gt;&lt;strong&gt;Working Student - Product Engineer&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Over 4 million merchants use our card readers to process payments in 34 countries. As we build a world where every business can thrive, we continually expand our range of products and services. We are a truly global fintech comp",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/product-engineer-working-student-berlin-51151",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "next.js",
+      "node.js",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785855336000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-berlin-308711",
+    "title": "Software Engineer",
+    "description": "&lt;h1&gt;Senior Backend Engineer — Global Expansion&lt;/h1&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;The Global Expansion Acquiring Squad is the engine behind SumUp&#39;s growth into new markets — integrating local payment acquirers, enabling merchant onboarding, and ensuring transactions flow reliably across c",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/software-engineer-berlin-308711",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785855336000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-executive-assistant-to-co-cro-heidelberg-384250",
+    "title": "Executive Assistant (f/m/d) to Co-CRO",
+    "description": "We are looking for a motivated, highly-organized and detail-oriented (Senior) Executive Assistant to support one of our two Co-CROs. The role can be full or part-time in our Heidelberg HQ, perfect for an experienced EA looking for a change or returning to the workforce.You will work as part of the CRO Office within a c",
+    "link": "https://www.arbeitnow.com/jobs/companies/aleph-alpha/executive-assistant-to-co-cro-heidelberg-384250",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785854411000,
+    "budget": "Not specified",
+    "client_country": "Heidelberg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Heidelberg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-engineer-working-student-berlin-489909",
+    "title": "Product Engineer — Working Student",
+    "description": "Working Student - Product Engineer Over 4 million merchants use our card readers to process payments in 34 countries. As we build a world where every business can thrive, we continually expand our range of products and services. We are a truly global fintech company, with 3,000+ people from 93 nationalities spread acro",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/product-engineer-working-student-berlin-489909",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "next.js",
+      "node.js",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785851125000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-consultant-innovation-venture-building-munich-141875",
+    "title": "Consultant - Innovation & Venture Building (m/f/d)",
+    "description": "Big thinking. Serious doing. Trinsik is an international business creation studio for organisations that want to move decisively into what's next. We uncover new opportunities, define what it takes to make them work, and build the businesses that bring them to life — with clarity, rigour and executional precision. In c",
+    "link": "https://www.arbeitnow.com/jobs/companies/trinsik-gmbh/consultant-innovation-venture-building-munich-141875",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785850535000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-london-17749",
+    "title": "Account Executive",
+    "description": "Our MissionJoin us in shaping the future of paid search intelligence.Adthena is an award-winning search intelligence platform powered by patented AI technology and a team of dedicated experts. We help brands, marketers, and agencies dominate their competitive landscapes with unparalleled insights into the paid search m",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/adthena/account-executive-london-17749",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785848515000,
+    "budget": "Not specified",
+    "client_country": "London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London, United Kingdom",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-it-security-specialist-winnersh-321048",
     "title": "IT Security Specialist",
     "description": "What is the job?Montu UK is entering an exciting new phase in its security journey: creating an independent, future-ready architecture for the UK and Europe. We’re moving beyond shared APAC infrastructure to establish our own tenants, controls and security ecosystem -built specifically for the unique demands of our rap",
