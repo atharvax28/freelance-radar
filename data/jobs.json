@@ -1,5 +1,137 @@
 [
   {
+    "id": "arbeitnow-executive-assistant-berlin-101644",
+    "title": "Executive Assistant (m/w/d)",
+    "description": "Als Executive Assistant (m/w/d) entlastest du unsere Führungskräfte im Bereich Technische Gebäudeausrüstung in einem anspruchsvollen, international ausgerichteten Arbeitsumfeld. Die Rolle ist geprägt von hoher Dynamik, vielen Kundenterminen und komplexen Prioritäten - genau hier bringst du Struktur, Überblick und Verlä",
+    "link": "https://www.arbeitnow.com/jobs/companies/buro-happold/executive-assistant-berlin-101644",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785834030000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-ai-product-engineer-24736",
+    "title": "AI Product Engineer",
+    "description": "YGO.ai is a VC-funded AI tourism platform looking for a Product Engineer who uses AI to ship fast.⚠️IMPORTANT: This is not a traditional coding role. You'll use Claude Code and other AI tools to 10x your output, always thinking about how the product or feature you are working on benefits the user. Also: we have no QA t",
+    "link": "https://www.arbeitnow.com/jobs/companies/ygo/remote-ai-product-engineer-24736",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "redis",
+      "docker",
+      "llm"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785834017000,
+    "budget": "Not specified",
+    "client_country": "Remote EU",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-backend-customer-success-engineer-kotlin-ecosystem-107469",
+    "title": "Backend Customer Success Engineer (Kotlin Ecosystem) -m/w/d",
+    "description": "&lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine checks and corrections, our tools speed up production, freeing developers to grow, discover, and create.&lt;/p&gt; &lt;p&gt;We’re now loo",
+    "link": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-backend-customer-success-engineer-kotlin-ecosystem-107469",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microservices",
+      "system design"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785833760000,
+    "budget": "Not specified",
+    "client_country": "Berlin; Munich; Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-salesforce-omnistudio-developer-eschborn-194484",
+    "title": "Salesforce OmniStudio Developer",
+    "description": "Role:Salesforce OmniStudio Developer Location: Germany work Mode : Remote Experience:5 to 10 yrs Contract Role Overview: We are seeking an experienced Salesforce Commerce Cloud Developer to join our digital commerce team. The ideal candidate will have hands-on experience in building scalable, headless eCommerce solutio",
+    "link": "https://www.arbeitnow.com/jobs/companies/market-cloud/salesforce-omnistudio-developer-eschborn-194484",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "react",
+      "node.js",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785828663000,
+    "budget": "Not specified",
+    "client_country": "Eschborn",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Eschborn",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-brand-creative-designer-140234",
+    "title": "Brand & Creative Designer",
+    "description": "We are looking for a visionary designer to elevate and evolve 0G's visual identity. In this role, you will act as the guardian of our brand, translating complex technology into stunning, accessible visuals. You will bridge the gap between product, community, and marketing, ensuring a cohesive narrative across every tou",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-brand-creative-designer-140234",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785826880000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-full-stack-london-65446",
+    "title": "Software Engineer | Full-Stack",
+    "description": "Meet DeepLDeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-like translation, improved writing and real",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deepl/software-engineer-full-stack-london-65446",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "react",
+      ".net core",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785826851000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-172192",
     "title": "Full-Stack Product Engineer, Ruby on Rails (m/f/d) at Solar Startup",
     "description": "About UsAt VREY, we're building the EnergyOS for multi-family buildings.Germany has over 3.3 million apartment buildings — and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.At the same time, regulation is forcing",
