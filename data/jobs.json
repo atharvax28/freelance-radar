@@ -1,5 +1,147 @@
 [
   {
+    "id": "arbeitnow-werkstudent-social-media-content-creation-w-wustermark-339523",
+    "title": "Werkstudent Social Media & Content Creation (w)",
+    "description": "Du liebst Social Media, Fashion und kreativen Content? Dann werde Teil von LINA BECKER GERMANY, einer international wachsenden Brautmodenmarke mit Sitz in Wustermark bei Berlin. Unsere Kollektionen werden von Brautmodengeschäften in ganz Europa verkauft. Damit unsere Marke auf Instagram, TikTok, Pinterest &#x26; Co. we",
+    "link": "https://www.arbeitnow.com/jobs/companies/lina-becker-germany-gmbh/werkstudent-social-media-content-creation-w-wustermark-339523",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785862828000,
+    "budget": "Not specified",
+    "client_country": "Wustermark",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-presales-solutions-engineer-london-459086",
+    "title": "Presales Solutions Engineer",
+    "description": "\"Joining Absorb as a Solutions Engineer was the best career move I've made. I get to blend my technical skills with client-facing expertise, all while working alongside brilliant minds and under incredible leadership. From customizing our LMS for unique industry needs to staying ahead of e-learning trends, there's alwa",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/absorblms/presales-solutions-engineer-london-459086",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785858122000,
+    "budget": "Not specified",
+    "client_country": "Remote UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-ai-engineer-93547",
+    "title": "AI Engineer",
+    "description": "About the RoleWe're a fast-moving, early-stage startup operating in the AI-powered talent acquisition space, and we're hiring AI Engineers to tackle two of our most critical technical challenges: scaling our backend infrastructure and optimizing the LLM and AI agent flows that power our core product. You'll join a smal",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-ai-engineer-93547",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785858119000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-core-developer-node-28520",
+    "title": "Core Developer - Node",
+    "description": "About UsParity is one of the world’s most experienced companies building the core infrastructure behind blockchain - the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and em",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/parity/remote-core-developer-node-28520",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785858091000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-legal-counsel-london-418313",
+    "title": "Legal Counsel",
+    "description": "Our MissionAt Omnea, we’re reinventing how enterprise businesses operate, starting with the most painful parts: procurement – where a single purchase can drag on for months, trigger 50+ emails, and pull in Finance, Legal, Security, and IT just to get something approved.We’ve raised $75M from Khosla Ventures, Insight Pa",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/omnea/legal-counsel-london-418313",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "mongodb"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785858067000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-business-development-representative-london-335104",
+    "title": "Business Development Representative",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/business-development-representative-london-335104",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785858009000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-engineer-london-403076",
+    "title": "Full Stack Engineer",
+    "description": "About Legal 500Legal 500 is a global legal market research, data and intelligence business. Our research helps corporate clients make informed decisions about legal representation and gives law firms insight into their market position, performance, and clients.Beyond research, we’re building a growing data, benchmarkin",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/full-stack-engineer-london-403076",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "node.js"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785858006000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-329924",
     "title": "Account Executive",
     "description": "About SingularSingular is the leading marketing measurement platform trusted by 1,000+ global brands, including Apple, Microsoft, Uber, DoorDash, Nike, EA, DraftKings, and Robinhood. Ranked as the #1 MMP by G2 for 3 years in a row, Singular enables marketers to make smarter user acquisition decisions and analyze the im",
