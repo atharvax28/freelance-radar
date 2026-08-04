@@ -1,5 +1,265 @@
 [
   {
+    "id": "arbeitnow-full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-172192",
+    "title": "Full-Stack Product Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+    "description": "About UsAt VREY, we're building the EnergyOS for multi-family buildings.Germany has over 3.3 million apartment buildings — and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.At the same time, regulation is forcing",
+    "link": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-product-engineer-ruby-on-rails-at-solar-startup-berlin-172192",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "react",
+      "postgresql",
+      "aws",
+      "ci/cd",
+      "design systems"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785823266000,
+    "budget": "Not specified",
+    "client_country": "Berlin HQ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin HQ",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-490930",
+    "title": "Full-Stack Software Engineer, Ruby on Rails (m/f/d) at Solar Startup",
+    "description": "About UsAt VREY, we're building the EnergyOS for multi-family buildings.Germany has over 3.3 million apartment buildings — and they are the blind spot of the energy transition. &lt;1% solar penetration. &lt;2% smart metering. Almost no flexibility or intelligent energy management.At the same time, regulation is forcing",
+    "link": "https://www.arbeitnow.com/jobs/companies/vrey/full-stack-software-engineer-ruby-on-rails-at-solar-startup-berlin-490930",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "react",
+      "postgresql",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785823266000,
+    "budget": "Not specified",
+    "client_country": "Berlin HQ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin HQ",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-backend-engineer-berlin-296634",
+    "title": "Backend Engineer (m/f/x)",
+    "description": "Are you passionate about building event-driven systems?Do you have a strong grasp of Kotlin or Go?Do you enjoy finding solutions for significantly impactful challenges?If the answers to the above questions are yes, then this role could be ideal for you! What you will do&nbsp;Build greenfield mission-critical services a",
+    "link": "https://www.arbeitnow.com/jobs/companies/grid-esports-gmbh/remote-backend-engineer-berlin-296634",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "rest apis",
+      "docker",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785822652000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-internship-berlin-270668",
+    "title": "Internship",
+    "description": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US banks are left with two unsatisfying options to access it: Eith",
+    "link": "https://www.arbeitnow.com/jobs/companies/augustus/internship-berlin-270668",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785822029000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-growth-associate-berlin-288981",
+    "title": "Growth Associate",
+    "description": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US banks are left with two unsatisfying options to access it: Eith",
+    "link": "https://www.arbeitnow.com/jobs/companies/augustus/growth-associate-berlin-288981",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785822029000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-office-events-working-student-berlin-232608",
+    "title": "Office & Events Working Student",
+    "description": "Few people get to build a bank from scratch. Even fewer get to build one at a moment when banking itself is being reinvented.The Dollar is the best product in the history of the world - there is infinite global demand. But International Fintechs and non-US banks are left with two unsatisfying options to access it: Eith",
+    "link": "https://www.arbeitnow.com/jobs/companies/augustus/office-events-working-student-berlin-232608",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785822029000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-executive-assistant-to-co-cro-heidelberg-496586",
+    "title": "Executive Assistant (f/m/d) to Co-CRO",
+    "description": "We are looking for a motivated, highly-organized and detail-oriented (Senior) Executive Assistant to support one of our two Co-CROs. The role can be full or part-time in our Heidelberg HQ, perfect for an experienced EA looking for a change or returning to the workforce.You will work as part of the CRO Office within a c",
+    "link": "https://www.arbeitnow.com/jobs/companies/alephalpha/executive-assistant-to-co-cro-heidelberg-496586",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785822027000,
+    "budget": "Not specified",
+    "client_country": "Heidelberg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Heidelberg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-systemadministratorin-cloud-engineer-openstack-linux-und-kubernetes-garching-bei-munchen-485201",
+    "title": "Systemadministratorin/Cloud Engineer (m/w/d) OpenStack, Linux und Kubernetes",
+    "description": "Beschreibung:Du suchst einen Arbeitgeber, mit dem du rechnen kannst? Dann komm zu uns an das Leibniz-Rechenzentrum als:Systemadministratorin/Cloud Engineer (m/w/d) OpenStack, Linux und Kubernetes Die Gruppe Infrastruktur Server and Services (ITS) stellt Virtualisierungslösungen bereit, die Grundlage vieler Services sin",
+    "link": "https://www.arbeitnow.com/jobs/companies/lrz/systemadministratorin-cloud-engineer-openstack-linux-und-kubernetes-garching-bei-munchen-485201",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "bash",
+      "linux",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785820154000,
+    "budget": "Not specified",
+    "client_country": "Garching bei München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Garching bei München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-systemadministratorin-backup-und-archivierung-garching-bei-munchen-23012",
+    "title": "Systemadministratorin (m/w/d) Backup- und Archivierung",
+    "description": "Beschreibung:Du suchst einen Arbeitgeber, mit dem du rechnen kannst? Dann komm zu uns an das Leibniz-Rechenzentrum als:Systemadministratorin (m/w/d) Backup- und Archivierung Das erwartet dich bei uns:Als Teil unseres Backup-Teams sorgst du für den zuverlässigen und performanten Betrieb unserer hochmodernen Backup- und ",
+    "link": "https://www.arbeitnow.com/jobs/companies/lrz/systemadministratorin-backup-und-archivierung-garching-bei-munchen-23012",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785820154000,
+    "budget": "Not specified",
+    "client_country": "Garching bei München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Garching bei München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-backend-engineer-iii-cardiff-112283",
+    "title": "Backend Engineer III",
+    "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;📍London or UK Remote | 💰 &lt;a href=&quot;https://monzo.com/documents/engineering-progression-framework-v4-1.pdf&quot;&gt;Engineer III&lt;/a&gt; &lt;br&gt;&lt;br&gt;Compensation: £85,000 - £110,000 +&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Incentive Awards tied t",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/monzoreferrals/backend-engineer-iii-cardiff-112283",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "react",
+      "system design",
+      "docker",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785815779000,
+    "budget": "Not specified",
+    "client_country": "Cardiff",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Cardiff",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-infrastructure-engineer-26095",
+    "title": "Infrastructure Engineer",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Tailscale&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corp",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/remote-infrastructure-engineer-26095",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785815731000,
+    "budget": "Not specified",
+    "client_country": "Remote (United States)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-ai-enablement-194961",
+    "title": "Software Engineer, AI Enablement",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Tailscale&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tailscale is building the new Internet by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corp",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tailscale/remote-software-engineer-ai-enablement-194961",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1785815731000,
+    "budget": "Not specified",
+    "client_country": "Remote (United States)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-brand-creative-designer-313773",
     "title": "Brand & Creative Designer",
     "description": "We are looking for a visionary designer to elevate and evolve 0G's visual identity. In this role, you will act as the guardian of our brand, translating complex technology into stunning, accessible visuals. You will bridge the gap between product, community, and marketing, ensuring a cohesive narrative across every tou",
@@ -1560,6 +1820,29 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1136024",
+    "title": "Join Our Team",
+    "description": "Qualified Plumbers Wanted in Geelong â $1,000 Sign-On + Above Award PayBay Plumbing &amp; Drainage is expanding. Weâre hiring experienced plumbers who want consistent work, a company that actually backs them, and a career worth showing up for.Apply Now â Takes 2 MinutesOr call us for a confidential chatJoin Our T",
+    "link": "https://remoteOK.com/remote-jobs/remote-join-our-team-bay-plumbing-amp-drainage-1136024",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c",
+      "react",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785739048000,
+    "budget": "Not specified",
+    "client_country": "South Geelong, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "South Geelong,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-battery-testing-all-genders-gauting-148288",
     "title": "Working Student Battery Testing (all genders)",
     "description": "Your Mission:Be part of aviation history at VÆRIDION, where we’re building the world’s first electric 9-seater aircraft. As a Working Student in Battery Testing (all genders) within the Test Department, you will support the validation of our battery system across all levels, from cell to module to pack and system integ",
@@ -1640,6 +1923,26 @@
     "is_freelance": false,
     "region_locked": false,
     "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1135957",
+    "title": "Build Anything Launch â 99 Seconds",
+    "description": "99-Seconds-AIHi! I want to start my project with 99sOpen appDon't have the app?Download it nowLooks like you don't have WhatsApp installed.Download appPlease mention the word **PREFERS** and tag RMjAuNjIuMjU0LjE3MA== when applying to show you read the job post completely (#RMjAuNjIuMjU0LjE3MA==). This is a beta feature",
+    "link": "https://remoteOK.com/remote-jobs/remote-build-anything-launch-99-seconds-clarity-fox-1135957",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785733432000,
+    "budget": "Not specified",
+    "client_country": "Enterprise, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Enterprise,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
