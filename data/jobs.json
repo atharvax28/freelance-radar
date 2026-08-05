@@ -958,6 +958,26 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1136182",
+    "title": "Currently no vacancies",
+    "description": "How to apply for a job? You want a job: mail your application to jobs@securancy.com. Donât forget sending us also links to your social profile (e.g. stackoverflow, github), your portfolio or recent work you have done. We are intrigued: join a phone call to further introduce yourself and ask questions We all think it ",
+    "link": "https://remoteOK.com/remote-jobs/remote-currently-no-vacancies-securancy-intelligence-1136182",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785871569000,
+    "budget": "Not specified",
+    "client_country": "Division No. 11, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Division No. 11,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-python-developer-data-analytics-team-options-market-making-london-360202",
     "title": "Python Developer - Data & Analytics Team - Options Market Making",
     "description": "&lt;p&gt;Maven is a market-leading proprietary trading firm deploying its own capital across discretionary, systematic, and market-making strategies. Backed by deep expertise in trading, technology, and research, we are relentlessly focused on improving liquidity across global listed derivatives. Through advanced execu",
