@@ -1,5 +1,95 @@
 [
   {
+    "id": "arbeitnow-full-stack-engineer-blockchain-london-78935",
+    "title": "Full Stack Engineer, Blockchain",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;The world of digital assets is accelerating in speed, magnitude, and complexity, opening the door to new ways for leveraging the blockchain. Fireblocks’ platform and network provide the simplest and most secure way for companies to work with digital assets and it trus",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/full-stack-engineer-blockchain-london-78935",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "node.js",
+      "microservices",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785966953000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ux-designer-6-months-fixed-term-contract-314506",
+    "title": "UX Designer (6 Months Fixed Term Contract)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Why At Dotmatics&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Dotmatics, a Siemens company,&amp;nbsp; we believe science, data, and decision-making must be deeply intertwined for innovation to thrive. Our Portfolio includes Luma, LumaLab Connect, E",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/dotmatics/ux-designer-6-months-fixed-term-contract-314506",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "figma",
+      "design systems",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785966929000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-all-source-investigator-united-kingdom-246609",
+    "title": "All Source Investigator",
+    "description": "Build a Safer World.TRM Labs provides AI-powered intelligence solutions that help public and private sector agencies investigate and disrupt crime. TRM's platforms enable investigators to trace illicit activity, build cases, and construct operating pictures of threat networks. Leading agencies and businesses worldwide ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/trm-labs/all-source-investigator-united-kingdom-246609",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "notion",
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1785966008000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-junior-data-engineer-data-platform-355717",
+    "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+    "description": "1KOMMA5°At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, an",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-355717",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1785964174000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-account-executive-enterprise-munich-47302",
     "title": "Account Executive, Enterprise",
     "description": "Creatio is a global vendor of an agentic CRM &amp; workflow platform with no-code and AI at its core. We help organizations automate customer and operational workflows achieving the fastest time-to-value and the highest ROI on the market. Millions of workflows run on Creatio daily, supporting thousands of clients in ov",
