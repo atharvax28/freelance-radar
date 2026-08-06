@@ -1,5 +1,26 @@
 [
   {
+    "id": "arbeitnow-sap-developer-erfurt-227550",
+    "title": "SAP Developer",
+    "description": "About InCycling Every year €26 billion worth of perfectly usable chemical raw materials are getting destroyed, generating millions of tonnes of avoidable CO₂ emissions and hazardous waste, not because they lack value, but because no system exists to capture it. InCycling is changing that. We are building a cloud-native",
+    "link": "https://www.arbeitnow.com/jobs/companies/incycling-gmbh/sap-developer-erfurt-227550",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786017677000,
+    "budget": "Not specified",
+    "client_country": "Erfurt",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Erfurt",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-content-creation-remote-berlin-german-speaking-450055",
     "title": "Working Student Content Creation - Remote / Berlin (German Speaking)",
     "description": "Werkstudent:in Content Creation mit AI (m/w/d)Remote oder Berlin | bis 20 Std./Woche | 18-22 € pro Stunde | ab sofortÜber UplaneUplane will die Marketing-Industrie mit AI neu erfinden: Wir entwickeln und betreiben AI-Software, um Performance Marketing schneller, besser und effizienter zu machen. Als AI-fokussierte Mark",
@@ -1076,6 +1097,69 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136214",
+    "title": "Procurement Specialist",
+    "description": "We are looking for a detail-oriented Procurement Specialist to join our team in New York, New York in a contract capacity with the potential for a permanent role. This position will play an important role in supporting day-to-day purchasing operations, maintaining strong vendor documentation, and helping ensure procure",
+    "link": "https://remoteOK.com/remote-jobs/remote-procurement-specialist-robert-half-1136214",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785935587000,
+    "budget": "Not specified",
+    "client_country": "New York, New York, New York, United States",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "New York, New York, New York, United States",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136186",
+    "title": "No Open Roles Currently",
+    "description": "Reliable power backup solutions for homes and businesses. Official distributor of premium energy products.Please mention the word **INSTRUMENTAL** and tag RMTcyLjIwMy43LjU1 when applying to show you read the job post completely (#RMTcyLjIwMy43LjU1). This is a beta feature to avoid spam applicants. Companies can search ",
+    "link": "https://remoteOK.com/remote-jobs/remote-no-open-roles-currently-enerzo-tech-1136186",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785932671000,
+    "budget": "Not specified",
+    "client_country": "Enterprise, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Enterprise,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136223",
+    "title": "Cabin Crew Virtual Interviews PAN India",
+    "description": "Job Position SummaryTo provide excellent service to customers while ensuring their safety, security and comfort throughout the flight.Key Responsibilities Strictly adhere to and remain conversant &amp; compliant to set standard operating procedures as per the Government, DGCA and in Company Manuals. Maintain current kn",
+    "link": "https://remoteOK.com/remote-jobs/remote-cabin-crew-virtual-interviews-pan-india-akasa-air-1136223",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "embedded"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1785930349000,
+    "budget": "Not specified",
+    "client_country": "Bengaluru, ",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -9226,6 +9310,26 @@
     "client_country": "YC Network",
     "status": "Discovered",
     "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-coinbase-analytics-engineer-gfco-analytics",
+    "title": "Coinbase: Analytics Engineer, GFCO Analytics",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote - USA &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;Ready to do the most impactful work of your career? At&amp;nbsp;&lt;a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;amp;utm_source=coinbase\"&gt;Coinbase&lt;/a&gt;, we ",
+    "link": "https://weworkremotely.com/remote-jobs/coinbase-analytics-engineer-gfco-analytics",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "15d ago",
+    "posted_ts": 1784703692000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
