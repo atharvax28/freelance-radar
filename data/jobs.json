@@ -1,5 +1,27 @@
 [
   {
+    "id": "arbeitnow-research-scientist-london-160134",
+    "title": "Research Scientist",
+    "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hype cycles. We innovat",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/faculty/research-scientist-london-160134",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "git",
+      "pytorch"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786128008000,
+    "budget": "Not specified",
+    "client_country": "UK - London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-nordics-enterprise-444760",
     "title": "Account Executive - Nordics - Enterprise",
     "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
