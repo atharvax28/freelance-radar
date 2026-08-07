@@ -1,5 +1,54 @@
 [
   {
+    "id": "arbeitnow-software-engineer-identity-access-management-full-stack-london-346936",
+    "title": "Software Engineer | Identity & Access Management | Full-Stack",
+    "description": "Meet DeepLDeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-like translation, improved writing and real",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deepl/software-engineer-identity-access-management-full-stack-london-346936",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      ".net core",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786138819000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-solutions-engineer-emea-238236",
+    "title": "Solutions Engineer - EMEA",
+    "description": "Redpanda is the first runtime and control plane for agent-data interaction — a unified platform that combines streaming, SQL analytics, and intelligent connectivity with the governance layer enterprise AI agents need in production.Built on infrastructure already trusted by Fortune 500 companies and fast-growing startup",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/redpanda-data/remote-solutions-engineer-emea-238236",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "sql",
+      "linux",
+      "aws",
+      "ai agents",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786138818000,
+    "budget": "Not specified",
+    "client_country": "UK - Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-nordics-enterprise-331489",
     "title": "Account Executive - Nordics - Enterprise",
     "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
