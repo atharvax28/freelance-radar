@@ -1,5 +1,113 @@
 [
   {
+    "id": "arbeitnow-quality-testing-engineer-augsburg-89709",
+    "title": "Quality Testing Engineer (m/w/d)",
+    "description": "Wir suchen Dich, um gemeinsam mit Dir Großes zu bewirken! Lass uns mit 40h/Woche am Standort Augsburg oder Berlin starten. Unsere Mission bei mopla ist es mit smarten Lösungen die Zukunft der öffentlichen Mobilitätsangebote neu zu gestalten. Ganz klar: Nachhaltiger, effizienter und flexibler. mopla ist eine unabhängige",
+    "link": "https://www.arbeitnow.com/jobs/companies/mopla-solutions-gmbh/quality-testing-engineer-augsburg-89709",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786109431000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-grafikdesigner-mediengestalter-e-commerce-munchen-475986",
+    "title": "Grafikdesigner/ Mediengestalter (m/w/d) E-Commerce",
+    "description": "Du bist ein echter Grafikdesign Rockstar und interessiert an E-Commerce? Dann verstärke unser Team in München, der Weltstadt mit Herz, als Grafikdesigner/ Mediengestalter E-Commerce (m/w/d).VALUEZON ist eine international tätige Unternehmensberatung, die Kunden – vom Startup bis zum Weltkonzern – bei allen strategische",
+    "link": "https://www.arbeitnow.com/jobs/companies/valuezon-gmbh/grafikdesigner-mediengestalter-e-commerce-munchen-475986",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786108816000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-backend-engineer-golang-balance-management-berlin-98909",
+    "title": "Backend Engineer (Golang) - Balance Management",
+    "description": "&lt;p&gt;At SumUp, the&amp;nbsp;&lt;strong&gt;Global Bank team &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The &lt;strong&gt;Balance Management Squad&lt;/strong&gt; si",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-balance-management-berlin-98909",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design",
+      "postgresql",
+      "docker",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1786103729000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-backend-engineer-transfers-gateway-berlin-91926",
+    "title": "Backend Engineer - Transfers Gateway",
+    "description": "&lt;p&gt;At SumUp, the &lt;strong&gt;Global Bank tribe &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital business account, helping small businesses manage their banking needs easily and reliably.&lt;/p&gt; &lt;p&gt;The &lt;strong&gt;Transfers Gateway squad &lt;/strong&gt;connects ",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-transfers-gateway-berlin-91926",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "aws"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1786103729000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-backend-engineer-money-transfers-berlin-286848",
+    "title": "Backend Engineer - Money Transfers",
+    "description": "&lt;p&gt;&lt;strong&gt;SumUp&lt;/strong&gt; builds simple, affordable financial tools that help over 4 million small businesses across 37 markets get paid, manage their money, and grow. Beyond card payments, we offer a full suite of financial products - business banking, lending, invoicing, and money transfers - giving",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-money-transfers-berlin-286848",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "aws"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1786103729000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "jobicy-145584",
     "title": "Software Development Engineer in Test",
     "description": "About the roleWe are looking for a Senior SDET (Software Development Engineer in Test) to improve software quality across the engineering organization through automation, testing platforms, quality standards and engineering enablement. This is not a feature-testing role. The focus is on building scalable quality soluti",
