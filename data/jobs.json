@@ -1,5 +1,25 @@
 [
   {
+    "id": "jobicy-145584",
+    "title": "Software Development Engineer in Test",
+    "description": "About the roleWe are looking for a Senior SDET (Software Development Engineer in Test) to improve software quality across the engineering organization through automation, testing platforms, quality standards and engineering enablement. This is not a feature-testing role. The focus is on building scalable quality soluti",
+    "link": "https://jobicy.com/jobs/145584-software-development-engineer-in-test",
+    "source": "Jobicy",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1786077308000,
+    "budget": "Not specified",
+    "client_country": "EMEA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-automation-engineer-pam-cpbf-edinburgh-399725",
     "title": "Automation Engineer (PAM/CPBF)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;AST SpaceMobile is building the first and only global cellular broadband network in space to operate directly with standard, unmodified mobile devices based on our extensive IP and patent portfolio and designed for both commercial and government applications. Our engi",
