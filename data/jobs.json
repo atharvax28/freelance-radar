@@ -1,5 +1,98 @@
 [
   {
+    "id": "arbeitnow-chemistry-expert-uk-london-424772",
+    "title": "Chemistry Expert (UK)",
+    "description": "Location: RemoteType: Contract / Part-timeCommitment: 10-20 hours per weekCompensation: Up to 40 USD / hrProject duration: 2 months, with potential extensionAbout the roleWe create high-quality STEM training data for frontier AI models that is directly used in training and evaluation workflows at leading AI labs.We are",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/anyone-ai/chemistry-expert-uk-london-424772",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786192811000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "United Kingdom",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-full-stack-engineer-retail-media-84755",
+    "title": "Full Stack Engineer: Retail Media",
+    "description": "About UsConstructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-full-stack-engineer-retail-media-84755",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "sql",
+      "react",
+      "fastapi",
+      "flask",
+      "postgresql",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786192809000,
+    "budget": "Not specified",
+    "client_country": "Remote - EMEA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-data-analyst-retail-media-360467",
+    "title": "Data Analyst: Retail Media",
+    "description": "About UsConstructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use its core and personalization capabilities ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-data-analyst-retail-media-360467",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786192809000,
+    "budget": "Not specified",
+    "client_country": "Remote - EMEA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-working-student-market-business-intelligence-277530",
+    "title": "Working Student - Market & Business Intelligence (f/m/x)",
+    "description": "Your missionOur Market Intelligence and Business Development team plays a pivotal role in driving our company's strategic growth within the fast-evolving eMobility sector. We focus on harnessing the power of data to inform our decision-making processes and guide our expansion. As part of our team, you'll develop sophis",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/ionity-gmbh/remote-working-student-market-business-intelligence-277530",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786190972000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-chemistry-expert-germany-berlin-156072",
     "title": "Chemistry Expert (Germany)",
     "description": "Location: RemoteType: Contract / Part-timeCommitment: 10-20 hours per weekCompensation: Up to 40 USD / hrProject duration: 2 months, with potential extensionAbout the roleWe create high-quality STEM training data for frontier AI models that is directly used in training and evaluation workflows at leading AI labs.We are",
