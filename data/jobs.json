@@ -1,5 +1,46 @@
 [
   {
+    "id": "arbeitnow-werkstudentin-web-developement-frontend-koln-34371",
+    "title": "Werkstudent*in - Web Developement / Frontend",
+    "description": "Aus Europa, für Europa – Wir bauen Europas Business-KI.Wir sind amber, ein wachsendes und innovatives KI-Startup. KMUs profitieren davon, wenn internes Wissen sofort nutzbar wird und intelligente Agenten darauf reagieren können. Wir glauben an eine Zukunft, in der Business-KI, einschließlich Agenten, in einer gemeinsam",
+    "link": "https://www.arbeitnow.com/jobs/companies/amber/werkstudentin-web-developement-frontend-koln-34371",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "react"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786221623000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-business-development-representative-munich-306371",
+    "title": "Business Development Representative",
+    "description": "About ZipZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.The world’s most influential enterprises",
+    "link": "https://www.arbeitnow.com/jobs/companies/zip/business-development-representative-munich-306371",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786221616000,
+    "budget": "Not specified",
+    "client_country": "Remote - Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-alts-data-ops-analyst-edinburgh-129143",
     "title": "Alts Data Ops Analyst",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelli",
