@@ -1,5 +1,89 @@
 [
   {
+    "id": "arbeitnow-junior-engineer-ai-berlin-151047",
+    "title": "Junior Engineer (AI)",
+    "description": "This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).We are building the future of marketing by rew",
+    "link": "https://www.arbeitnow.com/jobs/companies/almedia/junior-engineer-ai-berlin-151047",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "node.js",
+      "llm",
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786146014000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-webflow-visual-specialist-all-genders-munich-131643",
+    "title": "Webflow & Visual Specialist (all genders)",
+    "description": "You’re not just designing websites, you’re building and shipping the experiences that shape how Lio shows up to the world.As our Webflow &amp; Visual Specialist, you’ll work closely with our Founding Brand Operator, CEO, and GTM team to continuously build and improve Lio’s website. You’ll turn concepts and Figma design",
+    "link": "https://www.arbeitnow.com/jobs/companies/lio/webflow-visual-specialist-all-genders-munich-131643",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786146010000,
+    "budget": "Not specified",
+    "client_country": "Munich Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-web-visual-designer-all-genders-munich-148875",
+    "title": "Web & Visual Designer (all genders)",
+    "description": "You’re not just designing websites, you’re building and shipping the experiences that shape how Lio shows up to the world.As our Web &amp; Visual Design Intern, you’ll work closely with our Founding Brand Operator, CEO, and GTM team to continuously build and improve Lio’s website. You’ll turn concepts and Figma designs",
+    "link": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-148875",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786146010000,
+    "budget": "Not specified",
+    "client_country": "Munich Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-web-visual-designer-all-genders-munich-9849",
+    "title": "Web & Visual Designer (all genders)",
+    "description": "You’re not just designing websites, you’re building and shipping the experiences that shape how Lio shows up to the world.As our Web &amp; Visual Designer, you’ll work closely with our Founding Brand Operator, CEO, and GTM team to continuously build and improve Lio’s website. You’ll turn concepts and Figma designs into",
+    "link": "https://www.arbeitnow.com/jobs/companies/lio/web-visual-designer-all-genders-munich-9849",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786146010000,
+    "budget": "Not specified",
+    "client_country": "Munich Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-identity-access-management-full-stack-london-346936",
     "title": "Software Engineer | Identity & Access Management | Full-Stack",
     "description": "Meet DeepLDeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-like translation, improved writing and real",
