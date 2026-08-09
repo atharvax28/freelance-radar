@@ -1,5 +1,29 @@
 [
   {
+    "id": "arbeitnow-energy-nerd-developer-freiburg-im-breisgau-28468",
+    "title": "Energy Nerd / Developer - Freiburg im Breisgau",
+    "description": "“We design the infrastructure systems of tomorrow!” – With you? We are convinced that the transformation towards sustainable, resilient and efficient infrastructures does not have to be complicated. We provide municipalities, utilities, grid operators and other infrastructure stakeholders with the data, analyses and de",
+    "link": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/energy-nerd-developer-freiburg-im-breisgau-28468",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "git",
+      "ci/cd",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786273224000,
+    "budget": "Not specified",
+    "client_country": "Freiburg im Breisgau",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Freiburg im Breisgau",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-developer-risk-technology-london-montreal-bangalore-warsaw-11528",
     "title": "Software Developer - Risk Technology",
     "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Risk Technology is a global team that designs, builds and maintains Squarepoint’s trading risk platform, which is responsible for trade capture, position management, profit/loss computation, inventory/locate management and internal order routin",
