@@ -1,5 +1,78 @@
 [
   {
+    "id": "arbeitnow-software-developer-risk-technology-london-montreal-bangalore-warsaw-11528",
+    "title": "Software Developer - Risk Technology",
+    "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Risk Technology is a global team that designs, builds and maintains Squarepoint’s trading risk platform, which is responsible for trade capture, position management, profit/loss computation, inventory/locate management and internal order routin",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/software-developer-risk-technology-london-montreal-bangalore-warsaw-11528",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "bash",
+      "c",
+      "c++",
+      "linux",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786269306000,
+    "budget": "Not specified",
+    "client_country": "London, Montreal, Bangalore & Warsaw",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-developer-data-pipelines-python-london-montreal-madrid-bangalore-66834",
+    "title": "Software Developer - Data Pipelines (Python)",
+    "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are seeking an experienced Python developer to join our Alpha Data team, responsible for delivering a vast quantity of data served to users worldwide. You will be a cornerstone of a growing Data team, becoming a technical subject matter expe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/software-developer-data-pipelines-python-london-montreal-madrid-bangalore-66834",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "c++",
+      "aws",
+      "s3"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786269306000,
+    "budget": "Not specified",
+    "client_country": "London, Montreal, Madrid, Bangalore",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-developer-risk-data-pipelines-bangalore-montreal-warsaw-242689",
+    "title": "Software Developer - Risk Data Pipelines",
+    "description": "&lt;p&gt;&lt;strong&gt;Position Overview:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Risk Technology &lt;/strong&gt;develops core services and systems required by Squarepoint’s systematic and quantitative trading strategies, such as real-time risk controls, position/inventory/P&amp;amp;L monitoring, internal order",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/squarepointcapital/software-developer-risk-data-pipelines-bangalore-montreal-warsaw-242689",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786269306000,
+    "budget": "Not specified",
+    "client_country": "Bangalore, Montreal, Warsaw",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-enterprise-account-executive-munich-114943",
     "title": "Enterprise Account Executive",
     "description": "Your ImpactAs an Enterprise Account Executive, you will play a key role in driving Tacto’s expansion into large, complex industrial organizations. You are responsible for guiding enterprise deals from qualified opportunity to contract signature and will directly shape how Tacto wins and grows in the enterprise segment.",
