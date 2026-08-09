@@ -1,5 +1,135 @@
 [
   {
+    "id": "arbeitnow-remote-forward-deployment-engineer-329361",
+    "title": "Forward Deployment Engineer",
+    "description": "About the RoleWe're a fast-growing, seed-stage European startup building an AI-powered phone assistant platform for small and medium-sized businesses. Our product automates inbound and outbound calls, appointment scheduling, customer service interactions, and more — and we're looking for a Forward Deployment Engineer t",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-forward-deployment-engineer-329361",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "sql",
+      "n8n",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786300811000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-founding-product-engineer-38544",
+    "title": "Founding Product Engineer",
+    "description": "About the RoleThis is a founding-level product engineering role at a fast-growing, European-headquartered startup building an AI-powered phone assistant for small and medium-sized businesses. The platform automates inbound and outbound calls, appointment scheduling, customer service, and other communication workflows —",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-product-engineer-38544",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "node.js"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786300811000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-founding-cloud-infrastructure-engineer-80378",
+    "title": "Founding Cloud Infrastructure Engineer",
+    "description": "About the RoleWe are a well-funded, early-stage company building an enterprise context layer that makes AI agents reliable, accurate, and secure for critical business operations in highly regulated industries such as insurance, asset management, banking, healthcare, and logistics. Our platform automatically builds a ho",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-cloud-infrastructure-engineer-80378",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws",
+      "ci/cd",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786300811000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-founding-enterprise-account-executive-151062",
+    "title": "Founding Enterprise Account Executive",
+    "description": "About the RoleA fast-growing, early-stage B2B SaaS company building an AI-native pricing optimization platform is looking for a Founding Enterprise Account Executive to own and scale enterprise sales from the ground up. You'll work shoulder-to-shoulder with the founding team to define GTM strategy, build repeatable pla",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-enterprise-account-executive-151062",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786300811000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-founding-scientist-co-founder-187325",
+    "title": "Founding Scientist / Co-Founder",
+    "description": "About the RoleThis is a rare opportunity to join as a Founding Scientist / Co-Founder at an early-stage AI-for-biology startup based in Germany. This role sits at the intersection of wet-lab science and computational AI — you will help shape the company's scientific strategy, build core technology, and bridge hands-on ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/clera/remote-founding-scientist-co-founder-187325",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786300811000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-onboarding-customer-success-mit-performance-marketing-erfahrung-creative-strategy-e-commerce-cologne-143510",
+    "title": "Onboarding & Customer Success mit Performance Marketing Erfahrung + Creative Strategy / E-commerce (w/m/d)",
+    "description": "Mit DatAds haben wir uns ein großes Ziel gesetzt: Wir wollen den Ad Creative Prozess auf das nächste Level bringen. Unsere Software ist die Brücke zwischen datengetriebenen Performance Marketing und innovativen Creative Teams. Damit ermöglichen wir Performance Marketern und Creative Designern optimal zusammenzuarbeiten",
+    "link": "https://www.arbeitnow.com/jobs/companies/datads/onboarding-customer-success-mit-performance-marketing-erfahrung-creative-strategy-e-commerce-cologne-143510",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786300230000,
+    "budget": "Not specified",
+    "client_country": "Cologne",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Cologne",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-founding-enterprise-account-executive-162148",
     "title": "Founding Enterprise Account Executive",
     "description": "About the RoleA fast-growing, early-stage B2B SaaS company building an AI-native pricing optimization platform is looking for a Founding Enterprise Account Executive to own and scale enterprise sales from the ground up. You'll work shoulder-to-shoulder with the founding team to define GTM strategy, build repeatable pla",
