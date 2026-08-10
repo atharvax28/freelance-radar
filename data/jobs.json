@@ -1,5 +1,76 @@
 [
   {
+    "id": "arbeitnow-machine-learning-engineer-london-86760",
+    "title": "Machine Learning Engineer",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep indust",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/baringa/machine-learning-engineer-london-86760",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "aws",
+      "ci/cd",
+      "pytorch",
+      "llm",
+      "mlops",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786398944000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-analyst-london-uk-8381",
+    "title": "Data Analyst (London, UK)",
+    "description": "&nbsp;This is a&nbsp;Full-Time Role (40 hours per week, 5DWW) with no option for part-time work. While this is a remote-first opportunity, the candidate filling this role must be a resident of the Netherlands or in the U.K. at the start of employment. Additionally, they must be within commuting distance of our office i",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/b-lab/data-analyst-london-uk-8381",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "postgresql",
+      "aws",
+      "llm"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786398326000,
+    "budget": "Not specified",
+    "client_country": "London, England, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London, England, United Kingdom",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-backend-distributed-systems-306240",
+    "title": "Software Engineer, Backend - Distributed Systems",
+    "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-backend-distributed-systems-306240",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786398020000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-backend-engineer-fintech-hamburg-484437",
     "title": "Backend Engineer - FinTech (M/F/D)",
     "description": "&lt;p&gt;Freenow empowers smarter mobility decisions helping people to move freely and cities to thrive.&lt;/p&gt; &lt;p&gt;This is an exciting time to join us: Freenow is now part of Lyft, and we&#39;re growing our tech organization as we integrate with Lyft&#39;s global platform and systems. That means more scale, mo",
