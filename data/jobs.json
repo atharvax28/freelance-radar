@@ -1,5 +1,95 @@
 [
   {
+    "id": "arbeitnow-software-engineer-full-stack-uk-london-237008",
+    "title": "Software Engineer, Full Stack - UK",
+    "description": "About EmaEma is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/ema/software-engineer-full-stack-uk-london-237008",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "react",
+      "postgresql",
+      "redis",
+      "docker",
+      "rag",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "36m ago",
+    "posted_ts": 1786473615000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom (Remote)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-forward-deployed-builder-london-357959",
+    "title": "Forward Deployed Builder",
+    "description": "About EmaEma is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/ema/forward-deployed-builder-london-357959",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "36m ago",
+    "posted_ts": 1786473615000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom (Remote)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-strategist-uk-london-417907",
+    "title": "AI Strategist - UK",
+    "description": "About EmaEma is building the world’s leading Agentic AI platform to transform enterprise productivity. We enable organizations to delegate repetitive tasks to Ema, the Universal AI Employee, delivering 10x gains in workforce efficiency, across functions. Founded by former executives from Google, Coinbase, Flipkart, and",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/ema/ai-strategist-uk-london-417907",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "36m ago",
+    "posted_ts": 1786473615000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom (Remote)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-infrastructure-27936",
+    "title": "Software Engineer, Infrastructure",
+    "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-software-engineer-infrastructure-27936",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "docker",
+      "ci/cd",
+      "ai agents"
+    ],
+    "posted_at": "37m ago",
+    "posted_ts": 1786473608000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-customer-support-executive-london-19943",
     "title": "Customer Support Executive",
     "description": "Join us in redefining the creator economy with AIFanvue is one of the fastest-growing creator monetisation platforms globally. We're an AI-powered, creator-first platform helping creators connect, engage, and earn directly from their audiences at scale. Following our recent Series A, Fanvue has surpassed $200M+ in annu",
