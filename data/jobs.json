@@ -1,5 +1,67 @@
 [
   {
+    "id": "arbeitnow-customer-support-executive-london-19943",
+    "title": "Customer Support Executive",
+    "description": "Join us in redefining the creator economy with AIFanvue is one of the fastest-growing creator monetisation platforms globally. We're an AI-powered, creator-first platform helping creators connect, engage, and earn directly from their audiences at scale. Following our recent Series A, Fanvue has surpassed $200M+ in annu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/fanvuecom/customer-support-executive-london-19943",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion",
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786462811000,
+    "budget": "Not specified",
+    "client_country": "Remote with London office",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-security-engineer-london-117816",
+    "title": "Security Engineer",
+    "description": "LemFi (Series B) is building the go-to financial app for the Global South.Moving to a new country shouldn’t mean starting from zero. That's why our team of 400+ spanning 20+ countries is building a financial ecosystem that helps immigrants stay connected to home, build stability, and create wealth regardless of where t",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/security-engineer-london-117816",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "rest apis",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786462806000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-brand-designer-london-341344",
+    "title": "Brand Designer",
+    "description": "LemFi (Series B) is building the go-to financial app for the Global South.Moving to a new country shouldn’t mean starting from zero. That's why our team of 400+ spanning 20+ countries is building a financial ecosystem that helps immigrants stay connected to home, build stability, and create wealth regardless of where t",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/brand-designer-london-341344",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786462806000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-software-engineer-infrastructure-44606",
     "title": "Software Engineer, Infrastructure",
     "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilo",
