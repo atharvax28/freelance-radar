@@ -1,5 +1,78 @@
 [
   {
+    "id": "arbeitnow-remote-forward-deployed-engineer-emea-309209",
+    "title": "Forward Deployed Engineer - EMEA",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-309209",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "c",
+      "postgresql",
+      "redis",
+      "docker",
+      "linux",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786427710000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-forward-deployed-engineer-emea-172623",
+    "title": "Forward Deployed Engineer - EMEA",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-forward-deployed-engineer-emea-172623",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "postgresql",
+      "redis",
+      "docker",
+      "linux",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786427710000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-strategic-account-executive-dach-498527",
+    "title": "Strategic Account Executive (DACH)",
+    "description": "&lt;p&gt;Our Strategic Account Executives target and close new business with Datadog’s largest, most strategic customers and prospects. In this role you’ll be focused on uncovering the pain points organizations face as they operate in or migrate to a cloud environment at scale as well as delivering the appropriate Data",
+    "link": "https://www.arbeitnow.com/jobs/companies/datadog/remote-strategic-account-executive-dach-498527",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786427706000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-hipaa-security-engineer-london-391349",
     "title": "HIPAA Security Engineer",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;500M+ downloads. 80M+ monthly users. A decade of building – and we’re still accelerating.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Flo is the world’s #1 health &amp;amp; fitness app worldwide on a mission to build a better future for female health. Backed by a ",
