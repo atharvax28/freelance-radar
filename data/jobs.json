@@ -1,5 +1,32 @@
 [
   {
+    "id": "arbeitnow-remote-ai-ml-engineer-berlin-374215",
+    "title": "AI / ML Engineer (m/w/d)",
+    "description": "About RecareAs one of the leading German HealthTech companies, we are reshaping discharge management – technology-driven, patient-centered, and free from bureaucracy. In addition to our market-leading SaaS platform, we develop AI solutions that radically simplify processes in hospitals and for aftercare providers, reli",
+    "link": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-ai-ml-engineer-berlin-374215",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "fastapi",
+      "flask",
+      "rest apis",
+      "aws",
+      "llm",
+      "rag",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786491016000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-enterprise-account-executive-london-342336",
     "title": "Enterprise Account Executive",
     "description": "The AI orchestration of your wildest imagination.n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approve",
