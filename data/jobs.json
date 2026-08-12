@@ -1,5 +1,48 @@
 [
   {
+    "id": "arbeitnow-windows-system-administrator-windows-server-administrator-eschborn-9937",
+    "title": "Windows System Administrator/Windows Server Administrator",
+    "description": "📢 We're Hiring:Windows System Administrator/Windows Server Administrator 📍 Location: Germany Remote ⏰ Job Type: Contract Join Market Cloud, a dynamic leader in IT Services and IT Consulting, as a Windows System Administrator/Windows Server Administrator. With a team of 51-200 dedicated professionals, Market Cloud is ",
+    "link": "https://www.arbeitnow.com/jobs/companies/market-cloud/windows-system-administrator-windows-server-administrator-eschborn-9937",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "postgresql",
+      "linux"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786518033000,
+    "budget": "Not specified",
+    "client_country": "Eschborn",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Eschborn",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-recruiter-research-184816",
+    "title": "Recruiter (Research)",
+    "description": "TL;DR: We’re looking for an AI Research Recruiter who knows where exceptional AI Researchers and engineers can be found. You’ll own full-cycle hiring across research, machine learning, data, evaluations, and ML infrastructure, helping us build one of the strongest teams in AI safety. About usWhite Circle is an AI Safet",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-recruiter-research-184816",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "fine-tuning"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786516816000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-global-market-development-london-271285",
     "title": "Global Market Development",
     "description": "Help us use technology to make a big green dent in the universe!Kraken powers some of the most innovative global developments in energy.We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable generation, building a more intelligent grid, and empowering ut",
@@ -413,6 +456,26 @@
     "posted_ts": 1786436646000,
     "budget": "Not specified",
     "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136379",
+    "title": "Sales Development Representative Attributeâ",
+    "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden. Who We Are DoiT is a global technology company that works with cloud-driven organizations to leverage the cloud to drive business growth and inno",
+    "link": "https://remoteOK.com/remote-jobs/",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1786435243000,
+    "budget": "Not specified",
+    "client_country": "Remote UK",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
