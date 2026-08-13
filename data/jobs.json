@@ -1,5 +1,86 @@
 [
   {
+    "id": "arbeitnow-it-systems-engineer-darmstadt-242952",
+    "title": "IT Systems Engineer (f/m/d)",
+    "description": "About Focused EnergyFocused Energy is a pioneering international deep-tech company with locations in Germany and the US, dedicated to commercializing laser-driven nuclear fusion. Our mission is to deliver clean, safe, and virtually limitless energy to the world. As we rapidly scale, we seek talented individuals who thr",
+    "link": "https://www.arbeitnow.com/jobs/companies/focused/it-systems-engineer-darmstadt-242952",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sharepoint"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786653620000,
+    "budget": "Not specified",
+    "client_country": "Darmstadt, DE",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-experimental-scientist-darmstadt-234919",
+    "title": "Experimental Scientist (f/m/d)",
+    "description": "About Focused EnergyFocused Energy is a pioneering international deep-tech company with locations in Germany and the US, dedicated to commercializing laser-driven nuclear fusion. Our mission is to deliver clean, safe, and virtually limitless energy to the world. As we rapidly scale, we seek talented individuals who thr",
+    "link": "https://www.arbeitnow.com/jobs/companies/focused/experimental-scientist-darmstadt-234919",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786653620000,
+    "budget": "Not specified",
+    "client_country": "Darmstadt, DE",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-it-operations-administrator-berlin-259478",
+    "title": "IT Operations Administrator (f/m/d)",
+    "description": "About Focused EnergyFocused Energy is a pioneering international deep-tech company with locations in Germany and the US, dedicated to commercializing laser-driven nuclear fusion. Our mission is to deliver clean, safe, and virtually limitless energy to the world. As we rapidly scale, we seek talented individuals who thr",
+    "link": "https://www.arbeitnow.com/jobs/companies/focused/it-operations-administrator-berlin-259478",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786653620000,
+    "budget": "Not specified",
+    "client_country": "Berlin, DE",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-corporate-account-executive-benelux-421786",
+    "title": "Corporate Account Executive - Benelux",
+    "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilo",
+    "link": "https://www.arbeitnow.com/jobs/companies/camunda/remote-corporate-account-executive-benelux-421786",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786653609000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-b2b-field-marketer-emea-united-kingdom-171012",
     "title": "B2B Field Marketer - EMEA",
     "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
