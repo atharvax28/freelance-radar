@@ -1,5 +1,73 @@
 [
   {
+    "id": "arbeitnow-junior-fulfilment-executive-london-228954",
+    "title": "Junior Fulfilment Executive (London)",
+    "description": "Working hours: Mon - Fri, 9AM - 5PMLocation: 100% on-site in Hatton Garden, LondonSalary: £28K - £31K (depending on experience)About Nivoda 🚀Nivoda is on a mission to transform the $350 billion global jewelry industry. We're building the operating system for the industry — a marketplace that connects diamond and gemst",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/nivoda/junior-fulfilment-executive-london-228954",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786592415000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-junior-data-engineer-data-platform-472883",
+    "title": "(Junior) Data Engineer - Data Platform (m/f/d)",
+    "description": "1KOMMA5°At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, an",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/1komma5grad/remote-junior-data-engineer-data-platform-472883",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786590569000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-net-core-python-web-developer-uk-303363",
+    "title": ".NET Core & Python Web Developer",
+    "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a .NET Core &amp; Python Web Developer based in United Kingdom. This role is an opportunity for a senior software engineer to build and support enterprise-grade applications using .NET Core an",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/net-core-python-web-developer-uk-303363",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      ".net core",
+      "rest apis",
+      "microservices",
+      "sql server",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786590291000,
+    "budget": "Not specified",
+    "client_country": "UK",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "UK",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-it-systemadministrator-fur-linux-leipzig-495904",
     "title": "IT Systemadministrator (m/w/d) für Linux",
     "description": "Dein Aufgabengebiet umfasstBereitstellung und Wartung unserer Serverlandschaft sowie der Arbeitsplätze (Hard- und Software)Annahme, Qualifizierung und Dokumentation von Supportanfragen sowie eigenständige Bearbeitung und Nachverfolgung der TicketsSicherstellung des laufenden Betriebs sowie Weiterentwicklung der bestehe",
