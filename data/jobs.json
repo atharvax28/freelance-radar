@@ -1,5 +1,28 @@
 [
   {
+    "id": "arbeitnow-software-engineer-backend-focused-berlin-461416",
+    "title": "Software Engineer, Backend Focused",
+    "description": "&lt;h1&gt;&lt;strong&gt;Software Engineer (Backend; Wholesale)&lt;/strong&gt;&lt;/h1&gt; &lt;h2&gt;&lt;strong&gt;In short&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;On’s Wholesale business operates at a significant global scale. In 2025, it generated CHF 1.75 billion in net sales, representing 58.2% of On’s total revenue.&lt;/",
+    "link": "https://www.arbeitnow.com/jobs/companies/onrunning/software-engineer-backend-focused-berlin-461416",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "node.js",
+      "rest apis",
+      "docker"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1786622106000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-javascript-fullstack-developer-germany-29187",
     "title": "JavaScript Fullstack Developer (m/f/d)",
     "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
@@ -35,6 +58,46 @@
     "client_country": "Remote - Germany",
     "status": "Discovered",
     "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-145940",
+    "title": "GenAI Engineer",
+    "description": "Job Title: GenAI EngineerLocation Preference: 100% remote in Mexico, Brasil, Peru, Chile working EST Time Zone OR onsite in Washington, D.C.Duration: 1-Year Assignment with possibility of extensionNTT DATA is a team of more than 139,000 diverse professionals operating in more than 50 countries worldwide. Our sectors of",
+    "link": "https://jobicy.com/jobs/145940-genai-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1786614817000,
+    "budget": "Not specified",
+    "client_country": "LATAM",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-145994",
+    "title": "Dedicated Linux Desktop & Devices Support Engineer, Singapore",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leadin",
+    "link": "https://jobicy.com/jobs/145994-dedicated-linux-desktop-devices-support-engineer-singapore",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1786614602000,
+    "budget": "Not specified",
+    "client_country": "APAC",
+    "status": "Discovered",
+    "is_freelance": false,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
