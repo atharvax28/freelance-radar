@@ -1,5 +1,58 @@
 [
   {
+    "id": "arbeitnow-platform-engineer-berlin-230260",
+    "title": "Platform Engineer - m/f/d",
+    "description": "Where Europe's enterprises adopt AILangdock is the AI platform used by more than 10,000 companies to give employees secure access to the leading AI models, to build and share agents and to automate repetitive workflows. We have grown past $40M ARR while remaining a small team, and we care deeply about operating efficie",
+    "link": "https://www.arbeitnow.com/jobs/companies/langdock/platform-engineer-berlin-230260",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "bash",
+      "react",
+      "node.js",
+      "rest apis",
+      "postgresql",
+      "redis",
+      "aws",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1786664421000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-systems-engineer-berlin-381288",
+    "title": "Systems Engineer - m/f/d",
+    "description": "Where Europe's enterprises adopt AILangdock is the AI platform used by more than 10,000 companies to give employees secure access to the leading AI models, to build and share agents and to automate repetitive workflows. We have grown past $40M ARR while remaining a small team, and we care deeply about operating efficie",
+    "link": "https://www.arbeitnow.com/jobs/companies/langdock/systems-engineer-berlin-381288",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "redis",
+      "aws",
+      "design systems"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1786664421000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-key-account-executive-eu-uk-london-261122",
     "title": "Key Account Executive - EU / UK",
     "description": "&lt;p&gt;As Marqeta’s &lt;strong&gt;Key Account Executive &lt;/strong&gt;based in London&lt;strong&gt;,&lt;/strong&gt; you will be passionate about scaling the success of our business in Europe. This exciting role is ideal for individuals seeking to go deep in all aspects of complex business and technical engagements a",
