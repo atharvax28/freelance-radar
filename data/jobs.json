@@ -1,5 +1,68 @@
 [
   {
+    "id": "arbeitnow-remote-system-engineer-enterprise-uk-282223",
+    "title": "System Engineer, Enterprise (UK)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;We’re in an unbelievably exciting area of tech and are fundamentally reshaping the data storage industry. Here, you lead with innovative thinking, grow along with us, and join the smartest team in the industry.&lt;/p&gt; &lt;p&gt;This type of work—work that changes th",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/purestorage/remote-system-engineer-enterprise-uk-282223",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "microservices",
+      "linux",
+      "aws"
+    ],
+    "posted_at": "59m ago",
+    "posted_ts": 1786744575000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-accounts-payable-specialist-london-98309",
+    "title": "Accounts Payable Specialist",
+    "description": "Help us use technology to make a big green dent in the universe!Kraken powers some of the most innovative global developments in energy.We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable generation, building a more intelligent grid, and empowering ut",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/kraken/accounts-payable-specialist-london-98309",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786743614000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-privacy-analyst-ii-london-319649",
+    "title": "Privacy Analyst II",
+    "description": "Help us use technology to make a big green dent in the universe!Kraken powers some of the most innovative global developments in energy.We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable generation, building a more intelligent grid, and empowering ut",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/kraken/privacy-analyst-ii-london-319649",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786743614000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-forward-deployed-engineer-berlin-461213",
     "title": "Forward Deployed Engineer (m/f/d)",
     "description": "At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend",
