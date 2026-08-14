@@ -1,5 +1,26 @@
 [
   {
+    "id": "arbeitnow-forward-deployed-engineer-berlin-461213",
+    "title": "Forward Deployed Engineer (m/f/d)",
+    "description": "At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend",
+    "link": "https://www.arbeitnow.com/jobs/companies/praxipal/forward-deployed-engineer-berlin-461213",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786740017000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-graduate-data-scientist-cyber-analytics-position-located-in-cheltenham-united-kingdom-254481",
     "title": "Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simu",
