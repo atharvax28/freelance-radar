@@ -1,5 +1,91 @@
 [
   {
+    "id": "arbeitnow-working-student-it-system-administration-all-genders-koln-49446",
+    "title": "Working Student IT System Administration (all genders)",
+    "description": "Want to make a difference?Du möchtest während Deines Studiums wertvolle Praxiserfahrung sammeln und die IT-Infrastruktur eines modernen Unternehmens aktiv mitgestalten? Als Working Student IT System Administration (all genders) sorgst Du dafür, dass unsere Netzwerke, Hardware und Software reibungslos funktionieren. Du ",
+    "link": "https://www.arbeitnow.com/jobs/companies/armedangels/working-student-it-system-administration-all-genders-koln-49446",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "bash"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786792182000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-werkstudentin-business-operations-munchen-hybrid-433956",
+    "title": "Werkstudent:in Business Operations",
+    "description": "Wir digitalisieren die Bauindustrie. Bist du dabei?Bei VESTIGAS baust du an der digitalen Grundlage der Bau-Lieferkette: Wir machen aus Bestellungen, Lieferscheinen und Rechnungen eine digitale, rechtssichere Plattform, die im Alltag von Bauunternehmen und Lieferanten genutzt wird. Du arbeitest an einem Produkt mit ech",
+    "link": "https://www.arbeitnow.com/jobs/companies/vestigas/remote-werkstudentin-business-operations-munchen-hybrid-433956",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786792181000,
+    "budget": "Not specified",
+    "client_country": "München (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-platform-engineer-working-student-munchen-496680",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "description": "DEINE AUFGABENDu unterstützt beim Design und Aufbau von Databricks-nativen Datenplattformen (Lakehouse-Architekturen) für unsere internen Projekt oder bei unseren Kund:innenDu wirkst an der Implementierung von Medallion-Architekturen mit (Bronze / Silver / Gold) inkl. Auto Loader-basierter IngestionDu unterstützt beim ",
+    "link": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-496680",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "etl",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786792172000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineer-working-student-koln-371370",
+    "title": "Data Engineer Working Student (m/w/d)",
+    "description": "DEINE AUFGABENDu unterstützt beim Aufbau von Datenbanken und DatenintegrationsprozessenDu wirkst bei der Entwicklung von Datenmodellen und Datenpipelines für moderne Data Lakes, Data Warehouses oder Lakehouses mitDu unterstützt bei der Dokumentation und Strukturierung von Datenplattformen und ProzessenDu arbeitest bei ",
+    "link": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-371370",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786792171000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-marketing-analytics-analyst-260045",
     "title": "Marketing Analytics Analyst",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Eucalyptus&lt;/h3&gt; &lt;p&gt;We&#39;re on a mission to make good health last a lifetime. More than 1 billion people live with obesity worldwide, driving preventable chronic conditions. We&#39;re here to build better long-term care.&lt;/p&gt; &lt;p&gt;&amp;nbs",
