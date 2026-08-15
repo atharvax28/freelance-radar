@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow-office-coordinator-working-student-berlin-403431",
+    "title": "Office Coordinator (Working Student)",
+    "description": "At PPRO, we simplify access to local payments - providing a local payments platform that empowers giants like PayPal, Stripe, and Microsoft to connect with billions of consumers worldwide. We are on an ambitious, fast-paced mission to 3x our growth by 2028 - and we’re just getting started.Our magic lies in our team of ",
+    "link": "https://www.arbeitnow.com/jobs/companies/ppro/office-coordinator-working-student-berlin-403431",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "50m ago",
+    "posted_ts": 1786824324000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-ii-foundation-london-214029",
     "title": "Software Engineer II, Foundation",
     "description": "Platform Engineering at Chainalysis provides the shared infrastructure, tooling, and developer experience layer that powers every engineering team. We are moving away from team-owned infrastructure silos and consolidating onto shared, scalable platform patterns. The Foundation discipline owns the substrate: cloud infra",
