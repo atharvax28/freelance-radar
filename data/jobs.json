@@ -1,5 +1,29 @@
 [
   {
+    "id": "arbeitnow-data-scientist-london-479574",
+    "title": "Data Scientist",
+    "description": "&lt;p&gt;Qube Research &amp;amp; Technologies (QRT) is a global quantitative and systematic investment manager, operating in all liquid asset classes across the world. We are a technology and data driven group implementing a scientific approach to investing. Combining data, research, technology, and trading expertise h",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quberesearchandtechnologies/data-scientist-london-479574",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "prototyping",
+      "dsa"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786874115000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-risk-berlin-202118",
     "title": "Working Student Risk (f/m/x)",
     "description": "About lemon.markets 🍋We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses, providing seamless access to capital markets. By empowering FinTechs, Banks and Wealth Managers to offer investment products, we help create financial well-being for their ",
