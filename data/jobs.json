@@ -63,6 +63,46 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "jobicy-150869",
+    "title": "Enterprise Account Executive, EMEA",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channe",
+    "link": "https://jobicy.com/jobs/150869-enterprise-account-executive-emea",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1786898837000,
+    "budget": "Not specified",
+    "client_country": "EMEA,  UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-150867",
+    "title": "Enterprise Account Executive, APAC",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channe",
+    "link": "https://jobicy.com/jobs/150867-enterprise-account-executive-apac",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1786898834000,
+    "budget": "Not specified",
+    "client_country": "APAC,  Australia",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-graduate-data-engineer-london-410046",
     "title": "Graduate Data Engineer",
     "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
