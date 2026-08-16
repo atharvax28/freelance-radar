@@ -1,5 +1,47 @@
 [
   {
+    "id": "arbeitnow-graduate-data-engineer-london-410046",
+    "title": "Graduate Data Engineer",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-data-engineer-london-410046",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786894807000,
+    "budget": "Not specified",
+    "client_country": "London (hybrid)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-crm-specialist-london-454053",
+    "title": "Technical CRM Specialist",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/technical-crm-specialist-london-454053",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786894807000,
+    "budget": "Not specified",
+    "client_country": "London (hybrid)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-enterprise-account-executive-munich-407815",
     "title": "Enterprise Account Executive",
     "description": "About ZipZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.The world’s most influential enterprises",
