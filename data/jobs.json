@@ -1,5 +1,26 @@
 [
   {
+    "id": "arbeitnow-working-student-risk-berlin-202118",
+    "title": "Working Student Risk (f/m/x)",
+    "description": "About lemon.markets 🍋We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses, providing seamless access to capital markets. By empowering FinTechs, Banks and Wealth Managers to offer investment products, we help create financial well-being for their ",
+    "link": "https://www.arbeitnow.com/jobs/companies/lemon-markets/working-student-risk-berlin-202118",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1786858810000,
+    "budget": "Not specified",
+    "client_country": "Berlin (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-sales-development-representative-69828",
     "title": "Sales Development Representative",
     "description": "About LiveKitLiveKit is the default infrastructure layer for real-time AI, the platform that gives AI the ability to see, hear, and speak. From powering voice for millions of ChatGPT users to enabling drone teleoperation at Skydio and serving as the backbone for roughly 25% of 911 emergency calls in the U.S., LiveKit h",
