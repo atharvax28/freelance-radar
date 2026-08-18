@@ -1,5 +1,28 @@
 [
   {
+    "id": "arbeitnow-data-engineer-edinburgh-318318",
+    "title": "Data Engineer",
+    "description": "&lt;p&gt;FanDuel Group is a world-class team of brands and products that deliver sports betting, gaming and entertainment to millions of US sports fans every day. That’s no easy task and wouldn&#39;t be possible without a fantastic team who have helped us pioneer new products and innovative features that make us a lead",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/fanduel/data-engineer-edinburgh-318318",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "flask",
+      "redis"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787014521000,
+    "budget": "Not specified",
+    "client_country": "Edinburgh",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Edinburgh",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudentin-marktforschung-bonn-105972",
     "title": "Werkstudent*in Marktforschung (m/w/d)",
     "description": "WIR suchen dich!Suchst du nach einem Job, der nicht nur spannend ist, sondern auch einen echten positiven Beitrag zur Gesellschaft leistet? Werde Werkstudent*in im Team Marktforschung und hilf uns, wertvolle Erkenntnisse zu gewinnen, die unser Unternehmen und die Gesellschaft gleichermaßen voranbringen.Im Rahmen von vi",
