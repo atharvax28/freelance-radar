@@ -1,5 +1,45 @@
 [
   {
+    "id": "jobicy-151014",
+    "title": "Associate Linux Support Engineer",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leadin",
+    "link": "https://jobicy.com/jobs/151014-associate-linux-support-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787051487000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-151013",
+    "title": "Distributed Systems Testing Software Engineer, Python / Go",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
+    "source": "Jobicy",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787051486000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-platform-boosters-backend-engineer-berlin-67421",
     "title": "Platform Boosters - Backend Engineer (m/w/d)",
     "description": "Shopware ist ein führendes E-Commerce-System, das Unternehmen weltweit dabei unterstützt, im digitalen Handel schnell und effizient zu skalieren. Als wegweisende Open-Source-Lösung wird Shopware bereits von einigen der größten europäischen Marken, Händlern und Herstellern im B2C- und B2B-Umfeld eingesetzt.Wir bauen der",
