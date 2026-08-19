@@ -1,5 +1,73 @@
 [
   {
+    "id": "arbeitnow-frontend-software-engineer-100-remote-united-kindom-470934",
+    "title": "Frontend Software Engineer (100% Remote)",
+    "description": "Join Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By har",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "webrtc",
+      "linux"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787121011000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-329511",
+    "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
+    "description": "Deine Aufgaben Wir suchen dich – einen motivierten und leidenschaftlichen DevOps &amp; Cloud Engineer. Unsere Kund*innen sind vielfältig. Unsere Software-Projekte ebenso. Wir lassen die großen Visionen unserer Kund*innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierung in Deutschland voranzutreiben. Dabei",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-329511",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "docker",
+      "linux",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787119830000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-143385",
+    "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
+    "description": "Deine Aufgaben Wir suchen dich – einen motivierten und leidenschaftlichen Site Reliability Engineer. Unsere Kund*innen sind vielfältig. Unsere Software-Projekte ebenso. Wir lassen die großen Visionen unserer Kund*innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierung in Deutschland voranzutreiben. Dabei s",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-143385",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787119830000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-product-engineer-391562",
     "title": "Product Engineer",
     "description": "About the RoleWe’re looking for a product engineer who takes ownership of outcomes, not just assigned tasks. You’ll work across 4–5 products with different technology stacks, identify high-value problems, and carry solutions through design, implementation, testing, documentation, delivery, and operation.What You'll DoU",
