@@ -1,5 +1,97 @@
 [
   {
+    "id": "arbeitnow-account-executive-emea-470304",
+    "title": "Account Executive, EMEA",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;About StarRez&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;StarRez is the global leader in student housing software, providing innovative solutions for on and off-campus housing management, resident wellness and experi",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/starrez/account-executive-emea-470304",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack",
+      "sharepoint"
+    ],
+    "posted_at": "58m ago",
+    "posted_ts": 1787144157000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-london-375270",
+    "title": "Software Engineer",
+    "description": "The roleYou'll build and own the backend systems Letly runs on — the software behind every viewing, tenancy, certificate, rent payment and repair. These are systems where correctness, reliability and scale are non-negotiable: real people's money, homes and legal exposure are on the line.This is one role hiring at every",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/letly/software-engineer-london-375270",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "c",
+      "fastapi",
+      "system design",
+      "mongodb",
+      "redis",
+      "docker",
+      "aws",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787143218000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-ai-engineer-452167",
+    "title": "AI Engineer",
+    "description": "The roleYou build and ship across AI agents and client-facing systems, owning features end to end and shaping what gets built together with the client team. This is a hands-on delivery role on live problems, not a research seat. Projects typically start as a proposal, followed by a proof of concept, expand into a beta,",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/51d/remote-ai-engineer-452167",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787143215000,
+    "budget": "Not specified",
+    "client_country": "Remote - UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ent-sales-executive-london-174023",
+    "title": "ENT Sales Executive",
+    "description": "Scope automates the data collection that’s slowing down the physical world.We’re building the best AI-native data collection layer for the 2 billion field workers on the front line of inspection. Along the way, we’re building the world’s largest dataset on the condition of the built world and the decisions experts make",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/getscope/ent-sales-executive-london-174023",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787143214000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-engineer-hamburg-or-berlin-92068",
     "title": "Data Engineer (m/f/d)",
     "description": "At Statista, we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.Founded in Hamburg in 2007, we have quickly grown into a global",
