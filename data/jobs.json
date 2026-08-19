@@ -1,5 +1,52 @@
 [
   {
+    "id": "arbeitnow-remote-product-engineer-391562",
+    "title": "Product Engineer",
+    "description": "About the RoleWe’re looking for a product engineer who takes ownership of outcomes, not just assigned tasks. You’ll work across 4–5 products with different technology stacks, identify high-value problems, and carry solutions through design, implementation, testing, documentation, delivery, and operation.What You'll DoU",
+    "link": "https://www.arbeitnow.com/jobs/companies/0g/remote-product-engineer-391562",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "next.js",
+      "playwright",
+      "docker",
+      "ci/cd",
+      "llm",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787118022000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sales-development-representative-munich-360172",
+    "title": "Sales Development Representative (m/w/d) - Munich",
+    "description": "Get to know usIdeals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000 companies globally, we help people run high-stakes processes and make important decisions with less stress, h",
+    "link": "https://www.arbeitnow.com/jobs/companies/ideals/sales-development-representative-munich-360172",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787118022000,
+    "budget": "Not specified",
+    "client_country": "Munich, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudent-b2b-marketing-koln-409222",
     "title": "Werkstudent B2B Marketing (d/w/m)",
     "description": "Deine MissionAls Werkstudent B2B Marketing (d/w/m) arbeitest du direkt unserer B2B Marketing Managerin zu und bekommst mit, wie Marketing für ein erklärungsbedürftiges Produkt in einem regulierten Markt funktioniert. Unsere Partner sind Solar-, SHK- und Elektrobetriebe — Du hilfst dabei, dass sie und unser Sales-Team d",
