@@ -1,5 +1,66 @@
 [
   {
+    "id": "arbeitnow-working-student-it-system-administration-all-genders-koln-164704",
+    "title": "Working Student IT System Administration (all genders)",
+    "description": "Want to make a difference?Du möchtest während Deines Studiums wertvolle Praxiserfahrung sammeln und die IT-Infrastruktur eines modernen Unternehmens aktiv mitgestalten? Als Working Student IT System Administration (all genders) sorgst Du dafür, dass unsere Netzwerke, Hardware und Software reibungslos funktionieren. Du ",
+    "link": "https://www.arbeitnow.com/jobs/companies/armedangels/working-student-it-system-administration-all-genders-koln-164704",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "bash"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787160628000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-werkstudentin-business-operations-munchen-hybrid-381613",
+    "title": "Werkstudent:in Business Operations",
+    "description": "Wir digitalisieren die Bauindustrie. Bist du dabei?Bei VESTIGAS baust du an der digitalen Grundlage der Bau-Lieferkette: Wir machen aus Bestellungen, Lieferscheinen und Rechnungen eine digitale, rechtssichere Plattform, die im Alltag von Bauunternehmen und Lieferanten genutzt wird. Du arbeitest an einem Produkt mit ech",
+    "link": "https://www.arbeitnow.com/jobs/companies/vestigas-gmbh/remote-werkstudentin-business-operations-munchen-hybrid-381613",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787160605000,
+    "budget": "Not specified",
+    "client_country": "München (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-junior-data-analyst-mainz-oder-berlin-409872",
+    "title": "(Junior) Data Analyst (m/w/d)",
+    "description": "StellendetailsFür unsere Standorte Mainz oder Berlin suchen wir zum nächstmöglichen Zeitpunkt in Voll- oder Teilzeit und zunächst befristet auf zwei Jahre eine*n (Junior) Data Analyst (m/w/d).Deine AufgabenDu bist verantwortlich für die Aufbereitung, Analyse und Visualisierung von Daten im Zusammenhang mit medienwissen",
+    "link": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/junior-data-analyst-mainz-oder-berlin-409872",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787159422000,
+    "budget": "Not specified",
+    "client_country": "Mainz oder Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Mainz oder Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-technical-solutions-engineer-london-80182",
     "title": "Technical Solutions Engineer",
     "description": "Talos: Institutional Fabric for Digital Asset MarketsFounded in 2018, Talos provides institutional-grade trading technology for the global digital asset market, powering many of the major players in the crypto ecosystem. Our mission is clear: to advance the mass adoption of digital assets by seamlessly connecting insti",
