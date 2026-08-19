@@ -1,5 +1,32 @@
 [
   {
+    "id": "arbeitnow-remote-product-engineer-26924",
+    "title": "Product Engineer",
+    "description": "About the RoleWe’re looking for a product engineer who takes ownership of outcomes, not just assigned tasks. You’ll work across 4–5 products with different technology stacks, identify high-value problems, and carry solutions through design, implementation, testing, documentation, delivery, and operation.What You'll DoU",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/0g/remote-product-engineer-26924",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "next.js",
+      "playwright",
+      "docker",
+      "ci/cd",
+      "llm",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787164822000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-it-system-administration-all-genders-koln-164704",
     "title": "Working Student IT System Administration (all genders)",
     "description": "Want to make a difference?Du möchtest während Deines Studiums wertvolle Praxiserfahrung sammeln und die IT-Infrastruktur eines modernen Unternehmens aktiv mitgestalten? Als Working Student IT System Administration (all genders) sorgst Du dafür, dass unsere Netzwerke, Hardware und Software reibungslos funktionieren. Du ",
