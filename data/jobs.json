@@ -1,5 +1,50 @@
 [
   {
+    "id": "arbeitnow-data-engineer-hamburg-or-berlin-92068",
+    "title": "Data Engineer (m/f/d)",
+    "description": "At Statista, we’re all about facts and data, for we are the world's leading business data platform. By providing reliable and easy-to-use data as well as various data analytics products and services, we empower people worldwide to make fact-based decisions.Founded in Hamburg in 2007, we have quickly grown into a global",
+    "link": "https://www.arbeitnow.com/jobs/companies/statista/data-engineer-hamburg-or-berlin-92068",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "docker",
+      "git",
+      "aws",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787139625000,
+    "budget": "Not specified",
+    "client_country": "Hamburg or Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-software-engineering-all-genders-de-darmstadt-69987",
+    "title": "Werkstudent Software Engineering (all genders) DE",
+    "description": "Alle reden von Digitalisierung – Wir machen es. Als Hersteller von Europas #1 CRM/CX-Plattform entwickeln wir innovative Softwareprodukte in den Bereichen Kundenbeziehungsmanagement, Marketing Automation und Machine Learning. Unternehmen bei der Digitalisierung und der konsequenten Kundenzentrierung zu begleiten, ist u",
+    "link": "https://www.arbeitnow.com/jobs/companies/bsi-software/werkstudent-software-engineering-all-genders-de-darmstadt-69987",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787139023000,
+    "budget": "Not specified",
+    "client_country": "Darmstadt, Hessen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Darmstadt, Hessen, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-digital-sharks-performance-data-associate-marketplace-intelligence-early-careers-london-300833",
     "title": "Digital Sharks: Performance Data Associate — Marketplace Intelligence (Early Careers)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About Us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:0,&amp;quot;335559739&amp;quot;:280}&quot;",
