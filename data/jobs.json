@@ -1,5 +1,27 @@
 [
   {
+    "id": "arbeitnow-forward-deployed-engineer-ai-in-voll-oder-teilzeit-munchen-302332",
+    "title": "Forward Deployed Engineer – AI (w/m/d) in Voll- oder Teilzeit",
+    "description": "Unser JobChatAls modernes Unternehmen verzichten wir auf Stino-Stellenanzeigen und möchten dich mit einem neuen Format für die CROZ DACH begeistern. Vielen Dank für dein Interesse an uns und viel Spaß beim Lesen des folgenden JobChats! Neulich in der Teamküche:Linda: “Und wie war’s beim Kundenmeeting letzte Woche?”Joac",
+    "link": "https://www.arbeitnow.com/jobs/companies/crozdach/forward-deployed-engineer-ai-in-voll-oder-teilzeit-munchen-302332",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1787202601000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-founding-commercial-account-executive-emea-tavily-46623",
     "title": "Founding Commercial Account Executive, EMEA - Tavily",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
