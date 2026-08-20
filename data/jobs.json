@@ -1,5 +1,48 @@
 [
   {
+    "id": "arbeitnow-it-systemadministrator-fur-linux-leipzig-430337",
+    "title": "IT Systemadministrator (m/w/d) für Linux",
+    "description": "Dein Aufgabengebiet umfasstBereitstellung und Wartung unserer Serverlandschaft sowie der Arbeitsplätze (Hard- und Software)Annahme, Qualifizierung und Dokumentation von Supportanfragen sowie eigenständige Bearbeitung und Nachverfolgung der TicketsSicherstellung des laufenden Betriebs sowie Weiterentwicklung der bestehe",
+    "link": "https://www.arbeitnow.com/jobs/companies/finatix-gmbh/it-systemadministrator-fur-linux-leipzig-430337",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "docker",
+      "linux",
+      "git"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1787182225000,
+    "budget": "Not specified",
+    "client_country": "Leipzig",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Leipzig",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-marketing-pflichtpraktikant-werkstudent-office-frankfurt-39183",
+    "title": "Marketing Pflichtpraktikant / Werkstudent (m/w/d)",
+    "description": "Deine VisionDu hast ein Talent für gute Texte, ein Gespür für Social Media und Lust, eigene Ideen ins Marketing einzubringen? Dann komm zu Bloomwell. Wir sind eines der führenden Health-Tech Unternehmen im Bereich medizinisches Cannabis – mit der Mission, Patienten den Zugang zur Therapie so einfach wie möglich zu mach",
+    "link": "https://www.arbeitnow.com/jobs/companies/bloomwell-group-gmbh/marketing-pflichtpraktikant-werkstudent-office-frankfurt-39183",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1787181003000,
+    "budget": "Not specified",
+    "client_country": "Office Frankfurt",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Office Frankfurt",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-account-executive-enterprise-united-kingdom-476964",
     "title": "Account Executive, Enterprise",
     "description": "About PlanePlane's mission is to build the infrastructure the world's work runs on. Every organization runs on three things: the projects it's driving, the knowledge it keeps, and the requests it fields. Plane brings all three into one open, adaptable platform: simple enough for any team to adopt, dependable enough for",
