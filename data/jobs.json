@@ -17426,6 +17426,36 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-twilio-machine-learning-engineer",
+    "title": "Twilio: Machine Learning Engineer",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote - Ireland &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;",
+    "link": "https://weworkremotely.com/remote-jobs/twilio-machine-learning-engineer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "c",
+      "aws",
+      "pytorch",
+      "nlp",
+      "llm",
+      "hugging face",
+      "fine-tuning",
+      "prompt engineering",
+      "feature engineering",
+      "mlops"
+    ],
+    "posted_at": "29d ago",
+    "posted_ts": 1784703826000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "wwr-stripe-fullstack-engineer-privy",
     "title": "Stripe: Fullstack Engineer, Privy",
     "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; NYC-Privy, US-Remote &lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Privy&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexib",
