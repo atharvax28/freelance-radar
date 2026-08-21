@@ -1,5 +1,30 @@
 [
   {
+    "id": "arbeitnow-product-engineer-working-student-berlin-425538",
+    "title": "Product Engineer — Working Student",
+    "description": "Working Student - Product Engineer Over 4 million merchants use our card readers to process payments in 34 countries. As we build a world where every business can thrive, we continually expand our range of products and services. We are a truly global fintech company, with 3,000+ people from 93 nationalities spread acro",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/product-engineer-working-student-berlin-425538",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "next.js",
+      "node.js",
+      "aws"
+    ],
+    "posted_at": "55m ago",
+    "posted_ts": 1787319924000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-head-emea-refund-fraud-integrity-fixed-term-contract-london-223086",
     "title": "Head EMEA Refund Fraud, Integrity - Fixed Term Contract",
     "description": "About the RoleThe head of EMEA Refund Fraud will lead Doordash’s EMEA strategy for preventing and managing refund abuse across our marketplace.You will be accountable for the performance of the Credit and Refund (C&amp;R) Fraud domain: setting the long-term vision, determining where we focus our resources, and building",
