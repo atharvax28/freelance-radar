@@ -23,6 +23,168 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "jobicy-149520",
+    "title": "Junior Linux Kernel Engineer - Ubuntu",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787416808000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149523",
+    "title": "Cloud Field Engineer",
+    "description": "Help global companies embrace the latest private cloud infrastructure, Linux and cloud native operations, and open source applications. Our team applies expert insights to real-world customer problems, enabling the enterprise adoption of Linux Ubuntu, OpenStack, Kubernetes and a wide range of associated technology.This",
+    "link": "https://jobicy.com/jobs/149523-cloud-field-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787416805000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149527",
+    "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+    "description": "Canonical is a leading provider of open-source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leadin",
+    "link": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+    "source": "Jobicy",
+    "matched_skills": [
+      "react"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787416506000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149533",
+    "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
+    "description": "Ubuntu Linux, already the most popular Linux distribution in the world, is looking to increase its adoption even further by expanding the number of System On Chip (SoC) platforms supported natively and further optimising to ensure the highest performant experience for all users. There is a strong demand from silicon ma",
+    "link": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787416206000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149532",
+    "title": "Sustaining Operations Engineer",
+    "description": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OVN and Core networking), up to OpenStack ",
+    "link": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "docker",
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787416205000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149535",
+    "title": "Embedded Linux Field Engineer for Devices/IoT",
+    "description": "Job DescriptionCanonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the",
+    "link": "https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787415907000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149539",
+    "title": "Embedded Devices Software Solution Sales - All Roles",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/149539-embedded-devices-software-solution-sales-all-roles",
+    "source": "Jobicy",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787415607000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149543",
+    "title": "Python Engineer",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/149543-python-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787415604000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-territory-account-executive-germany-365056",
     "title": "Territory Account Executive - Germany",
     "description": "&lt;p&gt;&lt;strong&gt;About Team &amp;amp; About Role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Rubrik&#39;s sales organisation is a unified group of elite cross-functional professionals helping companies across every major industry achieve true resilience against cyberattacks, malicious insiders, and operational disruptions.",
