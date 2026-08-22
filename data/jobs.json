@@ -23,6 +23,87 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "jobicy-149555",
+    "title": "Graduate Sales Development Representative",
+    "description": "Canonical is a global software company that publishes Ubuntu and open-source enterprise solutions for cloud, developer, IoT and AI. Ubuntu is the fastest growing Linux distribution and ranks as the number #1 OS in the cloud.In partnership with Google, Amazon, IBM and Microsoft, Canonical helps companies become more agi",
+    "link": "https://jobicy.com/jobs/149555-graduate-sales-development-representative",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787418605000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149558",
+    "title": "Microservices Engineer",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/149558-microservices-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "microservices"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787418308000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149563",
+    "title": "Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. Our customers include the world's leadin",
+    "link": "https://jobicy.com/jobs/149563-python-and-kubernetes-software-engineer-data-workflows-ai-ml-analytics",
+    "source": "Jobicy",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787418004000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149567",
+    "title": "Embedded & Desktop Linux Systems Engineer - Optimisation",
+    "description": "Work across the full Linux stack from kernel through GUI to optimise Ubuntu, the world’s most widely used Linux desktop and server, for the latest silicon.The role is a fast-paced, problem-solving role that’s challenging yet very exciting. The right candidate must be resourceful, articulate, and able to deliver on a wi",
+    "link": "https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787418002000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "jobicy-149580",
     "title": "Hebrew Freelance Translator & Copy Editor (Product, Support & Marketing Content)",
     "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, a",
