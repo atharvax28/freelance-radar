@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow-remote-werkstudent-mobile-development-73791",
+    "title": "Werkstudent Mobile Development (m/w/d)",
+    "description": "Deine AufgabenBei uns entwickelst du nicht einfach nur blind nach Vorgabe, sondern gestaltest unsere Mobile App aktiv mit. Wenn du Lust hast, dich tief in Flutter einzuarbeiten, Dinge mutig zu hinterfragen und echten Impact zu liefern, bist du bei uns genau richtig.Deine AufgabenDein Bereich als Werkstudent im Mobile D",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/teveo-gmbh/remote-werkstudent-mobile-development-73791",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787379043000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-security-engineer-uk-remote-london-168812",
     "title": "Security Engineer - UK - Remote",
     "description": "Job DescriptionAt Pencil, we are driving innovation in advertising technology through our state-of-the-art SaaS product, which harnesses Generative AI to redefine content creation. Our mission is to make AI the default in advertising without replacing creative people. To achieve this, we need to make sure that our tech",
@@ -16566,6 +16586,27 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-superplane-product-engineer-1",
+    "title": "SuperPlane: Product Engineer",
+    "description": "&lt;img src=\"https://we-work-remotely.imgix.net/logos/0171/4898/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress\" /&gt; &lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; USA &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"https://superplane.com\"&gt;https://superplane.co",
+    "link": "https://weworkremotely.com/remote-jobs/superplane-product-engineer-1",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "typescript",
+      "react"
+    ],
+    "posted_at": "21d ago",
+    "posted_ts": 1785504628000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "rok-1135997",
     "title": "BMS Service Technician",
     "description": "Job DescriptionJohnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data ce",
@@ -18119,6 +18160,26 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-onthegosystems-ai-native-software-developer",
+    "title": "OnTheGoSystems: AI-Native Software Developer",
+    "description": "&lt;img src=\"https://we-work-remotely.imgix.net/logos/0171/2344/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress\" /&gt; &lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"http://onthegosystems.com\"&gt;http://onthegos",
+    "link": "https://weworkremotely.com/remote-jobs/onthegosystems-ai-native-software-developer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "25d ago",
+    "posted_ts": 1785161793000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "rok-1135478",
     "title": "Entry Level Junior Trader",
     "description": "ATOM Partners is an international company focused on digital asset markets, trading technologies, and data-driven market research. We work with modern analytical tools and help aspiring professionals build practical knowledge of cryptocurrency trading in a structured environment.We are currently looking for an Entry Le",
@@ -18175,6 +18236,102 @@
     "client_country": "YC Network",
     "status": "Discovered",
     "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-yoko-co-front-end-wordpress-developer",
+    "title": "Yoko Co: Front-End WordPress Developer",
+    "description": "&lt;img src=\"https://we-work-remotely.imgix.net/logos/0018/9650/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress\" /&gt; &lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; McLean, VA &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"https://www.yokoco.com/\"&gt;https://www.y",
+    "link": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "javascript",
+      "react",
+      "git",
+      "ci/cd",
+      "figma"
+    ],
+    "posted_at": "28d ago",
+    "posted_ts": 1784901826000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-jetbrains-backend-customer-success-engineer-kotlin-ecosystem",
+    "title": "JetBrains: Backend Customer Success Engineer (Kotlin Ecosystem)",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Foster City, California; Marlton, New Jersey; Remote, United States &lt;/p&gt; &lt;p&gt;At JetBrains, code is our passion. Ever since we started, back in 2000, we have strived to make the strongest, most effective developer tools on earth. By automating routine check",
+    "link": "https://weworkremotely.com/remote-jobs/jetbrains-backend-customer-success-engineer-kotlin-ecosystem",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "microservices",
+      "system design"
+    ],
+    "posted_at": "29d ago",
+    "posted_ts": 1784876482000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-hightouch-ai-strategy-consultant",
+    "title": "Hightouch: AI Strategy Consultant",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote (North America) &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;h2&gt;About Hightouch&lt;/h2&gt; &lt;p&gt;Hightouch is an Agentic Marketing Platform powered by the industry-leading Composable CDP. With complete brand context, customer data, and performance his",
+    "link": "https://weworkremotely.com/remote-jobs/hightouch-ai-strategy-consultant",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "sql",
+      "matlab",
+      "ai agents"
+    ],
+    "posted_at": "29d ago",
+    "posted_ts": 1784876472000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-gitlab-ai-engineer",
+    "title": "GitLab: AI Engineer",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote, US &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and a",
+    "link": "https://weworkremotely.com/remote-jobs/gitlab-ai-engineer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "rest apis",
+      "ci/cd",
+      "n8n",
+      "llm",
+      "rag",
+      "prompt engineering"
+    ],
+    "posted_at": "29d ago",
+    "posted_ts": 1784876448000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
