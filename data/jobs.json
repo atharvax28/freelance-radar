@@ -23,6 +23,46 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "jobicy-149580",
+    "title": "Hebrew Freelance Translator & Copy Editor (Product, Support & Marketing Content)",
+    "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, a",
+    "link": "https://jobicy.com/jobs/149580-hebrew-freelance-translator-copy-editor-product-support-marketing-content",
+    "source": "Jobicy",
+    "matched_skills": [
+      "nlp"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787417111000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-149581",
+    "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1787417110000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "jobicy-149520",
     "title": "Junior Linux Kernel Engineer - Ubuntu",
     "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
