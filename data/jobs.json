@@ -1,5 +1,46 @@
 [
   {
+    "id": "arbeitnow-field-solutions-engineer-munich-465864",
+    "title": "Field Solutions Engineer (f/m/d)",
+    "description": "TYTAN TechnologiesAt TYTAN, we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect Europe’s sovereignty.We are seeking a Field Solutions Engineer to plan and execute",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/field-solutions-engineer-munich-465864",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787506219000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-38126",
+    "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
+    "description": "AbstractFeed-forward 3D reconstruction models can recover scene geometry directly from images or videos without costly scene-specific optimization. By combining large-scale pre-training, multi-view reasoning, and strong geometric priors, these models provide an efficient alternative to traditional reconstruction pipeli",
+    "link": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-38126",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787504982000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-chief-product-officer-cpo-footwear-hamburg-339446",
     "title": "Chief Product Officer (CPO) – Footwear (m/w/d)",
     "description": "StellenbeschreibungPammys ist in wenigen Jahren auf über 1,3 Millionen Kundinnen und Kunden gewachsen. Jetzt bauen wir die Product Organisation für unsere nächste Wachstumsphase: neue Kategorien, höhere Volumen, internationale Märkte und ein global skalierbares Produktionsnetzwerk.Dafür suchen wir einen Chief Product O",
