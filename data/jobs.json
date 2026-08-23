@@ -1,5 +1,49 @@
 [
   {
+    "id": "arbeitnow-devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
+    "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
+    "description": "Deine Aufgaben Wir suchen dich – einen motivierten und leidenschaftlichen DevOps &amp; Cloud Engineer. Unsere Kund*innen sind vielfältig. Unsere Software-Projekte ebenso. Wir lassen die großen Visionen unserer Kund*innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierung in Deutschland voranzutreiben. Dabei",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "docker",
+      "linux",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787477380000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-site-reliability-engineer-konstanz-berlin-oder-remote-75299",
+    "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
+    "description": "Deine Aufgaben Wir suchen dich – einen motivierten und leidenschaftlichen Site Reliability Engineer. Unsere Kund*innen sind vielfältig. Unsere Software-Projekte ebenso. Wir lassen die großen Visionen unserer Kund*innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierung in Deutschland voranzutreiben. Dabei s",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-75299",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787477380000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-robotics-software-engineer-counter-uav-systems-generalist-mid-level-munich-deu-206242",
     "title": "Robotics Software Engineer Counter UAV Systems - Generalist (mid-level)",
     "description": "What we offerWork in an international, agile team creating the future of autonomous systemsGrow your career in a expanding and ambitious engineering teamBuild innovative products using state-of-the-art technologies in AI, robotics, and autonomy Benefit from a steep learning curve and continuous developmentEnjoy team ev",
