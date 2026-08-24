@@ -1,5 +1,51 @@
 [
   {
+    "id": "arbeitnow-data-platform-engineer-working-student-munchen-230477",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "description": "YOUR TASKSYou support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements.You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion.You support the development of data ",
+    "link": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-230477",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787538589000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineer-working-student-koln-358872",
+    "title": "Data Engineer Working Student (m/w/d)",
+    "description": "YOUR TASKSYou support the development of databases and data integration processesYou contribute to the design and implementation of data models and data pipelines for modern data lakes, data warehouses, or lakehousesYou assist in documenting and structuring data platforms and related processesYou participate in the dev",
+    "link": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-engineer-working-student-koln-358872",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "etl"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787538589000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-consultant-data-ai-digitale-transformation-public-sector-all-genders-mainz-413151",
     "title": "Consultant Data & AI / Digitale Transformation Public Sector (all genders)",
     "description": "Über ]init[Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.400 ]init[s in interdisziplinären Teams an unseren sieben Stan",
