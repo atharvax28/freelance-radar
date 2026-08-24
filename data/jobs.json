@@ -1,5 +1,47 @@
 [
   {
+    "id": "arbeitnow-marketing-pflichtpraktikant-werkstudent-office-frankfurt-275480",
+    "title": "Marketing Pflichtpraktikant / Werkstudent (m/w/d)",
+    "description": "Deine VisionDu hast ein Talent für gute Texte, ein Gespür für Social Media und Lust, eigene Ideen ins Marketing einzubringen? Dann komm zu Bloomwell. Wir sind eines der führenden Health-Tech Unternehmen im Bereich medizinisches Cannabis – mit der Mission, Patienten den Zugang zur Therapie so einfach wie möglich zu mach",
+    "link": "https://www.arbeitnow.com/jobs/companies/bloomwell-group-gmbh/marketing-pflichtpraktikant-werkstudent-office-frankfurt-275480",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "canva"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787549430000,
+    "budget": "Not specified",
+    "client_country": "Office Frankfurt",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Office Frankfurt",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-in-sales-excellence-commercial-operations-karlsruhe-269300",
+    "title": "Working Student in Sales Excellence & Commercial Operations (m/f/d)",
+    "description": "Short DescriptionTo support our Sales and Offtake team, we are looking for a proactive and digitally savvy working student to join our Sales Excellence &amp; Commercial Operations team.With your eye for structure, well-organised customer data and reliable tracking, you’ll lay the foundations for our sales team to work ",
+    "link": "https://www.arbeitnow.com/jobs/companies/ineratec-gmbh-1/working-student-in-sales-excellence-commercial-operations-karlsruhe-269300",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint",
+      "outlook"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787549404000,
+    "budget": "Not specified",
+    "client_country": "Karlsruhe",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Karlsruhe",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-platform-engineer-working-student-munchen-230477",
     "title": "Data Platform Engineer Working Student (m/w/d)",
     "description": "YOUR TASKSYou support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements.You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion.You support the development of data ",
