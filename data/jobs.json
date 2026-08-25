@@ -1,5 +1,46 @@
 [
   {
+    "id": "arbeitnow-people-operations-workplace-experience-specialist-berlin-420756",
+    "title": "People Operations & Workplace Experience Specialist",
+    "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
+    "link": "https://www.arbeitnow.com/jobs/companies/airwallex/people-operations-workplace-experience-specialist-berlin-420756",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787647215000,
+    "budget": "Not specified",
+    "client_country": "DE - Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-werkstudentin-business-operations-munchen-hybrid-253185",
+    "title": "Werkstudent:in Business Operations",
+    "description": "Wir digitalisieren die Bauindustrie. Bist du dabei?Bei VESTIGAS baust du an der digitalen Grundlage der Bau-Lieferkette: Wir machen aus Bestellungen, Lieferscheinen und Rechnungen eine digitale, rechtssichere Plattform, die im Alltag von Bauunternehmen und Lieferanten genutzt wird. Du arbeitest an einem Produkt mit ech",
+    "link": "https://www.arbeitnow.com/jobs/companies/vestigas/remote-werkstudentin-business-operations-munchen-hybrid-253185",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787645427000,
+    "budget": "Not specified",
+    "client_country": "München (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-cms-developer-berlin-13833",
     "title": "Full-Stack CMS Developer (f/m/d)",
     "description": "Productsup is a Berlin-based company with a strong international customer base, and we’re looking to rapidly scale our reach within the digital commerce landscape. We are seeking a high-performing Full-Stack CMS Developer to join our dynamic Marketing team. In this pivotal role, you will own our website strategy end-to",
