@@ -1,5 +1,31 @@
 [
   {
+    "id": "arbeitnow-full-stack-cms-developer-berlin-13833",
+    "title": "Full-Stack CMS Developer (f/m/d)",
+    "description": "Productsup is a Berlin-based company with a strong international customer base, and we’re looking to rapidly scale our reach within the digital commerce landscape. We are seeking a high-performing Full-Stack CMS Developer to join our dynamic Marketing team. In this pivotal role, you will own our website strategy end-to",
+    "link": "https://www.arbeitnow.com/jobs/companies/productsup/full-stack-cms-developer-berlin-13833",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "html5",
+      "css3",
+      "node.js",
+      "git",
+      "aws",
+      "s3"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787639431000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-ai-engineer-agentic-systems-voice-190415",
     "title": "AI Engineer – Agentic Systems (Voice) (m/f/d)",
     "description": "Your RoleWe are growing our Agents team and looking for an experienced AI Engineer (m/f/d) to help build the next generation of agentic AI systems powered by Large Language Models (LLMs). Today the team is small and tight-knit, and every hire meaningfully shapes what we build and how we build it.You will work across ou",
