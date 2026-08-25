@@ -1,5 +1,194 @@
 [
   {
+    "id": "arbeitnow-product-designer-160574",
+    "title": "Product Designer",
+    "description": "&lt;h3&gt;About Dwelly&lt;/h3&gt; &lt;p&gt;Dwelly is building the AI operating system for residential lettings. Its growing network of agencies provides its AI with real-world data, continuous feedback, and control over complete workflows, making exceptional service the standard for landlords and tenants. Today, Dwelly",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/dwelly/product-designer-160574",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1787684109000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-startups-london-196462",
+    "title": "Account Executive, Startups",
+    "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-executive-startups-london-196462",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1787683224000,
+    "budget": "Not specified",
+    "client_country": "UK - London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-software-development-offenbach-am-main-496184",
+    "title": "Werkstudent (w/m/d) Software Development",
+    "description": "Unsere eCommerce-Brands HOLZPROFI24 und LEONDO wachsen kontinuierlich – national wie international. Damit wir unsere Plattformen, internen Systeme und Automatisierungsstrecken weiter skalieren, holen wir technologische Verstärkung ins Team. Wenn du Lust hast, echte Shop- und Prozessarchitektur mitzugestalten, bist du b",
+    "link": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-software-development-offenbach-am-main-496184",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1787679024000,
+    "budget": "Not specified",
+    "client_country": "Offenbach am Main, Hessen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-ai-support-operations-frankfurt-am-main-340293",
+    "title": "Working Student AI Support & Operations",
+    "description": "About usstatworx is a leading Data &amp; AI Consulting and Development company in the DACH region. For more than a decade, we have been helping organizations succeed with consulting, development, and training – delivering over 1,000 successful projects for more than 100 clients across nearly every industry.From AI stra",
+    "link": "https://www.arbeitnow.com/jobs/companies/statworx/working-student-ai-support-operations-frankfurt-am-main-340293",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1787679021000,
+    "budget": "Not specified",
+    "client_country": "Frankfurt am Main",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Frankfurt am Main",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-graphic-design-e-commerce-all-genders-berlin-72218",
+    "title": "Working Student – Graphic Design E-Commerce (all genders)",
+    "description": "Purpose?You will be part of our in-house Creative Team and help create visual content for our e-commerce brands and products. From packaging and product images to Amazon listings and social media content, your designs will be seen by thousands of customers across Europe.Expected results for this role in the first 12 mo",
+    "link": "https://www.arbeitnow.com/jobs/companies/niboline-gmbh/working-student-graphic-design-e-commerce-all-genders-berlin-72218",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1787678962000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-machine-learning-intern-london-377216",
+    "title": "Machine Learning Intern",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;WHAT MAKES US EPIC?&lt;/h2&gt; &lt;p&gt;At the core of Epic’s success are talented, passionate people. Epic prides itself on creating a collaborative, welcoming, and creative environment. Whether it’s building award-winning games or crafting engine technology that en",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/epicgames/machine-learning-intern-london-377216",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "numpy",
+      "pytorch",
+      "scikit-learn",
+      "llm",
+      "fine-tuning",
+      "algorithms"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1787673315000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-london-399955",
+    "title": "Enterprise Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt; &lt;p&gt;What unites Anaplanners acro",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/anaplan/enterprise-account-executive-london-399955",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1787673311000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-analyst-routing-sortation-london-5301",
+    "title": "Data Analyst - Routing & Sortation",
+    "description": "Relay is fundamentally reshaping how goods move in an online era. Backed by Europe’s largest-ever logistics Series A ($35M), led by deep-tech investors Plural (whose portfolio spans fusion energy and space exploration), Relay is scaling faster than 99.98% of venture-backed startups. We're assembling the most talent-den",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/relay/data-analyst-routing-sortation-london-5301",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "embedded"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1787672419000,
+    "budget": "Not specified",
+    "client_country": "London - Hybrid",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London - Hybrid",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-privacy-product-counsel-london-11416",
+    "title": "Privacy & Product Counsel",
+    "description": "Hilbert is a scalable, data science-first growth engine that gives B2C teams predictive clarity into user behavior, revenue drivers, and the actions that drive sustainable growth. Fully agentic by design, Hilbert shrinks months-long decision cycles to minutes.From Fortune 10 enterprises to beloved brands like FreshDire",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/hilberts/privacy-product-counsel-london-11416",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1787672418000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-junior-account-executive-smb-uk-market-berlin-berlin-487893",
     "title": "Junior Account Executive SMB | UK Market (m/f/d)",
     "description": "&lt;p&gt;&lt;strong&gt;At Superchat, we&#39;re rebuilding how businesses talk to their customers. The phone call, the contact form, the support ticket: all of it is being replaced by messaging and AI. We&#39;re building the platform that runs underneath.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2020, Superchat has ",
