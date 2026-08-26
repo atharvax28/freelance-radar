@@ -1,5 +1,71 @@
 [
   {
+    "id": "arbeitnow-remote-software-engineer-backend-data-layer-361726",
+    "title": "Software Engineer, Backend - Data Layer",
+    "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilo",
+    "link": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-backend-data-layer-361726",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "postgresql",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787712018000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-marktforschung-bonn-450315",
+    "title": "Werkstudent*in Marktforschung (m/w/d)",
+    "description": "WIR suchen dich!Suchst du nach einem Job, der nicht nur spannend ist, sondern auch einen echten positiven Beitrag zur Gesellschaft leistet? Werde Werkstudent*in im Team Marktforschung und hilf uns, wertvolle Erkenntnisse zu gewinnen, die unser Unternehmen und die Gesellschaft gleichermaßen voranbringen.Im Rahmen von vi",
+    "link": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/werkstudentin-marktforschung-bonn-450315",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787711432000,
+    "budget": "Not specified",
+    "client_country": "Bonn",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bonn",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-434798",
+    "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+    "description": "AufgabenSchwerpunkt Deiner Tätigkeit ist die datenbasierte, inhaltliche und organisatorische Unterstützung des Tagesgeschäfts bei der Beauftragung Alternativer Antriebe von Bussen im Personenverkehr sowie alternativer Antriebe im Schienenverkehr für das Bundesministeriums für Verkehr (BMV). Dazu gehört insbesondere die",
+    "link": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-434798",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "git",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787711424000,
+    "budget": "Not specified",
+    "client_country": "Berlin Fasanenstrasse",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Fasanenstrasse",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-product-designer-160574",
     "title": "Product Designer",
     "description": "&lt;h3&gt;About Dwelly&lt;/h3&gt; &lt;p&gt;Dwelly is building the AI operating system for residential lettings. Its growing network of agencies provides its AI with real-world data, continuous feedback, and control over complete workflows, making exceptional service the standard for landlords and tenants. Today, Dwelly",
