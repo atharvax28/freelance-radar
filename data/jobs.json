@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow-working-student-bid-tender-management-berlin-35053",
+    "title": "Working Student (m/w/d) Bid & Tender Management",
+    "description": "Über RecareAls eines der führenden deutschen HealthTech-Unternehmen gestalten wir das Entlassmanagement neu – technologiegetrieben, patientenzentriert und frei von Bürokratie. Neben unserer marktführenden SaaS-Plattform entwickeln wir KI-Lösungen, die Prozesse in Kliniken und bei Nachversorgern radikal vereinfachen, Fa",
+    "link": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/working-student-bid-tender-management-berlin-35053",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787728815000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-software-engineer-backend-data-layer-315999",
     "title": "Software Engineer, Backend - Data Layer",
     "description": "Register Here!Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilo",
