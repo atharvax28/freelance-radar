@@ -1,5 +1,157 @@
 [
   {
+    "id": "arbeitnow-remote-working-student-bid-tender-management-berlin-290502",
+    "title": "Working Student (m/w/d) Bid & Tender Management",
+    "description": "Über RecareAls eines der führenden deutschen HealthTech-Unternehmen gestalten wir das Entlassmanagement neu – technologiegetrieben, patientenzentriert und frei von Bürokratie. Neben unserer marktführenden SaaS-Plattform entwickeln wir KI-Lösungen, die Prozesse in Kliniken und bei Nachversorgern radikal vereinfachen, Fa",
+    "link": "https://www.arbeitnow.com/jobs/companies/recare-deutschland-gmbh/remote-working-student-bid-tender-management-berlin-290502",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787755856000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-inhouse-technical-recruiter-temporary-contract-for-1-year-munich-377264",
+    "title": "Inhouse Technical Recruiter (temporary contract for 1 year) (f/m/d)",
+    "description": "About Munich ElectrificationMunich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage systems for our global customers. Our international team is comp",
+    "link": "https://www.arbeitnow.com/jobs/companies/munich-electrification/inhouse-technical-recruiter-temporary-contract-for-1-year-munich-377264",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787755232000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founder-associate-berlin-290361",
+    "title": "Founder Associate (Berlin)",
+    "description": "Who we areFoundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables.We pioneered tabular foundation models: TabPFN v2 was a Nature cover story, has passed 3.5M+ downloads ",
+    "link": "https://www.arbeitnow.com/jobs/companies/prior-labs/founder-associate-berlin-290361",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787755232000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-it-automatisierung-ki-grossraum-munster-81861",
+    "title": "Werkstudent (m/w/d) IT – Automatisierung & KI",
+    "description": "WERDEN SIE TEIL UNSERES TEAMS!Du möchtest dein IT-Wissen aus dem Studium in der Praxis einsetzen und an Lösungen mitarbeiten, die Prozesse effizienter und digitaler gestalten? Für eine innovative Umwelt- und Ingenieurberatung suchen wir ab sofort einen engagierten Werkstudenten (m/w/d), der/die mit Neugier, technischem",
+    "link": "https://www.arbeitnow.com/jobs/companies/aem-unternehmerkapital-gmbh/werkstudent-it-automatisierung-ki-grossraum-munster-81861",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "git",
+      "ci/cd",
+      "rag",
+      "prompt engineering",
+      "sharepoint"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787754616000,
+    "budget": "Not specified",
+    "client_country": "Großraum Münster",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Großraum Münster",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-developer-full-stack-hamburg-358649",
+    "title": "Software Developer | Full-stack (m/w/d)",
+    "description": "Your missionThe Applications team builds, maintains, and operates the solutions that collect high-quality sensor datafrom large freight and offshore vessels - data our customers rely on via SCADA, web, and other on-boardapplications. At the center of our work is the Software Engineering Center, our in-house backboneapp",
+    "link": "https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-358649",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787754613000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ui-ux-designer-berlin-hybrid-9739",
+    "title": "UI/UX Designer (m/w/d)",
+    "description": "Wer wir sindGreenTech-Scale-Up mit Sitz in Zug, Schweiz – gegründet im April 2023 von Bradley Mundt als Pionier der neuen Industrie-Kategorie NEO ENERGY.Unsere Mission: Nachhaltige Energie vom Commodity zur Lifestyle-Marke entwickeln – durch KI, Gamification und echte Mehrwerte.Mit smarter KI-Optimierung und einem Port",
+    "link": "https://www.arbeitnow.com/jobs/companies/ess-energy-sales-services-gmbh/ui-ux-designer-berlin-hybrid-9739",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "a/b testing",
+      "figma",
+      "design systems",
+      "wireframing",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1787754607000,
+    "budget": "Not specified",
+    "client_country": "Berlin - Hybrid",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin - Hybrid",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-data-qa-algorithm-benchmarking-munster-304542",
+    "title": "Werkstudent Data QA & Algorithm Benchmarking (m/w/d)",
+    "description": "Deine Missionsyte benutzt komplexe Algorithmen, die auf Basis von 3D-Punktwolken und 3D-Modellen Gebäudemetriken ausrechnen. Typische Beispiele für relevante Metriken sind Geschossfläche, Anzahl Geschosse, Volumen und Gebäudehöhen. Um schnelle Entwicklungszyklen zu gewährleisten, und Änderungen an den Algorithmen auf K",
+    "link": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-304542",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1787753354000,
+    "budget": "Not specified",
+    "client_country": "Münster",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Münster",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-marketing-b2b-saas-startup-berlin-215776",
     "title": "Working Student Marketing (B2B SaaS Startup)",
     "description": "Unsere MissionGestalte mit uns den globalen Handel neu – in einem schnell wachsenden Startup!Wir sind traide AI - ein VC-finanziertes Deep-Tech-Startup aus Berlin, das mit KI die Welt der Handelsregulatorik neu denkt. Unsere Plattform bringt Zollteams ins neue Zeitalter: von Zolltarifierung über Exportkontrolle bis hin",
@@ -373,6 +525,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Frankfurt",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137146",
+    "title": "Estimator",
+    "description": "Civils EstimatorAnnual Salary: up to Â£75,000 per annum + benefitsLocation: Warrington, North-West of EnglandJob Type: Full-timeReed Recruitment are delighted to be recruiting for one of the UKâs leading multi-discipline Civil Engineering and Building contractors, for a Civils Estimator. This role offers a fantastic ",
+    "link": "https://remoteOK.com/remote-jobs/remote-estimator-reed-1137146",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1787666530000,
+    "budget": "Not specified",
+    "client_country": "Warrington, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Warrington,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
