@@ -1,5 +1,73 @@
 [
   {
+    "id": "arbeitnow-content-writer-b2b-saas-remote-eu-uk-london-377195",
+    "title": "Content Writer (B2B SaaS, Remote - EU/UK)",
+    "description": "SaaStorm is a fully remote organic growth agency for B2B SaaS, headquartered in London with a team spread across Europe. Since founding in 2024, we've grown to work with SaaS companies from pre-seed through Series C, and we're approaching €1.5M ARR. What makes us different is the bet we've made: search is changing, and",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/saastorm/content-writer-b2b-saas-remote-eu-uk-london-377195",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "llm",
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788111031000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineer-berlin-412094",
+    "title": "Data Engineer",
+    "description": "About Us1GLOBAL is a technology-driven global mobile communications provider, delivering global connectivity solutions to enterprises and consumers. Powered by a best-in-class telecom platform with its own owned and operated global mobile core network in 15 countries, fully fledged in-house developed eSIM technology, a",
+    "link": "https://www.arbeitnow.com/jobs/companies/1global/data-engineer-berlin-412094",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl",
+      "aws",
+      "s3"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788110406000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-organic-growth-strategist-b2b-saas-remote-eu-uk-london-452437",
+    "title": "Organic Growth Strategist (B2B SaaS, Remote - EU/UK)",
+    "description": "SaaStorm is a fully remote organic growth agency for B2B SaaS, headquartered in London with a team spread across Europe. Since founding in 2024, we've grown to work with SaaS companies from pre-seed through Series C, and we're approaching €1.5M ARR. What makes us different is the bet we've made: search is changing, and",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/saastorm/organic-growth-strategist-b2b-saas-remote-eu-uk-london-452437",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "llm",
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788109227000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-engineer-berlin-hq-160932",
     "title": "Data Engineer (f/m/d)",
     "description": "Job descriptionWe are currently seeking a Data Engineer for our international and diverse Climate Policy Team (CPT). The team is engaged in various projects on climate change mitigation, in particular on energy system transformation, the 1.5°C global warming limit and the evaluation of national climate action. This inc",
