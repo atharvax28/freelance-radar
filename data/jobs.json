@@ -1,5 +1,133 @@
 [
   {
+    "id": "arbeitnow-remote-c-kotlin-software-developer-rustrover-debugger-176052",
+    "title": "C++/Kotlin Software Developer (RustRover Debugger)",
+    "description": "&lt;h2&gt;C++/Kotlin Software Developer (RustRover Debugger)&lt;/h2&gt; &lt;p&gt;You care deeply about how developer tools are built, especially when it comes to the intricacies of debugging. You enjoy solving complex, low-level problems and want to make the Rust ecosystem better for everyone.&lt;/p&gt; &lt;h2&gt;&lt;s",
+    "link": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-c-kotlin-software-developer-rustrover-debugger-176052",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "algorithms"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788069312000,
+    "budget": "Not specified",
+    "client_country": "Berlin; Munich; Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-231180",
+    "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
+    "description": "AbstractFeed-forward 3D reconstruction models can recover scene geometry directly from images or videos without costly scene-specific optimization. By combining large-scale pre-training, multi-view reasoning, and strong geometric priors, these models provide an efficient alternative to traditional reconstruction pipeli",
+    "link": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-231180",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788055824000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-career-services-berlin-186036",
+    "title": "Working Student – Career Services",
+    "description": "Your Responsibilities As a Working Student within Career Services, you will support the day-to-day delivery of career services, student engagement activities, events and employability initiatives at BSBI.This is a hands-on role for someone who is organised, proactive and comfortable managing different tasks and priorit",
+    "link": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/working-student-career-services-berlin-186036",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788055815000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225",
+    "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+    "description": "Build the Market Leader in Satellite Analytics with us at LiveEOLiveEO uses satellite data and AI to monitor critical infrastructure at scale. As a Geospatial Data Analyst (f/m/x), you’ll sit at the heart of our operations, working with geospatial and satellite data to make sure our analytics projects are delivered rel",
+    "link": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-270225",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788055808000,
+    "budget": "Not specified",
+    "client_country": "LiveEO GmbH Berlin Office (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "LiveEO GmbH Berlin Office (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikum-digital-analytics-ab-september-munchen-264395",
+    "title": "Praktikum Digital Analytics (m/w/d)| Ab September, München",
+    "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen wir Bestehendes, wagen Neues und gestalte",
+    "link": "https://www.arbeitnow.com/jobs/companies/towa/praktikum-digital-analytics-ab-september-munchen-264395",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788055807000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-devops-engineer-manchester-263712",
+    "title": "DevOps Engineer",
+    "description": "InfluxData is the creator of InfluxDB, the leading time series platform used to collect, store, and analyze all time series data at any scale. Developers can query and analyze their time-stamped data in real-time to discover, interpret, and share new insights to gain a competitive edge. InfluxData is a remote-first com",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/influxdata/devops-engineer-manchester-263712",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1788050421000,
+    "budget": "Not specified",
+    "client_country": "Remote UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudentin-cpd-testing-und-datenakquise-munchen-473719",
     "title": "Werkstudent:in CPD-Testing und Datenakquise (m/w/d)",
     "description": "Lust auf neueste Technologien, spannende Projekte und ein tolles Team, das dich gerne in seiner Mitte willkommen heißt? Perfekt. Dann komm zu uns!Du bewirbst dich auf eine Stelle bei der Technica Engineering GmbH am Standort München.Technica Engineering GmbH ist Teil der Technica Firmengruppe mit aktuell ca. 1000 Mitar",
