@@ -1,5 +1,45 @@
 [
   {
+    "id": "arbeitnow-enterprise-account-executive-advertising-technology-solutions-munchen-bavaria-203509",
+    "title": "Enterprise Account Executive, Advertising Technology Solutions",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl’s operating system combines an ent",
+    "link": "https://www.arbeitnow.com/jobs/companies/mirakl/enterprise-account-executive-advertising-technology-solutions-munchen-bavaria-203509",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788144930000,
+    "budget": "Not specified",
+    "client_country": "München, Bavaria",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München, Bavaria",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-oder-praktikant-human-resources-frankfurt-412125",
+    "title": "Werkstudent oder Praktikant Human Resources (m/w/d)",
+    "description": "Ihre AufgabenUnterstützung des HR-Teams im operativen TagesgeschäftMitarbeit im Recruiting von der Stellenausschreibung bis zur BewerberkommunikationUnterstützung beim Onboarding neuer MitarbeitenderPflege von Personalstammdaten und PersonalaktenErstellung von Bescheinigungen und weiteren HR-DokumentenUnterstützende Tä",
+    "link": "https://www.arbeitnow.com/jobs/companies/plutos/werkstudent-oder-praktikant-human-resources-frankfurt-412125",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788142178000,
+    "budget": "Not specified",
+    "client_country": "Frankfurt",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Frankfurt",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-hr-office-management-working-student-food-tech-startup-14-20h-week-munich-121581",
     "title": "HR & Office Management - Working Student (m/w/d) Food Tech Startup | 14 - 20h/week",
     "description": "Do you want to make a delicious difference?Planet A Foods is for people who want to change the future of food.We are reinventing how the world produces food ingredients, replacing scarce and unsustainable raw materials with scalable, clean, and delicious alternatives. Our first product, a cocoa-free chocolate, is just ",
@@ -9643,6 +9683,35 @@
     "posted_ts": 1786560925000,
     "budget": "Not specified",
     "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+    "title": "Toptal: Python Backend Development Talent with RAG and Agentic AI Experience",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;Summary:&lt;/p&gt;&lt;p&gt;We are seeking an experienced Python Backend Developer to design, build, and deploy scalable AI-powered applications using Retrieval-Augmented Generation, large language models, and agentic AI frameworks. The role will f",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-python-backend-development-talent-with-rag-and-agentic-ai-experience",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "fastapi",
+      "rest apis",
+      "microservices",
+      "docker",
+      "aws",
+      "llm",
+      "rag",
+      "prompt engineering",
+      "ai agents"
+    ],
+    "posted_at": "18d ago",
+    "posted_ts": 1786559912000,
+    "budget": "Not specified",
+    "client_country": "Remote",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
