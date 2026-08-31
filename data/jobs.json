@@ -1,5 +1,75 @@
 [
   {
+    "id": "arbeitnow-embedded-software-engineer-munich-256528",
+    "title": "Embedded Software Engineer (m/f/d)",
+    "description": "TYTAN TechnologiesAt TYTAN, we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect Europe’s sovereignty.We are looking for an Embedded Software Engineer to strengthe",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/embedded-software-engineer-munich-256528",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "linux",
+      "git",
+      "firmware",
+      "embedded",
+      "rtos",
+      "i2c",
+      "spi"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788197404000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wnomads-1826864",
+    "title": "Agentic Python Engineer",
+    "description": "Evaboot | Agentic Python Engineer | REMOTE | Full-time | $70-120K USDEvaboot turns LinkedIn Sales Navigator searches into clean, verified prospecting lists. Demo: https://www.youtube.com/watch?v=khYgyDlo2IwBootstrapped, $2.2M+ ARR, team of 5, remote since day one.What we're doing: building self-improving loops and agen",
+    "link": "https://www.workingnomads.com/job/go/1826864/",
+    "source": "Working Nomads",
+    "matched_skills": [
+      "python",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788192257000,
+    "budget": "Not specified",
+    "client_country": "WORLDWIDE",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-business-finance-munchen-150792",
+    "title": "Working Student - Business Finance (m/f/d)",
+    "description": "Are you interested in the latest technologies, exciting projects and a great team that is happy to welcome you? Perfect - then join us! You are applying for a position at Technica Engineering GmbH.Technica Engineering GmbH is part of the Technica group of companies with currently approx. 1000 employees worldwide🌍.Tech",
+    "link": "https://www.arbeitnow.com/jobs/companies/technica-engineering-gmbh/working-student-business-finance-munchen-150792",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788186607000,
+    "budget": "Not specified",
+    "client_country": "München, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-hse-koordinator-sicherheits-und-gesundheitsschutzkoordinator-weiden-in-der-oberpfalz-62758",
     "title": "HSE-Koordinator / Sicherheits- und Gesundheitsschutzkoordinator (m/w/d)",
     "description": "Für das Netzausbauprojekt SuedOstLink suchen wir ab sofort einen erfahrenen HSE-Koordinator / Sicherheits- und Gesundheitsschutzkoordinator (m/w/d) in Weiden/Oberpfalz, der Arbeitssicherheit, Gesundheits- und Umweltschutz auf der Baustelle verantwortet – auch Freiberufler sind herzlich willkommen. Aufgaben Verantwortun",
