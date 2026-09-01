@@ -1,5 +1,91 @@
 [
   {
+    "id": "arbeitnow-strategic-account-executive-421508",
+    "title": "Strategic Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/twilio/strategic-account-executive-421508",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "56m ago",
+    "posted_ts": 1788288905000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-forward-deployed-engineer-fde-united-kingdom-441564",
+    "title": "Forward Deployed Engineer (FDE): United Kingdom",
+    "description": "Forward Deployed Engineer (FDE)Remote / 20% Travel About forgdforgd is the consultancy partnering exclusively with Anthropic to help enterprises build AI-native businesses. We start with engineering — helping organizations move from individual developers using Claude Code to entire teams shipping together with AI-nativ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-441564",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws",
+      "ci/cd",
+      "prompt engineering",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788288003000,
+    "budget": "Not specified",
+    "client_country": "Remote - UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-all-genders-data-engineering-frankfurt-am-main-461251",
+    "title": "Werkstudent (all genders) Data Engineering",
+    "description": "Wir bei Supreme Sports Hospitality lieben echte Stadion-Atmosphäre: Egal ob Fußballspiele oder Konzerte – wir lieben gute Stimmung! Perfekte Lebensläufe stehen bei uns nicht im Vordergrund, wir legen viel mehr Wert auf individuelle Persönlichkeiten &amp; Leidenschaft. Wir suchen nach außergewöhnlichen Talenten, die es ",
+    "link": "https://www.arbeitnow.com/jobs/companies/supreme-sports-hospitality-gmbh/werkstudent-all-genders-data-engineering-frankfurt-am-main-461251",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788283812000,
+    "budget": "Not specified",
+    "client_country": "Frankfurt am Main, Hessen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Frankfurt am Main, Hessen, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-developer-full-stack-hamburg-280691",
+    "title": "Software Developer | Full-stack (m/w/d)",
+    "description": "Your missionThe Applications team builds, maintains, and operates the solutions that collect high-quality sensor datafrom large freight and offshore vessels - data our customers rely on via SCADA, web, and other on-boardapplications. At the center of our work is the Software Engineering Center, our in-house backboneapp",
+    "link": "https://www.arbeitnow.com/jobs/companies/hoppe-marine-gmbh/software-developer-full-stack-hamburg-280691",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788282579000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudent-data-qa-algorithm-benchmarking-munster-418111",
     "title": "Werkstudent Data QA & Algorithm Benchmarking (m/w/d)",
     "description": "Deine Missionsyte benutzt komplexe Algorithmen, die auf Basis von 3D-Punktwolken und 3D-Modellen Gebäudemetriken ausrechnen. Typische Beispiele für relevante Metriken sind Geschossfläche, Anzahl Geschosse, Volumen und Gebäudehöhen. Um schnelle Entwicklungszyklen zu gewährleisten, und Änderungen an den Algorithmen auf K",
