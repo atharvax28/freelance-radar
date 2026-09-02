@@ -1,5 +1,65 @@
 [
   {
+    "id": "arbeitnow-account-executive-enterprise-sales-new-business-munich-200386",
+    "title": "Account Executive - Enterprise Sales - New Business",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;We are a global team of innovators and pioneers dedicated to shaping the future of observability. At New Relic, we build an intelligent platform that empowers companies to thrive in an AI-first world by giving them unparalleled insight into their complex systems. As w",
+    "link": "https://www.arbeitnow.com/jobs/companies/newrelic/account-executive-enterprise-sales-new-business-munich-200386",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788317716000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-commercial-account-executive-dach-117921",
+    "title": "Commercial Account Executive - DACH",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-commercial-account-executive-dach-117921",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "git"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788317704000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-future-enterprise-account-executive-opportunities-munchen-bavaria-22087",
+    "title": "Future Enterprise Account Executive Opportunities",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl’s operating system combines an ent",
+    "link": "https://www.arbeitnow.com/jobs/companies/mirakl/future-enterprise-account-executive-opportunities-munchen-bavaria-22087",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788306911000,
+    "budget": "Not specified",
+    "client_country": "München, Bavaria",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München, Bavaria",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-content-designer-contract-london-244148",
     "title": "Content Designer (Contract)",
     "description": "TL;DR — We're looking for a contract Content Designer who can write both inside the product and across the website. You'll own the words in onboarding, empty states, and error messaging, and partner with PMM and our external design partner on the copy and structure of lovable.dev. This is a full-time engagement.Why Lov",
