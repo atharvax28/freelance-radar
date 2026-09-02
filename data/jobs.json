@@ -1,5 +1,93 @@
 [
   {
+    "id": "arbeitnow-freelance-iot-software-engineer-all-genders-berlin-berlin-255711",
+    "title": "Freelance IoT Software Engineer (all genders)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite cons",
+    "link": "https://www.arbeitnow.com/jobs/companies/gropyus/freelance-iot-software-engineer-all-genders-berlin-berlin-255711",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "redis",
+      "linux",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788350113000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin, Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-go-to-market-engineering-marketing-revenue-operations-munich-127860",
+    "title": "Working Student (m/f/d) - Go-to-Market Engineering (Marketing / Revenue Operations)",
+    "description": "About the Role at RobCoRobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make that possible - hardware, software, and AI in one stack that ju",
+    "link": "https://www.arbeitnow.com/jobs/companies/robco/working-student-go-to-market-engineering-marketing-revenue-operations-munich-127860",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "zapier"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788349202000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-application-software-engineer-munich-310732",
+    "title": "Working Student Application Software Engineer",
+    "description": "We are IsarsoftWe make every camera countAt ​Isarsoft ​we develop video analytics software ​to make transportation and cities more efficient, inclusive and secure. ​We stand for data protection and responsible processing of sensitive data. Being ​on the forefront of innovation we work together in interdisciplinary team",
+    "link": "https://www.arbeitnow.com/jobs/companies/isarsoft/working-student-application-software-engineer-munich-310732",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "docker",
+      "linux",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788347377000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-marketing-and-communications-frankfurt-am-main-hq-house-of-logistics-mobility-holm-171604",
+    "title": "Working Student Marketing and Communications (m/f/x)",
+    "description": "Your missionAbout the roleWe're digitising rail freight, and marketing is how the industry hears about it. As a working student in our Marketing and Communications team, you'll be close to the work that shapes how Rail-Flow shows up in the market: on LinkedIn, at industry fairs, in our newsletter, and in the way we tal",
+    "link": "https://www.arbeitnow.com/jobs/companies/rail-flow-gmbh/working-student-marketing-and-communications-frankfurt-am-main-hq-house-of-logistics-mobility-holm-171604",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788347358000,
+    "budget": "Not specified",
+    "client_country": "Frankfurt am Main - HQ (House of Logistics & Mobility (HOLM)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Frankfurt am Main - HQ (House of Logistics & Mobility (HOLM)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-fullstack-software-engineer-core-437469",
     "title": "Fullstack Software Engineer - Core",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestration layer for buildin",
@@ -366,6 +454,26 @@
     "posted_ts": 1788265850000,
     "budget": "Not specified",
     "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137253",
+    "title": "Carpenter",
+    "description": "Additional InformationJob Number26111231Job CategoryEngineering &amp; FacilitiesLocation438 1 34 Mobor, Goa, India, India, 403731 VIEW ON MAPScheduleFull TimeLocated Remotely?NPosition Type Non-ManagementPosition SummaryRespond and attend to guest repair requests. Communicate with guests/customers to resolve maintenanc",
+    "link": "https://remoteOK.com/remote-jobs/remote-carpenter-st-regis-hotels-amp-resorts-1137253",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1788265461000,
+    "budget": "Not specified",
+    "client_country": "Goa, ",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
