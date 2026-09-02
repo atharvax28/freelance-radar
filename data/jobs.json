@@ -1,5 +1,137 @@
 [
   {
+    "id": "arbeitnow-remote-fullstack-software-engineer-core-184220",
+    "title": "Fullstack Software Engineer - Core",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.dataiku.com/?utm_source=newswire&amp;amp;utm_medium=press-release&amp;amp;utm_campaign=PlatformforAISuccess&quot; target=&quot;_blank&quot;&gt;Dataiku&lt;/a&gt; is the Platform for AI Success, the enterprise orchestration layer for buildin",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/dataiku/remote-fullstack-software-engineer-core-184220",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "react",
+      "d3.js",
+      "node.js",
+      "postgresql",
+      "docker",
+      "aws",
+      "pytorch",
+      "scikit-learn",
+      "llm",
+      "ai agents",
+      "mlops"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788364530000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-it-support-infrastructure-engineer-addlestone-135045",
+    "title": "IT Support & Infrastructure Engineer",
+    "description": "Are you an experienced IT professional looking for a hands-on role within an international technology organisation? Our client is an established Managed Service Provider delivering IT support and infrastructure services to a range of well-known businesses.They are looking for a proactive and technically capable enginee",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/emplyfy/it-support-infrastructure-engineer-addlestone-135045",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788363021000,
+    "budget": "Not specified",
+    "client_country": "Addlestone, Richmond upon Thames, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-energy-optimization-product-management-munchen-111297",
+    "title": "Werkstudent (m/w/d) Energy Optimization & Product Management",
+    "description": "Wir suchenDu möchtest die Energiewende mitgestalten? Dann bist Du bei uns genau richtig! Wir sind ein junges, aber wachsendes GreenTec-Unternehmen mit Sitz in Regensburg sowie München und suchen ab sofort eine/n motivierte/n Werkstudent (m/w/d) Energy Optimization &amp; Product Management.Deine AufgabenDurchführung, An",
+    "link": "https://www.arbeitnow.com/jobs/companies/consolinno/werkstudent-energy-optimization-product-management-munchen-111297",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788358177000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-energy-optimization-development-munchen-294590",
+    "title": "Werkstudent (m/w/d) Energy Optimization & Development",
+    "description": "Wir suchenDu möchtest die Energiewende mitgestalten? Dann bist Du bei uns genau richtig! Wir sind ein junges, aber wachsendes GreenTec-Unternehmen mit Sitz in Regensburg sowie München und suchen ab sofort eine/n motivierte/n Werkstudent (m/w/d) Energy Optimization &amp; Development.Deine AufgabenMitwirkung an der Weite",
+    "link": "https://www.arbeitnow.com/jobs/companies/consolinno/werkstudent-energy-optimization-development-munchen-294590",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788358177000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-founders-associate-voll-remote-oder-vor-ort-deutschlandweit-germany-wide-327149",
+    "title": "Werkstudent:in Founders Associate (m/w/d) - voll remote oder vor Ort",
+    "description": "Join the Digital Career Institute & Social Impact SchoolArbeite direkt mit den Gründer:innen - und bau eine Bildungsmarke mit aufGenau da kommst du ins Spiel: Als Werkstudent:in Founders Associate arbeitest du direkt mit den Gründer:innen zusammen und bekommst Einblicke, die es in keinem Konzern-Praktikum gibt - von St",
+    "link": "https://www.arbeitnow.com/jobs/companies/digital-career-institute/werkstudentin-founders-associate-voll-remote-oder-vor-ort-deutschlandweit-germany-wide-327149",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788358166000,
+    "budget": "Not specified",
+    "client_country": "deutschlandweit/germany-wide",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "deutschlandweit/germany-wide",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-revops-sales-operations-voll-remote-deutschlandweit-germany-wide-154705",
+    "title": "Werkstudent (m/w/d) RevOps / Sales Operations - voll remote",
+    "description": "Join the Digital Career Institute & Social Impact SchoolDie Impact School eröffnet Menschen neue berufliche Perspektiven in den Bereichen Bildung, Betreuung und Pflege: praxisnah, gefördert, menschlich. Wir sind eine junge Marke mit dem starken Rückhalt des Digital Career Institute (DCI), und digital gibt es bei uns no",
+    "link": "https://www.arbeitnow.com/jobs/companies/digital-career-institute/werkstudent-revops-sales-operations-voll-remote-deutschlandweit-germany-wide-154705",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "zapier"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788358166000,
+    "budget": "Not specified",
+    "client_country": "deutschlandweit/germany-wide",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "deutschlandweit/germany-wide",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-freelance-iot-software-engineer-all-genders-berlin-berlin-255711",
     "title": "Freelance IoT Software Engineer (all genders)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite cons",
