@@ -1,5 +1,88 @@
 [
   {
+    "id": "arbeitnow-remote-ai-research-engineer-236229",
+    "title": "AI Research Engineer",
+    "description": "&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;AI Research Engineer&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p style=&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-ai-research-engineer-236229",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "llm",
+      "fine-tuning",
+      "notion"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788418508000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-175849",
+    "title": "Enterprise Account Executive",
+    "description": "&lt;h2&gt;Sell transformative AI solutions to some of the most innovative enterprises in EMEA.&lt;/h2&gt; &lt;p data-start=&quot;351&quot; data-end=&quot;545&quot;&gt;Are you passionate about the transformative power of AI? Join Coveo and help bring cutting-edge AI solutions to leading enterprise organizations across t",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/coveoen/enterprise-account-executive-175849",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788418503000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-it-cloud-administrator-munich-154822",
+    "title": "IT Cloud Administrator (f/m/d)",
+    "description": "About Munich ElectrificationMunich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage systems for our global customers. Our international team is comp",
+    "link": "https://www.arbeitnow.com/jobs/companies/munich-electrification/it-cloud-administrator-munich-154822",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788414005000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-werkstudent-einkauf-fur-tiefbau-und-planungsleistungen-im-glasfaserausbau-201665",
+    "title": "Werkstudent Einkauf für Tiefbau- und Planungsleistungen im Glasfaserausbau (m/w/d)",
+    "description": "Was diesen Job so besonders macht?Du möchtest bereits während deines Studiums praktische Erfahrungen sammeln und an anspruchsvollen Infrastrukturprojekten mitwirken? Dann unterstütze unser Einkaufsteam bei der Beschaffung von Tiefbau- und Planungsleistungen für den Glasfaserausbau. Je nach deinen Interessen, Kenntnisse",
+    "link": "https://www.arbeitnow.com/jobs/companies/oxg-glasfaser-gmbh/remote-werkstudent-einkauf-fur-tiefbau-und-planungsleistungen-im-glasfaserausbau-201665",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788412172000,
+    "budget": "Not specified",
+    "client_country": "Düsseldorf und Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-devops-engineer-100-remote-united-kindom-290590",
     "title": "DevOps Engineer (100% remote)",
     "description": "Join Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By har",
