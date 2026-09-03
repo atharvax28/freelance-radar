@@ -1,5 +1,112 @@
 [
   {
+    "id": "arbeitnow-data-platform-engineer-i-london-162452",
+    "title": "Data Platform Engineer I",
+    "description": "Help us use technology to make a big green dent in the universe!Kraken powers some of the most innovative global developments in energy.We create the technology that redefines utilities and unlocks a new energy system of the future. By optimising renewable generation, building a more intelligent grid, and empowering ut",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/kraken/data-platform-engineer-i-london-162452",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "s3"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788450011000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-financial-services-london-126485",
+    "title": "Account Executive - Financial Services",
+    "description": "TransPerfect is the world's leading provider of language services and technology solutions. With over 100 offices worldwide, we partner with global industry leaders, including Fortune 500 companies, to deliver translation, localization, and business solutions across diverse industries. Position Summary:The main focus o",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/account-executive-financial-services-london-126485",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788449420000,
+    "budget": "Not specified",
+    "client_country": "London, Greater London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-content-operations-qa-analyst-326919",
+    "title": "Content Operations QA Analyst",
+    "description": "🏆 What's the opportunity?cargo.one is the AI-native operating system for air and ocean freight. Logistics still runs on manual work, disconnected tools and messy data. Since 2018 we've been building the data foundation, and the AI agents on top of it, that let freight teams quote, book and manage rates in a fraction o",
+    "link": "https://www.arbeitnow.com/jobs/companies/cargo-one/remote-content-operations-qa-analyst-326919",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788446413000,
+    "budget": "Not specified",
+    "client_country": "Remote (EMEA)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-363657",
+    "title": "Product Engineer (Backend/AI) @Briink",
+    "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how sustainability data is",
+    "link": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-363657",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "fastapi",
+      "postgresql",
+      "ci/cd",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788444600000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-inbound-sales-london-3499",
+    "title": "Account Executive, Inbound Sales",
+    "description": "“Every organization advertises work life balance, but what does that really mean? At Absorb work life balance means you get the opportunity to showcase your talent, be celebrated for your accomplishments and enjoy the rewards of those accomplishments either by celebration yourself or celebrating with your friends and f",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/absorblms/account-executive-inbound-sales-london-3499",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788439203000,
+    "budget": "Not specified",
+    "client_country": "Remote UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-producer-hamburg-239034",
     "title": "Producer (f/m/d)",
     "description": "Sunday creates pocket-sized friends for the mass market. We turn idle moments into meaningful connections for millions of users worldwide.Sunday focuses on the psychology of care, companionship, and empathy. We build accessible worlds where players don't just solve puzzles, they rescue friends. By combining mass-market",
