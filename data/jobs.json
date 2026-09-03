@@ -1,5 +1,151 @@
 [
   {
+    "id": "arbeitnow-producer-hamburg-239034",
+    "title": "Producer (f/m/d)",
+    "description": "Sunday creates pocket-sized friends for the mass market. We turn idle moments into meaningful connections for millions of users worldwide.Sunday focuses on the psychology of care, companionship, and empathy. We build accessible worlds where players don't just solve puzzles, they rescue friends. By combining mass-market",
+    "link": "https://www.arbeitnow.com/jobs/companies/sunday-gmbh/producer-hamburg-239034",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "a/b testing"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788435608000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-52566",
+    "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
+    "description": "AbstractFeed-forward 3D reconstruction models can recover scene geometry directly from images or videos without costly scene-specific optimization. By combining large-scale pre-training, multi-view reasoning, and strong geometric priors, these models provide an efficient alternative to traditional reconstruction pipeli",
+    "link": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-52566",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788433766000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-career-services-berlin-430476",
+    "title": "Working Student – Career Services",
+    "description": "Your Responsibilities As a Working Student within Career Services, you will support the day-to-day delivery of career services, student engagement activities, events and employability initiatives at BSBI.This is a hands-on role for someone who is organised, proactive and comfortable managing different tasks and priorit",
+    "link": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/working-student-career-services-berlin-430476",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788433758000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-212419",
+    "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+    "description": "Build the Market Leader in Satellite Analytics with us at LiveEOLiveEO uses satellite data and AI to monitor critical infrastructure at scale. As a Geospatial Data Analyst (f/m/x), you’ll sit at the heart of our operations, working with geospatial and satellite data to make sure our analytics projects are delivered rel",
+    "link": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-212419",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788433752000,
+    "budget": "Not specified",
+    "client_country": "LiveEO GmbH Berlin Office (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "LiveEO GmbH Berlin Office (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikum-digital-analytics-ab-september-munchen-349386",
+    "title": "Praktikum Digital Analytics (m/w/d)| Ab September, München",
+    "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen wir Bestehendes, wagen Neues und gestalte",
+    "link": "https://www.arbeitnow.com/jobs/companies/towa/praktikum-digital-analytics-ab-september-munchen-349386",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788433751000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-solutions-engineer-karlsruhe-ger-439213",
+    "title": "Technical Solutions Engineer",
+    "description": "Short descriptionJoin Septeo CNEE and support challenging client projects in the insolvency industry from the initial requirements gathering through to successful implementation. You’ll combine technical expertise with consulting skills to develop customized solutions for complex business processes. Rather than working",
+    "link": "https://www.arbeitnow.com/jobs/companies/stp-one/technical-solutions-engineer-karlsruhe-ger-439213",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "react",
+      "sql server"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788433745000,
+    "budget": "Not specified",
+    "client_country": "Karlsruhe, GER",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Karlsruhe, GER",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-owner-all-genders-management-suite-tribe-augsburg-67244",
+    "title": "Product Owner (all genders) - Management Suite Tribe",
+    "description": "Welcome to baramundi!“Where security, automation and centralized control come together, modern endpoint management begins.”Do you want to actively shape modern UEM solutions, translate technical complexity into clear product decisions and create real value for IT administrators together with strong development teams? T",
+    "link": "https://www.arbeitnow.com/jobs/companies/baramundi-software-ag/product-owner-all-genders-management-suite-tribe-augsburg-67244",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788422971000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-ai-research-engineer-236229",
     "title": "AI Research Engineer",
     "description": "&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif;&quot;&gt;AI Research Engineer&lt;/span&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p style=&quo",
