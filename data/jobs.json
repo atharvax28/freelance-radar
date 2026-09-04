@@ -1,5 +1,114 @@
 [
   {
+    "id": "arbeitnow-software-developer-java-nodejs-web-development-team-berlin-munich-453740",
+    "title": "Software Developer  Java/ Node.JS (Web Development Team)",
+    "description": "&lt;p&gt;&lt;strong&gt;JetBrains &lt;/strong&gt;creates professional tools that make developers more productive and help them focus on what matters. Our websites and web services are a core part of the JetBrains ecosystem. They connect us with users worldwide, power product distribution, support learning, and enable fe",
+    "link": "https://www.arbeitnow.com/jobs/companies/jetbrains/software-developer-java-nodejs-web-development-team-berlin-munich-453740",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "node.js",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788522906000,
+    "budget": "Not specified",
+    "client_country": "Berlin; Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-infrastructure-cloud-engineer-m-f-d-bonn-germany-hybrid-57744",
+    "title": "Infrastructure & Cloud Engineer (m-f-d)",
+    "description": "The ScopeThe Infrastructure &amp; Cloud Engineer is responsible for implementing, operating, maintaining, and continuously improving FSC's cloud and on-premises infrastructure services. The role ensures the availability, reliability, security, and performance of infrastructure platforms that support FSC's business oper",
+    "link": "https://www.arbeitnow.com/jobs/companies/fsc/infrastructure-cloud-engineer-m-f-d-bonn-germany-hybrid-57744",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788520167000,
+    "budget": "Not specified",
+    "client_country": "Bonn, Germany (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bonn, Germany (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-junior-organisationsentwicklerin-fur-zusammenarbeit-lernen-berlin-84417",
+    "title": "(Junior) Organisationsentwickler:in für Zusammenarbeit & Lernen (d/m/w)",
+    "description": "FÜR EIN NEUES GESELLSCHAFTLICHES ZUSAMMENWIRKEN: WERDE TEIL VON PROJECTTOGETHERDie Probleme von heute lassen sich nicht mit den Methoden von gestern lösen. Deshalb bringt ProjectTogether Menschen aus Gesellschaft, Politik und Wirtschaft ins gemeinsame Handeln. Wir nennen das Collective Action. Als pragmatische Idealist",
+    "link": "https://www.arbeitnow.com/jobs/companies/projecttogether-ggmbh/junior-organisationsentwicklerin-fur-zusammenarbeit-lernen-berlin-84417",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion",
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788520166000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-data-engineer-all-genders-38665",
+    "title": "Data Engineer (all genders)",
+    "description": "What you can expect from usWe’re a high‑energy cloud- and data engineering team looking for like-minded, motivated tech builders. We are driven by ownership and business outcomes. As the analytics unit within a global management consultancy, we turn data-driven strategies into production systems. Our clients are DAX an",
+    "link": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-data-engineer-all-genders-38665",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "fastapi",
+      "flask",
+      "etl",
+      "docker",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788520146000,
+    "budget": "Not specified",
+    "client_country": "Hamburg, München, Düsseldorf, remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-management-consultant-enterprise-architecture-all-genders-310182",
+    "title": "Management Consultant Enterprise Architecture (all genders)",
+    "description": "What you can expect from usAs part of our Sourcing &amp; IT Advisory team, you will help clients shape and deliver complex business and IT transformations across industries.Our tasks focus on complex transformation projects:Enterprise Architecture &amp; Strategy: Define enterprise architecture strategies, governance mo",
+    "link": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-management-consultant-enterprise-architecture-all-genders-310182",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microservices"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788520146000,
+    "budget": "Not specified",
+    "client_country": "Hamburg, München, Düsseldorf, remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "wnomads-1833624",
     "title": "Software engineer",
     "description": "Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no ",
