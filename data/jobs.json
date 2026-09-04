@@ -1,5 +1,117 @@
 [
   {
+    "id": "wnomads-1833624",
+    "title": "Software engineer",
+    "description": "Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no ",
+    "link": "https://www.workingnomads.com/job/go/1833624/",
+    "source": "Working Nomads",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788508538000,
+    "budget": "Not specified",
+    "client_country": "Global",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-data-science-offenbach-am-main-426796",
+    "title": "Werkstudent (w/m/d) Data Science",
+    "description": "Mit den Marken Holzprofi24 und Leondo betreiben wir führende E-Commerce-Plattformen für Haus &amp; Garten in Europa. Wir verbinden moderne Web-Technologien, datengetriebenes Onlinemarketing und leistungsstarke Logistik, um unseren Kunden ein herausragendes Einkaufserlebnis zu bieten. Zur Unterstützung unseres Data-Team",
+    "link": "https://www.arbeitnow.com/jobs/companies/holzland-becker/werkstudent-data-science-offenbach-am-main-426796",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "etl",
+      "linux",
+      "git"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788499802000,
+    "budget": "Not specified",
+    "client_country": "Offenbach am Main, Hessen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Offenbach am Main, Hessen, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-data-analytics-engineering-emobility-essen-200143",
+    "title": "Working Student Data Analytics/Engineering eMobility (f/m/d)",
+    "description": "Your missionYou design &amp; code data transformations, pipelines &amp; dashboards to implement different business use cases on our data platform (Databricks/Spark, Python, SQL, Power BI)You assist in integrating APIs and third-party services into existing systems. Debugging and troubleshooting to ensure seamless data ",
+    "link": "https://www.arbeitnow.com/jobs/companies/edri/working-student-data-analytics-engineering-emobility-essen-200143",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788498592000,
+    "budget": "Not specified",
+    "client_country": "Essen",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Essen",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-it-support-systems-garching-b-munchen-de-430980",
+    "title": "Working Student – IT Support & Systems",
+    "description": "Your missionplanqc builds neutral atom quantum computers in Garching. Behind every experiment and every line of control software sits an IT setup that has to work: laptops that are ready on day one, accounts that exist when someone starts, and hardware that is where it should be.As a Working Student in IT Support &amp;",
+    "link": "https://www.arbeitnow.com/jobs/companies/planqc-gmbh/working-student-it-support-systems-garching-b-munchen-de-430980",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint",
+      "outlook"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788498569000,
+    "budget": "Not specified",
+    "client_country": "Garching b. München (DE)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Garching b. München (DE)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-recruiting-brunswick-germany-39315",
+    "title": "Working Student Recruiting (m/f/d)",
+    "description": "Your missionAs a Working Student in talent acquisition at OKAPI:Orbits, you play an active role in finding the right talent for our team, which builds SaaS solutions covering the entire satellite lifecycle. You support our Operations team in day-to-day operations, help keep the application process running smoothly, and",
+    "link": "https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/working-student-recruiting-brunswick-germany-39315",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788498553000,
+    "budget": "Not specified",
+    "client_country": "Brunswick (Germany)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Brunswick (Germany)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-sales-executive-7835",
     "title": "Sales Executive",
     "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sale",
