@@ -1,5 +1,28 @@
 [
   {
+    "id": "arbeitnow-ai-engineer-london-389634",
+    "title": "AI Engineer",
+    "description": "About 9fin9fin is the AI platform powering global debt markets — the world’s largest asset class at over $145 trillion.Debt markets are vast, global, and mission-critical, yet still run on fragmented data, PDFs, and manual workflows. 9fin replaces this broken infrastructure with a single platform that centralises propr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/9fin/ai-engineer-london-389634",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "aws",
+      "feature engineering",
+      "anomaly detection"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788558014000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-software-engineer-london-322812",
     "title": "Full Stack Software Engineer",
     "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hype cycles. We innovat",
