@@ -1,5 +1,70 @@
 [
   {
+    "id": "arbeitnow-working-student-technical-writer-berlin-399065",
+    "title": "Working Student - Technical Writer (m/f/x)",
+    "description": "UP42 was founded in 2019 with a clear purpose: to transform how organizations order, access, and analyze Earth observation data. Our platform brings together the world’s leading geospatial providers, and offers a single touchpoint to access, manage, and process data at scale. From vegetation management and infrastructu",
+    "link": "https://www.arbeitnow.com/jobs/companies/up42-gmbh/working-student-technical-writer-berlin-399065",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "git"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788607814000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin, Berlin, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-informationssicherheit-bonn-223540",
+    "title": "Werkstudent*in Informationssicherheit (m/w/d)",
+    "description": "WIR suchen dich!Als Werkstudent*in im Bereich Informationssicherheit unterstützt du bei Audits, Sicherheitsprozessen und IT-Security-Projekten. Von ISO 27001 über Notfallmanagement bis hin zu modernen Security-Konzepten erhältst du spannende Einblicke in die vielfältigen Facetten der Informationssicherheit.Tu, was du l",
+    "link": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/werkstudentin-informationssicherheit-bonn-223540",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788606588000,
+    "budget": "Not specified",
+    "client_country": "Bonn",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bonn",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-337399",
+    "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+    "description": "AufgabenSchwerpunkt Deiner Tätigkeit ist die datenbasierte, inhaltliche und organisatorische Unterstützung des Tagesgeschäfts bei der Beauftragung Alternativer Antriebe von Bussen im Personenverkehr sowie alternativer Antriebe im Schienenverkehr für das Bundesministeriums für Verkehr (BMV). Dazu gehört insbesondere die",
+    "link": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-337399",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "git",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788606583000,
+    "budget": "Not specified",
+    "client_country": "Berlin Fasanenstrasse",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Fasanenstrasse",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-engineer-472202",
     "title": "Data Engineer",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
