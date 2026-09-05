@@ -1,5 +1,158 @@
 [
   {
+    "id": "arbeitnow-remote-python-backend-engineer-berlin-203775",
+    "title": "Python Backend Engineer (m/f/x)",
+    "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across",
+    "link": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-203775",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "flask",
+      "rest apis",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788618632000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-java-paris-374073",
+    "title": "Software Engineer Java",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl’s operating system combines an ent",
+    "link": "https://www.arbeitnow.fr/jobs/companies/mirakllabs/software-engineer-java-paris-374073",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "react",
+      "postgresql",
+      "docker",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788616515000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-people-operations-workplace-experience-specialist-france-paris-448309",
+    "title": "People Operations & Workplace Experience Specialist, France",
+    "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/airwallex/people-operations-workplace-experience-specialist-france-paris-448309",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788615608000,
+    "budget": "Not specified",
+    "client_country": "FR - Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-corporate-legal-counsel-france-paris-410866",
+    "title": "Corporate Legal Counsel, France",
+    "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/airwallex/corporate-legal-counsel-france-paris-410866",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788615608000,
+    "budget": "Not specified",
+    "client_country": "FR - Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-sales-executive-490790",
+    "title": "Sales Executive",
+    "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sale",
+    "link": "https://www.arbeitnow.fr/jobs/companies/andercore/remote-sales-executive-490790",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788615607000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-190870",
+    "title": "Software Engineer",
+    "description": "At the start of 360Learning's growth, we were only 10 developers in the R&amp;D department working on a single codebase. Today, we are a team of 60+ engineers divided into 10 product squads. Each squad includes developers, product managers and designers. Our technical teams are paramount to 360Learning’s response to ou",
+    "link": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-software-engineer-190870",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "node.js",
+      "mongodb",
+      "algorithms"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788613474000,
+    "budget": "Not specified",
+    "client_country": "Paris, Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-website-software-engineer-431081",
+    "title": "Website Software Engineer",
+    "description": "Our R&amp;D department gathers a team of 60+ engineers divided into 10+ squads. Each squad includes developers, product managers and designers. The Website squad is one of them.&nbsp; &nbsp; Composed of 2 engineers, 1 Product Manager and 1 Designer, its objective is to: &nbsp; - empower our 25+ person marketing team to",
+    "link": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-website-software-engineer-431081",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "algorithms"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788613474000,
+    "budget": "Not specified",
+    "client_country": "Paris, Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-technical-writer-berlin-399065",
     "title": "Working Student - Technical Writer (m/f/x)",
     "description": "UP42 was founded in 2019 with a clear purpose: to transform how organizations order, access, and analyze Earth observation data. Our platform brings together the world’s leading geospatial providers, and offers a single touchpoint to access, manage, and process data at scale. From vegetation management and infrastructu",
