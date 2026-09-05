@@ -1,5 +1,132 @@
 [
   {
+    "id": "arbeitnow-client-partner-deliveroo-for-work-london-318242",
+    "title": "Client Partner - Deliveroo for Work",
+    "description": "Client Partner - Deliveroo for WorkJoin us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Commercial team sits at the centre of Deliveroo’s marketplace—shaping how we serve restaurants, grocers, and new verticals worldwide. From negotiating key",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/client-partner-deliveroo-for-work-london-318242",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788579602000,
+    "budget": "Not specified",
+    "client_country": "London - The River Building HQ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-commercial-expansion-intern-berlin-77265",
+    "title": "Commercial Expansion Intern",
+    "description": "About PERGOLUXPERGOLUX is building a category-defining outdoor-living brand—online and now in physical retail. We move fast, test ideas in the real world and give ambitious people room to shape what comes next.The OpportunityPERGOLUX is at the starting line of a major new phase of commercial expansion: building a Germa",
+    "link": "https://www.arbeitnow.com/jobs/companies/pergolux/commercial-expansion-intern-berlin-77265",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788576011000,
+    "budget": "Not specified",
+    "client_country": "Berlin | Global Team",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-cloud-security-engineer-220555",
+    "title": "Cloud Security Engineer",
+    "description": "YGO.ai is a VC-funded AI tourism platform. We are hiring a Cloud Security Engineer to own the security of our cloud platform, the APIs our enterprise clients run on and the company itself.🛡️ About this role. The role carries two things at once. You own security engineering directly and hands-on. You build the security",
+    "link": "https://www.arbeitnow.com/jobs/companies/ygo/remote-cloud-security-engineer-220555",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "redis",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788576008000,
+    "budget": "Not specified",
+    "client_country": "Remote EU",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
+    "title": "Software Engineer – Developer Experience / Tooling (Golang/PHP) (m/w/d)",
+    "description": "Shopware ist eine international führende Open‑Commerce‑Plattform für ambitionierte Unternehmen im digitalen Handel. Mit einem API‑First‑Ansatz, maximaler Flexibilität und einer starken Community schaffen wir zukunftsorientierte E‑Commerce‑Lösungen. Unsere 450 Mitarbeitenden in ganz Europa teilen eine Leidenschaft für I",
+    "link": "https://www.arbeitnow.com/jobs/companies/shopware-ag/remote-software-engineer-developer-experience-tooling-golang-php-schoppingen-64061",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd",
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788575418000,
+    "budget": "Not specified",
+    "client_country": "Homeoffice",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-executive-assistant-london-41141",
+    "title": "Executive Assistant",
+    "description": "CUBE are a global RegTech business defining and implementing the gold standard of regulatory intelligence for the financial services industry. We deliver our services through intuitive SaaS solutions, powered by AI, to simplify the complex and everchanging world of compliance for our clients. Why us?🌍 CUBE is a global",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/cube/executive-assistant-london-41141",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788568812000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-net-c-london-314586",
+    "title": "Software Engineer (.NET C#)",
+    "description": "We’re looking for a Software Engineer to join our global team to be responsible for the quality, development, and execution of our software products.You will be part of a technology department that is comprised of a successful and multidisciplinary group of professionals located across the globe – Barcelona, New York, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/software-engineer-net-c-london-314586",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "sql server",
+      "aws"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788568234000,
+    "budget": "Not specified",
+    "client_country": "London, Greater London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-ai-support-operations-frankfurt-am-main-82904",
     "title": "Working Student AI Support & Operations",
     "description": "About usstatworx is a leading Data &amp; AI Consulting and Development company in the DACH region. For more than a decade, we have been helping organizations succeed with consulting, development, and training – delivering over 1,000 successful projects for more than 100 clients across nearly every industry.From AI stra",
