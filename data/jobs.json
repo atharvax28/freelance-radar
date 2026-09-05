@@ -1,5 +1,72 @@
 [
   {
+    "id": "arbeitnow-data-engineer-472202",
+    "title": "Data Engineer",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-engineer-472202",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "docker"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788591307000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-fullstack-engineer-prospect-ui-solutions-munich-415043",
+    "title": "FullStack Engineer - Prospect UI Solutions",
+    "description": "About YouYou have a knack for solving intricate Software Development problems. You're driven by the idea of writing code that simplifies life for millions of users globally. You're committed to continuous learning and enjoy tackling new challenges. Pair programming, code reviews, and collaborative brainstorming with a ",
+    "link": "https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "react",
+      "next.js",
+      "etl"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788586808000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-chief-product-officer-cpo-footwear-hamburg-257311",
+    "title": "Chief Product Officer (CPO) – Footwear (m/w/d)",
+    "description": "StellenbeschreibungPammys ist in wenigen Jahren auf über 1,3 Millionen Kundinnen und Kunden gewachsen. Jetzt bauen wir die Product Organisation für unsere nächste Wachstumsphase: neue Kategorien, höhere Volumen, internationale Märkte und ein global skalierbares Produktionsnetzwerk.Dafür suchen wir einen Chief Product O",
+    "link": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/chief-product-officer-cpo-footwear-hamburg-257311",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788584943000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-client-partner-deliveroo-for-work-london-318242",
     "title": "Client Partner - Deliveroo for Work",
     "description": "Client Partner - Deliveroo for WorkJoin us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Commercial team sits at the centre of Deliveroo’s marketplace—shaping how we serve restaurants, grocers, and new verticals worldwide. From negotiating key",
