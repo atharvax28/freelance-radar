@@ -1,5 +1,212 @@
 [
   {
+    "id": "arbeitnow-working-student-marketing-b2b-saas-startup-berlin-65701",
+    "title": "Working Student Marketing (B2B SaaS Startup)",
+    "description": "Unsere MissionGestalte mit uns den globalen Handel neu – in einem schnell wachsenden Startup!Wir sind traide AI - ein VC-finanziertes Deep-Tech-Startup aus Berlin, das mit KI die Welt der Handelsregulatorik neu denkt. Unsere Plattform bringt Zollteams ins neue Zeitalter: von Zolltarifierung über Exportkontrolle bis hin",
+    "link": "https://www.arbeitnow.com/jobs/companies/traide-ai/working-student-marketing-b2b-saas-startup-berlin-65701",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "42m ago",
+    "posted_ts": 1788649783000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-automation-werkstudentin-berlin-429880",
+    "title": "AI & Automation Werkstudent:in (m/w/d)",
+    "description": "EinleitungStartup Insider ist das führende Informations- und Medienunternehmen der deutschen Startup-Szene. Zu uns gehören der meistgehörte Startup-Podcast im DACH-Raum, reichweitenstarke Newsletter und eine wachsende B2B-Plattform.Unser Team arbeitet datengetrieben, neugierig und hands-on – mit einem klaren Fokus auf ",
+    "link": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-429880",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "42m ago",
+    "posted_ts": 1788649749000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-enterprise-field-engineer-pre-sales-southeast-atlanta-375727",
+    "title": "Enterprise Field Engineer - Pre-sales - SouthEast (Atlanta)",
+    "description": "About CodeRabbitCodeRabbit is the leading AI code review platform, trusted by more than 17,000 customers and 150,000 open-source projects, conducting over 2 million code reviews each week. We build the symbiotic partnership between developers and AI that makes shipping fast software safe again, reviewing every pull req",
+    "link": "https://www.arbeitnow.fr/jobs/companies/coderabbit/remote-enterprise-field-engineer-pre-sales-southeast-atlanta-375727",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648013000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-account-executive-enterprise-southeast-433201",
+    "title": "Account Executive, Enterprise - Southeast",
+    "description": "About CodeRabbitCodeRabbit is the leading AI code review platform, trusted by more than 17,000 customers and 150,000 open-source projects, conducting over 2 million code reviews each week. We build the symbiotic partnership between developers and AI that makes shipping fast software safe again, reviewing every pull req",
+    "link": "https://www.arbeitnow.fr/jobs/companies/coderabbit/remote-account-executive-enterprise-southeast-433201",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648013000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-global-hris-specialist-bordeaux-292303",
+    "title": "Global HRIS Specialist",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/global-hris-specialist-bordeaux-292303",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648009000,
+    "budget": "Not specified",
+    "client_country": "Bordeaux",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sustainability-and-public-affairs-intern-paris-205563",
+    "title": "Sustainability and Public Affairs Intern (Paris )",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/sustainability-and-public-affairs-intern-paris-205563",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648009000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-legal-intern-juriste-droit-des-affaires-paris-235272",
+    "title": "Legal Intern / Juriste Droit des Affaires (Paris)",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/legal-intern-juriste-droit-des-affaires-paris-235272",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648009000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-global-personnel-administration-hr-ops-specialist-bordeaux-427066",
+    "title": "Global Personnel Administration, HR Ops specialist",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/global-personnel-administration-hr-ops-specialist-bordeaux-427066",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648009000,
+    "budget": "Not specified",
+    "client_country": "Bordeaux",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-i-paris-456868",
+    "title": "Software Engineer I",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/software-engineer-i-paris-456868",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "microservices"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648008000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-emea-paris-41184",
+    "title": "Account Executive, EMEA",
+    "description": "Role SummaryOur fast-moving and highly successful Strategic Sales team is growing, and we are seeking the next Account Executive in Paris, France to join our team! Temporal is a remote-first company; however, this role is focused on EMEA to better support our customers and collaborate more effectively with regional tea",
+    "link": "https://www.arbeitnow.fr/jobs/companies/temporal-technologies/account-executive-emea-paris-41184",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788648003000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-technical-escalations-engineer-2-database-monitoring-emea-paris-88394",
     "title": "Technical Escalations Engineer 2 (Database Monitoring) - EMEA",
     "description": "&lt;h2&gt;The Team&lt;/h2&gt; &lt;p&gt;As Datadog’s in-house product experts, the Technical Escalation Engineering (TEE) team plays a critical role in driving our global success. We enable our customers, from the world’s most innovative startups to the largest enterprises.&lt;/p&gt; &lt;p&gt;Through deep technical expe",
