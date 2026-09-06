@@ -1,5 +1,50 @@
 [
   {
+    "id": "arbeitnow-remote-junior-software-engineer-platforms-all-genders-57344",
+    "title": "Junior Software Engineer - Platforms (all genders)",
+    "description": "Your impact at gridXAs a Junior Software Engineer on the Platforms Team, you’ll play a key role in bridging the gap between external cloud ecosystems and the gridX platform. As part of the Cloud Connector team, your work is the bridge between the gridX platform and the outside world. You will build and maintain the bac",
+    "link": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-junior-software-engineer-platforms-all-genders-57344",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "docker",
+      "linux",
+      "aws",
+      "ci/cd",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788714582000,
+    "budget": "Not specified",
+    "client_country": "Remote DE; Aachen; Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-working-student-customer-success-all-genders-177500",
+    "title": "Working Student Customer Success (all genders)",
+    "description": "About Working at envelioToo easy is boring! Together, we are on a mission to drive forward the energy transition. We love what we do, and we are unafraid to dive in. We believe in taking ownership of our work and in continuously growing and evolving. In short: own it, love it, grow with it.We are a humble team of coffe",
+    "link": "https://www.arbeitnow.com/jobs/companies/envelio/remote-working-student-customer-success-all-genders-177500",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788714579000,
+    "budget": "Not specified",
+    "client_country": "Cologne / Remote from Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-core-developer-node-28104",
     "title": "Core Developer - Node",
     "description": "About UsParity is one of the world’s most experienced companies building the core infrastructure behind blockchain - the system that allows information and value to be shared securely without needing an intermediary. We’re laying the foundation for a better web which respects the freedom and data of individuals, and em",
