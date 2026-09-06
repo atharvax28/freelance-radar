@@ -1,5 +1,70 @@
 [
   {
+    "id": "arbeitnow-office-assistant-part-time-uk-london-448542",
+    "title": "Office Assistant (Part Time) - UK",
+    "description": "As the Office Assistant for Marqeta's London branch, your role will be pivotal in managing the office's requirements. You will be a proactive professional, trusted and respected for handling sensitive information and crucial relationships.This is a part time role and performed in the office (Tuesday + Thursday) from ou",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/office-assistant-part-time-uk-london-448542",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788730807000,
+    "budget": "Not specified",
+    "client_country": "London Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-office-assistant-part-time-uk-london-4559",
+    "title": "Office Assistant (Part Time) - UK",
+    "description": "As the Office Assistant for Marqeta's London branch, your role will be pivotal in managing the office's requirements. You will be a proactive professional, trusted and respected for handling sensitive information and crucial relationships.This is a part time role and performed in the office (Tuesday + Thursday) from ou",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/marqeta-inc/office-assistant-part-time-uk-london-4559",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788730807000,
+    "budget": "Not specified",
+    "client_country": "London Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-platform-engineer-working-student-munchen-56537",
+    "title": "Data Platform Engineer Working Student (m/w/d)",
+    "description": "YOUR TASKSYou support the design and development of Databricks-native data platforms and lakehouse architectures for internal projects and client engagements.You contribute to implementing medallion architectures (Bronze, Silver, and Gold), including Auto Loader-based data ingestion.You support the development of data ",
+    "link": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/data-platform-engineer-working-student-munchen-56537",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788725397000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-164600",
     "title": "Account Executive",
     "description": "What We DoRillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight.Rillet is the AI-native ERP built for modern finance teams. We help companies automate the most critical parts of finance, from closing the ",
