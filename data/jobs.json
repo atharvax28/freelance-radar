@@ -1,5 +1,70 @@
 [
   {
+    "id": "arbeitnow-werkstudentin-data-automation-hamburg-140873",
+    "title": "Werkstudent*In Data & Automation (M/W/D)",
+    "description": "Dein TeamUnser Data &amp; Automation Team unterstützt andere Abteilungen des OMR Kosmos, u.a. auch das Sales &amp; Partnerships Team bei der Betreuung der spannendsten nationalen und internationalen Partner*innen aus dem Digital- und Brandbereich. Zum Produktportfolio gehören neben unserem OMR Festival auch zahlreiche ",
+    "link": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-140873",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788768556000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-technical-operations-munchen-76050",
+    "title": "Werkstudent Technical Operations (m/w/d)",
+    "description": "Willkommen bei WirelaneDeutschland verzeichnet neue Rekordzulassungszahlen von Elektrofahrzeugen sowie eine rasant steigende Zahl von Lademöglichkeiten. Die Bundesregierung hat sich in diesem Kontext sehr ambitionierte Ziele gesetzt und möchte bis zum Jahr 2030 15 Millionen zugelassene elektrische Fahrzeuge und 1 Milli",
+    "link": "https://www.arbeitnow.com/jobs/companies/wirelane/werkstudent-technical-operations-munchen-76050",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788757787000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-chief-product-officer-product-growth-systems-ai-berlin-378308",
+    "title": "Chief Product Officer – Product, Growth Systems & AI (m/w/d)",
+    "description": "Deine Mission bei ucm:Als Chief Product Officer baust du aus ucm eine AI-first Produkt- und Wachstumsplattform für flexible Arbeit. Du verbindest ucm Direct, Matching, Marketing Automation und Operations zu einem skalierbaren System, das auch akquirierte Personaldienstleister schnell integrieren kann. Dabei lieferst du",
+    "link": "https://www.arbeitnow.com/jobs/companies/ucmagency/chief-product-officer-product-growth-systems-ai-berlin-378308",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "prototyping"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1788757783000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudent-energy-optimization-product-management-munchen-417481",
     "title": "Werkstudent (m/w/d) Energy Optimization & Product Management",
     "description": "Wir suchenDu möchtest die Energiewende mitgestalten? Dann bist Du bei uns genau richtig! Wir sind ein junges, aber wachsendes GreenTec-Unternehmen mit Sitz in Regensburg sowie München und suchen ab sofort eine/n motivierte/n Werkstudent (m/w/d) Energy Optimization &amp; Product Management.Deine AufgabenDurchführung, An",
