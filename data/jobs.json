@@ -1,5 +1,111 @@
 [
   {
+    "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-179872",
+    "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
+    "description": "AbstractFeed-forward 3D reconstruction models can recover scene geometry directly from images or videos without costly scene-specific optimization. By combining large-scale pre-training, multi-view reasoning, and strong geometric priors, these models provide an efficient alternative to traditional reconstruction pipeli",
+    "link": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-179872",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788822588000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-career-services-berlin-90835",
+    "title": "Working Student – Career Services",
+    "description": "Your Responsibilities As a Working Student within Career Services, you will support the day-to-day delivery of career services, student engagement activities, events and employability initiatives at BSBI.This is a hands-on role for someone who is organised, proactive and comfortable managing different tasks and priorit",
+    "link": "https://www.arbeitnow.com/jobs/companies/global-university-systems-gmbh/working-student-career-services-berlin-90835",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788822580000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-8629",
+    "title": "Geospatial Data Analyst (f/m/x) in the field of AI & Satellite Data",
+    "description": "Build the Market Leader in Satellite Analytics with us at LiveEOLiveEO uses satellite data and AI to monitor critical infrastructure at scale. As a Geospatial Data Analyst (f/m/x), you’ll sit at the heart of our operations, working with geospatial and satellite data to make sure our analytics projects are delivered rel",
+    "link": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/geospatial-data-analyst-in-the-field-of-ai-satellite-data-liveeo-gmbh-berlin-office-hybrid-8629",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788822574000,
+    "budget": "Not specified",
+    "client_country": "LiveEO GmbH Berlin Office (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "LiveEO GmbH Berlin Office (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikum-digital-analytics-ab-september-munchen-94481",
+    "title": "Praktikum Digital Analytics (m/w/d)| Ab September, München",
+    "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen wir Bestehendes, wagen Neues und gestalte",
+    "link": "https://www.arbeitnow.com/jobs/companies/towa/praktikum-digital-analytics-ab-september-munchen-94481",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788822573000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-solutions-engineer-karlsruhe-ger-17667",
+    "title": "Technical Solutions Engineer",
+    "description": "Short descriptionJoin Septeo CNEE and support challenging client projects in the insolvency industry from the initial requirements gathering through to successful implementation. You’ll combine technical expertise with consulting skills to develop customized solutions for complex business processes. Rather than working",
+    "link": "https://www.arbeitnow.com/jobs/companies/stp-one/technical-solutions-engineer-karlsruhe-ger-17667",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "react",
+      "sql server"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788822567000,
+    "budget": "Not specified",
+    "client_country": "Karlsruhe, GER",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Karlsruhe, GER",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-backend-engineer-golang-bank-balance-berlin-30862",
     "title": "Backend Engineer (Golang) - Bank Balance",
     "description": "At SumUp, the&nbsp;Global Bank team builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&nbsp; The Balance Management Squad sits at the core of the Global Bank Platform. Right now, our team is completing a major mileston",
