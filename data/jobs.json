@@ -1,5 +1,136 @@
 [
   {
+    "id": "arbeitnow-backend-engineer-golang-bank-balance-berlin-472150",
+    "title": "Backend Engineer (Golang) - Bank Balance",
+    "description": "&lt;p&gt;At SumUp, the&amp;nbsp;&lt;strong&gt;Global Bank team &lt;/strong&gt;builds the core infrastructure and services that give merchants a digital bank account, helping small businesses manage their money easily and reliably.&amp;nbsp;&lt;/p&gt; &lt;p&gt;The &lt;strong&gt;Balance Management Squad&lt;/strong&gt; si",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-bank-balance-berlin-472150",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design",
+      "postgresql",
+      "docker",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788868504000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-edge-deployment-engineer-berlin-356974",
+    "title": "AI Edge Deployment Engineer",
+    "description": "We’re looking for a hands-on engineer to own the deployment of our AI edge systems at customer sites. You’ll assemble, configure, and install hardware cabinets, networking equipment, and camera systems — ensuring everything runs smoothly in real industrial environments.Your RolePrepare and install full edge setups — ca",
+    "link": "https://www.arbeitnow.com/jobs/companies/almetra/ai-edge-deployment-engineer-berlin-356974",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "bash",
+      "linux"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788867602000,
+    "budget": "Not specified",
+    "client_country": "Onsite Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Onsite Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-account-executive-dach-germany-101523",
+    "title": "Account Executive, DACH",
+    "description": "About the companyOmilia is a leader in Conversational AI. Our cloud platform powers natural, human like customer conversations over voice and chat for some of the largest enterprises in banking, insurance, telecommunications and hospitality, handling hundreds of millions of interactions a year. We build our own deep te",
+    "link": "https://www.arbeitnow.com/jobs/companies/omilia-natural-language-solutions-ua-ltd/remote-account-executive-dach-germany-101523",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788866415000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-software-developer-e-health-x-berlin-293711",
+    "title": "Full Stack Software Developer E-Health (f/m/d/x)",
+    "description": "This is what makes your position specialFull-stack software development based on Docker, Node.js and MongoDB Set your own focus: Backend, Frontend, DevOps, Security, Data Modeling, Development toolsComponent responsibility: from technical design to development to CI/CDIf you take responsibility, you also get freedom of",
+    "link": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-293711",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "node.js",
+      "mongodb",
+      "docker"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788865770000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-designer-experimentation-berlin-47004",
+    "title": "Product Designer (Experimentation) (f/m/d)",
+    "description": "Your missionWe're looking for a designer who decides with evidence. Most design roles stop at the handover. This one does not. You will design a part of the product, form a view about what should change, build the experiment that tests it, and read the results yourself. If you have ever shipped a redesign and never rea",
+    "link": "https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/product-designer-experimentation-berlin-47004",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "a/b testing"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788865748000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-freelancer-im-social-recruiting-mit-meta-facebook-ad-media-buying-erfahrung-im-e-commerce-100-remote-von-zu-hause-munich-224625",
+    "title": "Freelancer im Social Recruiting mit Meta / Facebook Ad Media Buying Erfahrung (m/w/d) im E-Commerce - 100% remote - von zu Hause",
+    "description": "Hommel Hired ist eine kleine, vollständig remote arbeitende Agentur, die sich auf Personalvermittlung für remote First Firmen spezialisiert hat. Unser Ansatz: Wir finden authentische Kandidatinnen und Kandidaten, die nicht nur fachlich überzeugen, sondern auch die Core Values unserer Kunden teilen. In der Folgenden Rol",
+    "link": "https://www.arbeitnow.com/jobs/companies/hommel-hired/freelancer-im-social-recruiting-mit-meta-facebook-ad-media-buying-erfahrung-im-e-commerce-100-remote-von-zu-hause-munich-224625",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788858058000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-enterprise-account-executive-dach-249135",
     "title": "Enterprise Account Executive, DACH",
     "description": "At Sanity.io, we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency. Companies like PUMA, Carhartt WIP, Anth",
