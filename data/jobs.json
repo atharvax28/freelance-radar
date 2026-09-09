@@ -1,5 +1,106 @@
 [
   {
+    "id": "arbeitnow-enterprise-account-executive-73682",
+    "title": "Enterprise Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt; &lt;p&gt;What unites Anaplanners acro",
+    "link": "https://www.arbeitnow.com/jobs/companies/anaplan/enterprise-account-executive-73682",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788965709000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sales-development-representative-sme-growth-business-berlin-406618",
+    "title": "Sales Development Representative, SME & Growth Business",
+    "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
+    "link": "https://www.arbeitnow.com/jobs/companies/airwallex/sales-development-representative-sme-growth-business-berlin-406618",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788964805000,
+    "budget": "Not specified",
+    "client_country": "DE - Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-hardware-engineering-uas-propulsion-power-all-genders-berlin-104138",
+    "title": "Working Student – Hardware Engineering (UAS Propulsion & Power) (all genders)",
+    "description": "About UsSTARK is a European defence technology company building the next generation of unmanned systems. Wedesign, develop and manufacture software-defined, mass-scalable and cost-effective platforms that giveNATO operators a decisive edge in highly contested environments. We are focused on deliveringdeployable, high-p",
+    "link": "https://www.arbeitnow.com/jobs/companies/stark/working-student-hardware-engineering-uas-propulsion-power-all-genders-berlin-104138",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788962969000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-flight-software-engineering-px4-autopilot-all-genders-berlin-103577",
+    "title": "Working Student – Flight Software Engineering (PX4 / Autopilot) (all genders)",
+    "description": "About UsSTARK is a European defence technology company building the next generation of unmanned systems. Wedesign, develop and manufacture software-defined, mass-scalable and cost-effective platforms that giveNATO operators a decisive edge in highly contested environments. We are focused on deliveringdeployable, high-p",
+    "link": "https://www.arbeitnow.com/jobs/companies/stark/working-student-flight-software-engineering-px4-autopilot-all-genders-berlin-103577",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788962969000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-13040",
+    "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
+    "description": "GESIS – Leibniz-Institute for the Social Sciences is an internationally active research institute, funded by federal and state governments and member of the Leibniz Association. Starting as soon as possible, our Department Survey Design &amp; Methodology (SDM), Team Assessing Survey Data Quality, located in Mannheim, i",
+    "link": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-13040",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788962959000,
+    "budget": "Not specified",
+    "client_country": "Mannheim",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Mannheim",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-quantitative-analyst-evergreen-talent-pool-london-90553",
     "title": "Quantitative Analyst (Evergreen - Talent Pool)",
     "description": "This is not an active opening. We're collecting applications for future Quantitative Analyst roles. Tangible is a fast-growing, tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space. By combining deep sector expertise with modern infrastructure, we unlock liquidity a",
