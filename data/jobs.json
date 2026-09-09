@@ -1,5 +1,89 @@
 [
   {
+    "id": "arbeitnow-contract-platform-engineer-259901",
+    "title": "Contract Platform Engineer",
+    "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Remote (EU based, GMT timezone)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Department:&lt;/strong&gt; Engineering&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Employment Type:&lt;/strong&gt; Contract (B2B)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Contract Length:&lt;/strong&gt; 3 months (with potentia",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/yld/contract-platform-engineer-259901",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788980102000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-electronics-munich-86628",
+    "title": "Working Student - Electronics (f/m/d)",
+    "description": "About Munich ElectrificationMunich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage systems for our global customers. Our international team is comp",
+    "link": "https://www.arbeitnow.com/jobs/companies/munich-electrification/working-student-electronics-munich-86628",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "c++"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788975611000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-associate-account-executive-germany-berlin-293879",
+    "title": "Associate Account Executive Germany (f/m/d)",
+    "description": "At Upvest, we are on a mission to make investing as easy as spending money. Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment API is easy to integrate so that fintechs and financial insti",
+    "link": "https://www.arbeitnow.com/jobs/companies/upvest/associate-account-executive-germany-berlin-293879",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788975609000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-cpo-chief-product-officer-hamburg-363449",
+    "title": "CPO - Chief Product Officer (m/w/d)",
+    "description": "StellenbeschreibungPammys ist in wenigen Jahren auf über 1,3 Millionen Kundinnen und Kunden gewachsen. Jetzt bauen wir die Product Organisation für unsere nächste Wachstumsphase: neue Kategorien, höhere Volumen, internationale Märkte und ein global skalierbares Produktionsnetzwerk.Dafür suchen wir einen Chief Product O",
+    "link": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/cpo-chief-product-officer-hamburg-363449",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788973765000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-enterprise-account-executive-73682",
     "title": "Enterprise Account Executive",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt; &lt;p&gt;What unites Anaplanners acro",
