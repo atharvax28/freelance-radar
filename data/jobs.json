@@ -1,5 +1,175 @@
 [
   {
+    "id": "arbeitnow-quantitative-analyst-evergreen-talent-pool-london-90553",
+    "title": "Quantitative Analyst (Evergreen - Talent Pool)",
+    "description": "This is not an active opening. We're collecting applications for future Quantitative Analyst roles. Tangible is a fast-growing, tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space. By combining deep sector expertise with modern infrastructure, we unlock liquidity a",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tangible/quantitative-analyst-evergreen-talent-pool-london-90553",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "bash",
+      "git"
+    ],
+    "posted_at": "18m ago",
+    "posted_ts": 1788962426000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-solutions-engineer-emea-munich-265198",
+    "title": "Solutions Engineer - EMEA",
+    "description": "This is a Hybrid role, 3 days from our office in Munich Tulip brings modern technology and AI into manufacturing. Manufacturing accounts for almost 20% of the global economy and one in every seven workers on Earth, yet remains among the least digitized. More than a decade ago, we created the category to close that gap:",
+    "link": "https://www.arbeitnow.com/jobs/companies/tulip-interfaces/solutions-engineer-emea-munich-265198",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c"
+    ],
+    "posted_at": "33m ago",
+    "posted_ts": 1788961555000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bavaria, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-backend-engineer-golang-transfers-eu-berlin-10798",
+    "title": "Backend Engineer (Golang) - Transfers EU",
+    "description": "At SumUp, we empower small businesses with simple, affordable tools to start, run, and grow. Our Global Bank teams build the financial services that help merchants manage their money and keep their businesses moving. For merchants, a transfer should feel simple. Behind that experience is a complex network of payment sc",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/backend-engineer-golang-transfers-eu-berlin-10798",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "postgresql",
+      "redis",
+      "aws"
+    ],
+    "posted_at": "33m ago",
+    "posted_ts": 1788961554000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-ai-process-business-excellence-berlin-366265",
+    "title": "Working Student – AI Process & Business Excellence (m/f/d)",
+    "description": "1KOMMA5° At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, ",
+    "link": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1788953438000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-ai-support-operations-frankfurt-am-main-158358",
+    "title": "Working Student AI Support & Operations",
+    "description": "About usstatworx is a leading Data &amp; AI Consulting and Development company in the DACH region. For more than a decade, we have been helping organizations succeed with consulting, development, and training – delivering over 1,000 successful projects for more than 100 clients across nearly every industry.From AI stra",
+    "link": "https://www.arbeitnow.com/jobs/companies/statworx/working-student-ai-support-operations-frankfurt-am-main-158358",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788952199000,
+    "budget": "Not specified",
+    "client_country": "Frankfurt am Main",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Frankfurt am Main",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-graphic-design-e-commerce-all-genders-berlin-490844",
+    "title": "Working Student – Graphic Design E-Commerce (all genders)",
+    "description": "Purpose?You will be part of our in-house Creative Team and help create visual content for our e-commerce brands and products. From packaging and product images to Amazon listings and social media content, your designs will be seen by thousands of customers across Europe.Expected results for this role in the first 12 mo",
+    "link": "https://www.arbeitnow.com/jobs/companies/niboline-gmbh/working-student-graphic-design-e-commerce-all-genders-berlin-490844",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788952173000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-france-paris-471257",
+    "title": "Account Executive - France",
+    "description": "Join Choco, where we build and own solutions that reshape a broken food system.The global food supply chain is inefficient by design. Waste is high, margins are thin, and most distributor order processes are done over the phone, tracked across broad spreadsheets, and based on intuition rather than strong data.At Choco,",
+    "link": "https://www.arbeitnow.fr/jobs/companies/choco/account-executive-france-paris-471257",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1788950403000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-machine-learning-engineer-ml-engineer-roleplay-sessions-london-137554",
+    "title": "Machine Learning Engineer / ML Engineer - Roleplay Sessions",
+    "description": "Synthesia is the world’s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication a",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/synthesia/machine-learning-engineer-ml-engineer-roleplay-sessions-london-137554",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design",
+      "llm"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1788946806000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-financial-planning-analysis-intern-bordeaux-450504",
     "title": "Financial Planning & Analysis Intern",
     "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
