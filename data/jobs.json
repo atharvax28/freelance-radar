@@ -1,5 +1,29 @@
 [
   {
+    "id": "arbeitnow-remote-python-backend-engineer-berlin-248550",
+    "title": "Python Backend Engineer (m/f/x)",
+    "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across",
+    "link": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-python-backend-engineer-berlin-248550",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "flask",
+      "rest apis",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1788996623000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-rider-onboarding-associate-6-months-ftc-london-201781",
     "title": "Rider Onboarding Associate - (6 Months FTC)",
     "description": "Rider Onboarding AssociateJoin us in our mission to transform the way people shop and eat, where impact, innovation, and growth drives everything we do. Our Commercial team sits at the centre of Deliveroo’s marketplace—shaping how we serve restaurants, grocers, and new verticals worldwide. From negotiating key partners",
@@ -21630,6 +21654,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Mankota 45,",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1136770",
+    "title": "Future Shaprs",
+    "description": "Here at Shapr3D we donât just innovate. We create a new status quo in 3D design.To achieve this, weâre completely reimagining legacy computer-aided design (CAD) tools with an iconic, mobile-first product. Weâre backed by top European VCs Point9 Capital and Creandum.We're constantly looking for talented individual",
+    "link": "https://remoteOK.com/remote-jobs/remote-future-shaprs-shapr3d-1136770",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "8/5/2026",
+    "posted_ts": 1785938096000,
+    "budget": "Not specified",
+    "client_country": "Budapest, ",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Budapest,",
     "link_validated": true,
     "link_status": "DIRECT"
   },
