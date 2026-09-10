@@ -1,5 +1,91 @@
 [
   {
+    "id": "arbeitnow-tutor-lehrkraft-produkt-projekt-change-management-all-genders-berlin-448650",
+    "title": "Tutor/Lehrkraft Produkt/Projekt/Change Management (all genders)",
+    "description": "Tutor/Lehrkraft Produkt/Projekt/Change Management (all genders)Du hast in Product Management, Projektmanagement oder Change Management gearbeitet, kennst Frameworks wie Agile/Scrum, Kanban oder OKR aus der Praxis und willst dieses Wissen jetzt weitergeben, statt es nur in deinen eigenen Projekten einzusetzen? Als Tutor",
+    "link": "https://www.arbeitnow.com/jobs/companies/stackfuel/tutor-lehrkraft-produkt-projekt-change-management-all-genders-berlin-448650",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "agile/scrum"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789008005000,
+    "budget": "Not specified",
+    "client_country": "Remote - Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-informationssicherheit-bonn-488469",
+    "title": "Werkstudent*in Informationssicherheit (m/w/d)",
+    "description": "WIR suchen dich!Als Werkstudent*in im Bereich Informationssicherheit unterstützt du bei Audits, Sicherheitsprozessen und IT-Security-Projekten. Von ISO 27001 über Notfallmanagement bis hin zu modernen Security-Konzepten erhältst du spannende Einblicke in die vielfältigen Facetten der Informationssicherheit.Tu, was du l",
+    "link": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/werkstudentin-informationssicherheit-bonn-488469",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789006153000,
+    "budget": "Not specified",
+    "client_country": "Bonn",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bonn",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-330716",
+    "title": "Werkstudent*in Klimafreundliche Busse (Data Analysis)",
+    "description": "AufgabenSchwerpunkt Deiner Tätigkeit ist die datenbasierte, inhaltliche und organisatorische Unterstützung des Tagesgeschäfts bei der Beauftragung Alternativer Antriebe von Bussen im Personenverkehr sowie alternativer Antriebe im Schienenverkehr für das Bundesministeriums für Verkehr (BMV). Dazu gehört insbesondere die",
+    "link": "https://www.arbeitnow.com/jobs/companies/now-gmbh-nationale-organisation-fur-den-wandel-in-der/werkstudentin-klimafreundliche-busse-data-analysis-berlin-fasanenstrasse-330716",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "git",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789006148000,
+    "budget": "Not specified",
+    "client_country": "Berlin Fasanenstrasse",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Fasanenstrasse",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-p2p-search-team-100-remote-worldwide-london-405442",
+    "title": "Software Engineer P2P - Search Team (100% Remote, Worldwide)",
+    "description": "Join Tether and Shape the Future of Digital FinanceAt Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By har",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/software-engineer-p2p-search-team-100-remote-worldwide-london-405442",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "algorithms"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1789000239000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-python-backend-engineer-berlin-248550",
     "title": "Python Backend Engineer (m/f/x)",
     "description": "Job Title: (Senior) Python Engineer (m/f/x)Location: EU(Remote)Who You’ll Work For:At Makersite, we're pioneering the future of sustainable product development and digital collaboration. As a leading platform for product lifecycle management (PLM), we empower companies to make smarter, more sustainable decisions across",
