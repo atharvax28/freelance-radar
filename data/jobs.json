@@ -1,5 +1,135 @@
 [
   {
+    "id": "arbeitnow-account-executive-enterprise-payments-london-267106",
+    "title": "Account Executive, Enterprise (Payments)",
+    "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/account-executive-enterprise-payments-london-267106",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789054809000,
+    "budget": "Not specified",
+    "client_country": "UK - London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-qa-automation-engineer-118845",
+    "title": "QA Automation Engineer",
+    "description": "&lt;h3&gt;Shape the Future of Financial Services with Capco&lt;/h3&gt; &lt;p&gt;At Capco, we specialize in management consulting and software development, partnering with leading international banks and insurance companies across Western Europe. Our innovative approach and collaborative culture make us the ideal place ",
+    "link": "https://www.arbeitnow.com/jobs/companies/capco/qa-automation-engineer-118845",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "rest apis",
+      "playwright",
+      "selenium",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789052112000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-management-beraterin-ai-data-tech-modernisation-17706",
+    "title": "Management Berater:in - AI & Data / Tech Modernisation (m/w/d)",
+    "description": "&lt;p&gt;&lt;strong&gt;Über AlixPartners&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Expertise, Umsetzungsstärke, Verantwortung – AlixPartners steht für messbare Ergebnisse „when it really matters“. Als global agierende Unternehmensberatung helfen wir unseren Klienten dabei, schnell und entschlossen auf ihre wichtigsten Herausfo",
+    "link": "https://www.arbeitnow.com/jobs/companies/alixpartners/management-beraterin-ai-data-tech-modernisation-17706",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "sql",
+      "c",
+      "c++",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789052109000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-recruitment-marketing-specialist-berlin-227397",
+    "title": "Recruitment Marketing Specialist",
+    "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sale",
+    "link": "https://www.arbeitnow.com/jobs/companies/andercore/recruitment-marketing-specialist-berlin-227397",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789051211000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-dach-earn-up-to-eur100k-ote-berlin-64257",
+    "title": "Account Executive - DACH  (Earn Up to €100K OTE)",
+    "description": "About AndercoreAndercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond.We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution end-to-end: sourcing, quality, pricing, sale",
+    "link": "https://www.arbeitnow.com/jobs/companies/andercore/account-executive-dach-earn-up-to-eur100k-ote-berlin-64257",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789051211000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-marketing-b2b-saas-startup-berlin-206190",
+    "title": "Working Student Marketing (B2B SaaS Startup)",
+    "description": "Unsere MissionGestalte mit uns den globalen Handel neu – in einem schnell wachsenden Startup!Wir sind traide AI - ein VC-finanziertes Deep-Tech-Startup aus Berlin, das mit KI die Welt der Handelsregulatorik neu denkt. Unsere Plattform bringt Zollteams ins neue Zeitalter: von Zolltarifierung über Exportkontrolle bis hin",
+    "link": "https://www.arbeitnow.com/jobs/companies/traide-ai/working-student-marketing-b2b-saas-startup-berlin-206190",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789049349000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-backend-engineer-golang-transfers-eu-berlin-291024",
     "title": "Backend Engineer (Golang) - Transfers EU",
     "description": "&lt;p&gt;At SumUp, we empower small businesses with simple, affordable tools to start, run, and grow. Our &lt;strong&gt;Global Bank teams&lt;/strong&gt; build the financial services that help merchants manage their money and keep their businesses moving.&lt;/p&gt; &lt;p&gt;For merchants, a transfer should feel simple. ",
