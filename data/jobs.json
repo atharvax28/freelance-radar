@@ -1,5 +1,45 @@
 [
   {
+    "id": "arbeitnow-werkstudent-data-qa-algorithm-benchmarking-munster-312724",
+    "title": "Werkstudent Data QA & Algorithm Benchmarking (m/w/d)",
+    "description": "Deine Missionsyte benutzt komplexe Algorithmen, die auf Basis von 3D-Punktwolken und 3D-Modellen Gebäudemetriken ausrechnen. Typische Beispiele für relevante Metriken sind Geschossfläche, Anzahl Geschosse, Volumen und Gebäudehöhen. Um schnelle Entwicklungszyklen zu gewährleisten, und Änderungen an den Algorithmen auf K",
+    "link": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-312724",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789060169000,
+    "budget": "Not specified",
+    "client_country": "Münster",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Münster",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-170194",
+    "title": "Werkstudent*in im Projektmanagement",
+    "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen!Deine AufgabenDu un",
+    "link": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-170194",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789060159000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-account-executive-enterprise-payments-london-267106",
     "title": "Account Executive, Enterprise (Payments)",
     "description": "About AirwallexAirwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage ",
