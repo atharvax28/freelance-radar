@@ -1,5 +1,113 @@
 [
   {
+    "id": "arbeitnow-project-coordinator-technology-consulting-london-444835",
+    "title": "Project Coordinator, Technology Consulting",
+    "description": "Intelance helps organisations make practical decisions about technology, costs and change. We are looking for a freelance Project Coordinator to keep interviews, evidence requests, actions and document reviews organised during technology consulting assignments. Primarily remote within the UK, with occasional client mee",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/intelance/project-coordinator-technology-consulting-london-444835",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microsoft teams",
+      "sharepoint",
+      "outlook"
+    ],
+    "posted_at": "56m ago",
+    "posted_ts": 1789083029000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-business-data-analyst-finance-requirements-management-berlin-boppstr-291555",
+    "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
+    "description": "Deine Aufgaben:Du verstehst Geschäftsprozesse, denkst analytisch und kannst komplexe Anforderungen verständlich strukturieren? Du bewegst Dich sicher zwischen Fachbereichen und technischen Teams und hast Freude daran, aus Daten und Anforderungen tragfähige Lösungen zu entwickeln? Dann suchen wir genau Dich als Business",
+    "link": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-291555",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789081794000,
+    "budget": "Not specified",
+    "client_country": "Berlin Boppstr.",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Boppstr.",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-i-paris-13564",
+    "title": "Software Engineer I",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.fr/jobs/companies/checkoutcom/software-engineer-i-paris-13564",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "microservices"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789080009000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-fraud-and-risk-officer-intern-paris-38414",
+    "title": "Fraud and Risk Officer Intern",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/fraud-and-risk-officer-intern-paris-38414",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789080009000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineerin-it-support-kiel-386066",
+    "title": "Data Engineer:in / IT Support (m/w/d)",
+    "description": "Deine Vision. Deine LOHNunion. Gestalte deine berufliche Zukunft beim 7-fachen Top Dienstleister: Bereits jetzt sind wir DAS Lohnbüro für mehr als 4.000 Unternehmen in ganz Deutschland und wachsen täglich. Unsere Kundenpalette reicht vom Kiosk um die Ecke bis hin zum Global Player mit mehr als 1.000 Mitarbeitenden. Und",
+    "link": "https://www.arbeitnow.com/jobs/companies/lohnunion-gmbh/data-engineerin-it-support-kiel-386066",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "fastapi",
+      "docker",
+      "linux"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789079426000,
+    "budget": "Not specified",
+    "client_country": "Kiel",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudent-data-qa-algorithm-benchmarking-munster-312724",
     "title": "Werkstudent Data QA & Algorithm Benchmarking (m/w/d)",
     "description": "Deine Missionsyte benutzt komplexe Algorithmen, die auf Basis von 3D-Punktwolken und 3D-Modellen Gebäudemetriken ausrechnen. Typische Beispiele für relevante Metriken sind Geschossfläche, Anzahl Geschosse, Volumen und Gebäudehöhen. Um schnelle Entwicklungszyklen zu gewährleisten, und Änderungen an den Algorithmen auf K",
