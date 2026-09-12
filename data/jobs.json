@@ -1,5 +1,236 @@
 [
   {
+    "id": "arbeitnow-building-data-specialist-technical-draftsperson-all-genders-berlin-berlin-319601",
+    "title": "Building Data Specialist / Technical Draftsperson (all genders)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite cons",
+    "link": "https://www.arbeitnow.com/jobs/companies/gropyus/building-data-specialist-technical-draftsperson-all-genders-berlin-berlin-319601",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "data structures"
+    ],
+    "posted_at": "53m ago",
+    "posted_ts": 1789224910000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin, Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-product-designer-1-year-ftc-germany-253732",
+    "title": "Product Designer (1-year FTC)",
+    "description": "Shape intuitive digital experiences across Dericon’s product landscape and help define the future of a leading fintech platform in financial services.As a Product Designer at FE fundinfo, you’ll take ownership of user experience and interface design across a diverse digital product landscape. This is a fixed-term contr",
+    "link": "https://www.arbeitnow.com/jobs/companies/fe-fundinfo/remote-product-designer-1-year-ftc-germany-253732",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "design systems"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789222802000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-104196",
+    "title": "Working Student (all genders) – Robust Feed-Forward 3D Reconstruction for Dynamic Scene",
+    "description": "AbstractFeed-forward 3D reconstruction models can recover scene geometry directly from images or videos without costly scene-specific optimization. By combining large-scale pre-training, multi-view reasoning, and strong geometric priors, these models provide an efficient alternative to traditional reconstruction pipeli",
+    "link": "https://www.arbeitnow.com/jobs/companies/xitaso/working-student-all-genders-robust-feed-forward-3d-reconstruction-for-dynamic-scene-augsburg-104196",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789222152000,
+    "budget": "Not specified",
+    "client_country": "Augsburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Augsburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-stagiaire-communication-relations-publiques-6-mois-paris-france-267776",
+    "title": "Stagiaire Communication & Relations Publiques (6 mois) - Paris, France",
+    "description": "About BlaBlaCarBlaBlaCar is the world’s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% working fully remotely.Notre Mission Nous recherchons un(e) Sta",
+    "link": "https://www.arbeitnow.fr/jobs/companies/blablacar/stagiaire-communication-relations-publiques-6-mois-paris-france-267776",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219504000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-developpeur-python-rd-practice-se-margo-paris-185893",
+    "title": "Développeur Python R&D |  Practice SE MARGO",
+    "description": "Qui sommes nous ? &nbsp; Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de s",
+    "link": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-python-rd-practice-se-margo-paris-185893",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "c",
+      "c++",
+      "linux"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219445000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-developpeur-c-haute-performance-practice-se-margo-paris-283085",
+    "title": "Développeur C++ - Haute performance |  Practice SE MARGO",
+    "description": "Qui sommes nous ?Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de solutions",
+    "link": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-c-haute-performance-practice-se-margo-paris-283085",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "c++",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219445000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-developpeur-c-front-office-practice-se-margo-paris-48474",
+    "title": "Développeur C++ - Front Office |  Practice SE MARGO",
+    "description": "Qui sommes nous ? &nbsp; Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de s",
+    "link": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-c-front-office-practice-se-margo-paris-48474",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "c++"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219445000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-developpeur-c-trading-algo-practice-se-margo-paris-638",
+    "title": "Développeur C# - Trading Algo |  Practice SE MARGO",
+    "description": "Qui sommes nous ? &nbsp; Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de s",
+    "link": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-c-trading-algo-practice-se-margo-paris-638",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      ".net core"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219445000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-developpeur-java-practice-se-margo-paris-243759",
+    "title": "Développeur Java |  Practice SE MARGO",
+    "description": "Qui sommes nous ?Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de solutions",
+    "link": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-java-practice-se-margo-paris-243759",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219445000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-developpeur-c-practice-se-margo-paris-420763",
+    "title": "Développeur C# |  Practice SE MARGO",
+    "description": "Qui sommes nous ? &nbsp; Chez MARGO, nos consultants travaillent sur ce qui compte vraiment : des projets complexes qui allient challenge intellectuel et impact business réel. C’est pourquoi nous accompagnons les plus grands acteurs de la finance, de l’industrie et de la tech dans la conception et le développement de s",
+    "link": "https://www.arbeitnow.fr/jobs/companies/margo/developpeur-c-practice-se-margo-paris-420763",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789219445000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-marketing-associate-contractor-203923",
+    "title": "Marketing Associate (Contractor)",
+    "description": "&lt;p&gt;&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Marketing Associate&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Summary of Posit&lt;/strong&gt;&lt;strong&gt;ion&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;In a B2B SaaS environment, we are seeking a motivated, detail-oriented, and execution-focused Marketing Associate (on a Cont",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/onapsis/marketing-associate-contractor-203923",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789217721000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-freelance-software-data-ai-engineer-development-data-ai-bad-homburg-260868",
     "title": "Freelance Software  / Data / AI Engineer (m/w/d) - Development | Data | AI",
     "description": "Für aktuelle und zukünftige Kundenprojekte suchen wir erfahrene freiberufliche Softwareentwickler, AI/ML Engineers und Data Engineers (m/w/d) aus unterschiedlichen technologischen Fachbereichen. Wir suchen insbesondere Expertise in folgenden Bereichen: Backend Development – Java, C#/.NET, Python, Go, Node.js Frontend &",
