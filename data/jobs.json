@@ -1,5 +1,52 @@
 [
   {
+    "id": "arbeitnow-remote-regional-field-cto-78962",
+    "title": "Regional Field CTO",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly f",
+    "link": "https://www.arbeitnow.com/jobs/companies/blackduck/remote-regional-field-cto-78962",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "anomaly detection"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789235708000,
+    "budget": "Not specified",
+    "client_country": "EMEA, Remote (Black Duck has entities in UK, Netherlands, France, Italy, Ireland, Finland, Sweden)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-engineer-backend-ai-at-briink-berlin-145032",
+    "title": "Product Engineer (Backend/AI) @Briink",
+    "description": "What we doAt Briink, we’re building AI technology for the global sustainability economy. We work with the world’s largest climate organizations, including CDP and PRI, and multinational companies such as Bayer, Siemens, Commerzbank, E.ON, and Heidelberg Materials.Our technology helps automate how sustainability data is",
+    "link": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-145032",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "fastapi",
+      "postgresql",
+      "ci/cd",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789232985000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-ux-ui-designer-intch-450285",
     "title": "UX/UI Designer | Intch",
     "description": "About IntchIntch is a professional social network with a marketplace for part time work. You can think of it as a professional network built for senior specialists who take on meaningful contracts alongside their main work. A typical contract lasts from three to six months.The product is used in 140 countries and is av",
