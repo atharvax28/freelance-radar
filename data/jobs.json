@@ -1,5 +1,178 @@
 [
   {
+    "id": "arbeitnow-software-engineer-london-424352",
+    "title": "Software Engineer",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;By bringing together next-gen technology and the finest live data available, Genius Sports is enabling a new era of sports for fans worldwide, delivering experiences that are more immersi",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/software-engineer-london-424352",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "postgresql",
+      "ci/cd",
+      "data structures"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789314906000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-infrastructure-engineer-united-kingdom-448511",
+    "title": "Infrastructure Engineer",
+    "description": "At Augmodo, we are expanding our global footprint and building a follow-the-sun engineering model. Currently, our core infrastructure team is based in the US Bay Area. As our customer base and engineering cohorts grow internationally—particularly across Europe and Australia—we need an infrastructure engineer stationed ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/augmodo/infrastructure-engineer-united-kingdom-448511",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789314006000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-assessment-delivery-optimisation-london-43755",
+    "title": "Assessment Delivery Optimisation",
+    "description": "We pull medical technology from the future to solve human health. Scarlet is authorised to assess and certify medical devices. We combine clinical, technical and regulatory expertise with AI agents and software so rigorous certification can keep pace with product development at the world’s most ambitious technology com",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/assessment-delivery-optimisation-london-43755",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789314003000,
+    "budget": "Not specified",
+    "client_country": "London Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-396352",
+    "title": "Software Engineer",
+    "description": "We pull medical technology from the future to solve human health. Scarlet is authorised to assess and certify medical devices. We combine clinical, technical and regulatory expertise with AI agents and software so rigorous certification can keep pace with product development at the world’s most ambitious technology com",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/scarlet/remote-software-engineer-396352",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789314003000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-platform-expert-support-emea-london-96314",
+    "title": "Technical Platform Expert, Support, EMEA",
+    "description": "Ironclad is the leading AI contracting platform that transforms agreements into assets. Contracts move faster, insights surface instantly, and agents push work forward, all with you in control. Whether you’re buying or selling, Ironclad unifies the entire process on one intelligent platform, providing leaders with the ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/ironclad/technical-platform-expert-support-emea-london-96314",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prompt engineering"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789314002000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-photonics-layout-engineer-oxford-14011",
+    "title": "Photonics Layout Engineer",
+    "description": "About usSalience Labs is building the optical infrastructure that will power the next generation of AI. Our photonic switching technology delivers the high-speed, ultra-low latency networking fabrics AI datacenters need and can't get anywhere else. We're a multi-disciplinary team of physicists, engineers, and machine l",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/photonics-layout-engineer-oxford-14011",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789314002000,
+    "budget": "Not specified",
+    "client_country": "Oxford, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-forward-deployed-engineer-france-nordics-paris-391173",
+    "title": "Forward Deployed Engineer, France/Nordics",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Telnyx&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Telnyx is an industry leader that&#39;s not just imagining the future of global connectivity—we&#39;re building it. From architecting and amplifying ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/forward-deployed-engineer-francenordics-greenhouse/forward-deployed-engineer-france-nordics-paris-391173",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "sql",
+      "webrtc",
+      "node.js",
+      "etl",
+      "ci/cd",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789307704000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-account-executive-france-nordics-paris-456410",
+    "title": "Founding Account Executive, France/Nordics",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Telnyx&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Telnyx is an industry leader that&#39;s not just imagining the future of global connectivity—we&#39;re building it. From architecting and amplifying ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/forward-deployed-engineer-francenordics-greenhouse/founding-account-executive-france-nordics-paris-456410",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789307704000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-ai-engineer-inference-sydney-australia-94778",
     "title": "AI Engineer - Inference",
     "description": "&lt;h3 class=&quot;p1&quot;&gt;&lt;strong&gt;Firmus Technologies&lt;/strong&gt;&lt;/h3&gt; &lt;p class=&quot;p1&quot;&gt;Firmus Technologies is a global leader pioneering the development and operation of efficient AI infrastructure across Asia Pacific.&lt;/p&gt; &lt;p class=&quot;p1&quot;&gt;Founded in Australia in 201",
