@@ -1,5 +1,77 @@
 [
   {
+    "id": "arbeitnow-support-implementation-engineer-cologne-89593",
+    "title": "Support & Implementation Engineer (m/w/d)",
+    "description": "Wie ein Unternehmen seine Kunden abrechnet, entscheidet darüber, wie es wachsen kann. Subscription-Modelle, nutzungsbasierte Preise, individuelle Vertragskonditionen, die Anforderungen sind vielfältig, die Systeme dahinter oft nicht. Fynn gibt Unternehmen die Infrastruktur, um genau das zu können: flexible, automatisie",
+    "link": "https://www.arbeitnow.com/jobs/companies/fynn-gmbh/support-implementation-engineer-cologne-89593",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "sql",
+      "node.js",
+      "postgresql",
+      "etl",
+      "notion"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789408784000,
+    "budget": "Not specified",
+    "client_country": "Cologne",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Cologne",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-freelance-shopify-shopbuilder-webdesignerin-fur-weinbranche-berlin-315522",
+    "title": "Freelance Shopify Shopbuilder Webdesigner:in (w/m/d) für Weinbranche",
+    "description": "Hi, wir sind Vino Digital. Wir sind die E-Commerce-Agentur für Winzer und bringen unsere Partnerweingüter mit Shopify nach vorne. Für unsere wachsende Zahl an Shop-Projekten suchen wir feste Freelance-Unterstützung, die unsere Shops zuverlässig nach klarem Standard baut. Wir verändern die Weinbranche nachhaltig. Aufgab",
+    "link": "https://www.arbeitnow.com/jobs/companies/vino-digital/freelance-shopify-shopbuilder-webdesignerin-fur-weinbranche-berlin-315522",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "git"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789408784000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sales-engineer-technical-consultant-all-genders-hallbergmoos-36249",
+    "title": "Sales Engineer / Technical Consultant (all genders)",
+    "description": "You don't just demo software — you prove it works. As Sales Engineer at Prospeum, you're the person who makes enterprise deals technically undeniable. You build proof-of-concepts, run deep-dives with IT and procurement teams, and configure working solutions before the contract is signed. Tasks Build prototypes, proof-o",
+    "link": "https://www.arbeitnow.com/jobs/companies/prospeum-gmbh/sales-engineer-technical-consultant-all-genders-hallbergmoos-36249",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "c",
+      "fastapi",
+      "rest apis",
+      "postgresql",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789408746000,
+    "budget": "Not specified",
+    "client_country": "Hallbergmoos",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hallbergmoos",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudent-e-mail-marketing-design-frankfurt-am-main-235870",
     "title": "Werkstudent E-Mail Marketing Design (m/w/d)",
     "description": "Wir sind eine E-Mail-Marketing- und E-Commerce-Agentur mit Leidenschaft für datengetriebene Kampagnen und starkes visuelles Storytelling. Für unsere Kund:innen aus dem E-Commerce entwickeln wir E-Mail-Strategien, die nicht nur gut aussehen, sondern messbar performen. Damit unsere Newsletter und Automations auch optisch",
