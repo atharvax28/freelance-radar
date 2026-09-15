@@ -1,5 +1,129 @@
 [
   {
+    "id": "arbeitnow-remote-product-designer-germany-344392",
+    "title": "Product Designer",
+    "description": "Sama is a B2B platform that enables employers to provide hyper-tailored development through unlimited professional coaching—right from a user-friendly app (sama.io).Come join our amazing team working to elevate the corporate environment by allowing employees to be their best productive selves.&nbsp; We’re building the ",
+    "link": "https://www.arbeitnow.com/jobs/companies/samacoaching/remote-product-designer-germany-344392",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "design systems",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789492813000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-visual-design-communication-designgn-starting-at-12h-per-week-hybrid-munich-munchen-356416",
+    "title": "Working Student – Visual Design / Communication Design(gn), starting at 12h per week, hybrid (Munich)",
+    "description": "What You'll DoYou help us bring the topics of heat pumps, energy-efficient renovations, and 42watt to life.You work on exciting communication formats for web, social media, and print — from (info) graphics and layouts to templates and animations.You expand our visual language with concrete assets and strengthen the vis",
+    "link": "https://www.arbeitnow.com/jobs/companies/42watt/working-student-visual-design-communication-designgn-starting-at-12h-per-week-hybrid-munich-munchen-356416",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789492179000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-security-engineer-grc-anywhere-in-france-455079",
+    "title": "Security Engineer - GRC",
+    "description": "Health can’t wait. Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.Alan exists to end the wait.Health is a universal right, and we believe this right can only become real when it’s coupled with prevent",
+    "link": "https://www.arbeitnow.fr/jobs/companies/alan/security-engineer-grc-anywhere-in-france-455079",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789490416000,
+    "budget": "Not specified",
+    "client_country": "Anywhere in France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-expansion-manchester-147824",
+    "title": "Enterprise Account Executive – Expansion",
+    "description": "Why join us?Mitti by SafetyCulture is a global tech company, just not the kind you're picturing. Our almost 1,000-person team builds tools that make work better for the three billion frontline workers who keep the world moving. We've got big tech scale, without the sign-off layers or corporate theatre. Every permanent ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/mitti/enterprise-account-executive-expansion-manchester-147824",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789486804000,
+    "budget": "Not specified",
+    "client_country": "Manchester",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-sales-leader-dach-berlin-348518",
+    "title": "Enterprise Sales Leader DACH",
+    "description": "The AI orchestration of your wildest imagination.n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approve",
+    "link": "https://www.arbeitnow.com/jobs/companies/n8n/enterprise-sales-leader-dach-berlin-348518",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "notion"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1789483208000,
+    "budget": "Not specified",
+    "client_country": "Berlin Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-business-data-analyst-finance-requirements-management-berlin-boppstr-186063",
+    "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
+    "description": "Deine Aufgaben:Du verstehst Geschäftsprozesse, denkst analytisch und kannst komplexe Anforderungen verständlich strukturieren? Du bewegst Dich sicher zwischen Fachbereichen und technischen Teams und hast Freude daran, aus Daten und Anforderungen tragfähige Lösungen zu entwickeln? Dann suchen wir genau Dich als Business",
+    "link": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-186063",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1789481370000,
+    "budget": "Not specified",
+    "client_country": "Berlin Boppstr.",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Boppstr.",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-account-executive-strategic-accounts-london-194513",
     "title": "Account Executive, Strategic Accounts",
     "description": "TL;DR:We’re hiring a killer Strategic AE to go after ~50 of the largest companies in the world. This is not a volume role. This is a high-stakes, high-impact seat focused on landing and expanding 6–7 figure deals inside complex, global enterprises. You’ll work directly with our VP of Revenue to win accounts that define",
