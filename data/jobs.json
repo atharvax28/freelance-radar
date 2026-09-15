@@ -1,5 +1,94 @@
 [
   {
+    "id": "arbeitnow-backend-developer-rust-berlin-302814",
+    "title": "Backend Developer (Rust)",
+    "description": "Rust Engineer — Distributed Execution EngineBerlin (hybrid) or Remote (countries within ~4–5 hours travel of Berlin)About our clientOur client is a B2B sourcing platform serving the automotive dealership industry. They're a small, fast-moving engineering team building core infrastructure from the ground up rather than ",
+    "link": "https://www.arbeitnow.com/jobs/companies/onhires/backend-developer-rust-berlin-302814",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "c++",
+      "etl",
+      "aws",
+      "n8n"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789429209000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-182847",
+    "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
+    "description": "Deine AufgabenAnalyse, Evaluierung und Benchmark verschiedener Tools zur Testautomatisierung von GUI- und Infotainment-SystemenInbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker und Integration einer exemplarischen Infotainment-GUIAufbau und Testung einer GUI-Testumgebung zur Durchführung automatisi",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-182847",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789427355000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-280277",
+    "title": "Praktikant/Werkstudent „AI based passenger simulation“ (m/w/d)",
+    "description": "Deine AufgabenAnalyse und Evaluierung moderner KI-basierter Methoden zur Modellierung realistischen PassagierverhaltensInbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker unter Einbindung realistischer Testfahrtdaten (z. B. Langstreckenprofile)Konzeption und Implementierung eines KI-basierten Modells",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-280277",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789427355000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-338189",
+    "title": "Praktikant/Werkstudent „Forschung & Innovation – Datengetriebene Entwicklung autonomer Systeme“ (m/w/d)",
+    "description": "Deine AufgabenUnterstützung des Research &amp; Innovation Managers in der täglichen Projekt- und InnovationsarbeitRecherche, Bewertung und Mitarbeit in Forschungsprojekten und FörderthemenInhaltliche Bearbeitung von Innovationsthemen (z. B. im Bezug zu einer datengetriebenen Entwicklungspipeline für vollautonome Fahrze",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-338189",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789427355000,
+    "budget": "Not specified",
+    "client_country": "Karlsruhe Fautenbruchstraße",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Karlsruhe Fautenbruchstraße",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-engineer-12-month-fixed-term-contract-london-337055",
     "title": "Data Engineer (12 month Fixed term Contract)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the company behind the PlayStation brand. A",
