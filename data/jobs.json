@@ -1,5 +1,132 @@
 [
   {
+    "id": "arbeitnow-enterprise-account-executive-88512",
+    "title": "Enterprise Account Executive",
+    "description": "&lt;h2&gt;Sell transformative AI solutions to some of the most innovative enterprises in EMEA.&lt;/h2&gt; &lt;p data-start=&quot;351&quot; data-end=&quot;545&quot;&gt;Are you passionate about the transformative power of AI? Join Coveo and help bring cutting-edge AI solutions to leading enterprise organizations across t",
+    "link": "https://www.arbeitnow.com/jobs/companies/coveoen/enterprise-account-executive-88512",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "23m ago",
+    "posted_ts": 1789581325000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-all-genders-berlin-berlin-134437",
+    "title": "Software Engineer (all genders)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various design options, industrial offsite cons",
+    "link": "https://www.arbeitnow.com/jobs/companies/gropyus/software-engineer-all-genders-berlin-berlin-134437",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react",
+      "microservices",
+      "postgresql",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "23m ago",
+    "posted_ts": 1789581310000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin, Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-commercial-account-executive-munich-429157",
+    "title": "Commercial Account Executive",
+    "description": "About ZipZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.The world’s most influential enterprises",
+    "link": "https://www.arbeitnow.com/jobs/companies/zip/commercial-account-executive-munich-429157",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "38m ago",
+    "posted_ts": 1789580407000,
+    "budget": "Not specified",
+    "client_country": "Remote - Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-social-media-content-creation-berlin-327840",
+    "title": "Werkstudent:in - Social Media / Content Creation",
+    "description": "Jobbeschreibung Hey! Wir sind vly – ein innovatives FoodTech-Startup aus Berlin, das die Lebensmittelindustrie revolutioniert. Unser Ziel: Gesunde, pflanzliche Milchalternativen, die nicht nur dir guttun, sondern auch unserem Planeten. Nach jahrelanger Forschung haben wir Produkte entwickelt, die deutlich weniger Zucke",
+    "link": "https://www.arbeitnow.com/jobs/companies/vf-nutrition-gmbh/werkstudentin-social-media-content-creation-berlin-327840",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "47m ago",
+    "posted_ts": 1789579859000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-social-media-content-creation-berlin-355956",
+    "title": "Werkstudent:in - Social Media / Content Creation",
+    "description": "Hey! Wir sind vly – ein innovatives FoodTech-Startup aus Berlin, das die Lebensmittelindustrie revolutioniert. Unser Ziel: Gesunde, pflanzliche Milchalternativen, die nicht nur dir guttun, sondern auch unserem Planeten. Nach jahrelanger Forschung haben wir Produkte entwickelt, die deutlich weniger Zucker und mehr Prote",
+    "link": "https://www.arbeitnow.com/jobs/companies/vly/werkstudentin-social-media-content-creation-berlin-355956",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "58m ago",
+    "posted_ts": 1789579212000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-data-analytics-berlin-71592",
+    "title": "Working Student, Data & Analytics (m/f/d)",
+    "description": "MissionSupport the Data &amp; Analytics team in its day-to-day work, from pipelines to Data Apps and Reports to answering business questions.Role OverviewAs a Working Student in the Data &amp; Analytics team, you will work alongside our analysts on what the week actually needs: a pipeline that has to keep running, a Da",
+    "link": "https://www.arbeitnow.com/jobs/companies/knime-ag/working-student-data-analytics-berlin-71592",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789578550000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-platform-engineer-berlin-462000",
     "title": "Data Platform Engineer",
     "description": "As part of the Platform tribe, you will help build a self-service, AI-Ready Data Platform. The Data Platform team supports our next big bets: Data, AI, and real-time analytics. We are a team focused on building scalable, reliable infrastructure to enable our global data community. What you'll do Build and maintain best",
