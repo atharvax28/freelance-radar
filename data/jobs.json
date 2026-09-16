@@ -1,5 +1,87 @@
 [
   {
+    "id": "arbeitnow-enterprise-account-executive-advertising-technology-solutions-london-465133",
+    "title": "Enterprise Account Executive, Advertising Technology Solutions",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, Mirakl’s operating system combines an ent",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/mirakl/enterprise-account-executive-advertising-technology-solutions-london-465133",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789595750000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-mid-market-position-located-in-leeds-england-70365",
+    "title": "Account Executive (Mid-Market) (Position located in Leeds, England)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/knowbe4/account-executive-mid-market-position-located-in-leeds-england-70365",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789595707000,
+    "budget": "Not specified",
+    "client_country": "Leeds",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-junior-commercial-insights-analyst-london-444653",
+    "title": "Junior Commercial Insights Analyst",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/junior-commercial-insights-analyst-london-444653",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789594811000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-mid-market-account-executive-inbound-london-328326",
+    "title": "Mid-Market Account Executive, Inbound",
+    "description": "“Every organization advertises work life balance, but what does that really mean? At Absorb work life balance means you get the opportunity to showcase your talent, be celebrated for your accomplishments and enjoy the rewards of those accomplishments either by celebration yourself or celebrating with your friends and f",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/absorblms/mid-market-account-executive-inbound-london-328326",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789594807000,
+    "budget": "Not specified",
+    "client_country": "Remote UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-backend-engineer-data-berlin-175373",
     "title": "Backend Engineer - Data (m/f/d)",
     "description": "Berlin Mitte · Hybrid (up to 2 days/week remote) · €60,000–75,000 + VSOP equityHelp us decarbonize cement and concrete - not tomorrow, todayalcemy is on a mission to keep 100 million tons of CO₂ out of the atmosphere every year by 2030. Making concrete accounts for around 8% of global CO₂ emissions, and our machine-lea",
