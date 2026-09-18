@@ -1,5 +1,131 @@
 [
   {
+    "id": "arbeitnow-business-analyst-london-328633",
+    "title": "Business Analyst",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/business-analyst-london-328633",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "llm"
+    ],
+    "posted_at": "50m ago",
+    "posted_ts": 1789767607000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-graduate-business-analyst-london-478755",
+    "title": "Graduate Business Analyst",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-business-analyst-london-478755",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "llm"
+    ],
+    "posted_at": "50m ago",
+    "posted_ts": 1789767607000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-blockchain-dlt-developer-london-296017",
+    "title": "Blockchain / DLT Developer",
+    "description": "Job Title: Blockchain / DLT DeveloperLocation: Ipswich, London or Remote&nbsp;As a Blockchain Developer at MACH, you will play a central role in designing, building, and deploying distributed ledger and smart contract solutions for our financial services clients. You will work across Ethereum, Hedera, Algorand, and MAC",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/delta-capita/remote-blockchain-dlt-developer-london-296017",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "node.js",
+      "docker",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789767027000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-operations-berlin-118729",
+    "title": "Werkstudent:in Operations (m/w/d)",
+    "description": "Allgemeine Infos StoryMachine ist seit 2017 die Berliner Agentur für strategisches Storytelling. Wir machen Brands, Persönlichkeiten und politische Institutionen sichtbar – journalistisch präzise, datengetrieben und für jeden Kanal gedacht.Jetzt gehen wir den nächsten Schritt: Mit StoryMachine Analytics bauen wir eine ",
+    "link": "https://www.arbeitnow.com/jobs/companies/storymachine-gmbh/werkstudentin-operations-berlin-118729",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789762197000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-cpo-chief-product-officer-hamburg-97458",
+    "title": "CPO - Chief Product Officer (m/w/d)",
+    "description": "StellenbeschreibungPammys ist in wenigen Jahren auf über 1,3 Millionen Kundinnen und Kunden gewachsen. Jetzt bauen wir die Product Organisation für unsere nächste Wachstumsphase: neue Kategorien, höhere Volumen, internationale Märkte und ein global skalierbares Produktionsnetzwerk.Dafür suchen wir einen Chief Product O",
+    "link": "https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/cpo-chief-product-officer-hamburg-97458",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789762163000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-stage-assistant-analyste-ethique-et-positionnement-paris-190037",
+    "title": "Stage - Assistant Analyste Éthique et Positionnement H/F/X",
+    "description": "Lieu : Paris, FRANCEDurée :&nbsp;3 moisDate souhaitée de démarrage : 01/10/2026Date limite dépôt de candidatures : 24/09/2026Handicap International est une organisation de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes.",
+    "link": "https://www.arbeitnow.fr/jobs/companies/hi/stage-assistant-analyste-ethique-et-positionnement-paris-190037",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789759221000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-grc-analyst-emea-london-437264",
     "title": "GRC Analyst, EMEA",
     "description": "Why RogoOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.This is a unique opportunity",
@@ -13375,6 +13501,29 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-expel-managed-siem-detection-engineer",
+    "title": "Expel: Managed SIEM Detection Engineer",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote &lt;/p&gt; &lt;p class=\"artifact-docx-preview_heading2\"&gt;Are you a detection engineer who wants to bring real depth of expertise into a new and growing function and use it to deliver security excellence to customers? Expel's professional services practice is",
+    "link": "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "linux",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "17d ago",
+    "posted_ts": 1788247849000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "jobicy-152300",
     "title": "Full Stack Product Engineer Intern, Agent Native",
     "description": "About Mactores Mactores is the agent-native AWS modernization firm. Most enterprise modernization stalls at pilots and handoffs; ours ships, production systems running, legacy retired, outcomes measured. Our delivery is built on Aedeon, the agent platform built by Mactores' founders' sister company, Aedeon Inc. Aedeon ",
@@ -14935,6 +15084,27 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-reddit-backend-software-engineer-pdp-experience",
+    "title": "Reddit: Backend Software Engineer, PDP Experience",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote - United States &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"&gt; &lt;div class=\"c-message__message_blocks c-message__message_blocks--rich_text\"&gt; &lt;div class=\"p-block_kit_renderer\"&gt; &",
+    "link": "https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "c"
+    ],
+    "posted_at": "20d ago",
+    "posted_ts": 1787988667000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-cloud-infrastructure-munchen-477309",
     "title": "Software Engineer - Cloud Infrastructure",
     "description": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, ",
@@ -16406,6 +16576,31 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-toptal-automation-engineer-uipath-for-innovative-ai-project",
+    "title": "Toptal: Automation Engineer (UIPath) for innovative AI Project",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;📌 Summary&lt;/p&gt;&lt;p&gt;We are seeking a hands-on, execution-focused Senior Automation &amp;amp; AI Systems Developer (UiPath &amp;amp; Power Platform) to build, scale, and maintain enterprise automations across our client's regional operatio",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-automation-engineer-uipath-for-innovative-ai-project",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "sql",
+      "rest apis",
+      "git",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "23d ago",
+    "posted_ts": 1787752130000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-marketing-b2b-saas-startup-berlin-215776",
     "title": "Working Student Marketing (B2B SaaS Startup)",
     "description": "Unsere MissionGestalte mit uns den globalen Handel neu – in einem schnell wachsenden Startup!Wir sind traide AI - ein VC-finanziertes Deep-Tech-Startup aus Berlin, das mit KI die Welt der Handelsregulatorik neu denkt. Unsere Plattform bringt Zollteams ins neue Zeitalter: von Zolltarifierung über Exportkontrolle bis hin",
@@ -16422,6 +16617,35 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-offerup-software-development-engineer-ii-full-stack-business-remote-colombia",
+    "title": "OfferUp: Software Development Engineer II Full Stack - Business (Remote @ Colombia)",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote @ Colombia &lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the role:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The OfferUp Business team owns the platforms that power every business vertical on our marketplace; Storefronts, Auto Dealers, Services, Rentals, and Jobs.",
+    "link": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-full-stack-business-remote-colombia",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "node.js",
+      "microservices",
+      "aws",
+      "ci/cd",
+      "llm",
+      "a/b testing",
+      "data structures"
+    ],
+    "posted_at": "23d ago",
+    "posted_ts": 1787729439000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
