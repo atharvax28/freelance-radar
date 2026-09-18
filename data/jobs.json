@@ -1,5 +1,127 @@
 [
   {
+    "id": "arbeitnow-grc-analyst-emea-london-437264",
+    "title": "GRC Analyst, EMEA",
+    "description": "Why RogoOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.This is a unique opportunity",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/rogo/grc-analyst-emea-london-437264",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789756808000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-reception-executive-assistant-london-435995",
+    "title": "Reception & Executive Assistant",
+    "description": "CUBE are a global RegTech business defining and implementing the gold standard of regulatory intelligence for the financial services industry. We deliver our services through intuitive SaaS solutions, powered by AI, to simplify the complex and everchanging world of compliance for our clients. Why us?🌍 CUBE is a global",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/cube/reception-executive-assistant-london-435995",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "outlook"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789756807000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-consultant-london-282185",
+    "title": "AI Consultant",
+    "description": "Creatio is an AI CRM and workflow platform where people and AI agents work together — with no limits on users, agents, or scale.&nbsp;We help midsize and large organizations run customer workflows in the AI era. With a global team and a large ecosystem of partners, Creatio serves thousands of customers in over 100 coun",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/creatio/ai-consultant-london-282185",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789754703000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-hardware-engineering-uas-propulsion-power-all-genders-berlin-314819",
+    "title": "Working Student – Hardware Engineering (UAS Propulsion & Power) (all genders)",
+    "description": "About UsSTARK is a European defence technology company building the next generation of unmanned systems. Wedesign, develop and manufacture software-defined, mass-scalable and cost-effective platforms that giveNATO operators a decisive edge in highly contested environments. We are focused on deliveringdeployable, high-p",
+    "link": "https://www.arbeitnow.com/jobs/companies/stark/working-student-hardware-engineering-uas-propulsion-power-all-genders-berlin-314819",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789751367000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-flight-software-engineering-px4-autopilot-all-genders-berlin-78392",
+    "title": "Working Student – Flight Software Engineering (PX4 / Autopilot) (all genders)",
+    "description": "About UsSTARK is a European defence technology company building the next generation of unmanned systems. Wedesign, develop and manufacture software-defined, mass-scalable and cost-effective platforms that giveNATO operators a decisive edge in highly contested environments. We are focused on deliveringdeployable, high-p",
+    "link": "https://www.arbeitnow.com/jobs/companies/stark/working-student-flight-software-engineering-px4-autopilot-all-genders-berlin-78392",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789751367000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-490293",
+    "title": "Graduate Student Research Assistant, Team Assessing Survey Data Quality (DE/EN) (SHK_SDM_2026_024)",
+    "description": "GESIS – Leibniz-Institute for the Social Sciences is an internationally active research institute, funded by federal and state governments and member of the Leibniz Association. Starting as soon as possible, our Department Survey Design &amp; Methodology (SDM), Team Assessing Survey Data Quality, located in Mannheim, i",
+    "link": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/graduate-student-research-assistant-team-assessing-survey-data-quality-de-en-shk-sdm-2026-024-mannheim-490293",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789751357000,
+    "budget": "Not specified",
+    "client_country": "Mannheim",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Mannheim",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-responsable-partenariats-terrain-b2b-h-f-paris-fr-494951",
     "title": "Responsable Partenariats Terrain B2B H/F",
     "description": "🐙 Rejoins la révolution énergétique chez Octopus Energy ! Octopus Energy, fournisseur d’énergie verte présent à l’international, a lancé sa filiale Octopus Energy Services pour accompagner ses clients dans la décarbonation complète de leur foyer. Déjà bien implantée au Royaume-Uni, cette entité propose un ensemble de ",
