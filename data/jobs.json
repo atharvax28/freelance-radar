@@ -1,5 +1,87 @@
 [
   {
+    "id": "arbeitnow-compliance-koordinator-datenschutz-informationssicherheit-in-voll-oder-teilzeit-heidelberg-347869",
+    "title": "Compliance Koordinator – Datenschutz & Informationssicherheit in Voll- oder Teilzeit (m/w/d)",
+    "description": "Wir sind die Berater der Weltmarktführer: Hochmotivierte Expertinnen und Experten, die als erfolgreiches Team digitale End-to-End-Geschäftsprozesslösungen vorantreiben. Gemeinsam stärken wir die Zukunft der beeindruckendsten Unternehmen der Welt aus Maschinen- und Anlagenbau, Automotive, Life Science, Pharma und Chemie",
+    "link": "https://www.arbeitnow.com/jobs/companies/cbs-corporate-business-solutions-gmbh/compliance-koordinator-datenschutz-informationssicherheit-in-voll-oder-teilzeit-heidelberg-347869",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1789720226000,
+    "budget": "Not specified",
+    "client_country": "Heidelberg, Baden-Württemberg, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Heidelberg, Baden-Württemberg, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-international-business-analytics-internship-h-f-paris-paris-155293",
+    "title": "International Business Analytics Internship (H/F)",
+    "description": "&lt;h2&gt;&lt;strong&gt;In a nutshell&amp;nbsp;&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a Business Analytics Intern at Picnic, you’ll be at the forefront of international innovation, tackling complex challenges with fresh, groundbreaking solutions. This dual-location role is all about driving impact. You&#39;ll analyze d",
+    "link": "https://www.arbeitnow.fr/jobs/companies/teampicnic/international-business-analytics-internship-h-f-paris-paris-155293",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789718107000,
+    "budget": "Not specified",
+    "client_country": "Paris, Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-front-end-web-specialist-12-month-fixed-term-contract-london-100854",
+    "title": "Front-End Web Specialist (12-month fixed term contract)",
+    "description": "About UsPerk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hou",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/perk/front-end-web-specialist-12-month-fixed-term-contract-london-100854",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "a/b testing",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789713605000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-engineer-i-workplace-technology-london-113027",
+    "title": "Engineer I,  Workplace Technology",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/engineer-i-workplace-technology-london-113027",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1789713602000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-strategic-account-executive-enterprise-dach-munich-204977",
     "title": "Strategic Account Executive Enterprise - DACH",
     "description": "🪐&nbsp;Discover our galaxy &nbsp; Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different: A divers",
@@ -175,6 +257,26 @@
     "posted_ts": 1789706411000,
     "budget": "Not specified",
     "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-150935",
+    "title": "Customer Engineer, APAC",
+    "description": "Cresta unlocks the true potential of the customer experience, turning every conversation into a competitive advantage. Cresta’s unified AI platform combines conversational AI agents, real-time human agent augmentation, and comprehensive conversation intelligence to drive revenue and efficiency gains across every channe",
+    "link": "https://jobicy.com/jobs/150935-customer-engineer-apac",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1789704329000,
+    "budget": "Not specified",
+    "client_country": "APAC",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
