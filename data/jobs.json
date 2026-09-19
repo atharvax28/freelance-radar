@@ -1,5 +1,130 @@
 [
   {
+    "id": "arbeitnow-business-development-representative-emea-uk-bracknell-290741",
+    "title": "Business Development Representative, EMEA - UK",
+    "description": "Menlo Security is the leader in Browser Security for human and agentic workforces. Our mission is to enable humans and agents to connect, communicate, and collaborate securely, without compromise. The Menlo Browser Security Platform protects organizations from cyberattacks by stopping threats across the web, documents,",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/menlosecurity/business-development-representative-emea-uk-bracknell-290741",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "37m ago",
+    "posted_ts": 1789821606000,
+    "budget": "Not specified",
+    "client_country": "EMEA - UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-417919",
+    "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
+    "description": "Deine AufgabenAnalyse, Evaluierung und Benchmark verschiedener Tools zur Testautomatisierung von GUI- und Infotainment-SystemenInbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker und Integration einer exemplarischen Infotainment-GUIAufbau und Testung einer GUI-Testumgebung zur Durchführung automatisi",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-417919",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789816180000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-267359",
+    "title": "Praktikant/Werkstudent „AI based passenger simulation“ (m/w/d)",
+    "description": "Deine AufgabenAnalyse und Evaluierung moderner KI-basierter Methoden zur Modellierung realistischen PassagierverhaltensInbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker unter Einbindung realistischer Testfahrtdaten (z. B. Langstreckenprofile)Konzeption und Implementierung eines KI-basierten Modells",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-267359",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789816180000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-32877",
+    "title": "Praktikant/Werkstudent „Forschung & Innovation – Datengetriebene Entwicklung autonomer Systeme“ (m/w/d)",
+    "description": "Deine AufgabenUnterstützung des Research &amp; Innovation Managers in der täglichen Projekt- und InnovationsarbeitRecherche, Bewertung und Mitarbeit in Forschungsprojekten und FörderthemenInhaltliche Bearbeitung von Innovationsthemen (z. B. im Bezug zu einer datengetriebenen Entwicklungspipeline für vollautonome Fahrze",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-32877",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789816180000,
+    "budget": "Not specified",
+    "client_country": "Karlsruhe Fautenbruchstraße",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Karlsruhe Fautenbruchstraße",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-333343",
+    "title": "Sales Account Executive - Cybersecurity",
+    "description": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone.What we doWe aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security network. This network is powered by hundreds of thousands of se",
+    "link": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-333343",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789813834000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-responsable-scientifique-et-technique-pour-le-projet-europeen-amrit-brest-336634",
+    "title": "Responsable Scientifique et Technique pour le projet européen AMRIT",
+    "description": "Contexte&nbsp;:ENSTA, établissement d’enseignement supérieur et de recherche sous tutelle du ministère des Armées, développe des activités de formation, de recherche et d’innovation dans les domaines de la défense et de la sécurité, des transports, de l'énergie, des activités maritimes, du numérique et de la santé.L’éc",
+    "link": "https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/responsable-scientifique-et-technique-pour-le-projet-europeen-amrit-brest-336634",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1789813807000,
+    "budget": "Not specified",
+    "client_country": "Brest, Bretagne, France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Brest, Bretagne, France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-seo-ai-content-specialist-nice-90683",
     "title": "SEO & AI Content Specialist",
     "description": "Why this role existsAt Pennylane, SEO and Generative Engine Optimization (GEO) are central to making our product easier to discover and understand, while helping us reach new customers.We are looking for an SEO &amp; AI Content Specialist to work closely with our SEO Manager and the wider Growth team. Your mission will",
