@@ -1,5 +1,48 @@
 [
   {
+    "id": "arbeitnow-hubspot-software-engineer-co-op-placement-industrial-placement-program-uk-flex-london-london-112644",
+    "title": "Hubspot Software Engineer Co-op Placement & Industrial Placement Program (UK)",
+    "description": "&lt;h3&gt;&lt;strong&gt;About this role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Our mission at HubSpot is to help millions of organizations grow better. As a Software Engineering Spring Co-op, you’ll help solve complex problems and build real products that thousands of customers depend on. You’ll work alongside HubSpot engi",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/hubspotstudents/hubspot-software-engineer-co-op-placement-industrial-placement-program-uk-flex-london-london-112644",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "rest apis",
+      "redis",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790016914000,
+    "budget": "Not specified",
+    "client_country": "Flex - London; London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Flex - London; London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikum-digital-analytics-ab-september-munchen-194035",
+    "title": "Praktikum Digital Analytics (m/w/d)| Ab September, München",
+    "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen wir Bestehendes, wagen Neues und gestalte",
+    "link": "https://www.arbeitnow.com/jobs/companies/towa/praktikum-digital-analytics-ab-september-munchen-194035",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790010543000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-customer-value-partner-mid-market-london-312561",
     "title": "Customer Value Partner, Mid-Market",
     "description": "Multiverse is the upskilling platform for AI and Tech adoption.We have partnered with 1,500+ companies to deliver a new kind of learning that's transforming today’s workforce.Our upskilling apprenticeships are designed for people of any age and career stage to build critical AI, data, and tech skills. Our learners have",
@@ -56,6 +99,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-153825",
+    "title": "AI agent engineer",
+    "description": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and better serve customers. Work performed Identify where agents",
+    "link": "https://jobicy.com/jobs/153825-ai-agent-engineer",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790004723000,
+    "budget": "Not specified",
+    "client_country": "Anywhere",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
