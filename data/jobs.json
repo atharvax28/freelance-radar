@@ -1,5 +1,218 @@
 [
   {
+    "id": "arbeitnow-qa-engineer-paris-163163",
+    "title": "QA Engineer",
+    "description": "We're looking for a QA Engineer to join White Circle, an AI Safety company building the policy enforcement and optimization layer for AI systems. Backed by $11M from senior leaders at OpenAI, Anthropic, HuggingFace, Mistral, and DeepMind, White Circle processes 100M+ API calls monthly and runs its own LLMs in productio",
+    "link": "https://www.arbeitnow.fr/jobs/companies/npv/qa-engineer-paris-163163",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "playwright",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790170809000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-confirmed-backend-engineer-care-paris-france-424225",
+    "title": "Confirmed Backend Engineer - Care",
+    "description": "About BlaBlaCarBlaBlaCar is the world’s leading community-based travel app enabling 27 million members a year to carpool or travel by bus in 21 countries. Our team of 800 employees counts over 50 nationalities and is spread across our 5 global offices, 30% working fully remotely. We are looking for a Confirmed Backend ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/blablacar/confirmed-backend-engineer-care-paris-france-424225",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microservices",
+      "docker",
+      "git"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790168687000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-customer-success-public-sector-paris-370953",
+    "title": "Customer Success Public Sector",
+    "description": "🪐&nbsp;Discover our galaxy &nbsp; Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different: &nbsp; -",
+    "link": "https://www.arbeitnow.fr/jobs/companies/malt/customer-success-public-sector-paris-370953",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "notion"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790168674000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-france-london-200108",
+    "title": "Account Executive - France",
+    "description": "Join Choco, where we build and own solutions that reshape a broken food system.The global food supply chain is inefficient by design. Waste is high, margins are thin, and most distributor order processes are done over the phone, tracked across broad spreadsheets, and based on intuition rather than strong data.At Choco,",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/choco/account-executive-france-london-200108",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790167207000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-development-engineer-in-test-kent-383633",
+    "title": "Software Development Engineer in Test",
+    "description": "We are growing rapidly and constantly expanding our global contactless paymentecosystem. To support this momentum, we are looking for a Software DevelopmentEngineer in Test to play a crucial role in delivering our key software solutions. Joining aclose-knit engineering team, you will not just write tests—you will champ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/payter-bv/remote-software-development-engineer-in-test-kent-383633",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "playwright",
+      "git",
+      "ci/cd",
+      "oop"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790166602000,
+    "budget": "Not specified",
+    "client_country": "Werken op afstand",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikum-digital-analytics-ab-september-munchen-munich-301282",
+    "title": "Praktikum Digital Analytics (m/w/d)| Ab September, München",
+    "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen wir Bestehendes, wagen Neues und gestalte",
+    "link": "https://www.arbeitnow.com/jobs/companies/towa-the-digital-growth-company/praktikum-digital-analytics-ab-september-munchen-munich-301282",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790164887000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-integration-solutions-engineer-remote-eu-koln-379113",
+    "title": "Integration Solutions Engineer (m/w/d) – Remote (EU)",
+    "description": "Are you ready to be a technology leader in the SaaS space? Join epilot!epilot entwickelt ein SaaS-Produkt für den Online-Vertrieb komplexer Produkte – mit dem Ziel, E-Commerce im sich rasant wandelnden Energiemarkt neu zu gestalten. Unsere Mission: Den Verkauf komplexer Energieprodukte so einfach machen wie den Kauf ei",
+    "link": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/integration-solutions-engineer-remote-eu-koln-379113",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790163011000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-schwerpunkt-ki-koln-128732",
+    "title": "Werkstudent Schwerpunkt KI (m/w/d)",
+    "description": "Wir sind Digital Beat, wir gestalten Wissensaustausch im Bereich Künstliche Intelligenz. An unserem Standort in Köln unterstützen 20 Mitarbeiter:innen andere Menschen und deren Unternehmen bei ihrer Weiterentwicklung durch Onlinekurse, Coachings, digitale Events und Bücher. Nach unserem Grundsatz „Besser mit KI“ entwic",
+    "link": "https://www.arbeitnow.com/jobs/companies/digital-beat-gmbh/werkstudent-schwerpunkt-ki-koln-128732",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790163006000,
+    "budget": "Not specified",
+    "client_country": "Köln, Nordrhein-Westfalen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln, Nordrhein-Westfalen, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-solutions-engineer-munchen-425179",
+    "title": "AI Solutions Engineer (m/w/d)",
+    "description": "Why The Mobility House?Help shape our vision of an emission-free energy and mobility future High levelof responsibility and rapid development in a growing and innovative companyOpen, diverse &amp; international teamFlexible working hours and additional vacation daysMobile working from home and 20 days in other European",
+    "link": "https://www.arbeitnow.com/jobs/companies/tmh/ai-solutions-engineer-munchen-425179",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "rest apis",
+      "microservices",
+      "aws",
+      "llm"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790161813000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-operations-berlin-359798",
+    "title": "Werkstudent:in Operations (m/w/d)",
+    "description": "Allgemeine Infos StoryMachine ist seit 2017 die Berliner Agentur für strategisches Storytelling. Wir machen Brands, Persönlichkeiten und politische Institutionen sichtbar – journalistisch präzise, datengetrieben und für jeden Kanal gedacht.Jetzt gehen wir den nächsten Schritt: Mit StoryMachine Analytics bauen wir eine ",
+    "link": "https://www.arbeitnow.com/jobs/companies/storymachine-gmbh/werkstudentin-operations-berlin-359798",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790161772000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-technical-artist-pressig-123001",
     "title": "Technical Artist",
     "description": "About the role At Booming Games we are seeking a skilled and motivated Technical Artist to join our team. As a Technical Artist, you will work closely with the Art Lead and Product Owner to create visually stunning games. Your responsibilities will include preparing, exporting, optimizing, and implementing game assets ",
