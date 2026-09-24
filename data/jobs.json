@@ -1,5 +1,235 @@
 [
   {
+    "id": "arbeitnow-remote-product-builder-379063",
+    "title": "Product Builder",
+    "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to producti",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/camunda/remote-product-builder-379063",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790221205000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-sales-development-representative-german-speaking-153392",
+    "title": "Sales Development Representative (German Speaking)",
+    "description": "At Sanity.io, we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency. Companies like PUMA, Carhartt WIP, Anth",
+    "link": "https://www.arbeitnow.com/jobs/companies/sanity/remote-sales-development-representative-german-speaking-153392",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "vercel"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790217606000,
+    "budget": "Not specified",
+    "client_country": "Remote in Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-automation-ki-prozessmanagement-remote-oder-karlsruhe-481745",
+    "title": "Werkstudent:in Automation, KI & Prozessmanagement (m/w/d) - remote oder Karlsruhe",
+    "description": "Wir bringen Menschen näher zusammen – und das nicht nur in unserer Community, sondern auch in unseren Teams. Damit unsere Arbeit noch reibungsloser läuft, suchen wir dich als Werkstudent:in für Automation, KI &amp; Prozessmanagement. Dein Ding sind smarte Abläufe, clevere Automatisierungen und KI-gestützte Lösungen? Pe",
+    "link": "https://www.arbeitnow.com/jobs/companies/knuddels-gmbh-co-kg/werkstudentin-automation-ki-prozessmanagement-remote-oder-karlsruhe-481745",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790217010000,
+    "budget": "Not specified",
+    "client_country": "Homeoffice",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Homeoffice",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-457497",
+    "title": "Praktikant/Werkstudent „Automatisiertes Infotainment Testing“ (m/w/d)",
+    "description": "Deine AufgabenAnalyse, Evaluierung und Benchmark verschiedener Tools zur Testautomatisierung von GUI- und Infotainment-SystemenInbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker und Integration einer exemplarischen Infotainment-GUIAufbau und Testung einer GUI-Testumgebung zur Durchführung automatisi",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-automatisiertes-infotainment-testing-stuttgart-457497",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790215752000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-304825",
+    "title": "Praktikant/Werkstudent „AI based passenger simulation“ (m/w/d)",
+    "description": "Deine AufgabenAnalyse und Evaluierung moderner KI-basierter Methoden zur Modellierung realistischen PassagierverhaltensInbetriebnahme und Konfiguration unseres Simulationstools IPG CarMaker unter Einbindung realistischer Testfahrtdaten (z. B. Langstreckenprofile)Konzeption und Implementierung eines KI-basierten Modells",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-ai-based-passenger-simulation-stuttgart-304825",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790215752000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-133804",
+    "title": "Praktikant/Werkstudent „Forschung & Innovation – Datengetriebene Entwicklung autonomer Systeme“ (m/w/d)",
+    "description": "Deine AufgabenUnterstützung des Research &amp; Innovation Managers in der täglichen Projekt- und InnovationsarbeitRecherche, Bewertung und Mitarbeit in Forschungsprojekten und FörderthemenInhaltliche Bearbeitung von Innovationsthemen (z. B. im Bezug zu einer datengetriebenen Entwicklungspipeline für vollautonome Fahrze",
+    "link": "https://www.arbeitnow.com/jobs/companies/ipg-automotive-personio/praktikant-werkstudent-forschung-innovation-datengetriebene-entwicklung-autonomer-systeme-karlsruhe-fautenbruchstrasse-133804",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790215752000,
+    "budget": "Not specified",
+    "client_country": "Karlsruhe Fautenbruchstraße",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Karlsruhe Fautenbruchstraße",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-enterprise-munich-86871",
+    "title": "Account Executive, Enterprise",
+    "description": "Creatio is an AI CRM and workflow platform where people and AI agents work together — with no limits on users,&nbsp; agents, or scale.&nbsp;We help midsize and large organizations run customer workflows in the AI era. Headquartered in&nbsp; Boston, MA, with a global team and a large ecosystem of partners, Creatio serve",
+    "link": "https://www.arbeitnow.com/jobs/companies/creatio/account-executive-enterprise-munich-86871",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790215469000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-consultant-munich-491546",
+    "title": "AI Consultant",
+    "description": "Creatio is an AI CRM and workflow platform where people and AI agents work together — with no limits on users, agents, or scale. We help midsize and large organizations run customer workflows in the AI era. With a global team and a large ecosystem of partners, Creatio serves thousands of customers in over 100 countries",
+    "link": "https://www.arbeitnow.com/jobs/companies/creatio/ai-consultant-munich-491546",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790215469000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ui-ux-artist-castle-busters-paris-196935",
+    "title": "UI/UX Artist - Castle Busters",
+    "description": "About VoodooFounded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes",
+    "link": "https://www.arbeitnow.fr/jobs/companies/voodoo/ui-ux-artist-castle-busters-paris-196935",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "prototyping"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790214015000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-talent-sourcer-growth-paris-76702",
+    "title": "Talent Sourcer - Growth",
+    "description": "About VoodooFounded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes",
+    "link": "https://www.arbeitnow.fr/jobs/companies/voodoo/talent-sourcer-growth-paris-76702",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790214015000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-coordinator-front-of-house-workplace-experience-london-268757",
+    "title": "Coordinator, Front of House & Workplace Experience",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/coordinator-front-of-house-workplace-experience-london-268757",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790210413000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-engineer-berlin-261058",
     "title": "Full-Stack Engineer (f/m/d)",
     "description": "Please note: For this position, we are unable to offer visa sponsorship or relocation support. Applicants must already hold the legal right to work in Germany (e.g., EU/EEA citizenship or a valid residence/work permit). About usZenjob is an AI-powered flexible staffing platform that has efficiently connected companies ",
