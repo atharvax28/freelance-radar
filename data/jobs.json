@@ -1,5 +1,260 @@
 [
   {
+    "id": "arbeitnow-backend-engineer-subscriptions-london-282862",
+    "title": "Backend Engineer, Subscriptions",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/backend-engineer-subscriptions-london-282862",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "23m ago",
+    "posted_ts": 1790276115000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-intern-system-architecture-daresbury-267310",
+    "title": "Intern, System Architecture",
+    "description": "&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;PsiQuantum’s&amp;nbsp;mission is to build the first useful quantum computers—machines capable of delivering the breakthroughs the field has long promised. Since our founding in 2016, our singular focus has been to build and deploy million-qubit, fault-tolerant quantum",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/psiquantum/intern-system-architecture-daresbury-267310",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "algorithms"
+    ],
+    "posted_at": "23m ago",
+    "posted_ts": 1790276113000,
+    "budget": "Not specified",
+    "client_country": "Daresbury",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Daresbury",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-customer-success-specialist-311965",
+    "title": "Customer Success Specialist",
+    "description": "Mast is on a mission to make complex lending simple. The UK's specialist lending market is underserved by technology, with legacy systems that can't handle the nuance of complex income, niche products, or the broker workflows that specialist lenders rely on.We're building modern, cloud-native lending technology, purpos",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/mast/remote-customer-success-specialist-311965",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion",
+      "slack"
+    ],
+    "posted_at": "38m ago",
+    "posted_ts": 1790275208000,
+    "budget": "Not specified",
+    "client_country": "UK (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-creative-strategist-london-26743",
+    "title": "Creative Strategist",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/creative-strategist-london-26743",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping",
+      "canva"
+    ],
+    "posted_at": "38m ago",
+    "posted_ts": 1790275207000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-support-specialist-german-speaking-munich-196104",
+    "title": "Product Support Specialist (German-speaking)",
+    "description": "Remote - Germany, Austria, Poland, the UK or Turkey. C1 or C2 German Language is essentialAt Secfix, we’re at the forefront of automating security compliance in Europe. We help companies get and stay ISO 27001, GDPR, TISAX, and SOC 2 fast and easy and reduce hundreds of hours of manual work.Secfix is run by a 100% remo",
+    "link": "https://www.arbeitnow.com/jobs/companies/secfix/product-support-specialist-german-speaking-munich-196104",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790271611000,
+    "budget": "Not specified",
+    "client_country": "Remote - Germany, Austria, Poland, the UK or Turkey",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-legal-counsel-berlin-385334",
+    "title": "Legal Counsel - m/f/d",
+    "description": "Help Us Change the Way the World WorksBuild something that matters.Langdock exists to change the way the world works, bridging the gap between what technology can do and what people actually do with it. We bring all leading AI models into one secure, model-agnostic platform and make them usable across entire organizati",
+    "link": "https://www.arbeitnow.com/jobs/companies/langdock/legal-counsel-berlin-385334",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790271611000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-product-designer-berlin-422712",
+    "title": "Founding Product Designer",
+    "description": "This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).We are building the future of marketing by rew",
+    "link": "https://www.arbeitnow.com/jobs/companies/almedia/founding-product-designer-berlin-422712",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790271609000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sales-development-representative-dach-berlin-hybrid-24676",
+    "title": "Sales Development Representative - DACH (Berlin Hybrid)",
+    "description": "The AI orchestration of your wildest imagination.n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approve",
+    "link": "https://www.arbeitnow.com/jobs/companies/n8n/sales-development-representative-dach-berlin-hybrid-24676",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "notion"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790271605000,
+    "budget": "Not specified",
+    "client_country": "Berlin Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-business-data-analyst-finance-requirements-management-berlin-boppstr-115822",
+    "title": "Business Data Analyst Finance & Requirements Management (m/w/d)",
+    "description": "Deine Aufgaben:Du verstehst Geschäftsprozesse, denkst analytisch und kannst komplexe Anforderungen verständlich strukturieren? Du bewegst Dich sicher zwischen Fachbereichen und technischen Teams und hast Freude daran, aus Daten und Anforderungen tragfähige Lösungen zu entwickeln? Dann suchen wir genau Dich als Business",
+    "link": "https://www.arbeitnow.com/jobs/companies/aer-group/business-data-analyst-finance-requirements-management-berlin-boppstr-115822",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790269763000,
+    "budget": "Not specified",
+    "client_country": "Berlin Boppstr.",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin Boppstr.",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-software-engineer-munich-hybrid-418389",
+    "title": "Full-Stack Software Engineer (m/f/d)",
+    "description": "About the roleAs renewable energy reshapes the global power system, batteries are taking center stage. Making them safe, reliable, and bankable at scale is a defining challenge of the energy transition. At TWAICE, our software turns battery data into insights - so decisions are made with confidence, not guesswork.We're",
+    "link": "https://www.arbeitnow.com/jobs/companies/twaice/full-stack-software-engineer-munich-hybrid-418389",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790269757000,
+    "budget": "Not specified",
+    "client_country": "Munich, Hybrid",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-contract-software-engineer-dom-core-firefox-gecko-423128",
+    "title": "Contract Software Engineer - DOM Core Firefox/Gecko",
+    "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness.&l",
+    "link": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-dom-core-firefox-gecko-423128",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "c",
+      "c++"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790268954000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
+    "title": "Contract Software Engineer - WebCompat Tooling (Dashboards and Reporting), Firefox",
+    "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will build and improve the WebCompat team’s internal tooling, the dashboards and the broken-site-report screenshot pipeline the team relies on to triage and prioritize site breakage. This is a focused",
+    "link": "https://www.arbeitnow.fr/jobs/companies/mozilla/contract-software-engineer-webcompat-tooling-dashboards-and-reporting-firefox-140260",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790268954000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-contract-software-engineer-dom-core-firefox-gecko-445336",
     "title": "Contract Software Engineer - DOM Core Firefox/Gecko",
     "description": "&lt;h2&gt;&lt;strong&gt;The role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;You will help the Firefox DOM Core team improve the health of the Session History area. You will write tests to improve the coverage; you will fix tests and/or problems to improve the Gecko correctness.&l",
@@ -252,6 +507,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-154012",
+    "title": "Freelance - Spanish Data Annotation Specialist (100% Remote within Europe)",
+    "description": "How You'll Contribute As a Freelance Spanish Data Annotation Specialist at Docplanner, your main focus will be preparing and curating linguistically and medically oriented datasets in Spanish to power our machine learning and natural language processing (NLP) initiatives. You will work independently while maintaining c",
+    "link": "https://jobicy.com/jobs/154012-freelance-spanish-data-annotation-specialist-100-remote-within-europe",
+    "source": "Jobicy",
+    "matched_skills": [
+      "nlp"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1790252710000,
+    "budget": "Not specified",
+    "client_country": "Europe",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Europe",
     "link_validated": true,
     "link_status": "DIRECT"
   },
