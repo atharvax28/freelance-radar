@@ -1,5 +1,90 @@
 [
   {
+    "id": "arbeitnow-remote-distinguished-engineer-core-devops-436837",
+    "title": "Distinguished Engineer, Core DevOps",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-distinguished-engineer-core-devops-436837",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790546117000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-ai-solutions-consultant-london-311805",
+    "title": "Enterprise AI Solutions Consultant (London)",
+    "description": "Elevate the Future of Global Content with TransPerfect AITransPerfect is the leading solution provider of AI, Technology, and Data solutions; we are the engine behind the global AI revolution. As we continue to redefine how the world’s largest enterprises process, train, and deploy data, we are seeking a high-caliber A",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/enterprise-ai-solutions-consultant-london-311805",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "fine-tuning"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790544637000,
+    "budget": "Not specified",
+    "client_country": "London, Greater London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-zurich-remote-238929",
+    "title": "Enterprise Account Executive  - Zurich Remote",
+    "description": "Shape the Future of Enterprise Success in the DACH Region with monday.comReady to make your mark in an extraordinary company? This is your opportunity to play a pivotal role as a founding member of our new regional office while leveraging the support and innovation of a $1B ARR, NASDAQ-traded company. As part of one of",
+    "link": "https://www.arbeitnow.ch/jobs/companies/mondaycom/enterprise-account-executive-zurich-remote-238929",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "monday.com"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790541608000,
+    "budget": "Not specified",
+    "client_country": "Zurich (Remote)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-solutions-engineer-munchen-358086",
+    "title": "AI Solutions Engineer (m/w/d)",
+    "description": "Why The Mobility House?Help shape our vision of an emission-free energy and mobility future High levelof responsibility and rapid development in a growing and innovative companyOpen, diverse &amp; international teamFlexible working hours and additional vacation daysMobile working from home and 20 days in other European",
+    "link": "https://www.arbeitnow.com/jobs/companies/tmh/ai-solutions-engineer-munchen-358086",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "rest apis",
+      "microservices",
+      "aws",
+      "llm"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790539758000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-content-creation-remote-berlin-german-speaking-196233",
     "title": "Working Student Content Creation - Remote / Berlin (German Speaking)",
     "description": "Werkstudent:in Content Creation mit AI (m/w/d)Remote oder Berlin | bis 20 Std./Woche | 18-22 € pro Stunde | ab sofortÜber UplaneUplane will die Marketing-Industrie mit AI neu erfinden: Wir entwickeln und betreiben AI-Software, um Performance Marketing schneller, besser und effizienter zu machen. Als AI-fokussierte Mark",
@@ -16086,6 +16171,27 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Garching b. München (DE)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-pinterest-data-scientist-ii-ml-infrastructure",
+    "title": "Pinterest: Data Scientist II, ML Infrastructure",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Palo Alto, CA, US; Remote, US &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;strong&gt;About Pinterest:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan",
+    "link": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "pytorch"
+    ],
+    "posted_at": "14d ago",
+    "posted_ts": 1789284672000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
