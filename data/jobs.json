@@ -1,5 +1,111 @@
 [
   {
+    "id": "arbeitnow-remote-strategic-account-executive-manufacturing-437379",
+    "title": "Strategic Account Executive - Manufacturing",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s ",
+    "link": "https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-437379",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790553322000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-zurich-413496",
+    "title": "Enterprise Account Executive - Zurich",
+    "description": "Get to know usIdeals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000 companies globally, we help people run high-stakes processes and make important decisions with less stress, h",
+    "link": "https://www.arbeitnow.ch/jobs/companies/ideals/enterprise-account-executive-zurich-413496",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790552405000,
+    "budget": "Not specified",
+    "client_country": "Zurich, Switzerland",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-embedded-software-engineer-winterthur-24700",
+    "title": "Embedded Software Engineer",
+    "description": "cross-ING ist ein unabhängiges ISO 9001/13485-zertifiziertes Schweizer Ingenieurunternehmen. Das Unternehmen bietet der Kundschaft eine breite Wissenspalette im Bereich der Produktentwicklung an. cross-ING unterstützt die Kundschaft mit langjähriger Erfahrung und global vernetztem, interdisziplinärem Fachwissen dabei, ",
+    "link": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/embedded-software-engineer-winterthur-24700",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790551829000,
+    "budget": "Not specified",
+    "client_country": "Winterthur, Zürich, Schweiz",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-testingenieurin-hardware-systeme-villigen-312522",
+    "title": "Testingenieur:in Hardware & Systeme",
+    "description": "cross-ING ist ein unabhängiges ISO 9001/13485-zertifiziertes Schweizer Ingenieurunternehmen. Das Unternehmen bietet der Kundschaft eine breite Wissenspalette im Bereich der Produktentwicklung an. cross-ING unterstützt die Kundschaft mit langjähriger Erfahrung und global vernetztem, interdisziplinärem Fachwissen dabei, ",
+    "link": "https://www.arbeitnow.ch/jobs/companies/cross-ing-ag/testingenieurin-hardware-systeme-villigen-312522",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790551829000,
+    "budget": "Not specified",
+    "client_country": "Villigen, Aargau, Schweiz",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-informationssicherheit-bonn-166272",
+    "title": "Werkstudent*in Informationssicherheit (m/w/d)",
+    "description": "WIR suchen dich!Als Werkstudent*in im Bereich Informationssicherheit unterstützt du bei Audits, Sicherheitsprozessen und IT-Security-Projekten. Von ISO 27001 über Notfallmanagement bis hin zu modernen Security-Konzepten erhältst du spannende Einblicke in die vielfältigen Facetten der Informationssicherheit.Tu, was du l",
+    "link": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/werkstudentin-informationssicherheit-bonn-166272",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790550598000,
+    "budget": "Not specified",
+    "client_country": "Bonn",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bonn",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-distinguished-engineer-core-devops-436837",
     "title": "Distinguished Engineer, Core DevOps",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
@@ -57,6 +163,26 @@
     "is_freelance": true,
     "region_locked": false,
     "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-154104",
+    "title": "Business Consultant (6 months contract with possible extension)",
+    "description": "Bloomreach is building the world’s premier agentic platform for personalization.We’re revolutionizing how businesses connect with their customers, building and deploying AI agents to personalize the entire customer journey. We're taking autonomous search mainstream, making product discovery more intuitive and conversat",
+    "link": "https://jobicy.com/jobs/154104-business-consultant-6-months-contract-with-possible-extension",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1790541269000,
+    "budget": "Not specified",
+    "client_country": "Czechia,  Slovakia",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Czechia,  Slovakia",
     "link_validated": true,
     "link_status": "DIRECT"
   },
