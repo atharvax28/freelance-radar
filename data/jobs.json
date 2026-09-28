@@ -1,5 +1,149 @@
 [
   {
+    "id": "arbeitnow-graduate-commercial-insights-analyst-london-55149",
+    "title": "Graduate Commercial Insights Analyst",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/graduate-commercial-insights-analyst-london-55149",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790620805000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-im-projektmanagement-munchen-354322",
+    "title": "Werkstudent*in im Projektmanagement",
+    "description": "Werde Teil unseres Teams!Du bist auf der Suche nach einem spannenden Nebenjob, bei dem du von tollen Teamkollegen lernen und dein Know-how ausbauen kannst? Du möchtest nicht nur Themen abarbeiten, sondern auch eigenen Input einbringen? Dann freuen wir uns dich bald bei uns im Team begrüßen zu dürfen!Deine AufgabenDu un",
+    "link": "https://www.arbeitnow.com/jobs/companies/doo/werkstudentin-im-projektmanagement-munchen-354322",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790615374000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-solutions-engineer-dach-395452",
+    "title": "Solutions Engineer DACH (m/f/d)",
+    "description": "As a Solutions Engineer, you will be working at the intersection of Sales, Product and Customer Success, working with top learning and development organizations to align their growth objectives to 360learning capabilities. As the first Solutions Engineer for the German market, you will play a crucial role in ensuring t",
+    "link": "https://www.arbeitnow.com/jobs/companies/360learning/remote-solutions-engineer-dach-395452",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "etl"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1790615074000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-chief-technology-officer-dortmund-339770",
+    "title": "Chief Technology Officer",
+    "description": "Location: Kassel , Germany Work Policy: Remote-first within Germany; optional office days; not advertised as fully remote internationally Work Experience: Several years in a CTO/VP Engineering (or similar) role within FinTech or banking Language Requirement: English C1, German C1 Employment Type: Full-time Technical Sk",
+    "link": "https://www.arbeitnow.com/jobs/companies/worldwide-placement-limited/chief-technology-officer-dortmund-339770",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "aws"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1790611232000,
+    "budget": "Not specified",
+    "client_country": "Dortmund",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-advisory-sales-trading-emea-london-270891",
+    "title": "Advisory, Sales & Trading (EMEA)",
+    "description": "Why RogoOur mission is to transform global finance by empowering professionals at the world's top investment banks, private equity funds, and investment firms with AI that delivers unparalleled speed, accuracy, and insight. We're not just improving financial workflows; we're redefining them.This is a unique opportunity",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/rogo/advisory-sales-trading-emea-london-270891",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1790610008000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-doctors-and-medical-experts-required-for-ai-research-projects-open-rolling-applications-london-396441",
+    "title": "Doctors and Medical Experts required for AI research Projects (open/rolling applications)",
+    "description": "We are looking for doctors to join our growing community of experts who are available to be matched on an on-going basis to new innovative AI projects with the world's leading AI labs and companies that are bringing to life AI in healthcare. Your medical expertise will shape the way AI understands and processes real-wo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/aptura/doctors-and-medical-experts-required-for-ai-research-projects-open-rolling-applications-london-396441",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "fine-tuning"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1790610005000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-people-operations-and-ai-partner-london-204616",
+    "title": "People Operations and AI Partner",
+    "description": "At Pencil, we are driving innovation in advertising technology through our state-of-the-art SaaS product, which harnesses Generative AI to redefine content creation. Our mission is to make AI the default in advertising without replacing creative people. To achieve this, we need to make sure that our technology isn’t ju",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/pencil/people-operations-and-ai-partner-london-204616",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "ai agents",
+      "zapier"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1790610004000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom - Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-werkstudent-marketing-content-video-creation-eschborn-176265",
     "title": "Werkstudent Marketing - Content & Video Creation (m/w/d)",
     "description": "Du denkst in Bildern, Schnitten und Hooks? Du willst nicht nur Posts für ein Uni-Projekt bauen, sondern Kanäle mit echter Reichweite aufbauen? Dann bist du bei uns genau richtig! Bei JAMORIE machen wir Cyber Security verständlich – für Unternehmen und für alle, die sich dafür interessieren. Dafür suchen wir eine kreati",
