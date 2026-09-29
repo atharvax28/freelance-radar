@@ -1,5 +1,73 @@
 [
   {
+    "id": "arbeitnow-data-engineer-london-61023",
+    "title": "Data Engineer",
+    "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;div&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Who are we?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;Zeta Global is seeking a talented and versatile Data Engineer to join our Data Exchange team within our highly skilled development office in Copenhagen. This team",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/zetaglobal/data-engineer-london-61023",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "etl",
+      "aws",
+      "s3",
+      "ci/cd",
+      "fine-tuning",
+      "prototyping",
+      "algorithms",
+      "oop"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790718909000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-ai-native-landing-page-designer-336719",
+    "title": "AI-Native Landing Page Designer",
+    "description": "About UplaneCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by building the AI technology for the marketing agency of the future. Our software supports creative producers with static ad creation, video ad creation, landing page design, and much more. We are b",
+    "link": "https://www.arbeitnow.com/jobs/companies/uplane/remote-ai-native-landing-page-designer-336719",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "a/b testing"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790714408000,
+    "budget": "Not specified",
+    "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-superviseurse-cvc-havc-pompes-a-chaleur-france-amiens-fr-335535",
+    "title": "Superviseur·se CVC/HAVC - Pompes à chaleur - France",
+    "description": "Octopus Energy, fournisseur d’énergie verte présent à l’international, a lancé sa filiale Octopus Energy Services pour accompagner ses clients dans la décarbonation complète de leur foyer. Déjà bien implantée au Royaume-Uni, cette entité propose un ensemble de solutions techniques : installation de panneaux photovoltaï",
+    "link": "https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/superviseurse-cvc-havc-pompes-a-chaleur-france-amiens-fr-335535",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790709927000,
+    "budget": "Not specified",
+    "client_country": "Amiens (FR)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-ai-native-landing-page-designer-99931",
     "title": "AI-Native Landing Page Designer",
     "description": "About UplaneCompanies waste billions on bad ads, mismatched landing pages, and poor budget allocation. Uplane fixes this by building the AI technology for the marketing agency of the future. Our software supports creative producers with static ad creation, video ad creation, landing page design, and much more. We are b",
