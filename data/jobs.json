@@ -1,5 +1,117 @@
 [
   {
+    "id": "arbeitnow-front-end-engineer-london-388985",
+    "title": "Front end Engineer",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/front-end-engineer-london-388985",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "c",
+      "react",
+      "oop",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790728811000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-commercial-ai-solutions-specialist-london-423350",
+    "title": "Commercial AI Solutions Specialist",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/commercial-ai-solutions-specialist-london-423350",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1790728811000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-data-automation-hamburg-47679",
+    "title": "Werkstudent*In Data & Automation (M/W/D)",
+    "description": "Dein TeamUnser Data &amp; Automation Team unterstützt andere Abteilungen des OMR Kosmos, u.a. auch das Sales &amp; Partnerships Team bei der Betreuung der spannendsten nationalen und internationalen Partner*innen aus dem Digital- und Brandbereich. Zum Produktportfolio gehören neben unserem OMR Festival auch zahlreiche ",
+    "link": "https://www.arbeitnow.com/jobs/companies/ramp106-gmbh/werkstudentin-data-automation-hamburg-47679",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1790723355000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineer-databricks-azure-recrutement-international-montreal-france-284911",
+    "title": "Data Engineer Databricks (Azure) - Recrutement international (Montréal)",
+    "description": "Montréal, Québec (Canada) | Recrutement international&nbsp;Cette opportunité est destinée aux personnes résidant à l'extérieur du Canada et souhaitant s'établir à Montréal.&nbsp;À propos de nousagileDSS est une firme de service-conseil spécialisée dans la donnée, l'analytique, le Cloud et l'intelligence artificielle. B",
+    "link": "https://www.arbeitnow.fr/jobs/companies/agiledss/data-engineer-databricks-azure-recrutement-international-montreal-france-284911",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790721020000,
+    "budget": "Not specified",
+    "client_country": "France, Île-de-France, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-architecte-de-solutions-data-recrutement-international-montreal-france-44828",
+    "title": "Architecte de Solutions Data - Recrutement international (Montréal)",
+    "description": "Montréal, Québec (Canada) | Recrutement international&nbsp;Cette opportunité est destinée aux personnes résidant à l'extérieur du Canada et souhaitant s'établir à Montréal.&nbsp;À propos de nousagileDSS est une firme de service-conseil spécialisée dans la donnée, l'analytique, le Cloud et l'intelligence artificielle. B",
+    "link": "https://www.arbeitnow.fr/jobs/companies/agiledss/architecte-de-solutions-data-recrutement-international-montreal-france-44828",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1790721020000,
+    "budget": "Not specified",
+    "client_country": "France, Île-de-France, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-engineer-london-61023",
     "title": "Data Engineer",
     "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;div&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Who are we?&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;Zeta Global is seeking a talented and versatile Data Engineer to join our Data Exchange team within our highly skilled development office in Copenhagen. This team",
