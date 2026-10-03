@@ -1,5 +1,91 @@
 [
   {
+    "id": "arbeitnow-customer-care-claims-agent-netherlands-berlin-142848",
+    "title": "Customer Care & Claims Agent Netherlands (m/f/d)",
+    "description": "These tasks are waiting for youYou're the first point of contact for our customers and partners in the Netherlands. You take calls and emails, log them properly, and like to sort things out right on the first contact.You take on new claims cases yourself and keep an eye on them proactively, so nothing slips through the",
+    "link": "https://www.arbeitnow.com/jobs/companies/alteos/customer-care-claims-agent-netherlands-berlin-142848",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "fine-tuning"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791047382000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-product-design-berlin-caroline-michaelis-str-5-11-10115-312629",
+    "title": "Werkstudent Product Design (m/w/d)",
+    "description": "Du möchtest digitale Produkte gestalten, die von Millionen Menschen genutzt werden? Dann werde Teil unseres Design Teams bei Mobimeo.Wir bei Mobimeo machen Mobilität einfacher, intelligenter und nachhaltiger – für alle. Zur Unterstützung unseres Design Teams suchen wir ab sofort eine:n Werkstudent:in für rund 14 Stunde",
+    "link": "https://www.arbeitnow.com/jobs/companies/mobimeo-gmbh/werkstudent-product-design-berlin-caroline-michaelis-str-5-11-10115-312629",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "git",
+      "figma",
+      "design systems"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791047371000,
+    "budget": "Not specified",
+    "client_country": "Berlin (Caroline-Michaelis-Str. 5-11, 10115)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin (Caroline-Michaelis-Str. 5-11, 10115)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-major-account-executive-france-271398",
+    "title": "Major Account Executive, France",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-major-account-executive-france-271398",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "git"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791046505000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-perception-and-fusion-engineer-101328",
+    "title": "Perception and Fusion Engineer",
+    "description": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneo",
+    "link": "https://www.arbeitnow.fr/jobs/companies/swarmaero/remote-perception-and-fusion-engineer-101328",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "algorithms",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791045604000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-om-data-engineer-munich-fixed-term-2-years-germany-munich-165252",
     "title": "O&M Data Engineer – Munich (Fixed Term 2 years)",
     "description": "Your missionHello and welcome to Sungrow Europe! We are looking for a Data Engineer who can turn complex EMS, SCADA and contract data into reliable operational insight across our ESS fleet.Configure, commission and optimise EMS settings, control strategies, setpoints and dispatch logic across the ESS fleet.Diagnose EMS",
