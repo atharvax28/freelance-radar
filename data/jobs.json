@@ -1,5 +1,177 @@
 [
   {
+    "id": "arbeitnow-om-data-engineer-munich-fixed-term-2-years-germany-munich-165252",
+    "title": "O&M Data Engineer – Munich (Fixed Term 2 years)",
+    "description": "Your missionHello and welcome to Sungrow Europe! We are looking for a Data Engineer who can turn complex EMS, SCADA and contract data into reliable operational insight across our ESS fleet.Configure, commission and optimise EMS settings, control strategies, setpoints and dispatch logic across the ESS fleet.Diagnose EMS",
+    "link": "https://www.arbeitnow.com/jobs/companies/sungrow-europe-welcome-traveler/om-data-engineer-munich-fixed-term-2-years-germany-munich-165252",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "rest apis",
+      "aws",
+      "firmware"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791036578000,
+    "budget": "Not specified",
+    "client_country": "Germany - Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany - Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
+    "title": "Werkstudent:in Data Analytics (Controlling Focus) (m/w/d)",
+    "description": "1KOMMA5°Bei 1KOMMA5° verfolgen wir eine Vision: Living on wind and sunlight forever for free. Dafür bauen wir mit Heartbeat AI das Energiesystem der Zukunft. Bist du dabei? Wir bringen regionales Handwerk und skalierbare Software zusammen: Solar, Speicher, Wärmepumpe und E-Mobilität denken wir nicht einzeln, sondern st",
+    "link": "https://www.arbeitnow.com/jobs/companies/1komma5grad/remote-werkstudentin-data-analytics-controlling-focus-hamburg-340689",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "git"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791036575000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-designer-design-system-heartbeat-ai-berlin-307071",
+    "title": "Working Student Designer (Design System) – Heartbeat AI (m/f/d)",
+    "description": "1KOMMA5°At 1KOMMA5°, we pursue a clear vision: Living on wind and sunlight forever for free. To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it?We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps, an",
+    "link": "https://www.arbeitnow.com/jobs/companies/1komma5grad/working-student-designer-design-system-heartbeat-ai-berlin-307071",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "design systems"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791036575000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-data-analytics-mainz-oder-berlin-343257",
+    "title": "Werkstudent*in Data Analytics (m/w/d)",
+    "description": "StellendetailsFür unsere Standorte Mainz oder Berlin suchen wir zum nächstmöglichen Zeitpunkt für bis zu 20 Wochenstunden und zunächst befristet eine*n Werkstudent*in Data Analytics (m/w/d).Deine AufgabenDu verarbeitest, analysierst und visualisierst Daten aus den Bereichen Social Media, TV und StreamingDu unterstützt ",
+    "link": "https://www.arbeitnow.com/jobs/companies/zdf-digital-medienproduktion-gmbh/werkstudentin-data-analytics-mainz-oder-berlin-343257",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791036551000,
+    "budget": "Not specified",
+    "client_country": "Mainz oder Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Mainz oder Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-visual-design-communication-designgn-starting-at-12h-per-week-hybrid-munich-munchen-127339",
+    "title": "Working Student – Visual Design / Communication Design(gn), starting at 12h per week, hybrid (Munich)",
+    "description": "What You'll DoYou help us bring the topics of heat pumps, energy-efficient renovations, and 42watt to life.You work on exciting communication formats for web, social media, and print — from (info) graphics and layouts to templates and animations.You expand our visual language with concrete assets and strengthen the vis",
+    "link": "https://www.arbeitnow.com/jobs/companies/42watt/working-student-visual-design-communication-designgn-starting-at-12h-per-week-hybrid-munich-munchen-127339",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791036550000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-existing-customers-dach-london-uk-98584",
+    "title": "Account Executive, Existing Customers (DACH)",
+    "description": "At Sanity.io, we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency. Companies like SKIMS, Figma, Riot Games",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/sanity/account-executive-existing-customers-dach-london-uk-98584",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "vercel",
+      "figma"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791031206000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London, UK",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-financial-services-london-445290",
+    "title": "Account Executive - Financial Services",
+    "description": "TransPerfect is the world's leading provider of language services and technology solutions. With over 100 offices worldwide, we partner with global industry leaders, including Fortune 500 companies, to deliver translation, localization, and business solutions across diverse industries. Position Summary:The main focus o",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/transperfect/account-executive-financial-services-london-445290",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791030644000,
+    "budget": "Not specified",
+    "client_country": "London, Greater London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-privacy-engineering-compliance-automation-munich-208965",
+    "title": "Working Student - Privacy Engineering & Compliance Automation (f/m/d)",
+    "description": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We thrive, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who thrive on ownership, embrace",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-privacy-engineering-compliance-automation-munich-208965",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "embedded"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791027011000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-tracking-specialist-intern-paris-112649",
     "title": "Tracking Specialist Intern",
     "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
