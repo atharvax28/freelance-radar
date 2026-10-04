@@ -1,5 +1,106 @@
 [
   {
+    "id": "arbeitnow-global-equity-tax-specialist-london-161161",
+    "title": "Global Equity Tax Specialist",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/global-equity-tax-specialist-london-161161",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791085207000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-coordinator-front-of-house-workplace-experience-london-468825",
+    "title": "Coordinator, Front of House & Workplace Experience",
+    "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/coordinator-front-of-house-workplace-experience-london-468825",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791085207000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-forward-deployed-engineer-berlin-76605",
+    "title": "Forward Deployed Engineer (m/f/d)",
+    "description": "At praxipal, we are building an AI-powered healthcare admin workforce to address the global shortage of medical staff.Medical assistants are too valuable to spend their days chasing callbacks, cleaning up schedules, sending repetitive messages, or wrestling with invoicing and documentation workflows. Staff should spend",
+    "link": "https://www.arbeitnow.com/jobs/companies/praxipal/forward-deployed-engineer-berlin-76605",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "embedded"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1791070803000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-engineer-berlin-176331",
+    "title": "Founding Engineer",
+    "description": "This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).We are building the future of marketing by rew",
+    "link": "https://www.arbeitnow.com/jobs/companies/almedia/founding-engineer-berlin-176331",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1791070803000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-field-event-marketing-munchen-232356",
+    "title": "Working Student - Field & Event Marketing (m/f/d)",
+    "description": "The roleWe're looking for a Working Student - Field &amp; Event Marketing (m/f/d) to own our events from first plan to final follow-up. Our event marketing activity is ramping up, and needs an owner. From November 2026, that's you: you coordinate every trade show and conference we attend, including social promotion, so",
+    "link": "https://www.arbeitnow.com/jobs/companies/unitelabs/working-student-field-event-marketing-munchen-232356",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1791068949000,
+    "budget": "Not specified",
+    "client_country": "München",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-enterprise-account-executive-berlin-berlin-germany-426670",
     "title": "Enterprise Account Executive - Berlin (m/w/d)",
     "description": "Get to know usIdeals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000 companies globally, we help people run high-stakes processes and make important decisions with less stress, h",
