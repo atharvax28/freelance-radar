@@ -1,5 +1,89 @@
 [
   {
+    "id": "arbeitnow-sales-engineer-london-370179",
+    "title": "Sales Engineer",
+    "description": "At Gigaton, we’re on a mission to cut gigatonnes of carbon emissions from the world’s biggest emitting industries (like cement, steel and glass), by building autonomous AI control and optimisation systems that learn and leverage the physics of manufacturing. Our products run heavy industrial plants more efficiently, mo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/gigaton/sales-engineer-london-370179",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "notion"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791171609000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-product-developer-berlin-140031",
+    "title": "Full Stack Product Developer (m/w/d)",
+    "description": "Aufgaben Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und unseren Redaktionen den Rücken freizuhalten – damit sie sich",
+    "link": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-140031",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "postgresql",
+      "linux"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1791166178000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-marketing-all-genders-hybrid-berlin-germany-328760",
+    "title": "Working Student Marketing (all genders)",
+    "description": "Your missionAt deskbird, your work is visible from day one. As a working student, you get real projects and real ownership, and you learn how a fast-growing B2B SaaS company does marketing.We're a leading workplace management platform, backed by $23M Series B funding and trusted by global brands. The company is founder",
+    "link": "https://www.arbeitnow.com/jobs/companies/deskbird/working-student-marketing-all-genders-hybrid-berlin-germany-328760",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1791166157000,
+    "budget": "Not specified",
+    "client_country": "Hybrid - Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-security-engineer-hybrid-or-remote-470182",
+    "title": "Security Engineer (Hybrid or Remote)",
+    "description": "About The RoleWe’re looking for a Security Engineer to own and improve the security of our internal environment — the identities, SaaS apps, endpoints, AI tooling, and networks our employees use every day. This is a hands-on senior role: we expect you to design controls, find the gaps, and drive the changes that close ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/vivid/security-engineer-hybrid-or-remote-470182",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws",
+      "slack"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1791162560000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-all-genders-319132",
     "title": "Account Executive (all genders)",
     "description": "Deine RolleAls Account Executive (all genders) bei SYNAOS bist du für unser Neukundenwachstum verantwortlich. Dein Ziel ist es weitere Unternehmen von der Zukunft der Intralogisitik zu überzeugen und somit bestehende Märkte und Industrien auszubauen sowie neue Märkte und Industrien zu erschließen. Du sprichst mit Produ",
