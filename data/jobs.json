@@ -1,5 +1,88 @@
 [
   {
+    "id": "arbeitnow-product-engineer-all-genders-munich-264643",
+    "title": "Product Engineer (all genders)",
+    "description": "You’re not just writing code; you’re building the foundation of Lio’s enterprise AI platform. Your work will power our SaaS and Agent products, making them scalable, reliable, and impactful for global customers. You’ll help translate real-world customer needs into robust technical solutions that drive measurable value.",
+    "link": "https://www.arbeitnow.com/jobs/companies/lio/product-engineer-all-genders-munich-264643",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "system design"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791308413000,
+    "budget": "Not specified",
+    "client_country": "Munich Office",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-data-financial-research-ecommerce-hamburg-185194",
+    "title": "Working Student - Data & Financial Research eCommerce (m/f/d)",
+    "description": "About usECDB GmbH is an e-commerce market intelligence provider founded in 2022. The company collects and analyzes worldwide e-commerce transaction data, enriched with comprehensive information on online retailers, countries, regions, and markets, to generate structured insights into the development of global digital c",
+    "link": "https://www.arbeitnow.com/jobs/companies/ecdb-gmbh-latest/working-student-data-financial-research-ecommerce-hamburg-185194",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791306594000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-operations-berlin-236758",
+    "title": "Werkstudent:in Operations (m/w/d)",
+    "description": "Allgemeine Infos StoryMachine ist seit 2017 die Berliner Agentur für strategisches Storytelling. Wir machen Brands, Persönlichkeiten und politische Institutionen sichtbar – journalistisch präzise, datengetrieben und für jeden Kanal gedacht.Jetzt gehen wir den nächsten Schritt: Mit StoryMachine Analytics bauen wir eine ",
+    "link": "https://www.arbeitnow.com/jobs/companies/storymachine-gmbh/werkstudentin-operations-berlin-236758",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791306562000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sdr-setter-100-remote-vollzeit-berlin-333482",
+    "title": "SDR/Setter - 100% Remote/Vollzeit",
+    "description": "Jobbeschreibung Wir suchen eine*n SDR/Setter, der sich einem der größten B2C Coaching Unternehmen im deutschsprachigen Raum anschließen, Rekorde brechen, Leben verändern und mit einem starken Sales Team jeden Tag Höchstleistung abliefern will. Das erwartet dich bei Erschaffe dich neu: Leistungsbezogene Vergütung: 60.00",
+    "link": "https://www.arbeitnow.com/jobs/companies/erschaffe-dich-neu/sdr-setter-100-remote-vollzeit-berlin-333482",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791304296000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-computer-vision-engineer-algorithms-budapest-245250",
     "title": "Computer Vision Engineer - Algorithms",
     "description": "Computer Vision Engineer – Algorithms (Cricket)Value Stream - Tracking &amp; Auto OfficiatingLocation: Budapest, HungaryOffice: Budapest, Váci út 144–150, 1138 HungaryWorking Model: Hybrid (2 days per week in the Budapest office)Contract: Permanent, Full-TimeAbout the RoleAt Hawk-Eye Innovations, we're at the forefront",
