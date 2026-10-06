@@ -1,5 +1,116 @@
 [
   {
+    "id": "arbeitnow-web-developer-paris-france-149922",
+    "title": "Web Developer",
+    "description": "Are you passionate about web development, digital products, and the space sector? Would you like to expand your technical expertise while contributing to an innovative and rapidly evolving industry?&nbsp; Joining Novaspace means becoming part of a fast-growing international consulting group specializing in the space se",
+    "link": "https://www.arbeitnow.fr/jobs/companies/novaspace/web-developer-paris-france-149922",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "react",
+      "html5",
+      "css3",
+      "rest apis",
+      "git"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1791249855000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-talent-engagement-specialist-partner-contractor-associate-workforce-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-7498",
+    "title": "Talent Engagement Specialist - Partner / Contractor Associate Workforce",
+    "description": "Ready for a new challenge? Are you looking for work that makes a difference? Do you want to work with people who learn and grow together? If so, Opencast could be the place for you. Opencast is a purpose-driven digital and technology consultancy, making life better through the power of people and technology. We’re ambi",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/opencast/talent-engagement-specialist-partner-contractor-associate-workforce-hybrid-newcastle-edinburgh-glasgow-leeds-manchester-birmingham-bristol-7498",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microsoft teams"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791245047000,
+    "budget": "Not specified",
+    "client_country": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hybrid - Newcastle, Edinburgh, Glasgow, Leeds, Manchester, Birmingham, Bristol, London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-data-scientist-product-analytics-431439",
+    "title": "Data Scientist - Product Analytics",
+    "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
+    "link": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-431439",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "a/b testing",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791243604000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-marketing-data-scientist-186335",
+    "title": "Marketing Data Scientist",
+    "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
+    "link": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-marketing-data-scientist-186335",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791243604000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-scientist-munchen-120982",
+    "title": "Data Scientist (m/f/d)",
+    "description": "Shape the Future of Data-Driven Decision Making as our Data Scientist (m/f/d)At Limehome, data is one of our biggest competitive advantages. As a Data Scientist, you'll turn complex business challenges into scalable statistical and machine learning solutions that help us make smarter decisions across pricing, operation",
+    "link": "https://www.arbeitnow.com/jobs/companies/limehome/data-scientist-munchen-120982",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "algorithms"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791243038000,
+    "budget": "Not specified",
+    "client_country": "München, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "München, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-forward-deployed-engineer-all-genders-397452",
     "title": "Forward Deployed Engineer (all genders)",
     "description": "What you can expect from usEraneos supports AI initiatives from strategy all the way through to production. In most AI projects, there's a gap between the strategy and what actually ends up running in production and creating real value. That's exactly the gap we close. For us, the work doesn't stop at the concept stage",
