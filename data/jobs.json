@@ -1,5 +1,87 @@
 [
   {
+    "id": "arbeitnow-internship-studio-apelbaum-art-engineering-or-communication-berlin-272697",
+    "title": "Internship - Studio Apelbaum - Art, Engineering or Communication (Berlin)",
+    "description": "We are looking for interns in art, engineering, and communication to join Studio Apelbaum. Studio Apelbaum, founded by artist and engineer Jonathan Apelbaum, combines traditional oil painting with interactive technology to create ‘Cognitive Paintings’ that shift images with light, movement, and sound through custom LED",
+    "link": "https://www.arbeitnow.com/jobs/companies/analogdream-ev/internship-studio-apelbaum-art-engineering-or-communication-berlin-272697",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1791336628000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-quality-engineer-paris-491894",
+    "title": "Quality Engineer",
+    "description": "Odaseva provides enterprise data management and security solutions that help organizations exercise sovereignty over their critical data. Companies representing 10% of global market capitalization trust Odaseva, including Schneider Electric, Volkswagen and Robert Half. Its Excalibur Data Platform enables customers to p",
+    "link": "https://www.arbeitnow.fr/jobs/companies/odaseva/quality-engineer-paris-491894",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "playwright",
+      "ci/cd"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1791336286000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-platform-reliability-salesforce-engineer-paris-177392",
+    "title": "Platform Reliability & Salesforce Engineer",
+    "description": "Odaseva provides enterprise data management and security solutions that help organizations exercise sovereignty over their critical data. Companies representing 10% of global market capitalization trust Odaseva, including Schneider Electric, Volkswagen and Robert Half. Its Excalibur Data Platform enables customers to p",
+    "link": "https://www.arbeitnow.fr/jobs/companies/odaseva/platform-reliability-salesforce-engineer-paris-177392",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd",
+      "prototyping"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1791336286000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-gestionnaire-de-ladministration-des-commandes-customer-service-paris-419442",
+    "title": "Gestionnaire de l'administration des commandes - Customer Service F/H/X",
+    "description": "🌍 Genetec - Protect the everydayEntreprise canadienne rayonnante à l'international, nous sommes animé(e)s par l'innovation et doté(e)s d'un large éventail de solutions qui englobent l'intelligence, la sécurité et les opérations. Nos clients évoluent dans tous les secteurs, que ce soit dans le domaine public ou privé, ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/gestionnaire-de-ladministration-des-commandes-customer-service-paris-419442",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1791336019000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-analytics-engineer-contract-paris-474208",
     "title": "Analytics Engineer (Contract)",
     "description": "Who we areLemrock builds the infrastructure of agentic commerce.Tomorrow, consumers won't just buy on e-commerce websites. They will discover, compare and purchase directly inside conversational AI interfaces like ChatGPT, Perplexity, and a growing long tail of specialized AI assistants.For brands, this is a major shif",
