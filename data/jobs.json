@@ -1,5 +1,194 @@
 [
   {
+    "id": "arbeitnow-analytics-engineer-contract-paris-474208",
+    "title": "Analytics Engineer (Contract)",
+    "description": "Who we areLemrock builds the infrastructure of agentic commerce.Tomorrow, consumers won't just buy on e-commerce websites. They will discover, compare and purchase directly inside conversational AI interfaces like ChatGPT, Perplexity, and a growing long tail of specialized AI assistants.For brands, this is a major shif",
+    "link": "https://www.arbeitnow.fr/jobs/companies/lemrock/analytics-engineer-contract-paris-474208",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "git",
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791326412000,
+    "budget": "Not specified",
+    "client_country": "Paris (hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris (hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-gtm-engineer-paris-116183",
+    "title": "GTM Engineer",
+    "description": "Our team shared’s mission is deploy AI agents to transform how patients and doctors connectWe believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and professionals deserve better.Vocca builds AI voice agents that answer every call instantly, schedule and resch",
+    "link": "https://www.arbeitnow.fr/jobs/companies/vocca/gtm-engineer-paris-116183",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791326408000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-crm-specialist-london-397525",
+    "title": "Technical CRM Specialist",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/technical-crm-specialist-london-397525",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791322808000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-junior-product-designer-london-127541",
+    "title": "Junior Product Designer",
+    "description": "Our CompanyAt Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity.Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering value and simplicity to millions.We drive grow",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantum/junior-product-designer-london-127541",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791322808000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-munich-153814",
+    "title": "Enterprise Account Executive (m/f/d)",
+    "description": "Your wellbeing, our mission. Join a company shaping a healthier world. GET TO KNOW US At Wellhub we're revolutionizing workplace wellness. Our platform connects employees worldwide to the best partners for fitness, mindfulness, therapy, nutrition, and sleep—all in one simple subscription. Headquartered in NYC with team",
+    "link": "https://www.arbeitnow.com/jobs/companies/wellhub/enterprise-account-executive-munich-153814",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791319528000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bavaria, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-data-scientist-product-analytics-364885",
+    "title": "Data Scientist - Product Analytics",
+    "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
+    "link": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-data-scientist-product-analytics-364885",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "a/b testing",
+      "embedded"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791319215000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-marketing-data-scientist-133130",
+    "title": "Marketing Data Scientist",
+    "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
+    "link": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-marketing-data-scientist-133130",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791319215000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-munich-332801",
+    "title": "Enterprise Account Executive",
+    "description": "About ZipZip is the AI platform for enterprise procurement — built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before.The world’s most influential enterprises",
+    "link": "https://www.arbeitnow.com/jobs/companies/zip/enterprise-account-executive-munich-332801",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791319211000,
+    "budget": "Not specified",
+    "client_country": "Remote - Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-visual-design-koln-365205",
+    "title": "Werkstudent*in (w/m/d) Visual Design",
+    "description": "Vorstellung UnternehmenLEONINE C_ ist die neue Unit von LEONINE Studios für Branded- und Creator-Entertainment. Sie bündelt unternehmensweit Kompetenzen und entwickelt für Marken und Content-Partner maßgeschneiderte Formate, Inhalte und Kooperationen, die in ihren Communities relevant sind und es ermöglichen, über Unte",
+    "link": "https://www.arbeitnow.com/jobs/companies/leonine-holding-gmbh/werkstudentin-visual-design-koln-365205",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791317393000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-product-engineer-all-genders-munich-264643",
     "title": "Product Engineer (all genders)",
     "description": "You’re not just writing code; you’re building the foundation of Lio’s enterprise AI platform. Your work will power our SaaS and Agent products, making them scalable, reliable, and impactful for global customers. You’ll help translate real-world customer needs into robust technical solutions that drive measurable value.",
