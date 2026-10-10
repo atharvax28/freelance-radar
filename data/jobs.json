@@ -1,5 +1,112 @@
 [
   {
+    "id": "arbeitnow-enterprise-new-business-account-executive-london-397252",
+    "title": "Enterprise New Business Account Executive",
+    "description": "monday.com is building the AI work platform that not only helps manage and orchestrate work, but also does the work for you. Over 250,000 customers across departments worldwide use monday.com to bring people, workflows, and AI agents together on one flexible platform, where AI doesn't just assist, it executes. From wor",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/mondaycom/enterprise-new-business-account-executive-london-397252",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "monday.com"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791603603000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-solution-engineer-air-london-98632",
+    "title": "Solution Engineer, Air",
+    "description": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-air-london-98632",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791603602000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-solution-engineer-land-london-149232",
+    "title": "Solution Engineer, Land",
+    "description": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-land-london-149232",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791603602000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-solution-engineer-maritime-london-245619",
+    "title": "Solution Engineer - Maritime",
+    "description": "Applied Intuition, Inc. is powering the future of physical AI. Founded in 2017 and now valued at $15 billion, the Silicon Valley company is creating the digital infrastructure needed to bring intelligence to every moving machine on the planet. Applied Intuition services the automotive, defense, trucking, construction, ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/applied/solution-engineer-maritime-london-245619",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791603602000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-customer-care-claims-agent-netherlands-berlin-110241",
+    "title": "Customer Care & Claims Agent Netherlands (m/f/d)",
+    "description": "These tasks are waiting for you You're the first point of contact for our customers and partners in the Netherlands. You take calls and emails, log them properly, and like to sort things out right on the first contact. You take on new claims cases yourself and keep an eye on them proactively, so nothing slips through t",
+    "link": "https://www.arbeitnow.com/jobs/companies/alteos-gmbh/customer-care-claims-agent-netherlands-berlin-110241",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "fine-tuning"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1791592238000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-indexing-platform-berlin-185017",
     "title": "Working Student (m/f/d)​Indexing Platform",
     "description": "Company DescriptionSince its creation in 2007 in the financial city of Frankfurt am Main, Solactive AG has grown to one of the key players in the indexing space. The German multi-asset index provider focusses on tailor-made indices, offering to its clients a faster service, with greater flexibility and at a reasonable ",
