@@ -1,5 +1,153 @@
 [
   {
+    "id": "arbeitnow-full-stack-engineer-london-131242",
+    "title": "Full Stack Engineer",
+    "description": "Build the technology behind the teams transforming constructionAt XYZ Reality, we’ve created the world’s first engineering-grade Augmented Reality solution for construction. Our product, The Atom, is used on major projects worldwide to bring designs to life on-site and help teams build more accurately, efficiently and ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/full-stack-engineer-london-131242",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "sql",
+      "react",
+      "next.js",
+      "node.js",
+      "vercel",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791668413000,
+    "budget": "Not specified",
+    "client_country": "London Office",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-strategic-munich-401009",
+    "title": "Account Executive, Strategic",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Strength in Trust&amp;nbsp;&lt;/h3&gt; &lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;OneTrust’s mission is to enable innovation through the responsible use of data and AI. We believe that ensuring data is trusted shouldn’t slow teams down—it should accelerate w",
+    "link": "https://www.arbeitnow.com/jobs/companies/onetrust/account-executive-strategic-munich-401009",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791665716000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-value-strategist-187622",
+    "title": "Value Strategist",
+    "description": "About ElevenLabsElevenLabs is an AI research and product company transforming how we interact with technology.We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Me",
+    "link": "https://www.arbeitnow.ch/jobs/companies/elevenlabs/remote-value-strategist-187622",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791664811000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-enterprise-account-executive-ii-dach-180240",
+    "title": "Enterprise Account Executive II - DACH",
+    "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to producti",
+    "link": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-ii-dach-180240",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791664807000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-enterprise-account-executive-uki-426314",
+    "title": "Enterprise Account Executive UKI",
+    "description": "Camunda is the enterprise platform for agentic orchestration, enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to producti",
+    "link": "https://www.arbeitnow.ch/jobs/companies/camunda/remote-enterprise-account-executive-uki-426314",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791664807000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudentin-operations-berlin-43169",
+    "title": "Werkstudent:in Operations (m/w/d)",
+    "description": "Allgemeine Infos StoryMachine ist seit 2017 die Berliner Agentur für strategisches Storytelling. Wir machen Brands, Persönlichkeiten und politische Institutionen sichtbar – journalistisch präzise, datengetrieben und für jeden Kanal gedacht.Jetzt gehen wir den nächsten Schritt: Mit StoryMachine Analytics bauen wir eine ",
+    "link": "https://www.arbeitnow.com/jobs/companies/storymachine-gmbh/werkstudentin-operations-berlin-43169",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791662975000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-rolloutoffice-infrastrukturausbau-koln-239526",
+    "title": "Werkstudent (m/w/d) Rolloutoffice / Infrastrukturausbau",
+    "description": "Das sind Deine AufgabenÜber uns Die GlasfaserPlus IT Services GmbH unterstützt die GlasfaserPlus beim deutschlandweiten Glasfaserausbau. Im Bereich ROO (Rollout Operations Office) sorgen wir dafür, dass unsere Ausbauprojekte strukturiert geplant, gesteuert und dokumentiert werden. Ein wichtiger Baustein ist dabei das Q",
+    "link": "https://www.arbeitnow.com/jobs/companies/glasfaserplus-gmbh/werkstudent-rolloutoffice-infrastrukturausbau-koln-239526",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1791662954000,
+    "budget": "Not specified",
+    "client_country": "Köln",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Köln",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-technical-customer-support-specialist-390100",
     "title": "Technical Customer Support Specialist",
     "description": "About HappyRobotHappyRobot is the infrastructure for enterprises to build and orchestrate AI workforces. Our AI workers don't just communicate through voice and email - they make decisions, take action, and run operations autonomously across entire enterprise systems. Born in Y Combinator (S23) and backed by a16z, Base",
@@ -746,6 +894,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137480",
+    "title": "Junior Sales Development Representative IT Industry",
+    "description": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. U",
+    "link": "https://remoteOK.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1791590417000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
