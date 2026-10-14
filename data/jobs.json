@@ -1,5 +1,49 @@
 [
   {
+    "id": "arbeitnow-full-stack-product-developer-berlin-269884",
+    "title": "Full Stack Product Developer (m/w/d)",
+    "description": "Aufgaben Du willst Technologie gestalten, die direkt etwas bewegt? Bei Table.Briefings entwickeln wir digitale Produkte für ein wachsendes Medienunternehmen. Unsere Software hilft dabei, Prozesse effizienter zu machen, neue Geschäftsmodelle zu ermöglichen und unseren Redaktionen den Rücken freizuhalten – damit sie sich",
+    "link": "https://www.arbeitnow.com/jobs/companies/tablemedia/full-stack-product-developer-berlin-269884",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "postgresql",
+      "linux"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1791932953000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-ii-full-stack-merchants-london-383511",
+    "title": "Software Engineer II  (Full-Stack) - Merchants",
+    "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Software Engineer II (Fu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-full-stack-merchants-london-383511",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "postgresql",
+      "redis"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1791927923000,
+    "budget": "Not specified",
+    "client_country": "London, England, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-all-genders-46744",
     "title": "Account Executive (all genders)",
     "description": "Deine RolleAls Account Executive (all genders) bei SYNAOS bist du für unser Neukundenwachstum verantwortlich. Dein Ziel ist es weitere Unternehmen von der Zukunft der Intralogisitik zu überzeugen und somit bestehende Märkte und Industrien auszubauen sowie neue Märkte und Industrien zu erschließen. Du sprichst mit Produ",
@@ -1568,6 +1612,27 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Amsterdam, Noord-Holland, Netherlands",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137507",
+    "title": "Graphic Designer & Video Editor",
+    "description": "DescriptionBlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists who are deeply invested in their craft â and in the success of the brands they s",
+    "link": "https://remoteOK.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "figma",
+      "design systems"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1791849606000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
