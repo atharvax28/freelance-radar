@@ -1,5 +1,73 @@
 [
   {
+    "id": "arbeitnow-remote-ingenieur-terrain-field-engineer-france-307115",
+    "title": "Ingénieur Terrain / Field Engineer F/H/X",
+    "description": "Ingénieur Terrain / Field Engineer🌍 Genetec - Protect the everydayEntreprise canadienne rayonnante à l'international, nous sommes animé(e)s par l'innovation et doté(e)s d'un large éventail de solutions qui englobent l'intelligence, la sécurité et les opérations. Nos clients évoluent dans tous les secteurs, que ce soit",
+    "link": "https://www.arbeitnow.fr/jobs/companies/genetec-inc/remote-ingenieur-terrain-field-engineer-france-307115",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c",
+      "sql server"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792059622000,
+    "budget": "Not specified",
+    "client_country": "France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-seo-sea-werkstudent-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg-166962",
+    "title": "SEO/SEA Werkstudent (m/w/d) mit Fokus auf Sichtbarkeit in KI-Suchen (Remote oder Würzburg)",
+    "description": "Du studierst, hast erste Erfahrungen in SEO oder SEA gesammelt und suchst eine Werkstudentenstelle, bei der du an echten Kundenprojekten mitarbeitest? Du willst dein Wissen im Google-Universum vertiefen, mit modernen KI- und LLM-Tools im Marketing arbeiten und verstehen, wie Marken nicht mehr nur in Google, sondern auc",
+    "link": "https://www.arbeitnow.com/jobs/companies/mainwebsolutions/seo-sea-werkstudent-mit-fokus-auf-sichtbarkeit-in-ki-suchen-remote-oder-wurzburg-166962",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux",
+      "llm"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792056014000,
+    "budget": "Not specified",
+    "client_country": "Würzburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Würzburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-qa-engineering-intern-d-berlin-318733",
+    "title": "QA Engineering Intern (w/m/x/d)",
+    "description": "Join the ride! As a QA Engineering Intern you learn how we keep our products reliable, from the firsttest idea to a release in the app stores. You test our consumer mobile app and ourbusiness web platform alongside experienced engineers.We build with a lot of AI, and a machine-written test can pass without proving anyt",
+    "link": "https://www.arbeitnow.com/jobs/companies/miles-mobility/qa-engineering-intern-d-berlin-318733",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "sql",
+      "playwright",
+      "git",
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792053079000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-working-student-intern-gtm-ai-growth-engineering-hamburg-55336",
     "title": "Working Student / Intern GTM AI Growth Engineering (f/m/d)",
     "description": "OUR PURPOSE AT PLANCRAFTBuilding the backbone of European trades – together, with modern software and smart AI solutions.We don’t just develop software – we’re on a mission to give tradespeople and contractors more room to focus on what matters. We do this by providing a practical SaaS solution that works the way they ",
@@ -14268,6 +14336,26 @@
     "posted_ts": 1790755707000,
     "budget": "Not specified",
     "client_country": "Denmark,  Sweden",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-tailscale-analytics-engineer-data",
+    "title": "Tailscale: Analytics Engineer, Data",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote (United States) &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;Thank you for considering Tailscale. If this job description resonates with you, please apply.&amp;nbsp;&lt;em&gt;Frequently cited statistics show that people who identify with historically m",
+    "link": "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "15d ago",
+    "posted_ts": 1790753484000,
+    "budget": "Not specified",
+    "client_country": "Remote",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
