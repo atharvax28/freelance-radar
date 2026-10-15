@@ -1,5 +1,214 @@
 [
   {
+    "id": "arbeitnow-software-engineer-customer-facing-applied-ai-edinburgh-225829",
+    "title": "Software Engineer - Customer Facing Applied AI",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelli",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/software-engineer-customer-facing-applied-ai-edinburgh-225829",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws",
+      "llm",
+      "prompt engineering",
+      "prototyping",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086916000,
+    "budget": "Not specified",
+    "client_country": "Edinburgh",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-ml-engineer-berlin-132138",
+    "title": "AI/ML Engineer",
+    "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinve",
+    "link": "https://www.arbeitnow.com/jobs/companies/melotech/ai-ml-engineer-berlin-132138",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "mlops"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086022000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-developer-music-audio-berlin-368725",
+    "title": "Full-Stack Developer, Music & Audio",
+    "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinve",
+    "link": "https://www.arbeitnow.com/jobs/companies/melotech/full-stack-developer-music-audio-berlin-368725",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "next.js",
+      "node.js"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086022000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-entrepreneur-in-residence-intern-berlin-97091",
+    "title": "Entrepreneur in Residence (Intern)",
+    "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinve",
+    "link": "https://www.arbeitnow.com/jobs/companies/melotech/entrepreneur-in-residence-intern-berlin-97091",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086022000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founders-associate-intern-berlin-24247",
+    "title": "Founders Associate Intern",
+    "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinve",
+    "link": "https://www.arbeitnow.com/jobs/companies/melotech/founders-associate-intern-berlin-24247",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086022000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founders-associate-berlin-369087",
+    "title": "Founders Associate",
+    "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinve",
+    "link": "https://www.arbeitnow.com/jobs/companies/melotech/founders-associate-berlin-369087",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086022000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-entrepreneur-in-residence-berlin-48795",
+    "title": "Entrepreneur in Residence",
+    "description": "Who we areMelotech is revolutionizing media and entertainment. We create art through technology for humans to enjoy. In just 24 months, our work has been heard, watched and loved for over 4 billion minutes worldwide.Founded by entrepreneur and investor Soheil Mirpour, we are backed by top VCs Cherry Ventures, Speedinve",
+    "link": "https://www.arbeitnow.com/jobs/companies/melotech/entrepreneur-in-residence-berlin-48795",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086022000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-compliance-berlin-242411",
+    "title": "Working Student Compliance (f/m/x)",
+    "description": "About lemon.markets 🍋We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-being for their customers.lemon.markets is a Brokerage-as-a-S",
+    "link": "https://www.arbeitnow.com/jobs/companies/lemon-markets/working-student-compliance-berlin-242411",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prompt engineering"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086021000,
+    "budget": "Not specified",
+    "client_country": "Berlin (Hybrid)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin (Hybrid)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-it-support-operations-berlin-447839",
+    "title": "Working Student IT Support & Operations (m/f/d)",
+    "description": "About UsZenjob is a Berlin-based job portal with the goal of empowering the workforce of tomorrow with innovative technology. We envision a world where everyone has complete control over their work life. Even today, part-time workers can decide when, where, and how they want to work with just a few clicks. Our service ",
+    "link": "https://www.arbeitnow.com/jobs/companies/zenjob/working-student-it-support-operations-berlin-447839",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086021000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founder-associate-berlin-479669",
+    "title": "Founder Associate (Berlin)",
+    "description": "Who we areFoundation models transformed text and images. Structured data - the largest and most consequential data format in the world - stayed untouched, until now. What LLMs did for language, we're doing for tables.We pioneered tabular foundation models: TabPFN v2 was a Nature cover story, has passed 3.5M+ downloads ",
+    "link": "https://www.arbeitnow.com/jobs/companies/prior-labs/founder-associate-berlin-479669",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792086020000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-datacentre-operations-engineer-london-490964",
     "title": "Datacentre Operations Engineer",
     "description": "About UsRadiant is powered intelligence, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, and ultra-low latency are non-negotiable.Role OverviewWe are seeking a deeply",
