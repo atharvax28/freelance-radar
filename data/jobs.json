@@ -1,5 +1,77 @@
 [
   {
+    "id": "arbeitnow-software-engineer-ii-full-stack-consumer-order-experience-london-44175",
+    "title": "Software Engineer II (Full-Stack) - Consumer Order Experience",
+    "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Why Deliveroo? We're bui",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-full-stack-consumer-order-experience-london-44175",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792100722000,
+    "budget": "Not specified",
+    "client_country": "London, England, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-engineer-hamburg-380417",
+    "title": "Product Engineer (m/f/d)",
+    "description": "Our Company \"Buying Labs is the leading global partner for sourcing and distributing premium consumer goods!\" We're looking for a Product Engineer (m/f/d) to join our Tech team at Buying Labs ideally based in Hamburg or remotely for the right fit. In this role, you'll combine deep technical skill with strong product th",
+    "link": "https://www.arbeitnow.com/jobs/companies/buying-labs/product-engineer-hamburg-380417",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "sql",
+      "react",
+      "node.js",
+      "rest apis",
+      "postgresql",
+      "docker",
+      "aws",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792099857000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-artist-pressig-196031",
+    "title": "Technical Artist",
+    "description": "About the role At Booming Games we are seeking a skilled and motivated Technical Artist to join our team. As a Technical Artist, you will work closely with the Art Lead and Product Owner to create visually stunning games. Your responsibilities will include preparing, exporting, optimizing, and implementing game assets ",
+    "link": "https://www.arbeitnow.com/jobs/companies/booming-games/technical-artist-pressig-196031",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792098082000,
+    "budget": "Not specified",
+    "client_country": "Pressig",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Pressig",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-customer-facing-applied-ai-edinburgh-225829",
     "title": "Software Engineer - Customer Facing Applied AI",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelli",
