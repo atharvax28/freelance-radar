@@ -1,5 +1,73 @@
 [
   {
+    "id": "arbeitnow-programmatic-analyst-alternance-paris-159525",
+    "title": "Programmatic Analyst - Alternance (H/F/X)",
+    "description": "Biggie est l’agence globale de stratégie et activation media &amp; marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales Gamned!, l’agence conseil en achat média Repeat ainsi q",
+    "link": "https://www.arbeitnow.fr/jobs/companies/biggie/programmatic-analyst-alternance-paris-159525",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792117822000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-azure-devops-engineer-relocation-provided-amsterdam-252053",
+    "title": "Azure Devops Engineer (Relocation Provided)",
+    "description": "Shape the Future of Digital Identity Management for our clients with Wypoon Technologies&nbsp; Are you a dedicated Azure DevOps Engineer ready to make an impact? Join us as an Azure DevOps Engineer and become a vital contributor to our mission of delivering robust and efficient cloud infrastructures for leading global ",
+    "link": "https://www.arbeitnow.nl/jobs/companies/wypoon/azure-devops-engineer-relocation-provided-amsterdam-252053",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "bash",
+      "microservices",
+      "agile/scrum",
+      "postgresql",
+      "redis",
+      "docker",
+      "ci/cd"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792117819000,
+    "budget": "Not specified",
+    "client_country": "Amsterdam",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-mobile-developer-candidates-based-in-the-netherlands-only-amsterdam-80964",
+    "title": "Mobile Developer (Candidates Based in the Netherlands Only)",
+    "description": "Are you a mobile developer with a passion for creating seamless user experiences?&nbsp; &nbsp; Join us as a Mobile Developer (iOS or Android) and help shape the next generation of mobile applications for leading global clients. Whether your expertise lies in Swift (iOS) or Kotlin (Android), you'll work on high-impact p",
+    "link": "https://www.arbeitnow.nl/jobs/companies/wypoon/mobile-developer-candidates-based-in-the-netherlands-only-amsterdam-80964",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd",
+      "a/b testing"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792117819000,
+    "budget": "Not specified",
+    "client_country": "Amsterdam",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-operations-associate-london-443243",
     "title": "Operations Associate",
     "description": "TLDR: Plinth builds software for charities, foundations and funders. 2,000+ UK organisations use us, we add 7+ clients a month, and we ship constantly. HR, security, legal and finance currently sit with one person. That stops working at our next size. We're hiring someone to own a chunk of it: recruitment operations, c",
