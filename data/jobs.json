@@ -1,5 +1,156 @@
 [
   {
+    "id": "arbeitnow-werkstudentin-social-media-content-creation-berlin-157039",
+    "title": "Werkstudent:in - Social Media / Content Creation",
+    "description": "Jobbeschreibung Hey! Wir sind vly – ein innovatives FoodTech-Startup aus Berlin, das die Lebensmittelindustrie revolutioniert. Unser Ziel: Gesunde, pflanzliche Milchalternativen, die nicht nur dir guttun, sondern auch unserem Planeten. Nach jahrelanger Forschung haben wir Produkte entwickelt, die deutlich weniger Zucke",
+    "link": "https://www.arbeitnow.com/jobs/companies/vf-nutrition-gmbh/werkstudentin-social-media-content-creation-berlin-157039",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792143087000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-ii-full-stack-consumer-order-experience-london-299163",
+    "title": "Software Engineer II (Full-Stack) - Consumer Order Experience",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-ii-full-stack-consumer-order-experience-london-299163",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "react"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792140925000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-social-media-project-coordination-fashion-week-focus-berlin-54878",
+    "title": "Social Media & Project Coordination (m/f/d), Fashion Week Focus",
+    "description": "About usFashion Revolution Germany e.V. is the German chapter of Fashion Revolution, the global movement for a clean, safe, fair, transparent and accountable fashion industry. Since the Rana Plaza factory collapse in 2013, the movement has asked one question: Who made my clothes? As a non-profit association of designer",
+    "link": "https://www.arbeitnow.com/jobs/companies/fashion-revolution-germany-ev/social-media-project-coordination-fashion-week-focus-berlin-54878",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792139478000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ml-engineer-computer-vision-ml-ops-berlin-240466",
+    "title": "ML Engineer (Computer Vision & ML Ops)",
+    "description": "StellDirVor is an independent consulting, trade and technology company specializing in immersive technologies for healthcare. We support organizations in implementing digital innovations — Virtual, Augmented and Mixed Reality as well as AI — particularly for learning, training and real-time assistance in clinical and c",
+    "link": "https://www.arbeitnow.com/jobs/companies/stelldirvor-gmbh/ml-engineer-computer-vision-ml-ops-berlin-240466",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "pytorch",
+      "shap",
+      "fine-tuning",
+      "mlops",
+      "prototyping"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792137661000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-iam-fullstack-engineer-66675",
+    "title": "IAM Fullstack Engineer",
+    "description": "Fullstack Engineer - IAM TeamSoSafe has the ambition to become the leading human risk management provider in Europe. Our award-winning awareness platform triggers behavioural change by providing effective and engaging training and simulations on cybersecurity and data protection. Cybercrime is costing the world &gt;$10",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-iam-fullstack-engineer-66675",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "agile/scrum",
+      "ci/cd"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1792129218000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-er-case-advisor-contract-london-57778",
+    "title": "ER Case Advisor - (Contract)",
+    "description": "About UsPerk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eliminating this shadow work that wastes hou",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/perk/er-case-advisor-contract-london-57778",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1792129218000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-social-media-content-specialist-anywhere-in-france-201418",
+    "title": "Social Media & Content Specialist",
+    "description": "Health can’t wait. Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t.Alan exists to end the wait.Health is a universal right, and we believe this right can only become real when it’s coupled with prevent",
+    "link": "https://www.arbeitnow.fr/jobs/companies/alan/social-media-content-specialist-anywhere-in-france-201418",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "react",
+      "figma",
+      "canva"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1792129217000,
+    "budget": "Not specified",
+    "client_country": "Anywhere in France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-programmatic-analyst-alternance-paris-159525",
     "title": "Programmatic Analyst - Alternance (H/F/X)",
     "description": "Biggie est l’agence globale de stratégie et activation media &amp; marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales Gamned!, l’agence conseil en achat média Repeat ainsi q",
