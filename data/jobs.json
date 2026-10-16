@@ -1,5 +1,66 @@
 [
   {
+    "id": "arbeitnow-operations-associate-london-443243",
+    "title": "Operations Associate",
+    "description": "TLDR: Plinth builds software for charities, foundations and funders. 2,000+ UK organisations use us, we add 7+ clients a month, and we ship constantly. HR, security, legal and finance currently sit with one person. That stops working at our next size. We're hiring someone to own a chunk of it: recruitment operations, c",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/plinth/operations-associate-london-443243",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792107617000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-london-16700",
+    "title": "Enterprise Account Executive",
+    "description": "About JuiceboxJuicebox is on a mission to help teams win the talent war.In the age of AI, human ingenuity is the ultimate scarce resource. Recruiting is a zero-sum game where you either compete or lose.Teams at Ramp, Notion, and leading AI labs use Juicebox to power their hiring, alongside 5,000+ customers from early-s",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/juicebox/enterprise-account-executive-london-16700",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792107617000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London, UK",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-support-operations-engineer-massy-2827",
+    "title": "Technical Support & Operations Engineer",
+    "description": "Quandela is a global leader in quantum computing, designing, building, and delivering cutting-edge quantum solutions for research and industry. Its offerings include the most energy-efficient quantum computers for data centers, full-stack quantum computing solutions accessible via the cloud, and algorithm access servic",
+    "link": "https://www.arbeitnow.fr/jobs/companies/quandela/technical-support-operations-engineer-massy-2827",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "firmware"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792102819000,
+    "budget": "Not specified",
+    "client_country": "Massy, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-ii-full-stack-consumer-order-experience-london-44175",
     "title": "Software Engineer II (Full-Stack) - Consumer Order Experience",
     "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Why Deliveroo? We're bui",
