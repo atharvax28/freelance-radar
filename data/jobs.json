@@ -1,5 +1,48 @@
 [
   {
+    "id": "arbeitnow-data-projects-analyst-edinburgh-298502",
+    "title": "Data Projects Analyst",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex financial information into actionable intelli",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/data-projects-analyst-edinburgh-298502",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas"
+    ],
+    "posted_at": "53m ago",
+    "posted_ts": 1792248916000,
+    "budget": "Not specified",
+    "client_country": "Edinburgh",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-junior-data-scientist-berlin-448340",
+    "title": "Junior Data Scientist",
+    "description": "This isn’t your regular job. Almedia is a place where those who want to push harder can accelerate their careers faster than anywhere else. We’re aiming to become Germany’s second bootstrapped unicorn. Almedia is already Europe’s #3 fastest-growing company in 2025 (FT1000).We are building the future of marketing by rew",
+    "link": "https://www.arbeitnow.com/jobs/companies/almedia/junior-data-scientist-berlin-448340",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792237216000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineer-ii-fullstack-international-195707",
     "title": "Software Engineer II, Fullstack (International)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The International Accelerator Engineering team is growing, ",
