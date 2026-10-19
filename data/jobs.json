@@ -1,5 +1,48 @@
 [
   {
+    "id": "arbeitnow-software-engineer-net-woerden-364124",
+    "title": "Software Engineer (.NET)",
+    "description": "Your MissionAs a Software Engineer at CCS, you'll play a key role in our modernization journey—bridging legacy systems with future-ready solutions. You’ll help deliver innovative, high-quality software that transforms how our clients operate. Modernization is not just about adopting new technologies—it’s about continuo",
+    "link": "https://www.arbeitnow.nl/jobs/companies/ccs-connects/software-engineer-net-woerden-364124",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "docker",
+      "ci/cd"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792367511000,
+    "budget": "Not specified",
+    "client_country": "Woerden, Utrecht, Nederland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Woerden, Utrecht, Nederland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-2027-internship-6-months-data-science-marketing-effectiveness-london-376777",
+    "title": "2027 Internship (6 Months) - Data Science & Marketing Effectiveness, London",
+    "description": "&nbsp; London – Data Science, Marketing Effectiveness 6 Month Internship Job Description Role: Data Science &amp; Marketing Effectiveness Start date: Jan - June 2027 Location: London, UK (Hybrid – Minimum 2 days in office per week) About Ekimetrics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Ekimetrics is a ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/ekimetrics/2027-internship-6-months-data-science-marketing-effectiveness-london-376777",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pandas",
+      "git"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792364864000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-analyst-quantitative-finance-for-fund-investments-zurich-98522",
     "title": "Analyst Quantitative Finance for Fund Investments",
     "description": "coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of success",
