@@ -1,5 +1,69 @@
 [
   {
+    "id": "arbeitnow-marketing-analyst-berlin-103166",
+    "title": "Marketing Analyst",
+    "description": "As Marketing Analyst, you will own the full marketing intelligence cycle across all 14 of our markets, from reliable web tracking and clean data collection to decision-driven dashboards, incrementality measurement, and the steering logic our growth teams rely on. Based in Berlin, you will be the person who ensures mark",
+    "link": "https://www.arbeitnow.com/jobs/companies/pergolux/marketing-analyst-berlin-103166",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792464017000,
+    "budget": "Not specified",
+    "client_country": "Berlin | Global Team",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-ai-native-account-executive-compute-56125",
+    "title": "AI Native Account Executive, Compute",
+    "description": "fal is the generative media ecosystem powering the next generation of AI products. We build the infrastructure, tools, and model access that teams need to move from idea to production, and do it at scale without compromise. For developers and enterprises, fal is the foundation that makes generative media not just possi",
+    "link": "https://www.arbeitnow.com/jobs/companies/fal-ai/remote-ai-native-account-executive-compute-56125",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "fine-tuning"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792464016000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-devops-engineer-sip-core-voice-platform-rotterdam-370181",
+    "title": "DevOps Engineer - SIP Core (Voice Platform)",
+    "description": "DevOps Engineer - SIP Core (Voice Platform)Help us run and evolve a mission-critical SIP platform used by business customers every day. In this role, you ensure stability and availability while actively driving automation and modernization of our voice services. You’ll work in a DevOps setup with real ownership and imp",
+    "link": "https://www.arbeitnow.nl/jobs/companies/swisscom/devops-engineer-sip-core-voice-platform-rotterdam-370181",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "bash",
+      "linux",
+      "git"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792463504000,
+    "budget": "Not specified",
+    "client_country": "Rotterdam, Zuid-Holland, Netherlands",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Rotterdam, Zuid-Holland, Netherlands",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-2027-nextgen-technology-programme-london-390540",
     "title": "2027 NextGen Technology Programme",
     "description": "Company DescriptionWe’re Checkout.com. You might not know our name, but companies like eBay, Spotify, Klarna, Uber, and Sony do, because we’re behind many of the digital experiences you use every day. We are where the world checks out, enabling over 10 billion transactions yearly for more than one billion global shoppe",
