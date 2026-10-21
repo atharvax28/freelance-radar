@@ -1,5 +1,88 @@
 [
   {
+    "id": "arbeitnow-assistante-chef-de-projet-marketing-alternance-paris-7229",
+    "title": "Assistant·e Chef de Projet Marketing - alternance",
+    "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Pourquoi Deliveroo ? Lor",
+    "link": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-7229",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792597530000,
+    "budget": "Not specified",
+    "client_country": "Paris, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-ii-applications-hamburg-47368",
+    "title": "Software Engineer II, Applications",
+    "description": "&lt;p&gt;&lt;strong&gt;Fender Musical Instruments Corporation&lt;/strong&gt; is a world-famous brand with offices across the globe. Fender was born in Southern California and has built a worldwide influence beyond the studio and the stage. A Fender is more than an instrument; it’s a cultural symbol that resonates globa",
+    "link": "https://www.arbeitnow.com/jobs/companies/fender/software-engineer-ii-applications-hamburg-47368",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "c++",
+      "git"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792594515000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-account-executive-301718",
+    "title": "Account Executive",
+    "description": "What We DoRillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight.Rillet is the Agentic ERP built for modern finance teams. We help companies automate the most critical parts of finance, from closing the bo",
+    "link": "https://www.arbeitnow.com/jobs/companies/rillet/remote-account-executive-301718",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792593616000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-chef-de-projet-it-integration-middleware-esb-grasse-55002",
+    "title": "Chef de projet IT – Intégration & Middleware ESB",
+    "description": "À propos de l’entrepriseGroupe industriel familial et international, acteur de référence de son secteur. Il accélère sa transformation digitale pour accompagner sa croissance et crée un poste stratégique au sein de sa DSI Groupe. Taille humaine, forte dimension industrielle, projets à forte visibilité.Vos missionsAu cœ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/mv-consulting/chef-de-projet-it-integration-middleware-esb-grasse-55002",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "etl"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792589490000,
+    "budget": "Not specified",
+    "client_country": "Grasse",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-customer-success-intern-stuttgart-490718",
     "title": "Customer Success Intern (m/f/d)",
     "description": "Start: 01. Januar 2027AI has changed how office workers get things done. For the 80% of the global workforce that doesn't sit at a desk, it has barely arrived. Flip AI is changing that.Flip AI is the #1 Frontline Agentic Operating System (OS) to build, automate, and orchestrate any frontline use case on a foundation of",
@@ -54,6 +137,48 @@
     "posted_ts": 1792582816000,
     "budget": "Not specified",
     "client_country": "remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-156145",
+    "title": "IT Specialist",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/156145-it-specialist",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1792575741000,
+    "budget": "Not specified",
+    "client_country": "UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-156141",
+    "title": "International Business Development Representative - Nordics",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/156141-international-business-development-representative-nordics",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1792575740000,
+    "budget": "Not specified",
+    "client_country": "Denmark,  Sweden,  UK",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
