@@ -1,5 +1,91 @@
 [
   {
+    "id": "arbeitnow-energy-markets-france-cdd-paris-12354",
+    "title": "Energy Markets - France (CDD)",
+    "description": "About UsAt Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, inverters and home batteries. We control hundreds of thousands of energy assets.We’",
+    "link": "https://www.arbeitnow.fr/jobs/companies/axle-careers/energy-markets-france-cdd-paris-12354",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792561214000,
+    "budget": "Not specified",
+    "client_country": "France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-accounts-payable-associate-london-38784",
+    "title": "Accounts Payable Associate",
+    "description": "LemFi (Series B) is building the go-to financial app for the Global South.Moving to a new country shouldn’t mean starting from zero. That's why our team of 400+ spanning 20+ countries is building a financial ecosystem that helps immigrants stay connected to home, build stability, and create wealth regardless of where t",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/lemfi/accounts-payable-associate-london-38784",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792561214000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-strategic-account-executive-60349",
+    "title": "Strategic Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/twilio/strategic-account-executive-60349",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792551319000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-platform-engineer-berlin-8213",
+    "title": "Platform Engineer (f/m/d)",
+    "description": "Who We AreSpread Group is a renowned global provider of customized apparel and lifestyle products, distinguished by our commitment to made-to-order technology. Our core business model revolves around producing precisely what our customers desire, precisely when they desire it. As pioneers in this space, we combine sust",
+    "link": "https://www.arbeitnow.com/jobs/companies/spread-group/remote-platform-engineer-berlin-8213",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "linux",
+      "git",
+      "aws",
+      "ci/cd"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792549882000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-revenue-operations-analyst-london-252186",
     "title": "Revenue Operations Analyst (London)",
     "description": "Company OverviewDeepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ organizations build voice offerings that are ",
