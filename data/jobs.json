@@ -1,5 +1,131 @@
 [
   {
+    "id": "arbeitnow-reporting-data-analyst-269756",
+    "title": "Reporting & Data Analyst",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;THE ROLE&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;📝&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:276",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/541/reporting-data-analyst-269756",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792605321000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-fraud-prevention-engineer-hamburg-11639",
+    "title": "Fraud Prevention Engineer",
+    "description": "adjoe builds the technologies behind mobile apps growth and monetization. With our core product Playtime Arcade, we’ve become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchange",
+    "link": "https://www.arbeitnow.com/jobs/companies/adjoe/fraud-prevention-engineer-hamburg-11639",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "microservices",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792604416000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-owner-mobile-integrations-hamburg-232550",
+    "title": "Product Owner - Mobile Integrations (f/m/d)",
+    "description": "adjoe builds the technologies behind mobile apps growth and monetization. With our core product Playtime, we've become the global leader in rewarded advertising, an ad unit built on a simple premise: users earn real in-app rewards for engaging with new apps. The result is one of the most effective value exchanges in ad",
+    "link": "https://www.arbeitnow.com/jobs/companies/adjoe/product-owner-mobile-integrations-hamburg-232550",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "react",
+      "a/b testing"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792604416000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sales-development-representative-benelux-amsterdam-185586",
+    "title": "Sales Development Representative - BeNeLux",
+    "description": "monday.com is the AI work platform powering the most ambitious teams. 250,000+ customers across departments use us to bring people, workflows, and AI agents together on one flexible platform where AI doesn't just assist, it executes. We move fast, build things that matter, and foster an ownership-driven culture where y",
+    "link": "https://www.arbeitnow.nl/jobs/companies/mondaycom/sales-development-representative-benelux-amsterdam-185586",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "monday.com"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792604416000,
+    "budget": "Not specified",
+    "client_country": "Amsterdam (Remote)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-account-executive-ma-and-advisory-amsterdam-392848",
+    "title": "Founding Account Executive, M&A and Advisory",
+    "description": "Get to know usIdeals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000 companies globally, we help people run high-stakes processes and make important decisions with less stress, h",
+    "link": "https://www.arbeitnow.nl/jobs/companies/ideals/founding-account-executive-ma-and-advisory-amsterdam-392848",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792604416000,
+    "budget": "Not specified",
+    "client_country": "Amsterdam, Netherlands",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-freelance-sales-development-representative-us-hours-berlin-70434",
+    "title": "Freelance Sales Development Representative - US hours (m/f/d)",
+    "description": "🎤 Why voize? Because we’re more than just a job!At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people.Our vision is to change that by building AI companions",
+    "link": "https://www.arbeitnow.com/jobs/companies/voize/freelance-sales-development-representative-us-hours-berlin-70434",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792604415000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-assistante-chef-de-projet-marketing-alternance-paris-7229",
     "title": "Assistant·e Chef de Projet Marketing - alternance",
     "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Pourquoi Deliveroo ? Lor",
