@@ -1,5 +1,134 @@
 [
   {
+    "id": "arbeitnow-product-data-analyst-amsterdam-428402",
+    "title": "Product Data Analyst",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
+    "link": "https://www.arbeitnow.nl/jobs/companies/nebius/product-data-analyst-amsterdam-428402",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl",
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792616115000,
+    "budget": "Not specified",
+    "client_country": "Amsterdam",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-mid-market-eur60-80k-bspce-paris-180599",
+    "title": "Account Executive - Mid-market - €60–80K + BSPCE",
+    "description": "Our team shared’s mission is deploy AI agents to transform how patients and doctors connectWe believe healthcare shouldn’t be defined by missed calls, endless waiting lines, and overwhelmed staff. Patients and professionals deserve better.Vocca builds AI voice agents that answer every call instantly, schedule and resch",
+    "link": "https://www.arbeitnow.fr/jobs/companies/vocca/account-executive-mid-market-eur60-80k-bspce-paris-180599",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "notion",
+      "slack"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792615225000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-implementation-intern-paris-305790",
+    "title": "AI Implementation Intern",
+    "description": "About MakiPeopleMaki builds AI agents that help large companies hire faster and better, from screening to assessment to candidate engagement. Global enterprises use Maki to run hiring at scale, giving recruiters time back and candidates a smoother experience. With offices in Paris and London, we are now accelerating in",
+    "link": "https://www.arbeitnow.fr/jobs/companies/makipeople/ai-implementation-intern-paris-305790",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792615225000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-finance-assistant-london-78129",
+    "title": "Finance Assistant",
+    "description": "🌟 Position: Finance Assistant📍 Location: Hybrid – London office and home working💼 Type: Full-time or part-time📅 Start Date: Immediate💰 Salary: £28k to £35kAbout Cooper Moss RutlandCooper Moss Rutland (CMR) is an independent, award-winning project controls consultancy supporting some of the UK's most complex constr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/cmrlondon/finance-assistant-london-78129",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792615220000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-engineering-lehrkraft-coach-all-genders-berlin-152788",
+    "title": "AI & Engineering Lehrkraft/Coach (all genders)",
+    "description": "JobbeschreibungWir launchen aktuell ein neues, spannendes Trainingsprogramm: AI for Project Engineering – Teil einer umfassenden AI Academy, mit der wir Engineering-Teams fit für die KI-Ära machen, und suchen aktuell Verstärkung für unser Team.Als KI &amp; Engineering Lehrkraft/Coach bist Du die tägliche Anlaufstelle f",
+    "link": "https://www.arbeitnow.com/jobs/companies/stackfuel/ai-engineering-lehrkraft-coach-all-genders-berlin-152788",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "docker",
+      "ci/cd",
+      "llm",
+      "rag"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792615219000,
+    "budget": "Not specified",
+    "client_country": "Remote - Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-deployment-strategist-erp-ai-paris-114494",
+    "title": "Founding Deployment Strategist [ERP + AI]",
+    "description": "TL;DRWe're building the SAP/NetSuite of the AI era for mid-sized companies in the real-world economy, starting with their supply chain operations (buy, sell, stock, produce)Founding deployment strategist: you deploy two things into real factories, in the same project, the ERP that runs their operations, and the AI agen",
+    "link": "https://www.arbeitnow.fr/jobs/companies/piston/founding-deployment-strategist-erp-ai-paris-114494",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "ai agents"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792614637000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-reporting-data-analyst-269756",
     "title": "Reporting & Data Analyst",
     "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;THE ROLE&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;📝&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:276",
