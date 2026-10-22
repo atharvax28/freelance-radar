@@ -1,5 +1,69 @@
 [
   {
+    "id": "arbeitnow-remote-forward-deployed-engineer-fde-united-kingdom-493821",
+    "title": "Forward Deployed Engineer (FDE): United Kingdom",
+    "description": "Forward Deployed Engineer (FDE)Remote / 20% Travel About forgdforgd is the consultancy partnering exclusively with Anthropic to help enterprises build AI-native businesses. We start with engineering — helping organizations move from individual developers using Claude Code to entire teams shipping together with AI-nativ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/forgd-ai/remote-forward-deployed-engineer-fde-united-kingdom-493821",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws",
+      "ci/cd",
+      "prompt engineering",
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792636819000,
+    "budget": "Not specified",
+    "client_country": "Remote - UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-assistante-chef-de-projet-marketing-alternance-paris-206069",
+    "title": "Assistant·e Chef de Projet Marketing - alternance",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-206069",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792626938000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-crm-marketing-operations-associate-london-united-kingdom-218132",
+    "title": "CRM & Marketing Operations Associate",
+    "description": "CRM &amp; Marketing Operations AssociateElliptic has been tracking down crypto crime since 2013, trusted by banks, businesses, and governments worldwide to keep the financial system safe. Today, our compliance tools cover the large majority of global crypto exchange volume, and a $120m Series D is fuelling the next sta",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/crm-marketing-operations-associate-london-united-kingdom-218132",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "zapier",
+      "notion"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1792626017000,
+    "budget": "Not specified",
+    "client_country": "London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-product-data-analyst-amsterdam-428402",
     "title": "Product Data Analyst",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
