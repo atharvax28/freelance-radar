@@ -1,5 +1,72 @@
 [
   {
+    "id": "arbeitnow-dach-enterprise-account-executive-sap-ecosystem-digital-transformation-germany-419800",
+    "title": "DACH Enterprise Account Executive – SAP Ecosystem & Digital Transformation (m/f/d)",
+    "description": "DACH Enterprise Account Executive – SAP Ecosystem &amp; Digital Transformation (m/f/d) Position Summary:&nbsp; We are looking for an Enterprise Account Executive, reporting to the VP of Global GTM. We are seeking an elite, high-performing Enterprise Account Executive to drive new business acquisition across top-tier ac",
+    "link": "https://www.arbeitnow.com/jobs/companies/onapsis/dach-enterprise-account-executive-sap-ecosystem-digital-transformation-germany-419800",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792788324000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-it-cloud-administrator-munich-292416",
+    "title": "IT Cloud Administrator (f/m/d)",
+    "description": "About Munich ElectrificationMunich Electrification is an innovative company founded with the aim of accelerating the transition to electric and connected mobility. We develop innovative electronic control units for electric vehicles and stationary storage systems for our global customers. Our international team is comp",
+    "link": "https://www.arbeitnow.com/jobs/companies/munich-electrification/it-cloud-administrator-munich-292416",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792788019000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-backend-engineer-zug-145470",
+    "title": "Backend Engineer",
+    "description": "The roleWe are hiring a Backend Engineer to design, build, and maintain scalable backend services. You will own APIs, data models, and integrations with blockchain and third-party systems. Stack is not limited to Node — strong engineers in Rust, Go, Java, Python, or Ruby are welcome. This is a hands-on role focused on ",
+    "link": "https://www.arbeitnow.ch/jobs/companies/blockvora/backend-engineer-zug-145470",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "node.js",
+      "rest apis",
+      "system design",
+      "postgresql",
+      "redis",
+      "aws"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792778451000,
+    "budget": "Not specified",
+    "client_country": "Zug",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zug",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-growth-engineer-outbound-data-automation-stuttgart-49654",
     "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
     "description": "Du liebst es, Outbound-Prozesse technisch zu automatisieren, datengetriebene Leads zu generieren und E-Mail-Infrastrukturen auf Skalierung zu trimmen? Dann passt du perfekt zu uns!Wir suchen einen erfahrenen Growth Engineer – Outbound & Data Automation (m/w/d) (in Vollzeit, als Freelancer oder Berater/Coach), der nicht",
