@@ -1,5 +1,45 @@
 [
   {
+    "id": "arbeitnow-growth-engineer-outbound-data-automation-stuttgart-49654",
+    "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+    "description": "Du liebst es, Outbound-Prozesse technisch zu automatisieren, datengetriebene Leads zu generieren und E-Mail-Infrastrukturen auf Skalierung zu trimmen? Dann passt du perfekt zu uns!Wir suchen einen erfahrenen Growth Engineer – Outbound & Data Automation (m/w/d) (in Vollzeit, als Freelancer oder Berater/Coach), der nicht",
+    "link": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-49654",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "zapier"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1792767668000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-owner-spec-tableau-de-bord-lyon-410106",
+    "title": "Product Owner (spéc. Tableau de bord)",
+    "description": "Contexte :Nous recherchons, pour notre client, un grand groupe télécom, un Product Owner spécialisé en tableaux de bord pour piloter le run et les évolutions de notre patrimoine de dataviz, au service des équipes construction.Ce Product Owner garantit que les utilisateurs disposent de tableaux de bord fiables, disponib",
+    "link": "https://www.arbeitnow.fr/jobs/companies/imaginepartners/product-owner-spec-tableau-de-bord-lyon-410106",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1792764067000,
+    "budget": "Not specified",
+    "client_country": "Lyon",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Lyon",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-systems-engineer-zurich-94036",
     "title": "Systems Engineer",
     "description": "80-100% | as soon as possible | Germany or SwitzerlandAbout ExeonExeon is a Swiss cyber security company based in Zurich. Since 2016, we have been protecting critical infrastructures, financial institutions and enterprises whose operations fully rely on IT through AI-powered analysis of network communication. This make",
