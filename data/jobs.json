@@ -1,5 +1,72 @@
 [
   {
+    "id": "arbeitnow-devops-engineer-w-m-remote-451955",
+    "title": "DevOps Engineer W/M (remote) 🇪🇺",
+    "description": "Are you looking to have an impact on the daily life of millions of entrepreneurs in France (and tomorrow in Europe)?Are you looking for a work environment that values trust, proactivity, and autonomy?Are our Engineering principles aligned with your vision?Then Pennylane is the right place for you ! Our visionWe aim to ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pennylane-sas/devops-engineer-w-m-remote-451955",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "react",
+      "system design",
+      "aws",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792852815000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-engineer-ai-authoring-platform-berlin-234521",
+    "title": "Full-Stack Engineer — AI Authoring Platform",
+    "description": "About Traciumhttps://www.linkedin.com/company/tracium/Tracium builds AI-assisted technical documentation software for teams working with complex manuals and engineering information. Our platform combines document intelligence with S1000D authoring, initially serving maritime use cases.We want technical authors to spend",
+    "link": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/full-stack-engineer-ai-authoring-platform-berlin-234521",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "node.js"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1792850446000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-ai-engineering-document-intelligence-berlin-378393",
+    "title": "Working Student — AI Engineering & Document Intelligence",
+    "description": "Location: Hamburg, Germany · Part-time alongside your studiesAbout Traciumhttps://www.linkedin.com/company/tracium/Tracium builds AI-assisted software that helps technical teams turn complex manuals into structured, traceable information. We combine document intelligence with S1000D authoring, starting with maritime ap",
+    "link": "https://www.arbeitnow.com/jobs/companies/tracium-gmbh/working-student-ai-engineering-document-intelligence-berlin-378393",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "git"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792848652000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-developer-java-nodejs-web-development-team-berlin-munich-101048",
     "title": "Software Developer  Java/ Node.JS (Web Development Team)",
     "description": "&lt;p&gt;&lt;strong&gt;JetBrains &lt;/strong&gt;creates professional tools that make developers more productive and help them focus on what matters. Our websites and web services are a core part of the JetBrains ecosystem. They connect us with users worldwide, power product distribution, support learning, and enable fe",
@@ -14,6 +81,27 @@
     "posted_ts": 1792842924000,
     "budget": "Not specified",
     "client_country": "Berlin; Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-156736",
+    "title": "Business Development Representative, Singapore",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/156736-business-development-representative-singapore",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1792841020000,
+    "budget": "Not specified",
+    "client_country": "Singapore",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
@@ -521,6 +609,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Zug",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137563",
+    "title": "Sales Development Representative German Speaking",
+    "description": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. U",
+    "link": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1792771218000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
