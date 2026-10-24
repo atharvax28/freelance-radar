@@ -1,5 +1,86 @@
 [
   {
+    "id": "arbeitnow-account-executive-enterprise-fluent-in-german-remote-in-germany-berlin-128229",
+    "title": "Account Executive (Enterprise) (Fluent In German) (Remote in Germany)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simu",
+    "link": "https://www.arbeitnow.com/jobs/companies/knowbe4/account-executive-enterprise-fluent-in-german-remote-in-germany-berlin-128229",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "54m ago",
+    "posted_ts": 1792799718000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-gtm-engineer-deutsch-c2-clay-expert-berlin-173006",
+    "title": "GTM Engineer | Deutsch C2 | Clay Expert |",
+    "description": "GTM Engineer (m/w/d), Junior bis Mid, Clay und Signal-based Outbound bei einer AI-native GTM Agentur in Berlin MitteAndere GTM-Teams stapeln zehn SaaS-Abos. Unser Kunde baut sich sein eigenes Betriebssystem und eigene Agents und sucht jemanden, der daran mitbaut.Die Agentur erzeugt für B2B Tech Firmen im DACH-Raum qual",
+    "link": "https://www.arbeitnow.com/jobs/companies/genz4gtm/gtm-engineer-deutsch-c2-clay-expert-berlin-173006",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792797438000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-sap-ecosystem-digital-transformation-for-benelux-nordics-united-kingdom-261724",
+    "title": "Enterprise Account Executive – SAP Ecosystem & Digital Transformation for Benelux  & Nordics  (m/f/d)",
+    "description": "&nbsp; Enterprise Account Executive – SAP Ecosystem &amp; Digital Transformation for Benelux&nbsp; &amp; Nordics (m/f/d) Position Summary We are looking for an Enterprise Account Executive, reporting to VP of Global GTM .We are seeking an elite, high-performing Enterprise Account Executive to drive new business acquisi",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/onapsis/enterprise-account-executive-sap-ecosystem-digital-transformation-for-benelux-nordics-united-kingdom-261724",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792791921000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-sap-ecosystem-digital-transformation-for-benelux-nordics-london-372721",
+    "title": "Enterprise Account Executive – SAP Ecosystem & Digital Transformation for Benelux  & Nordics  (m/f/d)",
+    "description": "Enterprise Account Executive – SAP Ecosystem &amp; Digital Transformation for Benelux&nbsp; &amp; Nordics (m/f/d) Position Summary We are looking for an Enterprise Account Executive, reporting to VP of Global GTM .We are seeking an elite, high-performing Enterprise Account Executive to drive new business acquisition ac",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/onapsis/enterprise-account-executive-sap-ecosystem-digital-transformation-for-benelux-nordics-london-372721",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1792791921000,
+    "budget": "Not specified",
+    "client_country": "London, England, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-dach-enterprise-account-executive-sap-ecosystem-digital-transformation-germany-419800",
     "title": "DACH Enterprise Account Executive – SAP Ecosystem & Digital Transformation (m/f/d)",
     "description": "DACH Enterprise Account Executive – SAP Ecosystem &amp; Digital Transformation (m/f/d) Position Summary:&nbsp; We are looking for an Enterprise Account Executive, reporting to the VP of Global GTM. We are seeking an elite, high-performing Enterprise Account Executive to drive new business acquisition across top-tier ac",
