@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow-strategic-account-executive-23954",
+    "title": "Strategic Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/twilio/strategic-account-executive-23954",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1792886119000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-dental-field-trainer-birmingham-184182",
     "title": "Dental Field Trainer - Birmingham",
     "description": "Dandy is transforming the massive and antiquated dental industry—an industry worth over $400B. Backed by some of the world’s leading venture capital firms, we’re on an ambitious mission to simplify and modernize every function of the dental practice through technology. As we expand our reach globally, Dandy is building",
@@ -502,6 +522,29 @@
     "client_country": "Lyon, France",
     "status": "Discovered",
     "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137568",
+    "title": "Solutions Engineer",
+    "description": "Consequential Work. Dedicated People.About OnebriefOnebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings plan",
+    "link": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "bash",
+      "docker",
+      "aws"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1792800002000,
+    "budget": "$180000 - $220000 / yr",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
