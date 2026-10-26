@@ -1,5 +1,217 @@
 [
   {
+    "id": "arbeitnow-consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-181588",
+    "title": "Consultant Développeur Marketing Technology (CRM & Data) – 3 à 5 ans d’expérience",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;VML is a global creative company that combines brand experience, customer experience, and commerce to create connected brands&amp;nbsp;that drive growth. Guided by a&amp;nbsp;&lt;strong&gt;Human First&lt;/st",
+    "link": "https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-developpeur-marketing-technology-crm-data-3-a-5-ans-dexperience-paris-181588",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "sql",
+      "c",
+      "outlook"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793019323000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-consultant-data-analyst-marketing-f-h-paris-238941",
+    "title": "Consultant Data Analyst Marketing - F/H",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;VML is a global creative company that combines brand experience, customer experience, and commerce to create connected brands&amp;nbsp;that drive growth. Guided by a&amp;nbsp;&lt;strong&gt;Human First&lt;/st",
+    "link": "https://www.arbeitnow.fr/jobs/companies/wundermanthompson/consultant-data-analyst-marketing-f-h-paris-238941",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "outlook"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793019323000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-payroll-expert-specialist-france-paris-366173",
+    "title": "Payroll Expert Specialist – France",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/payroll-expert-specialist-france-paris-366173",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793018412000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sustainability-and-public-affairs-intern-paris-274469",
+    "title": "Sustainability and Public Affairs Intern (Paris )",
+    "description": "Hi, we’re Back Market.We’re here to help make tech reliable, affordable, and better than new. We're a global marketplace for refurbished devices, helping lower our collective environmental impact by providing trustworthy, affordable tech with 92% less carbon emissions than new.Yep, you read that right. Turns out refurb",
+    "link": "https://www.arbeitnow.fr/jobs/companies/backmarket/sustainability-and-public-affairs-intern-paris-274469",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793018412000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-designer-multimedia-h-f-lyon-243439",
+    "title": "Designer multimédia (H/F)",
+    "description": "Envie de rejoindre une équipe dynamique et créative au cœur d’un Groupe associatif engagé ? Rejoignez Réunir ! Qui sommes-nous ? Réunir est un Groupe Associatif incontournable du transport routier de voyageurs, auquel adhèrent plus de 200 PME à travers la France. Notre mission : accompagner nos adhérents, mutualiser le",
+    "link": "https://www.arbeitnow.fr/jobs/companies/reunir/designer-multimedia-h-f-lyon-243439",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "figma"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1793012454000,
+    "budget": "Not specified",
+    "client_country": "Lyon",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Lyon",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-assistante-comptable-clients-h-f-en-cdi-paris-423917",
+    "title": "Assistant(e) Comptable Clients H/F en CDI",
+    "description": "Envie de participer au développement de KOMET ?Komet France, filiale d’un groupe international allemand, est le leader du marché dentaire en France grâce à sa gamme d’instruments rotatifs de haute technologie. Nos produits, reconnus pour leur précision, leur qualité et leur fiabilité, sont utilisés quotidiennement par ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/komet-france/assistante-comptable-clients-h-f-en-cdi-paris-423917",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1793008866000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-reporting-data-analyst-6-month-ftc-202690",
+    "title": "Reporting & Data Analyst (6-Month FTC)",
+    "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;THE ROLE&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;📝&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:160,&amp;quot;335559740&amp;quot;:276",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/form3/reporting-data-analyst-6-month-ftc-202690",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1793008521000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-global-talent-acquisition-partner-product-all-genders-berlin-265730",
+    "title": "Global Talent Acquisition Partner, Product (all genders)",
+    "description": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online ",
+    "link": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-global-talent-acquisition-partner-product-all-genders-berlin-265730",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1793008328000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-trainee-marketing-analytics-ai-zurich-189240",
+    "title": "Trainee Marketing, Analytics & AI",
+    "description": "Ready to go from graduate to trusted advisor for Europe’s best-known brands in just 12 months? Expect a steep learning curve, real responsibility, and hands-on experience working with AI every day.💚 About usOur mission is to help marketing teams unlock their full growth potential with AI. Most companies still judge th",
+    "link": "https://www.arbeitnow.ch/jobs/companies/nexoya/trainee-marketing-analytics-ai-zurich-189240",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "algorithms"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1793005266000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-charge-de-support-et-innovation-informatique-h-f-nogent-sur-seine-404804",
+    "title": "Chargé de support et innovation informatique H/F",
+    "description": "POK, société française créée en 1976, occupe une position majeure sur le marché européen des équipements de lutte contre l’incendie. Chaque année, elle distribue plus de 300 000 équipements et pièces, dont environ 60 % sont exportés à l’international. Spécialisée dans la conception de produits et technologies destinés ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/pok-ug/charge-de-support-et-innovation-informatique-h-f-nogent-sur-seine-404804",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1793003442000,
+    "budget": "Not specified",
+    "client_country": "Nogent-sur-Seine",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-forward-deployed-engineer-emea-133259",
     "title": "Forward Deployed Engineer - EMEA",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
