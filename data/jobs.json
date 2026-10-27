@@ -1,5 +1,71 @@
 [
   {
+    "id": "arbeitnow-remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+    "title": "Customs AI Integration & Automation Engineer (France)",
+    "description": "About Customs Support GroupCustoms Support Group (CSG) is the European market leader in customs services, operating across 15 countries. CSG is owned by private equity and a fast-growing, dynamic, data-driven company, dedicated to expanding its presence through strong organic growth and strategic acquisitions. Its key ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-474730",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws",
+      "ci/cd",
+      "llm",
+      "context engineering"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793071881000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ops-associate-paris-338075",
+    "title": "Ops Associate",
+    "description": "At Parallel, we build AI agents to help healthcare facilities automate their administrative processes and unlock additional revenue, starting with medical coding.Today, up to 25% of healthcare spending is lost in manual, repetitive administrative work. Legacy software hasn’t helped, it’s made things slower, more comple",
+    "link": "https://www.arbeitnow.fr/jobs/companies/parallel/ops-associate-paris-338075",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1793061613000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-product-designer-15490",
+    "title": "Product Designer",
+    "description": "Swarm Aero is redefining air power, building the largest swarming UAV and the most versatile swarming aircraft network in the world. The company is moving quickly to launch the first aircraft designed specifically for swarming, as well as the Command &amp; Control software to mobilize swarms of thousands of heterogeneo",
+    "link": "https://www.arbeitnow.com/jobs/companies/swarmaero/remote-product-designer-15490",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "figma"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1793061611000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-golang-backend-engineer-financial-product-fraud-london-14945",
     "title": "Golang Backend Engineer, Financial Product Fraud",
     "description": "Our Global Structure Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders across DoorDash and Wolt. Together, we're unlocking new possibilities as one global team.Your job is to make sure",
