@@ -1,5 +1,71 @@
 [
   {
+    "id": "arbeitnow-werkstudent-videoschnitt-und-content-marketing-mit-ubernahmeperspektive-hamburg-265886",
+    "title": "Werkstudent Videoschnitt und Content Marketing (m/w/d) mit Übernahmeperspektive",
+    "description": "Schneide Content, der Kanzleien sichtbar macht. Und wachse danach mit uns weiter. Kanzlei Brands unterstützt Kanzleien in ganz Deutschland bei der Gewinnung von Fachkräften, der Positionierung als Arbeitgeber und der Mandantengewinnung. Dafür entstehen bei uns jede Woche Videos, Social-Media-Posts, Anzeigen und Reports",
+    "link": "https://www.arbeitnow.com/jobs/companies/ready-to-rock-marketing-gmbh/werkstudent-videoschnitt-und-content-marketing-mit-ubernahmeperspektive-hamburg-265886",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793139604000,
+    "budget": "Not specified",
+    "client_country": "Hamburg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hamburg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-ml-compiler-munich-381116",
+    "title": "Working Student - ML Compiler",
+    "description": "On-site | Part-time (20 hours per week) About Tensordyne&nbsp; Artificial intelligence (AI) is transforming our world. It can perform cognitive functions that previously only humans could do, such as perceiving interactions across different modalities and environments - with the ability to quickly learn and then solve ",
+    "link": "https://www.arbeitnow.com/jobs/companies/tensordyne/working-student-ml-compiler-munich-381116",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "algorithms",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793137525000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bavaria, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich, Bavaria, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-security-engineer-iii-detection-response-united-kingdom-206571",
+    "title": "Security Engineer III - Detection & Response",
+    "description": "An Introduction to PrimerPrimer is the unified infrastructure for global payments. We give finance and payments teams the visibility and control to reduce complexity, improve performance, and capture more revenue - all from a single platform.Backed by Sofina, Peak XV Partners, ICONIQ, Tencent, Accel, and Balderton, we'",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/primerio/security-engineer-iii-detection-response-united-kingdom-206571",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "react",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793137216000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-graduate-data-scientist-cyber-analytics-position-located-in-cheltenham-united-kingdom-472101",
     "title": "Graduate Data Scientist - Cyber Analytics (Position located in Cheltenham, United Kingdom)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simu",
