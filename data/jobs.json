@@ -1,5 +1,190 @@
 [
   {
+    "id": "arbeitnow-fpga-engineer-zurich-433784",
+    "title": "FPGA Engineer",
+    "description": "................For our client in Vienna (AT), we are looking for an experienced FPGA Engineer to contribute to the development of an advanced hardware and software platform for particle accelerator systems.In this role, you will design and implement FPGA-based solutions for real-time control, high-speed data communica",
+    "link": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/fpga-engineer-zurich-433784",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux",
+      "firmware",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793107860000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797",
+    "title": "Werkstudent/in UX/UI Design (15-20 Std./Woche - 100% Remote)",
+    "description": "Du hast schon mehr als ein paar Figma-Tutorials hinter dir, kommunizierst klar und nutzt KI selbstverständlich in deinem Designalltag? Dann steig ein bei BlickSolutions, einer Shopify-Agentur, die E-Commerce neu denkt. Wir gestalten nicht einfach Interfaces, wir kreieren. Und wir suchen dich, um spannende Shopify- und ",
+    "link": "https://www.arbeitnow.com/jobs/companies/blicksolutions-gmbh/werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "prototyping"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793107860000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-praktikant-praktikum-marketing-prasentationsgestaltung-berlin-155248",
+    "title": "Praktikant (m/w/d) - Praktikum Marketing & Präsentationsgestaltung (m/w/d)",
+    "description": "Karriereservice,de steht für professionelle Karriereberatung, praxisnahe Führungstrainings und modernes Outplacement. Wir begleiten Menschen auf ihrem beruflichen Weg – ob beim Karriereeinstieg, in der Neuorientierung oder beim nächsten Karriereschritt. Unsere Kunden sind Unternehmen, Hochschulen und Privatpersonen.Zur",
+    "link": "https://www.arbeitnow.com/jobs/companies/select-if-personalberatung/praktikant-praktikum-marketing-prasentationsgestaltung-berlin-155248",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793106052000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-3d-printing-area-prototyping-lab-munich-387600",
+    "title": "Working Student - 3D Printing Area (Prototyping Lab) (m/f/d)",
+    "description": "The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who are driven by ownership, embrace chall",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-3d-printing-area-prototyping-lab-munich-387600",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping",
+      "firmware"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793105496000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-interceptor-data-analytics-munich-262701",
+    "title": "Working Student - Interceptor Data Analytics (m/f/d)",
+    "description": "TYTAN Technologies The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who are driven by owner",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-interceptor-data-analytics-munich-262701",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793105496000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-sales-account-executive-cybersecurity-montrouge-23147",
+    "title": "Sales Account Executive - Cybersecurity",
+    "description": "Passionate about Cybersecurity, open-source or network effect products? Interested in Sales? Join CrowdSec to build a safer internet for everyone.What we doWe aim to deter opportunistic and organized cybercrime through an Internet-scale, real-time security network. This network is powered by hundreds of thousands of se",
+    "link": "https://www.arbeitnow.fr/jobs/companies/crowdsec/remote-sales-account-executive-cybersecurity-montrouge-23147",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793105494000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-157356",
+    "title": "Junior Website Builder",
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United Sta",
+    "link": "https://jobicy.com/jobs/157356-junior-website-builder",
+    "source": "Jobicy",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1793099801000,
+    "budget": "Not specified",
+    "client_country": "Philippines",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Philippines",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-157354",
+    "title": "Junior Media Specialist",
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United Sta",
+    "link": "https://jobicy.com/jobs/157354-junior-media-specialist",
+    "source": "Jobicy",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1793099799000,
+    "budget": "Not specified",
+    "client_country": "Philippines",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Philippines",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-157325",
+    "title": "Partner Sales Engineer - UK",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/157325-partner-sales-engineer-uk-2",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1793094681000,
+    "budget": "Not specified",
+    "client_country": "UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-account-executive-enterprise-paris-141352",
     "title": "Account Executive Enterprise",
     "description": "ABOUT LIVESTORMLivestorm is the world's leading end-to-end video engagement platform. Founded in 2016, Livestorm allows companies to organize powerful online meetings, webinars and virtual events from end-to-end. Our web-browser platform provides teams with all the workflows around video engagement to promote, host and",
@@ -16816,6 +17001,29 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-dremio-software-engineer-query-execution",
+    "title": "Dremio: Software Engineer - Query Execution",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Portugal - Remote &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;h2&gt;&lt;strong&gt;Be Part of Building the Future&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Dremio is the unified lakehouse platform for self-service analytics and AI, serving hundreds of global enterprises,",
+    "link": "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "c",
+      "c++",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "20d ago",
+    "posted_ts": 1791358253000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
