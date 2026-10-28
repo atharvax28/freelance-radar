@@ -1,5 +1,70 @@
 [
   {
+    "id": "arbeitnow-new-business-account-executive-377889",
+    "title": "New Business Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/twilio/new-business-account-executive-377889",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793213723000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-fpga-firmware-engineer-edinburgh-382520",
+    "title": "FPGA Firmware Engineer",
+    "description": "About Singular Photonics:Singular Photonics is a fast-growing fabless semiconductor start-up, developing Single-Photon Avalanche Diode (SPAD) sensors that bring advanced computation directly into imaging. Our sensors enable innovations across LiDAR, fluorescence lifetime imaging (FLIM), spectroscopy and time-resolved o",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/singular-photonics/fpga-firmware-engineer-edinburgh-382520",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "linux",
+      "firmware",
+      "embedded"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1793205072000,
+    "budget": "Not specified",
+    "client_country": "Edinburgh",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Edinburgh",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-m365-cloud-architektin-enterprise-isolation-security-zurich-148849",
+    "title": "M365 Cloud Architekt:in – Enterprise Isolation & Security",
+    "description": "................Für unseren Bankkunden in Zürich, Bern oder Basel, suchen wir eine:n erfahrene:n, motivierte:n und aufgeschlossene:n M365 Cloud Architekt:in – Enterprise Isolation & Security.Deine Aufgaben:Konzeption und Implementierung von sicheren Microsoft 365 Architekturen mit Fokus auf Tenant Isolation, Multi-Tena",
+    "link": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/m365-cloud-architektin-enterprise-isolation-security-zurich-148849",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1793203253000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-ux-researcher-bristol-london-491490",
     "title": "UX Researcher",
     "description": "&lt;h4&gt;&lt;strong&gt;UX Researcher&amp;nbsp;&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;Location: Bristol/London, UK (hybrid, three days a week in the office)&lt;/li&gt; &lt;li&gt;Team: UX&lt;/li&gt; &lt;li&gt;Salary: £58,000 - £70,000&lt;/li&gt; &lt;li&gt;Contract: Permanent&lt;/li&gt; &lt;li&gt;Reporting To: U",
