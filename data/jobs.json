@@ -1,5 +1,129 @@
 [
   {
+    "id": "arbeitnow-it-support-minijob-teilzeit-freelancer-berlin-172250",
+    "title": "IT Support (m/w/d) - Minijob / Teilzeit / Freelancer",
+    "description": "Interessierst Du Dich für digitale Prozesse, digitale Trends und das Thema Industrie 4.0? Dann werde Teil eines dynamischen Teams beim Verlag für Industrielle Informationstechnik und Organisation (GITO) in Berlin-Charlottenburg. Der Verlag publiziert u.a. führende Fachmedien und organisiert Events für Strategien, Organ",
+    "link": "https://www.arbeitnow.com/jobs/companies/gito-mbh-verlag/it-support-minijob-teilzeit-freelancer-berlin-172250",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1793368854000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-switzerland-bern-381717",
+    "title": "Enterprise Account Executive, Switzerland",
+    "description": "Are you ready to unlock intelligence?If you don’t think you meet all of the criteria below but are still interested in the job, please apply. Nobody checks every box - we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others.About The Role:We are seekin",
+    "link": "https://www.arbeitnow.ch/jobs/companies/kong/enterprise-account-executive-switzerland-bern-381717",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793364015000,
+    "budget": "Not specified",
+    "client_country": "Switzerland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Switzerland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-client-experience-berlin-94565",
+    "title": "Working Student Client Experience (f/m/d)",
+    "description": "At Upvest, we are on a mission to make investing as easy as spending money. Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment API is easy to integrate so that fintechs and financial insti",
+    "link": "https://www.arbeitnow.com/jobs/companies/upvest/working-student-client-experience-berlin-94565",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793364013000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-associate-account-executive-germany-berlin-443413",
+    "title": "Associate Account Executive Germany (f/m/d)",
+    "description": "At Upvest, we are on a mission to make investing as easy as spending money. Upvest empowers businesses to offer a wide range of investment products and the best experience in the field of capital market investment and retirement planning. Upvest’s Investment API is easy to integrate so that fintechs and financial insti",
+    "link": "https://www.arbeitnow.com/jobs/companies/upvest/associate-account-executive-germany-berlin-443413",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793364013000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-visiting-analyst-technical-berlin-342034",
+    "title": "Visiting Analyst (Technical)",
+    "description": "About the roleWe're looking for a Visiting Analyst to join our Berlin office for six to nine months.You're a student or recent graduate with a technical background: engineering, computer science, maths, physics or another science. You want to see what early-stage investing is like from the inside, and you can build thi",
+    "link": "https://www.arbeitnow.com/jobs/companies/pt1/visiting-analyst-technical-berlin-342034",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "llm"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1793363504000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-applikationsentwickler-java-camunda-80-zurich-91707",
+    "title": "Applikationsentwickler Java / Camunda 80%",
+    "description": "Du möchtest moderne Softwarelösungen entwickeln, Geschäftsprozesse digitalisieren und neue Technologien aktiv mitgestalten? Dann werde Teil unseres neu aufgebauten DevOps-Teams. Gemeinsam entwickeln und betreiben wir innovative Services und treiben die Automatisierung unserer Geschäftsprozesse mit Camunda 8 voran.&nbsp",
+    "link": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/applikationsentwickler-java-camunda-80-zurich-91707",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "postgresql",
+      "docker",
+      "git"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1793352685000,
+    "budget": "Not specified",
+    "client_country": "Zürich, Zürich, Switzerland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich, Zürich, Switzerland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-ftth-security-expert-paris-486738",
     "title": "FTTH Security Expert",
     "description": "About P1 SecurityFounded in 2011 by serial entrepreneur and security expert Philippe Langlois, P1 Security is on a mission to secure critical and sovereign mobile networks by providing services and technologies to identify, detect and recover from critical threats and vulnerabilities.P1 Security is one of the very few ",
