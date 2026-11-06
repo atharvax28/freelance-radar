@@ -1,5 +1,210 @@
 [
   {
+    "id": "arbeitnow-account-executive-ops-london-467001",
+    "title": "Account Executive Ops",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Established in 2004, &lt;/span&gt;&lt;strong&gt;&lt;span data-contrast=&quot;none&quot;&gt;OLIVER&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt; is the world’s first and only specialist in designing, b",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/oliver/account-executive-ops-london-467001",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793948127000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-graduate-product-designer-2027-london-368189",
+    "title": "Graduate Product Designer 2027 (London)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/graduate-product-designer-2027-london-368189",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793948123000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-uk-summer-internship-2027-solutions-ai-lab-london-327068",
+    "title": "UK Summer Internship 2027 - Solutions AI LAB",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;span style=&quot;color: rgb(0, 53, 142); font-family: helvetica, arial, sans-serif;&quot;&gt;About Baringa&amp;nbsp;&lt;/span&gt;&lt;/h3&gt; &lt;p&gt;Baringa is a global consulting firm that partners with leaders to drive change and create value. With deep indust",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/baringa/uk-summer-internship-2027-solutions-ai-lab-london-327068",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793948122000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-center-it-technician-harlow-409285",
+    "title": "Data Center IT Technician",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/nebius/data-center-it-technician-harlow-409285",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793948121000,
+    "budget": "Not specified",
+    "client_country": "Harlow",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-fabrication-technician-cleanroom-contract-london-58614",
+    "title": "Fabrication Technician (Cleanroom) (Contract)",
+    "description": "About OLIXAI is growing faster than any technology in history and the explosion in demand has created a massive infrastructure gap; we can no longer build chips or power stations fast enough to keep up. The industry is still leaning on a ten-year-old hardware blueprint that has reached its limit. A new paradigm that is",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/olix/fabrication-technician-cleanroom-contract-london-58614",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793947212000,
+    "budget": "Not specified",
+    "client_country": "London, UK",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London, UK",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-operations-research-57308",
+    "title": "Software Engineer, Operations Research",
+    "description": "About CircuitHubCircuitHub is reshaping electronics manufacturing with The Grid, a factory-scale robotics platform that makes small-batch, high-mix electronics assembly radically more efficient. Think semiconductor-fab precision applied to the chaotic world of prototyping and low-volume production: a 10x throughput imp",
+    "link": "https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-operations-research-57308",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "postgresql",
+      "prototyping"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793947211000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-compliance-officer-mlro-switzerland-liechtenstein-zurich-360773",
+    "title": "Compliance Officer / MLRO Switzerland & Liechtenstein",
+    "description": "Compliance Officer / MLRO - Switzerland &amp; Liechtenstein About Keyrock Since 2017, Keyrock has been a change-maker in digital assets. We're a global, remote-first team of 180+ people across 40+ nationalities, with hubs in Brussels, London, Paris, New York and Chicago.We provide liquidity across 80+ centralized and d",
+    "link": "https://www.arbeitnow.ch/jobs/companies/keyrock/compliance-officer-mlro-switzerland-liechtenstein-zurich-360773",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793947211000,
+    "budget": "Not specified",
+    "client_country": "Zurich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-technical-recruiter-emea-united-kingdom-431591",
+    "title": "Technical Recruiter, EMEA",
+    "description": "The R&amp;D team at Chainalysis is inspired by solving the hardest challenges and building products that establish trust in cryptocurrencies. We're a global organization that thrives on challenging work and doing it alongside exceptionally talented teammates. Our industry evolves rapidly, and our mission is to build a ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/chainalysis/technical-recruiter-emea-united-kingdom-431591",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793947210000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-london-438241",
+    "title": "Account Executive",
+    "description": "Marcus Evans, founded in 1983, is a global business intelligence and event marketing company with 49 offices in 20+ countries.Marcus Evans&nbsp;Summits is the flagship solution offered by the company. Through in-person Summits, we curate matches between buyers and sellers via guaranteed, pre-qualified, mutually agreed ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/marcus-evans/account-executive-london-438241",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1793946683000,
+    "budget": "Not specified",
+    "client_country": "London, Greater London, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-product-designer-78930",
+    "title": "Product Designer",
+    "description": "As a Product Designer at 360Learning, you will work embedded in a product squad while being a full member of the Product Design team under the governance of the Head of Product Design. You will join the e-Learning Experience (ELXP) squad, whose mission is to Empower any user to create high-quality and interactive conte",
+    "link": "https://www.arbeitnow.fr/jobs/companies/360learning/remote-product-designer-78930",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "prototyping",
+      "embedded"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1793923668000,
+    "budget": "Not specified",
+    "client_country": "Paris, Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-strategic-account-executive-banking-london-430336",
     "title": "Strategic Account Executive, Banking",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt; &lt;p&gt;What unites Anaplanners acro",
