@@ -1,5 +1,25 @@
 [
   {
+    "id": "arbeitnow-talent-development-specialist-london-6458",
+    "title": "Talent Development Specialist",
+    "description": "Unleash AI Innovators, SecurelySoftware is being rewritten in real time. AI agents are starting to write more code than humans do, at a speed no security team has ever had to match, and that single shift is opening up the biggest opportunity our industry has seen in a decade. We're not bracing for it, we're building th",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/snyk/talent-development-specialist-london-6458",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794066010000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom - London Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "United Kingdom - London Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-data-engineer-london-498959",
     "title": "Data Engineer",
     "description": "💡 About UsWe're the fastest-growing startup transforming the IP industry.Traction: 20-30% MoM revenue growth; selling to 700+ global IP teams (DLA Piper, tech boutiques, and global enterprises).Proven Value: Users report 50-90% efficiency gains using our AI platform.Backing: Recently featured in Sifted following our $",
@@ -105,6 +125,68 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-159530",
+    "title": "Junior Data Specialist",
+    "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United Sta",
+    "link": "https://jobicy.com/jobs/159530-junior-data-specialist",
+    "source": "Jobicy",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1794050002000,
+    "budget": "Not specified",
+    "client_country": "Philippines",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Philippines",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-159529",
+    "title": "Enterprise Account Executive",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/159529-enterprise-account-executive-36",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1794050001000,
+    "budget": "Not specified",
+    "client_country": "Singapore",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-159523",
+    "title": "Business Development Representative - UK",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/159523-business-development-representative-uk",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1794049569000,
+    "budget": "Not specified",
+    "client_country": "UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
