@@ -1,5 +1,38 @@
 [
   {
+    "id": "arbeitnow-data-scientist-all-genders-berlin-berlin-309756",
+    "title": "Data Scientist (all genders)",
+    "description": "&lt;p&gt;At flaconi, we believe that&amp;nbsp;&lt;span class=&quot;lila-hg&quot;&gt;&lt;strong&gt;diversity&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;fuels creativity, innovation and growth. It thrives in all its forms of beauty. Our team is a mosaic of individuals from different backgrounds, cultures and life journeys, all",
+    "link": "https://www.arbeitnow.com/jobs/companies/flaconi/data-scientist-all-genders-berlin-berlin-309756",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "numpy",
+      "aws",
+      "ec2",
+      "s3",
+      "pytorch",
+      "gradient boosting",
+      "scikit-learn",
+      "nlp",
+      "feature engineering",
+      "mlops",
+      "algorithms"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794153334000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin, Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-mechanical-forward-deployed-engineer-switzerland-385092",
     "title": "Mechanical Forward Deployed Engineer - Switzerland",
     "description": "&lt;h3&gt;&lt;strong&gt;About CoLab&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At CoLab, we help mechanical engineering teams bring life-changing products to market years sooner.&lt;/p&gt; &lt;p&gt;We build AI for engineers designing cars, medical devices, and jet engines. Products this complex aren&#39;t sketched and sent to ",
