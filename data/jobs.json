@@ -1,5 +1,67 @@
 [
   {
+    "id": "arbeitnow-growth-engineer-outbound-data-automation-stuttgart-101046",
+    "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+    "description": "Du liebst es, Outbound-Prozesse technisch zu automatisieren, datengetriebene Leads zu generieren und E-Mail-Infrastrukturen auf Skalierung zu trimmen? Dann passt du perfekt zu uns!Wir suchen einen erfahrenen Growth Engineer – Outbound & Data Automation (m/w/d) (in Vollzeit, als Freelancer oder Berater/Coach), der nicht",
+    "link": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-101046",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "zapier"
+    ],
+    "posted_at": "40m ago",
+    "posted_ts": 1794214868000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-support-engineer-paygo-317778",
+    "title": "Support Engineer, PAYGO",
+    "description": "About ExaWe raised a $250M Series C to build the search engine for AIs. Led by a16z, with existing investors Benchmark, Lightspeed, and YC doubling down, the round brings Exa's valuation to $2.2 billion.Exa is building a search engine for the AI era. Our Search API currently powers Agents, Fortune 500s, and AI labs as ",
+    "link": "https://www.arbeitnow.com/jobs/companies/exa/remote-support-engineer-paygo-317778",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "rag"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794195630000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-enterprise-london-403143",
+    "title": "Account Executive, Enterprise",
+    "description": "Creatio is an AI CRM and workflow platform where people and AI agents work together — with no limits on users,&nbsp; agents, or scale.&nbsp;We help midsize and large organizations run customer workflows in the AI era. Headquartered in&nbsp; Boston, MA, with a global team and a large ecosystem of partners, Creatio serve",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/creatio/account-executive-enterprise-london-403143",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794193659000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-area-pre-sales-engineer-france-strasbourg-461107",
     "title": "Area Pre-Sales Engineer France",
     "description": "Ajax Systems is an international tech company and the largest manufacturer of security systems in Europe, with over 4.5 million end users and 330K PRO users in more than 180 countries worldwide. The company offers end-to-end solutions for protecting homes and businesses оf any scale. To date, Ajax product portfolio inc",
@@ -16141,6 +16203,60 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "München, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-alloy-founding-forward-deployed-engineer",
+    "title": "Alloy: Founding Forward Deployed Engineer",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; New York City, Remote &lt;/p&gt; &lt;h2&gt;Alloy is where you belong!&lt;/h2&gt; &lt;p&gt;Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organiz",
+    "link": "https://weworkremotely.com/remote-jobs/alloy-founding-forward-deployed-engineer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "react",
+      "node.js",
+      "postgresql",
+      "aws",
+      "embedded"
+    ],
+    "posted_at": "22d ago",
+    "posted_ts": 1792308665000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-airbnb-operations-engineer-biztech",
+    "title": "Airbnb: Operations Engineer, BizTech",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote- USA &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;p&gt;&lt;span&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almos",
+    "link": "https://weworkremotely.com/remote-jobs/airbnb-operations-engineer-biztech",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "sql",
+      "bash",
+      "aws",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "22d ago",
+    "posted_ts": 1792308665000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
