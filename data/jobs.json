@@ -1,5 +1,236 @@
 [
   {
+    "id": "arbeitnow-general-counsel-at-amo-paris-492500",
+    "title": "General Counsel at amo",
+    "description": "amo is a Paris-based consumer social company. We want to build Europe's most ambitious consumer company. Our apps Bump and Sugar are used by millions of people all over the globe.Location sits at the heart of one of our current products, and privacy, trust and safety are part of how we build, not an afterthought.We're ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/amo/general-counsel-at-amo-paris-492500",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack",
+      "outlook",
+      "dsa"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794346828000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-berlin-172813",
+    "title": "Werkstudent (M/W/D)",
+    "description": "Was wir tunAls IoT-Pioniere entwickeln wir mit mittlerweile über 50 Kolleginnen und Kollegen an drei Standorten IoT-Komplettlösungen für unsere Kunden. Aktuell sind weltweit über 750.000 Geräte und Anlagen mit unseren Lösungen für Machine-to-Machine-Kommunikation ausgestattet. Unsere Kompetenz liegt in der Entwicklung ",
+    "link": "https://www.arbeitnow.com/jobs/companies/inside-m2m-gmbh/werkstudent-berlin-172813",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "c",
+      "c++",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794346274000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Berlin, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin, Berlin, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-stage-achat-2027-lille-334214",
+    "title": "Stage Achat - 2027",
+    "description": "Chez&nbsp;Exotec, nous mettons l’excellence technologique au service de la redéfinition des relations entre humains et robots. A travers le monde, nos solutions révolutionnent la façon dont nos client·e·s délivrent leurs produits aux personnes consommatrices finales. Nous contribuons au succès des plus grandes marques ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/exotec/stage-achat-2027-lille-334214",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794342009000,
+    "budget": "Not specified",
+    "client_country": "Lille, France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Lille, France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-contract-platform-engineer-373574",
+    "title": "Contract Platform Engineer",
+    "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; UK Remote (GMT timezone)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Department:&lt;/strong&gt; Engineering&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Employment Type:&lt;/strong&gt; Contract (B2B)&lt;/p&gt; &lt;h3&gt;About YLD:&lt;/h3&gt; &lt;p&gt;Our goal is to help our clients keep moving ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/yld/contract-platform-engineer-373574",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794336920000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-builder-amsterdam-350278",
+    "title": "AI Builder",
+    "description": "The short versionPlenty of companies are still running AI pilots. We moved past that a while ago: AI agents and human experts create, localise, check and refresh content for global B2B brands every day, across markets and languages. The next question is a harder one: not how to make content, but which content a client ",
+    "link": "https://www.arbeitnow.nl/jobs/companies/contentoo/ai-builder-amsterdam-350278",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "ai agents"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794336040000,
+    "budget": "Not specified",
+    "client_country": "Amsterdam",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-forward-deployed-software-engineer-443666",
+    "title": "Forward Deployed Software Engineer",
+    "description": "UFORCE exists to make aggression unaffordable.Founded in Ukraine and headquartered in London, UFORCE is a defence-technology company with operations across Europe, the United States and Asia.UFORCE builds uncrewed vessels, ground robotics and aircraft, autonomy software, and the command-and-control layer that operates ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/uforce/remote-forward-deployed-software-engineer-443666",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "docker",
+      "linux",
+      "ci/cd"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794336037000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom | Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-general-application-join-our-talent-community-munich-138022",
+    "title": "General Application - Join our Talent Community!",
+    "description": "About TACTILIAAt TACTILIA, we are building the industry-ready robotic hand that closes one of the biggest gaps in Physical AI. Spun out of SCHUNK, the global market leader in gripping technology, we combine a decade of robotic-hand expertise and real industrial access with the speed and ambition of a deep-tech startup.",
+    "link": "https://www.arbeitnow.com/jobs/companies/tactiliarobotics/general-application-join-our-talent-community-munich-138022",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794336034000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-161189",
+    "title": "Sales Development Representative (Spanish & Portuguese Speaker)",
+    "description": "Canonical is a global software company that publishes Ubuntu and open-source enterprise solutions for cloud, developer, IoT and AI. Ubuntu is the fastest growing Linux distribution and ranks as the number #1 OS in the cloud. In partnership with Google, Amazon, IBM and Microsoft, Canonical helps companies become more ag",
+    "link": "https://jobicy.com/jobs/161189-sales-development-representative-spanish-portuguese-speaker",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794335715000,
+    "budget": "Not specified",
+    "client_country": "LATAM,  Canada,  USA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-161188",
+    "title": "Sales Development Representative",
+    "description": "Canonical is a global software company that publishes Ubuntu and open-source enterprise solutions for cloud, developer, IoT and AI. Ubuntu is the fastest growing Linux distribution and ranks as the number #1 OS in the cloud. In partnership with Google, Amazon, IBM and Microsoft, Canonical helps companies become more ag",
+    "link": "https://jobicy.com/jobs/161188-sales-development-representative-16",
+    "source": "Jobicy",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794335694000,
+    "budget": "Not specified",
+    "client_country": "LATAM,  Canada,  USA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
+    "title": "(Unpaid internship) Growth marketer & Social Media Intern (m/f/d): Mandatory or Voluntary Internship",
+    "description": "About IndieKidz IndieKidz GmbH is a Berlin-based startup building Occibo, an AI-powered platform that helps authors, illustrators, parents, and teachers create, design, and publish children's books. We are a small, international team, and we are looking for someone who can show the world what Occibo does and why it mat",
+    "link": "https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/unpaid-internship-growth-marketer-social-media-intern-mandatory-or-voluntary-internship-berlin-499542",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794333642000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-marketing-specialist-strasbourg-196466",
+    "title": "Marketing Specialist",
+    "description": "At Goodweek, we help businesses make the most of AI. Our platform brings leading AI models, such as ChatGPT, Claude, Gemini, and Mistral, together in one place, allowing employees to use the right AI tools for their tasks while keeping everything secure, controlled, and connected to the software they already use. By he",
+    "link": "https://www.arbeitnow.fr/jobs/companies/goodweek/marketing-specialist-strasbourg-196466",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794333642000,
+    "budget": "Not specified",
+    "client_country": "Strasbourg",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Strasbourg",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-responsable-hse-data-center-h-f-multi-sites-paris-82577",
     "title": "Responsable HSE Data Center (H/F) – Multi-sites",
     "description": "Responsable HSE (H/F) – Multi-sites FranceL’entrepriseNotre client est un acteur international de référence dans les infrastructures numériques et l’hébergement de données. Il exploite plusieurs sites stratégiques en France, au cœur de l’économie digitale. Dans le cadre de son développement, il recrute sa/son Responsab",
