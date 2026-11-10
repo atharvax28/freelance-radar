@@ -1,5 +1,178 @@
 [
   {
+    "id": "arbeitnow-assistante-chef-de-projet-marketing-alternance-paris-388571",
+    "title": "Assistant·e Chef de Projet Marketing - alternance",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.fr/jobs/companies/deliveroo/assistante-chef-de-projet-marketing-alternance-paris-388571",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794272126000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-backend-bi-platform-london-98307",
+    "title": "Software Engineer, Backend (BI Platform)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-backend-bi-platform-london-98307",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "ci/cd",
+      "llm",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794272124000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-london-90715",
+    "title": "Software Engineer",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-london-90715",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "node.js",
+      "aws",
+      "design systems"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794272124000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-new-grad-london-492707",
+    "title": "Software Engineer, New Grad",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-new-grad-london-492707",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "postgresql"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794272124000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-machine-learning-engineer-ii-growth-personalisation-london-244729",
+    "title": "Machine Learning Engineer II - Growth & Personalisation",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/machine-learning-engineer-ii-growth-personalisation-london-244729",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794272124000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-nordics-munchen-50097",
+    "title": "Account Executive Nordics",
+    "description": "Who is LitmusLitmus is building the data foundation that powers industrial AI.AI doesn’t work without real-world, contextualized data - Litmus makes that data usable. As AI adoption accelerates, most industrial environments still can’t access or use their operational data. We solve that gap.We’re a growth-stage softwar",
+    "link": "https://www.arbeitnow.com/jobs/companies/litmus/account-executive-nordics-munchen-50097",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "aws"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794271212000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-ii-system-integration-berlin-91182",
+    "title": "Software Engineer II, System Integration",
+    "description": "About UsRivian and Volkswagen Group Technologies is a joint venture between two industry leaders with a clear vision for automotive’s next chapter. From operating systems to zonal controllers to cloud and connectivity solutions, we’re addressing the challenges of electric vehicles through technology that will set the s",
+    "link": "https://www.arbeitnow.com/jobs/companies/rivianvwtech/software-engineer-ii-system-integration-berlin-91182",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "system design",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794271211000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-werkstudent-transformation-logistikoptimierung-leverkusen-231138",
+    "title": "Werkstudent (m/w/d) Transformation & Logistikoptimierung",
+    "description": "Lern uns kennenDie Chemion Logistik GmbH ist ein Logistikdienstleister, der auf die Bedürfnisse der Chemie und chemienahen Geschäftszweige spezialisiert ist. Wir beschäftigen an den drei CHEMPARK-Standorten (Leverkusen, Dormagen und Krefeld-Uerdingen) insgesamt ca. 900 Mitarbeiter*innen in den Bereichen Transport, Lage",
+    "link": "https://www.arbeitnow.com/jobs/companies/currenta-gruppe/werkstudent-transformation-logistikoptimierung-leverkusen-231138",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794261081000,
+    "budget": "Not specified",
+    "client_country": "Leverkusen, Nordrhein-Westfalen, Deutschland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Leverkusen, Nordrhein-Westfalen, Deutschland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-full-stack-software-engineer-london-168572",
     "title": "Full Stack Software Engineer",
     "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hype cycles. We innovat",
