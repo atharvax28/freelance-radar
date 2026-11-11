@@ -1,5 +1,69 @@
 [
   {
+    "id": "arbeitnow-infrastructure-tooling-observability-engineer-uk-london-469492",
+    "title": "Infrastructure Tooling & Observability Engineer (UK)",
+    "description": "About UsWe’re a fast-growing GPU-as-a-Service provider, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, and ultra-low latency are non-negotiable.Role OverviewWe are s",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/radiant/infrastructure-tooling-observability-engineer-uk-london-469492",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ci/cd",
+      "anomaly detection"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794357617000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-product-designer-amsterdam-294295",
+    "title": "Product Designer",
+    "description": "Software is not just vital but a strategic cornerstone of our operations. We’re looking for a Product Designer to set the cross-application UX direction for our commercial software - from pharma cold-chain visibility that helps temperature-sensitive medicines move safely around the world, to ULD tracking for airlines. ",
+    "link": "https://www.arbeitnow.nl/jobs/companies/skycell-ag/remote-product-designer-amsterdam-294295",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "figma",
+      "design systems",
+      "prototyping",
+      "embedded"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794357083000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-account-executive-dutch-germany-364152",
+    "title": "Account Executive - Dutch",
+    "description": "About HuzzleAt Huzzle, we connect high-performing professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. We match top sales talent to full-time remote roles where they",
+    "link": "https://www.arbeitnow.com/jobs/companies/huzzle/remote-account-executive-dutch-germany-364152",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794356412000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-general-counsel-at-amo-paris-492500",
     "title": "General Counsel at amo",
     "description": "amo is a Paris-based consumer social company. We want to build Europe's most ambitious consumer company. Our apps Bump and Sugar are used by millions of people all over the globe.Location sits at the heart of one of our current products, and privacy, trust and safety are part of how we build, not an afterthought.We're ",
