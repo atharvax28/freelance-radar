@@ -1,5 +1,177 @@
 [
   {
+    "id": "arbeitnow-machine-learning-engineer-darmstadt-101910",
+    "title": "Machine Learning Engineer (f/m/d)",
+    "description": "Focused Energy is building the future of clean energy through laser-driven inertial fusion. Backed by our $240M Series A — the largest fully secured Series A in the global fusion industry — we are scaling rapidly across multiple geographies.Based in Germany and the US, we have brought together the top scientific and en",
+    "link": "https://www.arbeitnow.com/jobs/companies/focused/machine-learning-engineer-darmstadt-101910",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "c++",
+      "pytorch",
+      "feature engineering",
+      "mlops",
+      "anomaly detection"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1794530412000,
+    "budget": "Not specified",
+    "client_country": "Darmstadt, DE",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-devops-engineer-developer-experience-lisbon-or-berlin-based-35982",
+    "title": "DevOps Engineer - Developer Experience (Lisbon or Berlin based)",
+    "description": "About Us1GLOBAL is a technology-driven global mobile communications provider helping enterprises and consumer brands deliver seamless connectivity worldwide. Powered by a best-in-class telecom platform, proprietary eSIM technology, and its own mobile core network across 15 countries, 1GLOBAL operates as a fully regulat",
+    "link": "https://www.arbeitnow.com/jobs/companies/1global/devops-engineer-developer-experience-lisbon-or-berlin-based-35982",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "linux"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794529203000,
+    "budget": "Not specified",
+    "client_country": "Berlin, Germany",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-big-data-engineer-zurich-377130",
+    "title": "Big Data Engineer",
+    "description": "For one of our clients, we are looking for a Senior Data Engineer to design data architectures and build distributed pipelines across cloud and on-premises environments. Your work will make data ready for operational use, analytics and machine learning. Design and maintain scalable data architectures and pipelines acro",
+    "link": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/big-data-engineer-zurich-377130",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "aws"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794526236000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineer-databricks-snowflake-zurich-290301",
+    "title": "Data Engineer (Databricks, Snowflake)",
+    "description": "For one of our clients, we are looking for an Advanced Data Engineer to build and maintain data pipelines and data products. You will work directly with clients to understand their needs and turn diverse data sources into reliable, reusable datasets. Design, develop, test and monitor distributed data pipelines for batc",
+    "link": "https://www.arbeitnow.ch/jobs/companies/prostaff-schweiz-gmbh/data-engineer-databricks-snowflake-zurich-290301",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794526236000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-new-business-account-executive-246588",
+    "title": "New Business Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/twilio/new-business-account-executive-246588",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794520518000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-social-content-producer-inside-i35-contractor-london-337835",
+    "title": "Social Content Producer - Inside I35 Contractor",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;color: rgb(0, 4, 67);&quot;&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://www.rightmove.co.uk/careers/content/uploads/2026/09/Untitled-30-July-2026-at-10.03.05-3-8.png&quot; alt=&quot;&quot; width=&q",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/legal-counsel-12-month-ftc-at-rightmove-greenhouse/social-content-producer-inside-i35-contractor-london-337835",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794520517000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-analyst-marketing-berlin-169107",
+    "title": "Data Analyst Marketing",
+    "description": "HEY THERE!Ready to put our brand in front of millions of people worldwide? We’re looking for a Data Analyst, Marketing to turn raw campaign and engagement data into decisions — telling us which channels, markets, and customers to target next.This isn’t a dashboard-building role. You’ll build robust data products, of co",
+    "link": "https://www.arbeitnow.com/jobs/companies/yazio/data-analyst-marketing-berlin-169107",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794519620000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-full-stack-engineer-berlin-392943",
+    "title": "Full-Stack Engineer (f/m/d)",
+    "description": "Please note: For this position, we are unable to offer visa sponsorship or relocation support. Applicants must already hold the legal right to work in Germany (e.g., EU/EEA citizenship or a valid residence/work permit). About usZenjob is an AI-powered flexible staffing platform that has efficiently connected companies ",
+    "link": "https://www.arbeitnow.com/jobs/companies/zenjob/full-stack-engineer-berlin-392943",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794519615000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-infrastructure-engineer-london-356073",
     "title": "Infrastructure Engineer",
     "description": "About GriffinHi, we’re Griffin. We’re a fully regulated UK bank that powers the accounts and payments offerings of product-led fintechs and platforms like Uber, Yonder, Prosper, and Sidekick. By doing the heavy lifting behind the scenes, our customers can focus on what they do best - delivering amazing customer experie",
