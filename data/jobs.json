@@ -1,5 +1,90 @@
 [
   {
+    "id": "arbeitnow-remote-software-engineer-all-levels-united-kingdom-213631",
+    "title": "Software Engineer (All Levels), United Kingdom",
+    "description": "&lt;p&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;We are open to hiring at multiple levels for this role, depending on experience, impact, and demonstrated ownership. While this role is level-agnostic, it is best suited for engineers with experience owning production systems and working in highly ambiguous prob",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/koboldmetals/remote-software-engineer-all-levels-united-kingdom-213631",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "react",
+      "system design",
+      "docker",
+      "aws",
+      "rag"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794660923000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-people-operations-specialist-london-340791",
+    "title": "People Operations Specialist",
+    "description": "If you've been looking to join a fast-growing startup with a bold vision, exciting challenges and the opportunity to make a genuine difference in the world, you've found the right place.Backed by General Catalyst, the investors behind companies like Stripe and Airbnb, we're building something extraordinary.Our Mission ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/goodstack/people-operations-specialist-london-340791",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794649223000,
+    "budget": "Not specified",
+    "client_country": "🇬🇧 London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "🇬🇧 London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-financial-controller-process-control-london-300207",
+    "title": "Financial Controller (Process & Control)",
+    "description": "What We’re All About.Quantexa is a global leader in AI-powered Decision Intelligence. As one of the UK's fastest-growing tech companies, we're on a mission to help organisations make better, more trusted decisions. As we continue our rapid global expansion, we are looking for a commercially minded and technically stron",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantexa/financial-controller-process-control-london-300207",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794649222000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-sales-development-representative-london-290784",
+    "title": "Sales Development Representative",
+    "description": "About LiveKitLiveKit is the default infrastructure layer for real-time AI, the platform that gives AI the ability to see, hear, and speak. From powering voice for millions of ChatGPT users to enabling drone teleoperation at Skydio and serving as the backbone for roughly 25% of 911 emergency calls in the U.S., LiveKit h",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/livekit/sales-development-representative-london-290784",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "webrtc"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794649220000,
+    "budget": "Not specified",
+    "client_country": "London (Remote)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-backend-engineer-iii-cardiff-307022",
     "title": "Backend Engineer III",
     "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;📍London or UK Remote | 💰 &lt;a href=&quot;https://monzo.com/documents/engineering-progression-framework-v4-1.pdf&quot;&gt;Engineer III&lt;/a&gt; &lt;br&gt;&lt;br&gt;Compensation: £85,000 - £110,000 +&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;Incentive Awards tied t",
@@ -18781,6 +18866,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Lausanne",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-vertex-marketing-group-distribution-engineer",
+    "title": "Vertex Marketing Group: Distribution Engineer",
+    "description": "&lt;img src=\"https://we-work-remotely.imgix.net/logos/0171/6611/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress\" /&gt; &lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Bulgaria &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"https://vertexmg.com\"&gt;https://vertexmg.c",
+    "link": "https://weworkremotely.com/remote-jobs/vertex-marketing-group-distribution-engineer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "25d ago",
+    "posted_ts": 1792495957000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
