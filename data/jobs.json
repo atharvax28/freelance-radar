@@ -1,5 +1,115 @@
 [
   {
+    "id": "arbeitnow-machine-learning-engineer-london-263239",
+    "title": "Machine Learning Engineer",
+    "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact here.We don’t chase hype cycles. We innovat",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/faculty/machine-learning-engineer-london-263239",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "system design",
+      "docker",
+      "aws",
+      "pytorch",
+      "scikit-learn"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794692410000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-ai-integration-automation-engineer-ger-128389",
+    "title": "AI Integration & Automation Engineer (m/w/d) GER",
+    "description": "Über die Customs Support Group Die Customs Support Group (CSG) ist der europäische Marktführer für Zolldienstleistungen und in 15 Ländern aktiv. CSG befindet sich im Besitz einer Private-Equity-Gesellschaft und ist ein schnell wachsendes, dynamisches und datengetriebenes Unternehmen, das seine Präsenz durch starkes org",
+    "link": "https://www.arbeitnow.com/jobs/companies/customs-support-group/remote-ai-integration-automation-engineer-ger-128389",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "git",
+      "ci/cd",
+      "n8n"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794691886000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-enterprise-munich-444557",
+    "title": "Account Executive, Enterprise",
+    "description": "Creatio is an AI CRM and workflow platform where people and AI agents work together — with no limits on users,&nbsp; agents, or scale.&nbsp;We help midsize and large organizations run customer workflows in the AI era. Headquartered in&nbsp; Boston, MA, with a global team and a large ecosystem of partners, Creatio serve",
+    "link": "https://www.arbeitnow.com/jobs/companies/creatio/account-executive-enterprise-munich-444557",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794691602000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-programmatic-analyst-alternance-paris-493118",
+    "title": "Programmatic Analyst - Alternance (H/F/X)",
+    "description": "Biggie est l’agence globale de stratégie et activation media &amp; marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales Gamned!, l’agence conseil en achat média Repeat ainsi q",
+    "link": "https://www.arbeitnow.fr/jobs/companies/biggie/programmatic-analyst-alternance-paris-493118",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794691599000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-consultant-plurimedia-stage-6-mois-paris-491547",
+    "title": "Consultant Plurimedia - Stage (6 mois) (H/F/X)",
+    "description": "Biggie est l’agence globale de stratégie et activation media &amp; marketing de Biggie group, groupe international indépendant de solutions marketing intégrées. Biggie est le fruit du rapprochement de plusieurs entités du groupe : l’expert en activations digitales Gamned!, l’agence conseil en achat média Repeat ainsi q",
+    "link": "https://www.arbeitnow.fr/jobs/companies/biggie/consultant-plurimedia-stage-6-mois-paris-491547",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794691599000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-stage-data-analyst-support-applicatifs-finance-innovation-lyon-41827",
     "title": "Stage Data Analyst / Support Applicatifs Finance & Innovation (H/F/X) - Lyon",
     "description": "Handicap International (HI) est une association de solidarité internationale indépendante et impartiale, qui intervient dans les situations de pauvreté et d’exclusion, de conflits et de catastrophes. Œuvrant aux côtés des personnes handicapées et vulnérabilisées, elle agit et témoigne pour répondre à leurs besoins esse",
