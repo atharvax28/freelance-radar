@@ -1,5 +1,135 @@
 [
   {
+    "id": "arbeitnow-hardware-engineer-oxford-136173",
+    "title": "Hardware Engineer",
+    "description": "About usSalience Labs is building the optical infrastructure that will power the next generation of AI. Our photonic switching technology delivers the high-speed, ultra-low latency networking fabrics AI datacenters need and can’t get anywhere else. We’re a multi-disciplinary team of physicists, engineers, and machine l",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/hardware-engineer-oxford-136173",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design",
+      "firmware"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794735619000,
+    "budget": "Not specified",
+    "client_country": "Oxford, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-photonics-layout-engineer-oxford-20326",
+    "title": "Photonics Layout Engineer",
+    "description": "About usSalience Labs is building the optical infrastructure that will power the next generation of AI. Our photonic switching technology delivers the high-speed, ultra-low latency networking fabrics AI datacenters need and can't get anywhere else. We're a multi-disciplinary team of physicists, engineers, and machine l",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/salience-labs/photonics-layout-engineer-oxford-20326",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794735619000,
+    "budget": "Not specified",
+    "client_country": "Oxford, United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-platform-engineer-34275",
+    "title": "Platform Engineer",
+    "description": "About finmidAt finmid, we’re building infrastructure that integrates access to capital for SMEs directly into the platforms they use daily. We leverage technology, data, and strategic partnerships to deliver financing solutions that significantly outperform traditional financial services - offering SMEs faster, simpler",
+    "link": "https://www.arbeitnow.com/jobs/companies/finmidcom/remote-platform-engineer-34275",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "docker",
+      "aws",
+      "ci/cd",
+      "design systems"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1794735617000,
+    "budget": "Not specified",
+    "client_country": "Berlin / Greece / Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-in-test-1134-uk-cambridge-155598",
+    "title": "Software Engineer in Test - 1134",
+    "description": "Quantinuum is seeking an experienced Software Engineer in Test to join its Global Quality Assurance team. The role focuses on automated testing across Quantinuum’s quantum computing infrastructure, from cloud services to internal communications within quantum computing systems. You will design, implement and maintain a",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/quantinuum/software-engineer-in-test-1134-uk-cambridge-155598",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "ci/cd",
+      "embedded"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1794722837000,
+    "budget": "Not specified",
+    "client_country": "UK Cambridge",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-analytics-engineer-munich-de-286051",
+    "title": "Analytics Engineer (m/w/d)",
+    "description": "Als global tätiges EnerTech-Unternehmen verbinden wir Energieversorgung, Technologie und Services. Unser Ziel ist es, mehr Menschen Zugang zu modernen Energielösungen zu ermöglichen. Dafür bieten wir Stromtarife aus 100% erneuerbaren Energien an, installieren Wärmepumpen und entwickeln smarte Tarife. &nbsp; Dabei sind ",
+    "link": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/analytics-engineer-munich-de-286051",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "etl"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1794722834000,
+    "budget": "Not specified",
+    "client_country": "Munich (DE)",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-customer-success-public-sector-paris-394715",
+    "title": "Customer Success Public Sector",
+    "description": "🪐&nbsp;Discover our galaxy &nbsp; Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different: &nbsp; -",
+    "link": "https://www.arbeitnow.fr/jobs/companies/malt/customer-success-public-sector-paris-394715",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "notion"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1794722834000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-account-executive-europe-berlin-chemnitz-sachsen-dresden-sachsen-koln-nordrhein-westfalen-munchen-bayern-350607",
     "title": "Account Executive Europe",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong&gt;AI-native Employee Experience Platfo",
@@ -18471,6 +18601,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Regensdorf",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-ritual-core-protocol-engineer",
+    "title": "Ritual: Core Protocol Engineer",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Remote &lt;/p&gt; &lt;div class=\"content-intro\"&gt;&lt;h3&gt;About Ritual&amp;nbsp;&lt;/h3&gt; &lt;p&gt;Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to",
+    "link": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "design systems"
+    ],
+    "posted_at": "25d ago",
+    "posted_ts": 1792567885000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
