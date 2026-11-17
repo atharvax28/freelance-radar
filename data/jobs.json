@@ -1,5 +1,197 @@
 [
   {
+    "id": "arbeitnow-founding-emea-account-executive-french-speaking-london-uk-97614",
+    "title": "Founding EMEA Account Executive - French-Speaking  - London, UK",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pallet &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Pallet is building AI Agents to transform the physical economy, a $12 trillion global TAM. We’ve raised $50M from top investors, including General Catalyst, Bessemer Venture Partners, and Bain Capital Ventu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/pallet/founding-emea-account-executive-french-speaking-london-uk-97614",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794941734000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-data-302207",
+    "title": "Software Engineer (Data)",
+    "description": "About CodatCodat is an advisory intelligence solution purpose-built for modern commercial banking. Through rich, specialized data, forward-looking insights, and integrated workflows, Codat empowers banking teams to deepen their relationships, grow their revenue, and simplify their day-to-day work.Founded in 2017 and ba",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/codat/remote-software-engineer-data-302207",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "c",
+      "docker",
+      "ci/cd",
+      "llm"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794940817000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-engineer-post-doc-position-stretchable-wearable-platform-for-augmented-perception-system-integration-and-embedded-optical-interconnects-cdd-12-mo-477476",
+    "title": "ENGINEER/POST DOC POSITION : Stretchable Wearable Platform for Augmented Perception: System Integration and Embedded Optical Interconnects - CDD 12 months",
+    "description": "Joining Mines Saint-Étienne means committing to an institution where science and innovation build a more sustainable future. It is a school of excellence where everyone has the opportunity to unlock their full potential and contribute to tackling the challenges of tomorrow.Ranked among the top engineering schools in Fr",
+    "link": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/engineer-post-doc-position-stretchable-wearable-platform-for-augmented-perception-system-integration-and-embedded-optical-interconnects-cdd-12-mo-477476",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "system design",
+      "prototyping",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1794940277000,
+    "budget": "Not specified",
+    "client_country": "Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Gardanne, Provence-Alpes-Côte d'Azur, France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-co-founder-cto-zurich-403989",
+    "title": "Co-Founder & CTO",
+    "description": "Building the operating system for the global robot economyRobot Heart builds the operating system and financial infrastructure for the global robot economy. As millions of autonomous mobile robots, drones, and humanoids enter the workforce, businesses need a new infrastructure layer to deploy, manage, finance, and insu",
+    "link": "https://www.arbeitnow.ch/jobs/companies/robot-heart/co-founder-cto-zurich-403989",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "embedded"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794933050000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-integration-engineer-erp-zurich-356897",
+    "title": "Integration Engineer, ERP",
+    "description": "Join BLP and help make the world’s business processes autonomous! Our agentic platform helps finance and operations teams worldwide remove manual work from their core business processes, so work runs end-to-end with greater control and significant productivity gains. Today, over 550 enterprise customers use BLP across ",
+    "link": "https://www.arbeitnow.ch/jobs/companies/blp-digital-ag/integration-engineer-erp-zurich-356897",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "c",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794930025000,
+    "budget": "Not specified",
+    "client_country": "Zurich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-professional-devsecops-engineer-java-openshift-80-90-refnr-48312-bern-229361",
+    "title": "Professional DevSecOps Engineer (m/w/d) - Java & OpenShift (80-90%) (Ref.Nr.: 48312)",
+    "description": "Für ein langfristiges Projekt bei unserem Kunden in Bern (mit Remote-Anteil), suchen wir einen Professional DevSecOps Engineer (m/w/d) - Java/Spring Boot & OpenShift/ArgoCD. Key FactsStart: 04.01.2027Dauer: Nicht bekanntAuslastung: 90 %Einsatzart: Einsatzort: BernEinsatzland: SchweizIhre Aufgaben•Entwicklung und Wartun",
+    "link": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-devsecops-engineer-java-openshift-80-90-refnr-48312-bern-229361",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "typescript",
+      "docker"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1794927664000,
+    "budget": "Not specified",
+    "client_country": "Bern",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bern",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-scientist-marketing-sales-fund-investment-data-zurich-358978",
+    "title": "Data Scientist Marketing/Sales | Fund Investment Data",
+    "description": "coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of success",
+    "link": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/data-scientist-marketing-sales-fund-investment-data-zurich-358978",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1794920443000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-training-operations-specialist-emea-amsterdam-273290",
+    "title": "Training Operations Specialist - EMEA",
+    "description": "The Learning Team at ClickHouse is growing fast as more users discover the power of ClickHouse and seek to understand how to use it effectively. As a Training Operations Specialist, you will be responsible for coordinating, managing, and supporting the logistics and administration of global training programs, with a fo",
+    "link": "https://www.arbeitnow.nl/jobs/companies/clickhouse/training-operations-specialist-emea-amsterdam-273290",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1794919217000,
+    "budget": "Not specified",
+    "client_country": "The Netherlands",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-enterprise-account-executive-zurich-292048",
+    "title": "Enterprise Account Executive - Zurich",
+    "description": "Get to know usIdeals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000 companies globally, we help people run high-stakes processes and make important decisions with less stress, h",
+    "link": "https://www.arbeitnow.ch/jobs/companies/ideals/enterprise-account-executive-zurich-292048",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1794919216000,
+    "budget": "Not specified",
+    "client_country": "Zurich, Switzerland",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-applikations-entwickler-devsecops-engineer-bern-349031",
     "title": "Applikations-Entwickler/ DevSecOps Engineer",
     "description": "Applikations-Entwickler/ DevSecOps Engineer vacancy for our Zurich based client in the Public sector sector. Develop and maintain internal tools and platform components using Java, Spring Boot, Quarkus, TypeScript, Angular and Tekton Support internal users and project teams with technical questions, issues and implemen",
