@@ -1,5 +1,235 @@
 [
   {
+    "id": "arbeitnow-cto-bereal-paris-384789",
+    "title": "CTO - BeReal",
+    "description": "About VoodooFounded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads after Google and Meta. Our portfolio includes",
+    "link": "https://www.arbeitnow.fr/jobs/companies/bereal/cto-bereal-paris-384789",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "node.js",
+      "postgresql",
+      "redis"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794962431000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-freelance-recovery-operations-paris-428497",
+    "title": "Freelance, Recovery Operations",
+    "description": "Who We AreZefir is building an AI autopilot for home sales in Europe, starting in France: an AI agent runs the entire sale and purchase journey end-to-end, orchestrating local brokers, portals, buyers, and documents. Backed by €60 million from top-tier investors Sequoia Capital and Kima Ventures, we're committed to acc",
+    "link": "https://www.arbeitnow.fr/jobs/companies/zefir/freelance-recovery-operations-paris-428497",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1794962431000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-technology-burson-london-422234",
+    "title": "Account Executive, Technology - Burson",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/bursonglobalcareers/account-executive-technology-burson-london-422234",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794952533000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-backend-engineer-ruby-ai-engineering-ai-catalog-120954",
+    "title": "Backend Engineer (Ruby), AI Engineering: AI Catalog",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-ai-engineering-ai-catalog-120954",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "rest apis",
+      "postgresql",
+      "ai agents"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794952530000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-commercial-account-executive-belux-423256",
+    "title": "Commercial Account Executive, Belux",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-commercial-account-executive-belux-423256",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "git"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794952530000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-strategic-account-executive-manufacturing-206696",
+    "title": "Strategic Account Executive - Manufacturing",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI&#39;s ",
+    "link": "https://www.arbeitnow.ch/jobs/companies/celonis/remote-strategic-account-executive-manufacturing-206696",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "ai agents"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794952527000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-qa-engineer-payments-berlin-435071",
+    "title": "QA Engineer - Payments",
+    "description": "&lt;p&gt;SumUp is already live in 38 markets and still growing. Our Global Expansion Team takes SumUp&#39;s payment products into new countries, with Mexico and Canada among our most recent launches and more markets like New Zealand and Argentina on the way. As a QA Engineer in our Berlin payments team, you&#39;ll buil",
+    "link": "https://www.arbeitnow.com/jobs/companies/sumup/qa-engineer-payments-berlin-435071",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sql",
+      "git"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794952526000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-legal-counsel-commercial-and-ai-paris-235546",
+    "title": "Legal Counsel - Commercial and AI",
+    "description": "About H:Our agents act on computers for our customers, clicking through software and filling in fields, so our contracts have to answer some awkward questions. Who owns what an agent produces? Who answers when an output turns out to be wrong? Can customer data train our models? Our terms already take a position on all ",
+    "link": "https://www.arbeitnow.fr/jobs/companies/hcompany/legal-counsel-commercial-and-ai-paris-235546",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "hugging face",
+      "outlook"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794951636000,
+    "budget": "Not specified",
+    "client_country": "Hybrid Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Hybrid Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-forward-deployed-engineer-uk-london-329260",
+    "title": "Forward Deployed Engineer (UK)",
+    "description": "Replit is the agentic software creation platform that enables anyone to build applications using natural language. With millions of users worldwide, Replit is democratizing software development by removing traditional barriers to application creation.About the role:We're hiring our first FDE in the UK! Join our FDE tea",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/replit/forward-deployed-engineer-uk-london-329260",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794951633000,
+    "budget": "Not specified",
+    "client_country": "London Office",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-devops-engineer-java-kotlin-80-100-banking-zurich-419465",
+    "title": "DevOps Engineer Java/Kotlin (80–100%) - Banking",
+    "description": "Für unseren Kunden, ein etabliertes Unternehmen im Schweizer Bankenumfeld, suchen wir einen erfahrenen DevOps Engineer mit Schwerpunkt Java/Kotlin. In dieser spannenden Funktion arbeitest du an der Weiterentwicklung moderner Lösungen im Bereich Customer Identity &amp; Access Management (CIAM) und Open Finance. Dich erw",
+    "link": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/devops-engineer-java-kotlin-80-100-banking-zurich-419465",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microservices",
+      "git"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794951080000,
+    "budget": "Not specified",
+    "client_country": "Zürich, Zürich, Switzerland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich, Zürich, Switzerland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-applikationsentwickler-java-spring-boot-datenintegration-microsoft-d365-80-zurich-175223",
+    "title": "Applikationsentwickler Java / Spring Boot – Datenintegration & Microsoft D365 80%",
+    "description": "Für unseren Kunden suchen wir eine engagierte Persönlichkeit als Applikationsentwickler Java. Im Rahmen eines spannenden Projekts wirkst du am Aufbau und an der Einführung eines Java-basierten Datenadapters mit. Dieser dient als zentrale Integrationskomponente zwischen verschiedenen Datensystemen und der bestehenden Mi",
+    "link": "https://www.arbeitnow.ch/jobs/companies/callista-group-ag/applikationsentwickler-java-spring-boot-datenintegration-microsoft-d365-80-zurich-175223",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "etl"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1794951080000,
+    "budget": "Not specified",
+    "client_country": "Zürich, Zürich, Switzerland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich, Zürich, Switzerland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-founding-emea-account-executive-french-speaking-london-uk-97614",
     "title": "Founding EMEA Account Executive - French-Speaking  - London, UK",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pallet &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Pallet is building AI Agents to transform the physical economy, a $12 trillion global TAM. We’ve raised $50M from top investors, including General Catalyst, Bessemer Venture Partners, and Bain Capital Ventu",
