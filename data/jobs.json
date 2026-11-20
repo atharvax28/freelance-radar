@@ -1,5 +1,302 @@
 [
   {
+    "id": "arbeitnow-remote-enterprise-account-executive-dach-295927",
+    "title": "Enterprise Account Executive, DACH",
+    "description": "At Sanity.io, we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency. Companies like PUMA, Carhartt WIP, Anth",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/sanity/remote-enterprise-account-executive-dach-295927",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "vercel"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1795189213000,
+    "budget": "Not specified",
+    "client_country": "Remote in the UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-it-systemadministrator-mit-schwerpunkt-erp-husum-380594",
+    "title": "IT-Systemadministrator mit Schwerpunkt ERP (m/w/d)",
+    "description": "PolyTALENT unterstützt ein international eingebundenes Industrieunternehmen in Husum bei der Besetzung der Position als IT-Systemadministrator mit Schwerpunkt ERP (m/w/d). Das Unternehmen fertigt Kondensatoren für die Leistungselektronik, also Bauteile, die unter anderem in Windkraftanlagen, Bahntechnik und industriell",
+    "link": "https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/it-systemadministrator-mit-schwerpunkt-erp-husum-380594",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "linux"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1795188694000,
+    "budget": "Not specified",
+    "client_country": "Husum, Schleswig-Holstein, Deutschland",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-business-partner-dach-paris-15979",
+    "title": "Business Partner - DACH",
+    "description": "About ContinuityAt Continuity, we’re building AI-native solutions that are redefining how insurers assess, monitor, and act on risk in the €1T+ commercial insurance industry.In today’s world, insurers are expected to make complex, high-stakes decisions, often with outdated tools and fragmented data. We're rewriting tha",
+    "link": "https://www.arbeitnow.fr/jobs/companies/continuity/business-partner-dach-paris-15979",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "embedded"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1795186854000,
+    "budget": "Not specified",
+    "client_country": "Paris",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Paris",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-forward-deployed-engineer-104281",
+    "title": "Forward Deployed Engineer",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Banyan Software is the best permanent home for software businesses that serve specialized industries, their employees, and their customers. With a buy-grow-and-hold-for-life approach and a permanent capital base, Banyan acquires and grows companies worldwide, honoring",
+    "link": "https://www.arbeitnow.com/jobs/companies/banyansoftware/forward-deployed-engineer-104281",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "c",
+      "react",
+      "microservices",
+      "docker",
+      "aws",
+      "ci/cd",
+      "embedded"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795179320000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-new-business-account-executive-221785",
+    "title": "New Business Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quo",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/twilio/new-business-account-executive-221785",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795179320000,
+    "budget": "Not specified",
+    "client_country": "On-site",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "On-site",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-strategic-account-executive-dach-313560",
+    "title": "Strategic Account Executive (DACH)",
+    "description": "&lt;p&gt;Our Strategic Account Executives target and close new business with Datadog’s largest, most strategic customers and prospects. In this role you’ll be focused on uncovering the pain points organizations face as they operate in or migrate to a cloud environment at scale as well as delivering the appropriate Data",
+    "link": "https://www.arbeitnow.com/jobs/companies/datadog/remote-strategic-account-executive-dach-313560",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795179318000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-london-479819",
+    "title": "Account Executive",
+    "description": "View our much better version of this job spec on our careers page: https://juro.notion.site/ae *** THE KEY BITS Location: We can currently only accept applications from candidates that are located and have long-term working rights in the UK.Flexibility: We have office hubs in London and Boston, plus remote teams across",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/juro/account-executive-london-479819",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795178415000,
+    "budget": "Not specified",
+    "client_country": "London (UK)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London (UK)",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-llm-engineer-post-training-remote-uk-united-kingdom-244005",
+    "title": "LLM Engineer — Post-Training (Remote - UK)",
+    "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Users in 3 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to connect with AI. With 60 million users and counting, we're not just",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/everai/llm-engineer-post-training-remote-uk-united-kingdom-244005",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "pytorch",
+      "llm",
+      "hugging face"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795178414000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "United Kingdom",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-performance-marketer-remote-germany-165173",
+    "title": "Performance Marketer (Remote - Germany)",
+    "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Users in 3 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to connect with AI. With 60 million users and counting, we're not just",
+    "link": "https://www.arbeitnow.com/jobs/companies/everai/performance-marketer-remote-germany-165173",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "hugging face"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795178414000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-performance-marketer-remote-uk-united-kingdom-25596",
+    "title": "Performance Marketer (Remote - UK)",
+    "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Users in 3 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to connect with AI. With 60 million users and counting, we're not just",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/everai/performance-marketer-remote-uk-united-kingdom-25596",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "hugging face"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795178414000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "United Kingdom",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-performance-marketer-remote-france-14056",
+    "title": "Performance Marketer (Remote - France)",
+    "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Users in 3 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to connect with AI. With 60 million users and counting, we're not just",
+    "link": "https://www.arbeitnow.fr/jobs/companies/everai/performance-marketer-remote-france-14056",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "hugging face"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795178414000,
+    "budget": "Not specified",
+    "client_country": "France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-performance-marketer-remote-netherlands-381779",
+    "title": "Performance Marketer (Remote - Netherlands)",
+    "description": "Our Vision &amp; Products🚀 EverAI — Building the Future of AI CompanionshipOne of the Top Largest &amp; Fastest-Growing AI Companies in the World60 Million Users in 3 years — Help Us Reach 100M first, 500M nextAt EverAI, we’re shaping what it means to connect with AI. With 60 million users and counting, we're not just",
+    "link": "https://www.arbeitnow.nl/jobs/companies/everai/performance-marketer-remote-netherlands-381779",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm",
+      "hugging face"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795178414000,
+    "budget": "Not specified",
+    "client_country": "Netherlands",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Netherlands",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-growth-engineer-outbound-data-automation-stuttgart-479014",
+    "title": "Growth Engineer – Outbound & Data Automation (m/w/d)",
+    "description": "Du liebst es, Outbound-Prozesse technisch zu automatisieren, datengetriebene Leads zu generieren und E-Mail-Infrastrukturen auf Skalierung zu trimmen? Dann passt du perfekt zu uns!Wir suchen einen erfahrenen Growth Engineer – Outbound & Data Automation (m/w/d) (in Vollzeit, als Freelancer oder Berater/Coach), der nicht",
+    "link": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/growth-engineer-outbound-data-automation-stuttgart-479014",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "zapier"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1795172476000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Stuttgart",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-m365-system-engineer-22184-contract-to-hire-bern-280487",
+    "title": "M365 System Engineer (22184 / Contract-to-Hire)",
+    "description": "Wir suchen für einen unserer Kunden einen Systemspezialisten / System Engineer mit fundierter Erfahrung im Bereich Microsoft 365. In dieser Rolle entwickeln und implementieren Sie massgeschneiderte IT-Lösungen und planen, implementieren sowie betreiben Microsoft-M365-Umgebungen (u. a. Intune, Software-Paketierung, Exch",
+    "link": "https://www.arbeitnow.ch/jobs/companies/iq-plus-ag/m365-system-engineer-22184-contract-to-hire-bern-280487",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1795168890000,
+    "budget": "Not specified",
+    "client_country": "Bern",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bern",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-electronics-hardware-engineer-london-358631",
     "title": "Electronics/Hardware Engineer",
     "description": "Electronics/Hardware Engineer This is a future role. We're building a shortlist now and will contact you when it opens.About usFoundational is building the most precise picture of Earth and orbit, using lasers fired from the ground. We call it ground truth for orbit.We design and run low-cost, autonomous satellite lase",
@@ -631,6 +928,54 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1137839",
+    "title": "Engineer Software Defined Vehicle Simulation and Development",
+    "description": "NIKI is looking for graduates of Technical University Departments/Schools of Sciences/Engineers, or similar disciplines to support and develop complex system simulation processes of software-defined vehicles. Become a member of NIKI Digital Engineering! If you have completed your studies or doctorate and are looking fo",
+    "link": "https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "matlab",
+      "algorithms",
+      "embedded",
+      "matlab/simulink"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795104034000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137837",
+    "title": "Postdoc PhD PhD cand. Physics Computer Science",
+    "description": "NIKI is looking for a Postdoc/PhD/PhD cand. in Physics, Computer Science or similar discipline for industrial projects in the automotive industry.Become a member of NIKI Digital Engineering!If you are a Postdoc/PhD/PhD candidate looking for new challenges, interdisciplinary and diverse teams, and projects, send us your",
+    "link": "https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "matlab",
+      "c",
+      "c++",
+      "algorithms"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795104021000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-hpc-infrastructure-site-reliability-engineer-392841",
     "title": "HPC Infrastructure Site Reliability Engineer",
     "description": "About UsWe’re a fast-growing GPU-as-a-Service provider, delivering scalable, high-performance compute infrastructure purpose-built for AI and HPC workloads. Operating across global data centres, we run mission-critical environments where uptime, throughput, and ultra-low latency are non-negotiable.Role OverviewWe are l",
@@ -676,6 +1021,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Stallikon",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137827",
+    "title": "Account Executive, Enterprise (Atlanta/Tennessee)",
+    "description": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain,",
+    "link": "https://remoteOK.com/remote-jobs/remote-account-executive-enterprise-atlanta-tennessee-everpure-1137827",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795096802000,
+    "budget": "Not specified",
+    "client_country": "US Only",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "US Only",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -787,6 +1152,27 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1137817",
+    "title": "Paralegal",
+    "description": "Tines is the intelligent workflow company that powers some of the world's most important workflows.Â Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines ",
+    "link": "https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "notion",
+      "canva"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795087801000,
+    "budget": "Not specified",
+    "client_country": "US Only",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "US Only",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-stage-assistante-coordination-de-projet-evenementiel-seminaire-international-lyon-330801",
     "title": "Stage Assistant·e coordination de projet événementiel séminaire international",
     "description": "Nous recherchons un.e stagiaire Assistant·e de coordination de projet événementiel pour le Séminaire international « Aides techniques et inclusion » (Dakar, juin 2027). Contexte : Titre de travail du séminaire : « Une offre de services de qualité en aides techniques : un pilier pour l’inclusion intersectorielle ». Le s",
@@ -801,6 +1187,46 @@
     "posted_ts": 1795087214000,
     "budget": "Not specified",
     "client_country": "Lyon, France",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137815",
+    "title": "Customer Success Engineer, India",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust G",
+    "link": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-india-gitlab-1137815",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "ci/cd"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795086001000,
+    "budget": "Not specified",
+    "client_country": "Asia",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1137814",
+    "title": "Customer Success Engineer, Singapore",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust G",
+    "link": "https://remoteOK.com/remote-jobs/remote-customer-success-engineer-singapore-gitlab-1137814",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "ci/cd"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795085101000,
+    "budget": "Not specified",
+    "client_country": "Asia",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
