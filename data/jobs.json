@@ -1,5 +1,128 @@
 [
   {
+    "id": "arbeitnow-remote-solutions-engineer-veeam-data-cloud-vault-242654",
+    "title": "Solutions Engineer, Veeam Data Cloud Vault",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div class=&quot;elementToProof&quot;&gt; &lt;p&gt;Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in bot",
+    "link": "https://www.arbeitnow.fr/jobs/companies/veeamsoftware/remote-solutions-engineer-veeam-data-cloud-vault-242654",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "aws"
+    ],
+    "posted_at": "1h ago",
+    "posted_ts": 1795298128000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-expert-data-catalog-villeneuve-dascq-nord-272864",
+    "title": "Expert Data Catalog (f/m/d)",
+    "description": "&lt;h1&gt;&lt;strong&gt;Product Manager Data Catalog&amp;nbsp;&lt;/strong&gt;&lt;/h1&gt; &lt;h3&gt;&lt;strong&gt;Notre Center of Excellence Data &amp;amp; AI recherche un·e Product Manager basé·e à Lille.&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Chez Decathlon, nous croyons au pouvoir du sport pour unir et inspirer. Notre mi",
+    "link": "https://www.arbeitnow.fr/jobs/companies/decathlontechnology/expert-data-catalog-villeneuve-dascq-nord-272864",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795287333000,
+    "budget": "Not specified",
+    "client_country": "Villeneuve-d'Ascq, Nord",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Villeneuve-d'Ascq, Nord",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-emea-account-executive-german-speaking-london-uk-288698",
+    "title": "Founding EMEA Account Executive - German-Speaking  (London, UK)",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Pallet &lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Pallet is building AI Agents to transform the physical economy, a $12 trillion global TAM. We’ve raised $50M from top investors, including General Catalyst, Bessemer Venture Partners, and Bain Capital Ventu",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/pallet/founding-emea-account-executive-german-speaking-london-uk-288698",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795287332000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-strategic-account-executive-494000",
+    "title": "Strategic Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-strategic-account-executive-494000",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "git"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795287325000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-major-account-executive-113116",
+    "title": "Major Account Executive",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.com/jobs/companies/gitlab/remote-major-account-executive-113116",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "git"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795287325000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-backend-engineer-ruby-plan-spec-driven-development-90346",
+    "title": "Backend Engineer (Ruby), Plan: Spec-Driven Development",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-backend-engineer-ruby-plan-spec-driven-development-90346",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "postgresql"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795287325000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-ux-designer-at-private-equity-insights-london-223301",
     "title": "UX designer at Private Equity Insights",
     "description": "&lt;p&gt;Package: £25,000 - £32,000 (depending on experience)&lt;/p&gt; &lt;h2&gt;Description&lt;/h2&gt; &lt;p&gt;Insurtech Insights is a global insurance media company that connects executives, entrepreneurs and investors looking to build the future of insurance. We’ve launched and scaled large-scale conferences acros",
@@ -12,6 +135,48 @@
     "posted_ts": 1795276529000,
     "budget": "Not specified",
     "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-163715",
+    "title": "Enterprise Sales Engineer - France",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/163715-enterprise-sales-engineer-france-2",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1795273718000,
+    "budget": "Not specified",
+    "client_country": "France,  UK",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-163708",
+    "title": "Business Development Representative, Nordics",
+    "description": "Chainguard is the trusted source for open source. By delivering hardened, secure, and production-ready builds of all the open source software engineers and AI agents rely on, Chainguard helps organizations build faster, stay compliant, and eliminate risk. Our customers include Fortune 500 enterprises and global industr",
+    "link": "https://jobicy.com/jobs/163708-business-development-representative-nordics-2",
+    "source": "Jobicy",
+    "matched_skills": [
+      "ai agents",
+      "canva"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1795273705000,
+    "budget": "Not specified",
+    "client_country": "Denmark,  Sweden",
     "status": "Discovered",
     "is_freelance": false,
     "region_locked": false,
@@ -13822,6 +13987,26 @@
     "client_country": "Canada,  Germany,  UK,  USA",
     "status": "Discovered",
     "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-mantech-quantum-research-scientist",
+    "title": "MANTECH: Quantum Research Scientist",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; United States &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"https://www.MANTECH.com\"&gt;https://www.MANTECH.com&lt;/a&gt; &lt;/p&gt; &lt;div&gt; &lt;div&gt; &lt;h3&gt; Description &amp;amp; Requirements &lt;/h3&gt; &lt;/div&gt; &lt;/div&gt; &lt;div&gt; &l",
+    "link": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "algorithms"
+    ],
+    "posted_at": "18d ago",
+    "posted_ts": 1793725219000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
     "region_locked": false,
     "region_note": "",
     "link_validated": true,
