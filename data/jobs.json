@@ -1,5 +1,118 @@
 [
   {
+    "id": "arbeitnow-ux-designer-at-private-equity-insights-london-223301",
+    "title": "UX designer at Private Equity Insights",
+    "description": "&lt;p&gt;Package: £25,000 - £32,000 (depending on experience)&lt;/p&gt; &lt;h2&gt;Description&lt;/h2&gt; &lt;p&gt;Insurtech Insights is a global insurance media company that connects executives, entrepreneurs and investors looking to build the future of insurance. We’ve launched and scaled large-scale conferences acros",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/ux-designer-at-private-equity-insights-london-223301",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "react"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1795276529000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-distinguished-pqc-cryptography-architecture-leader-geneva-106013",
+    "title": "Distinguished PQC Cryptography & Architecture Leader",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About IonQ:&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;u&gt;&lt;a href=&quot;https://cts.businesswire.com/ct/CT?id=smartlink&amp;amp;url=https%3A%2F%2Fionq.com%2F&amp;amp;esheet=54451094&amp;amp;newsitemid=2026",
+    "link": "https://www.arbeitnow.ch/jobs/companies/ionq/distinguished-pqc-cryptography-architecture-leader-geneva-106013",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "algorithms",
+      "dsa",
+      "firmware"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1795265731000,
+    "budget": "Not specified",
+    "client_country": "Geneva",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Geneva",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-1226-front-end-developer-germany-84712",
+    "title": "1226 | Front-end Developer",
+    "description": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a&nbsp;Front-end Developer to join our team.Long-term cooperation on an as-needed",
+    "link": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1226-front-end-developer-germany-84712",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "javascript",
+      "typescript",
+      "react",
+      "aws"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1795263617000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-1227-back-end-developer-germany-388586",
+    "title": "1227 | Back-end Developer",
+    "description": "Intetics Inc., a leading American technology company specializing in custom software application development, distributed professional teams creation, software product quality assessment, and “all-things-digital” solutions, is looking for a&nbsp;Back-end Developer to join our team.Long-term cooperation on an as-needed ",
+    "link": "https://www.arbeitnow.com/jobs/companies/intetics-2/remote-1227-back-end-developer-germany-388586",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "node.js",
+      "aws"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1795263617000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-forward-deployed-ai-engineer-multi-agent-systems-munich-233132",
+    "title": "Forward Deployed AI Engineer (m/f/d) – Multi-Agent Systems",
+    "description": "Anyone can build an AI agent demo these days. Getting agents to run reliably in production, for thousands of users worldwide, is a different story. That's the job.For a renowned automotive manufacturer in Munich, we are looking for an AI Engineer to take an existing AI innovation platform to the next level. The platfor",
+    "link": "https://www.arbeitnow.com/jobs/companies/advanced-engineering-gmbh/forward-deployed-ai-engineer-multi-agent-systems-munich-233132",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "fastapi",
+      "ci/cd",
+      "llm",
+      "rag",
+      "mlops"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1795260657000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-software-engineering-summer-internship-2027-london-23288",
     "title": "Software Engineering Summer Internship 2027 (London)",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
