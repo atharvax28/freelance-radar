@@ -1,5 +1,213 @@
 [
   {
+    "id": "arbeitnow-energy-markets-france-cdd-paris-254917",
+    "title": "Energy Markets - France (CDD)",
+    "description": "At Axle Energy, we’re building the infrastructure that will underpin the decarbonised energy system. Our software moves energy usage to times when electricity is cheap and green, by controlling vehicle charging, heating systems, and home batteries. We control hundreds of thousands of energy assets.We’re building in a l",
+    "link": "https://www.arbeitnow.fr/jobs/companies/axle-careers/energy-markets-france-cdd-paris-254917",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1795480810000,
+    "budget": "Not specified",
+    "client_country": "France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-global-talent-acquisition-partner-all-genders-berlin-203170",
+    "title": "Global Talent Acquisition Partner (all genders)",
+    "description": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators in 70+ countries with the biggest online ",
+    "link": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-global-talent-acquisition-partner-all-genders-berlin-203170",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1795480276000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-professional-quality-engineer-testautomatisierung-ki-refnr-48375-bern-64980",
+    "title": "Professional Quality Engineer (m/w/d) - Testautomatisierung & KI (Ref.Nr.: 48375)",
+    "description": "Für ein langfristiges Projekt bei unserem Kunden in Bern (mit Remote-Anteil), suchen wir einen Professional Quality Engineer (m/w/d) - Testautomatisierung & KI. Key FactsStart: 23.11.2026Dauer: Nicht bekanntAuslastung: 100 %Einsatzart: Einsatzort: BernEinsatzland: SchweizIhre Aufgaben•Produktteams in Quality Engineerin",
+    "link": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/professional-quality-engineer-testautomatisierung-ki-refnr-48375-bern-64980",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "playwright"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795474052000,
+    "budget": "Not specified",
+    "client_country": "Bern",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Bern",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+    "title": "Test Engineer HIL Autonomy Systems – Land Domain (m/f/d)",
+    "description": "About the role:We are looking for an experienced Test Engineer – HIL who thrives in the broad spectrum between initial concept, quick prototyping and final validation for cutting-edge autonomy products in the Land Domain. You will drive building and refining our HIL and HW Test Bench infrastructure together with the HW",
+    "link": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/remote-test-engineer-hil-autonomy-systems-land-domain-gilching-417479",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "prototyping"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1795469472000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-expert-projektleiter-sharepoint-online-m365-intranet-refnr-48376-zurich-350725",
+    "title": "Expert Projektleiter (m/w/d) - SharePoint Online / M365 Intranet (Ref.Nr.: 48376)",
+    "description": "Für ein langfristiges Projekt bei unserem Kunden in Bern (mit Remote-Anteil), suchen wir einen Expert Projektleiter (m/w/d) - SharePoint Online / M365 Intranet. Key FactsStart: 01.01.2027Dauer: Nicht bekanntAuslastung: 80 %Einsatzart: Einsatzort: ZürichEinsatzland: SchweizIhre Aufgaben• Eigenverantwortliche Planung, St",
+    "link": "https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/expert-projektleiter-sharepoint-online-m365-intranet-refnr-48376-zurich-350725",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "sharepoint"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1795460436000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-164020",
+    "title": "Software Engineer (Python/Linux/Packaging)",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/164020-software-engineer-python-linux-packaging",
+    "source": "Jobicy",
+    "matched_skills": [
+      "python",
+      "linux"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1795458692000,
+    "budget": "Not specified",
+    "client_country": "LATAM,  Canada,  USA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "jobicy-164019",
+    "title": "Software Engineer - Python - Cloud - graduate level",
+    "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT. Our customers include the world's leadi",
+    "link": "https://jobicy.com/jobs/164019-software-engineer-python-cloud-graduate-level",
+    "source": "Jobicy",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1795458690000,
+    "budget": "Not specified",
+    "client_country": "LATAM,  Canada,  USA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-stage-ingenieur-data-6-mois-f-h-lyon-319957",
+    "title": "Stage Ingénieur Data (6 mois) - F/H - Lyon",
+    "description": "Qui sommes-nous ?&nbsp;Q ENERGY France est un acteur majeur du marché des énergies renouvelables en France. Autrefois affilié au groupe RES, l’entreprise œuvre depuis 27 ans dans le développement, la construction et l’exploitation de projets éoliens et photovoltaïques.&nbsp;&nbsp;Aujourd'hui également positionnée sur l",
+    "link": "https://www.arbeitnow.fr/jobs/companies/q-energy/stage-ingenieur-data-6-mois-f-h-lyon-319957",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql",
+      "pandas",
+      "etl",
+      "git"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1795454410000,
+    "budget": "Not specified",
+    "client_country": "Lyon, France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Lyon, France",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-major-account-executive-france-116568",
+    "title": "Major Account Executive, France",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered",
+    "link": "https://www.arbeitnow.fr/jobs/companies/gitlab/remote-major-account-executive-france-116568",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "git"
+    ],
+    "posted_at": "10h ago",
+    "posted_ts": 1795449324000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-optical-engineer-darmstadt-350107",
+    "title": "Optical Engineer (m/f/d)",
+    "description": "Focused Energy is a fusion energy startup with the goal of generating unlimited clean energy to responsibly meet future global demand. With the use and commercialization of laser-induced inertial fusion, a clean and highly efficient power generation technology is coming within reach, suitable to ensure a secure and sca",
+    "link": "https://www.arbeitnow.com/jobs/companies/focused/optical-engineer-darmstadt-350107",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "matlab",
+      "system design"
+    ],
+    "posted_at": "11h ago",
+    "posted_ts": 1795448424000,
+    "budget": "Not specified",
+    "client_country": "Darmstadt, DE",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-remote-ai-engineer-rotterdam-22878",
     "title": "AI Engineer",
     "description": "Founded in 2010 in the Netherlands, AnywhereNow is a global leader in Enterprise Dialogue Management, with a vision to ensure every employee and customer feels heard, understood, and valued.Today, our team of approximately 240 employees spans 22 countries, supporting more than 2,000 organisations worldwide. We partner ",
@@ -257,6 +465,27 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Utrecht, Utrecht, Nederland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1138067",
+    "title": "Threat Research Engineer, Security Factory: Threat Research",
+    "description": "GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust G",
+    "link": "https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "ai agents"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795393204000,
+    "budget": "Not specified",
+    "client_country": "EMEA",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -13321,6 +13550,31 @@
     ],
     "posted_at": "2h ago",
     "posted_ts": 1793904015000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-toptal-cryptography-specialist-for-ai-lab",
+    "title": "Toptal: Cryptography Specialist for AI lab",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;Overview&lt;/p&gt;&lt;p&gt;A fast-growing AI evaluation company is building expert-level benchmarks that test how well AI agents handle real professional work in the terminal. We are hiring cryptography experts to turn real, paid tasks from their ",
+    "link": "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "python",
+      "c",
+      "docker",
+      "linux",
+      "git",
+      "ai agents"
+    ],
+    "posted_at": "18d ago",
+    "posted_ts": 1793898547000,
     "budget": "Not specified",
     "client_country": "Remote",
     "status": "Discovered",
