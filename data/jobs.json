@@ -1,5 +1,321 @@
 [
   {
+    "id": "arbeitnow-strategic-account-executive-dach-berlin-245893",
+    "title": "Strategic Account Executive DACH",
+    "description": "The AI orchestration of your wildest imagination.n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approve",
+    "link": "https://www.arbeitnow.com/jobs/companies/n8n/strategic-account-executive-dach-berlin-245893",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "aws",
+      "n8n",
+      "ai agents",
+      "notion"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795664586000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-junior-video-editor-camera-operator-london-456241",
+    "title": "Junior Video Editor & Camera Operator",
+    "description": "About TesslAI is transforming how software is built, and at Tessl, we're building the infrastructure for what comes next.We're developing a platform that enables engineering teams to build and run AI-powered software factories, where coding agents take on real development work, from picking up engineering tickets to im",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/tesslcareers/junior-video-editor-camera-operator-london-456241",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "ai agents",
+      "figma"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795664586000,
+    "budget": "Not specified",
+    "client_country": "London Office",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "London Office",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-talent-acquisition-specialist-berlin-354233",
+    "title": "Talent Acquisition Specialist",
+    "description": "As our Talent Acquisition Specialist (m/w/d), you will take the lead in identifying, approaching, and engaging top talent across every function of our global business. You will own your talent pipeline end-to-end, partnering directly with hiring managers to source for our most crucial roles across tech, marketing, sale",
+    "link": "https://www.arbeitnow.com/jobs/companies/pergolux/talent-acquisition-specialist-berlin-354233",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795664586000,
+    "budget": "Not specified",
+    "client_country": "Berlin | Global Team",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-ai-gtm-engineer-berlin-393665",
+    "title": "AI GTM Engineer",
+    "description": "About the RoleWe’re looking for a scrappy, AI-native GTM Engineer to scope, build, and maintain the systems and automations that scale our pipeline and revenue engine. You’ll work across demand generation, marketing, and sales to identify the biggest opportunities, prioritize what’s worth building, and own projects end",
+    "link": "https://www.arbeitnow.com/jobs/companies/almetra/ai-gtm-engineer-berlin-393665",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "n8n",
+      "zapier"
+    ],
+    "posted_at": "3h ago",
+    "posted_ts": 1795664584000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-internship-mlops-engineer-january-2027-lyon-487082",
+    "title": "Internship - MLOps Engineer (January 2027)",
+    "description": "🪐&nbsp;Discover our galaxy &nbsp; Join the Future of Work ! Malt is Europe's leading freelance marketplace, connecting over 1,000,000 talented freelancers with 100,000+ companies. Founded in 2013, we're transforming how work gets done through our tech-powered, human-centered platform. What makes us different: &nbsp; -",
+    "link": "https://www.arbeitnow.fr/jobs/companies/malt/internship-mlops-engineer-january-2027-lyon-487082",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "git",
+      "ci/cd",
+      "llm",
+      "mlops"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663617000,
+    "budget": "Not specified",
+    "client_country": "Lyon",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Lyon",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-uk-23703",
+    "title": "Account Executive",
+    "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Account Executive based in United Kingdom. As an Account Executive – EMEA, you will drive new business development and strategic account growth across Europe, the Middle East, and Africa,",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/jobgether/account-executive-uk-23703",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663617000,
+    "budget": "Not specified",
+    "client_country": "UK",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-engineer-united-kingdom-231274",
+    "title": "Data Engineer",
+    "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. &nbsp; Since our founding in 2014, we have focused on deliverin",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/kpler/data-engineer-united-kingdom-231274",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "fastapi",
+      "postgresql",
+      "docker",
+      "git",
+      "aws"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663615000,
+    "budget": "Not specified",
+    "client_country": "United Kingdom",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-germany-359395",
+    "title": "Account Executive",
+    "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Account Executive based in Germany. As an Account Executive – EMEA, you will drive new business development and strategic account growth across Europe, the Middle East, and Africa, helpin",
+    "link": "https://www.arbeitnow.com/jobs/companies/jobgether/account-executive-germany-359395",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663615000,
+    "budget": "Not specified",
+    "client_country": "Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-france-292053",
+    "title": "Account Executive",
+    "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Account Executive based in France. As an Account Executive – EMEA, you will drive new business development and strategic account growth across Europe, the Middle East, and Africa, helping",
+    "link": "https://www.arbeitnow.fr/jobs/companies/jobgether/account-executive-france-292053",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663615000,
+    "budget": "Not specified",
+    "client_country": "France",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-switzerland-292276",
+    "title": "Account Executive",
+    "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Account Executive based in Switzerland. As an Account Executive – EMEA, you will drive new business development and strategic account growth across Europe, the Middle East, and Africa, he",
+    "link": "https://www.arbeitnow.ch/jobs/companies/jobgether/account-executive-switzerland-292276",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663615000,
+    "budget": "Not specified",
+    "client_country": "Switzerland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-account-executive-remote-from-net-netherlands-487643",
+    "title": "Account Executive (Remote from Net)",
+    "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for an Account Executive based in Netherlands. As an Account Executive – EMEA, you will drive new business development and strategic account growth across Europe, the Middle East, and Africa, he",
+    "link": "https://www.arbeitnow.nl/jobs/companies/jobgether/account-executive-remote-from-net-netherlands-487643",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663615000,
+    "budget": "Not specified",
+    "client_country": "Netherlands",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-reception-office-team-assistant-frankfurt-am-main-340273",
+    "title": "Working Student - Reception / Office & Team Assistant (m/f/d)",
+    "description": "Working Pattern: Part-time, 20 hours per week, onsiteAbout InterpathInterpath is an international and fast-growing advisory business with deep expertise across Deals, Advisory and Restructuring.We deliver tangible results for global businesses, their investors and stakeholders when complex challenges arise and critical",
+    "link": "https://www.arbeitnow.com/jobs/companies/interpath-advisory/working-student-reception-office-team-assistant-frankfurt-am-main-340273",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "outlook"
+    ],
+    "posted_at": "4h ago",
+    "posted_ts": 1795663215000,
+    "budget": "Not specified",
+    "client_country": "Frankfurt am Main, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-data-scientist-stuttgart-285730",
+    "title": "Data Scientist",
+    "description": "&lt;p&gt;Global Dimensions is currently seeking a &lt;strong&gt;Data Scientist&lt;/strong&gt; for a position in &lt;strong&gt;Stuttgart, Germany&lt;/strong&gt;, to support mission-critical data analysis and intelligence requirements.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Essential Job Functions:&lt;/strong&gt;&lt;/p&gt; &lt",
+    "link": "https://www.arbeitnow.com/jobs/companies/globaldimensionsllc/data-scientist-stuttgart-285730",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1795654540000,
+    "budget": "Not specified",
+    "client_country": "Stuttgart",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-content-creation-visual-storytelling-german-required-munich-228160",
+    "title": "Working Student (m/f/d) Content Creation & Visual Storytelling | German Required",
+    "description": "Your MissionA €400 billion market. A profitable scale-up disrupting it. And you are the one who makes it visible – not with stock photos and templates, but with content people stop scrolling for.We’re looking for a Working Student (m/f/d) Content Creation &amp; Visual Storytelling at our headquarters in Munich. You’ll ",
+    "link": "https://www.arbeitnow.com/jobs/companies/yoummday/working-student-content-creation-visual-storytelling-german-required-munich-228160",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1795653612000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-intern-brand-communication-german-required-munich-442002",
+    "title": "Intern (m/f/d) Brand & Communication | German Required",
+    "description": "Your MissionYou want brands to be seen, understood and remembered – and you want to work with people who bring the same energy?As an Intern (m/f/d) Brand &amp; Communication at our Munich headquarters, you work directly with our Brand Strategist to make sure the yoummday brand reaches the right people, online and offli",
+    "link": "https://www.arbeitnow.com/jobs/companies/yoummday/intern-brand-communication-german-required-munich-442002",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "canva"
+    ],
+    "posted_at": "7h ago",
+    "posted_ts": 1795653612000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-stage-consultante-relations-presse-paris-paris-151730",
     "title": "Stage - Consultant(e) relations presse",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Who we are:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Burson, part of WPP, is the global communications leader built to create value for clients through reputation. With highly specialized teams, industry-leading technologies and breakthrough creative, we help",
@@ -14111,6 +14427,27 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "wwr-karat-software-engineer-interviewer",
+    "title": "Karat: Software Engineer Interviewer",
+    "description": "&lt;img src=\"https://we-work-remotely.imgix.net/logos/0171/6715/logo.gif?ixlib=rails-4.0.0&amp;w=50&amp;h=50&amp;dpr=2&amp;fit=fill&amp;auto=compress\" /&gt; &lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; Seattle &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"https://karat.com/\"&gt;https://karat.com/&lt",
+    "link": "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "19d ago",
+    "posted_ts": 1793989672000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-designer-freelance-berlin-98277",
     "title": "Designer (Freelance, m/f/d)",
     "description": "Your mission About L1VE L1VE is a growing media and technology company with offices in Berlin and New York. With immersive 14K/3D/360° streaming technology and innovative live formats, we are changing the way people experience sports, music and entertainment. Your Role As Designer, you shape how L1VE looks and how peop",
@@ -14570,6 +14907,29 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "London",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "wwr-golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
+    "title": "Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)",
+    "description": "&lt;p&gt; &lt;strong&gt;Headquarters:&lt;/strong&gt; 8945 Cal Center Dr, Sacramento, CA 95826, USA &lt;br /&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href=\"http://golden1.com\"&gt;http://golden1.com&lt;/a&gt; &lt;/p&gt; &lt;div&gt;JOB TITLE: Web Applications Programmer II Department: IT – Digital Platform Delivery&amp;",
+    "link": "https://weworkremotely.com/remote-jobs/golden-1-credit-union-web-applications-programmer-ii-sitecore-development-required",
+    "source": "WeWorkRemotely",
+    "matched_skills": [
+      "javascript",
+      "sql",
+      "c",
+      "sql server"
+    ],
+    "posted_at": "20d ago",
+    "posted_ts": 1793913878000,
+    "budget": "Not specified",
+    "client_country": "Remote",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
