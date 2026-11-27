@@ -1,5 +1,158 @@
 [
   {
+    "id": "arbeitnow-data-scientist-behavioral-finance-fund-investments-zurich-481242",
+    "title": "Data Scientist / Behavioral Finance / Fund Investments",
+    "description": "coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of success",
+    "link": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/data-scientist-behavioral-finance-fund-investments-zurich-481242",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1795764663000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-software-engineer-global-memberships-platform-london-242729",
+    "title": "Software Engineer - Global Memberships Platform",
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Our Global Structure&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;br&gt;Deliveroo is now part of DoorDash, bringing together teams with even greater reach, scale, and ambition. Depending on your role, you may collaborate with teammates, systems, and leaders acr",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/software-engineer-global-memberships-platform-london-242729",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "postgresql",
+      "redis"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1795751719000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-video-editor-at-aios-remote-1500-2000-month-contract-blackburn-354752",
+    "title": "Video Editor at AIOS — Remote, $1,500-$2,000/month (contract)",
+    "description": "About AIOSAIOS is building the world’s first full-stack AI doctor.We’re at $450M ARR, growing from $7M/yr in April 2025. We’re faithfully serving 200k/mo patients via Bolt Pharmacy, our main UK brand. We’ve just launched Bolt Med, our international brand. We’re profitable.Our strategy exists at the intersection of two ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/aios-yc-w20s21/video-editor-at-aios-remote-1500-2000-month-contract-blackburn-354752",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "slack"
+    ],
+    "posted_at": "6h ago",
+    "posted_ts": 1795750986000,
+    "budget": "Not specified",
+    "client_country": "Remote (UK hours)",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
+    "title": "Cloud DevSecOps Engineer – Software Supply Chain Security (m/w/d)",
+    "description": "Bei virtual7 verbinden wir unsere technologische Expertise mit einem tiefen Verständnis für die Bedürfnisse unserer Kunden. Durch maßgeschneiderte Lösungen schaffen wir einen echten Mehrwert für unsere Rahmenvertragspartner in der öffentlichen Verwaltung. Aktuell suchen wir für einen unserer Kunden eine:n Cloud DevSecO",
+    "link": "https://www.arbeitnow.com/jobs/companies/virtual7-gmbh/remote-cloud-devsecops-engineer-software-supply-chain-security-bonn-331082",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "linux",
+      "ci/cd"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1795739496000,
+    "budget": "Not specified",
+    "client_country": "Homeoffice",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Homeoffice",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-systems-and-digital-solutions-intern-geneva-98201",
+    "title": "Systems and Digital Solutions Intern",
+    "description": "Title:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Systems and Digital Solutions InternType of contract:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp",
+    "link": "https://www.arbeitnow.ch/jobs/companies/global-survivors-fund/remote-systems-and-digital-solutions-intern-geneva-98201",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "c",
+      "sharepoint"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1795739496000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-flight-log-analysis-software-munich-380432",
+    "title": "Working Student - Flight Log Analysis Software (m/f/d)",
+    "description": "The PACE is fast. The expectations are high. The contribution matters. Working at TYTAN is more than a job, this is a mission. We push boundaries, think big, and hold ourselves to the highest standard. Our mission and values guide everything we do, and we're looking for people who are driven by ownership, embrace chall",
+    "link": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/working-student-flight-log-analysis-software-munich-380432",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "react",
+      "fastapi",
+      "git"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1795739495000,
+    "budget": "Not specified",
+    "client_country": "Munich, Bayern, Germany",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich, Bayern, Germany",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-cloud-and-platform-engineer-zurich-534",
+    "title": "Cloud and Platform Engineer",
+    "description": "For a renowned Swiss bank in Zurich, we are looking for an experienced cloud and platform engineer. You will provision and run platform services as code, depending on the team, with a focus on Entra ID automation, a data platform on Azure or a Kafka platform on Kubernetes.Your tasksProvision platform services with infr",
+    "link": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/cloud-and-platform-engineer-zurich-534",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "docker",
+      "git",
+      "ci/cd"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1795739493000,
+    "budget": "Not specified",
+    "client_country": "Zurich, Zürich, Switzerland",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zurich, Zürich, Switzerland",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-enterprise-account-executive-london-247195",
     "title": "Enterprise Account Executive",
     "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Anaplan, we are a team of innovators focused on optimizing business decision-making through our leading AI-infused scenario planning and analysis platform so our customers can outpace their competition and the market.&lt;/p&gt; &lt;p&gt;What unites Anaplanners acro",
@@ -361,6 +514,94 @@
     "link_status": "DIRECT"
   },
   {
+    "id": "rok-1138176",
+    "title": "Android Developer",
+    "description": "Help Us Build The Future of Travel At Airalo, we're making it easier for people to stay connected wherever they travel. As the world's first eSIM store, we help millions of travelers access affordable mobile data in 200+ countries and regions around the world. Today, we're a team of 400+ people across 60+ countries, bu",
+    "link": "https://remoteOK.com/remote-jobs/remote-android-developer-airalo-1138176",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "notion",
+      "data structures",
+      "algorithms"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795682414000,
+    "budget": "$74800 - $112200 / yr",
+    "client_country": "UK Only",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "UK Only",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1138170",
+    "title": "Developer Advocate - Network APIs",
+    "description": "All Together, Extraordinary adunaglobal.com Aduna is the Connector of networks, bringing together leading telecom operators and technology partners to simplify global access to Network APIs. Through a single, unified platform, we enable businesses and developers to build more secure, seamless and innovative digital ser",
+    "link": "https://remoteOK.com/remote-jobs/remote-developer-advocate-network-apis-aduna-1138170",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "python",
+      "javascript",
+      "typescript",
+      "rest apis",
+      "aws"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795675233000,
+    "budget": "Not specified",
+    "client_country": "US Only",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1138163",
+    "title": "Brazilian Subject Matter Expert in Fandoms (Music, Pop, Disney & Political Memes)",
+    "description": "About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics",
+    "link": "https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-fandoms-music-pop-disney-political-memes-welo-data-1138163",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "nlp",
+      "llm"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795666810000,
+    "budget": "Not specified",
+    "client_country": "US Only",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1138162",
+    "title": "Brazilian Subject Matter Expert in Games, Puzzles & Play",
+    "description": "About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics",
+    "link": "https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-games-puzzles-play-welo-data-1138162",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "nlp",
+      "llm"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795665612000,
+    "budget": "Not specified",
+    "client_country": "US Only",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-strategic-account-executive-dach-berlin-245893",
     "title": "Strategic Account Executive DACH",
     "description": "The AI orchestration of your wildest imagination.n8n is the open workflow orchestration platform built for the new era of AI. We give technical teams the freedom of code with the speed of no-code, so they can automate faster, smarter, and without limits. Backed by a fiercely inventive community and 500+ builder-approve",
@@ -443,6 +684,27 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Berlin",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "rok-1138161",
+    "title": "Brazilian Subject Matter Expert in Home & Garden",
+    "description": "About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics",
+    "link": "https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-home-garden-welo-data-1138161",
+    "source": "RemoteOK",
+    "matched_skills": [
+      "nlp",
+      "llm"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795664409000,
+    "budget": "Not specified",
+    "client_country": "US Only",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
@@ -919,6 +1181,26 @@
     "is_freelance": true,
     "region_locked": true,
     "region_note": "Houten",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "remotive-2091212",
+    "title": "Produktspezialist:in (German-speaking)",
+    "description": "You know SaaS. You like helping people get it right. And you'd rather have a real conversation than a hard sell. Do you speak German natively and want to help organisations get the most from a world-class SaaS platform? Then this might be the role you're looking for. Join a lean-by-design, globally recognised B2B SaaS ",
+    "link": "https://remotive.com/remote-jobs/customer-service/produktspezialist-in-german-speaking-2091212",
+    "source": "Remotive",
+    "matched_skills": [
+      "javascript"
+    ],
+    "posted_at": "1d ago",
+    "posted_ts": 1795605995000,
+    "budget": "Not specified",
+    "client_country": "Europe, EMEA, Germany, European timezones",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
     "link_validated": true,
     "link_status": "DIRECT"
   },
