@@ -1,5 +1,133 @@
 [
   {
+    "id": "arbeitnow-data-scientist-berlin-334553",
+    "title": "Data Scientist",
+    "description": "Our bar is high, and this is the best place for ambitious builders.Bootstrapped and profitable from day one, Almedia is Germany’s fastest-growing company (FT1000). Join us as we build the global leader in rewards, at a $1bn+ revenue run rate and climbing fast.Data ScientistBerlin, On-site You'll join a small team of pe",
+    "link": "https://www.arbeitnow.com/jobs/companies/almedia/data-scientist-berlin-334553",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1795880413000,
+    "budget": "Not specified",
+    "client_country": "Berlin",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-product-engineer-all-genders-munich-92316",
+    "title": "Product Engineer (all genders)",
+    "description": "You’re not just writing code; you’re building the foundation of Lio’s enterprise AI platform. Your work will power our SaaS and Agent products, making them scalable, reliable, and impactful for global customers. You’ll help translate real-world customer needs into robust technical solutions that drive measurable value.",
+    "link": "https://www.arbeitnow.com/jobs/companies/lio/product-engineer-all-genders-munich-92316",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "typescript",
+      "system design"
+    ],
+    "posted_at": "2h ago",
+    "posted_ts": 1795880411000,
+    "budget": "Not specified",
+    "client_country": "Munich Office",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-working-student-office-coordination-munich-484991",
+    "title": "Working Student Office Coordination (m/f/d)",
+    "description": "About the Role at RobCoRobCo is building the category of Autonomous Industrial Robotics and we're doing it fast. We believe that automating the ordinary frees humans to do the extraordinary, and we're building the end-to-end robotics infrastructure to make that possible - hardware, software, and AI in one stack that ju",
+    "link": "https://www.arbeitnow.com/jobs/companies/robco/working-student-office-coordination-munich-484991",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "notion"
+    ],
+    "posted_at": "5h ago",
+    "posted_ts": 1795869613000,
+    "budget": "Not specified",
+    "client_country": "Munich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Munich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-founding-software-engineer-london-399959",
+    "title": "Founding Software Engineer",
+    "description": "Odin is building the investment infrastructure for the future of private markets.We believe capital is one of the most powerful tools for shaping the world - and more people should know how to put it to work. Our mission is to make it radically easier to raise and deploy capital, so that anyone, anywhere, can back the ",
+    "link": "https://www.arbeitnow.co.uk/jobs/companies/odin/founding-software-engineer-london-399959",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "llm"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1795858816000,
+    "budget": "Not specified",
+    "client_country": "London",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-remote-software-engineer-clinical-ai-devices-paris-414322",
+    "title": "Software Engineer, Clinical AI Devices",
+    "description": "Job SummaryIn the Clinical AI Devices team, the Software Engineer is primarily responsible for building and maintaining software in the Clinical AI domain, from wrapping deep learning models into containerized medical devices, to integration with other systems. This work spans all of the company's medical devices, acro",
+    "link": "https://www.arbeitnow.fr/jobs/companies/deephealth/remote-software-engineer-clinical-ai-devices-paris-414322",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "microservices",
+      "docker",
+      "aws",
+      "ci/cd",
+      "algorithms"
+    ],
+    "posted_at": "8h ago",
+    "posted_ts": 1795858304000,
+    "budget": "Not specified",
+    "client_country": "Remote job",
+    "status": "Discovered",
+    "is_freelance": false,
+    "region_locked": false,
+    "region_note": "",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
+    "id": "arbeitnow-financial-mathematician-behavioral-finance-fund-operations-zurich-202078",
+    "title": "Financial Mathematician Behavioral Finance / Fund Operations",
+    "description": "cconi + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of succes",
+    "link": "https://www.arbeitnow.ch/jobs/companies/conipartner-ag/financial-mathematician-behavioral-finance-fund-operations-zurich-202078",
+    "source": "Arbeitnow",
+    "matched_skills": [
+      "python",
+      "sql"
+    ],
+    "posted_at": "9h ago",
+    "posted_ts": 1795856452000,
+    "budget": "Not specified",
+    "client_country": "Zürich",
+    "status": "Discovered",
+    "is_freelance": true,
+    "region_locked": true,
+    "region_note": "Zürich",
+    "link_validated": true,
+    "link_status": "DIRECT"
+  },
+  {
     "id": "arbeitnow-quantitative-analyst-behavioral-finance-fund-investments-zurich-391974",
     "title": "Quantitative Analyst Behavioral Finance / Fund Investments",
     "description": "coni + partner, established 1993, is a consultancy company with headquarters in Zurich and subsidiaries in Düsseldorf and Shanghai. We are specialised in custom-fit staffing in tune with the corporate culture by ensuring a perfect match of professional skills, references and personal as well as social skills of success",
